@@ -45,3 +45,4 @@ for folder_name in os.listdir(ENCODER):
     os.system(f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_30000.pt -src {test_file}'
               f'-output prediction/{source}-{target}-pred.txt -gpu 0 -verbose')
 
+os.system(f'zip -r {ENCODER}-pred.zip {ENCODER}')
