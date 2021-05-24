@@ -1,6 +1,6 @@
 # Where to save the checkpoints
 gpu_ranks: [0]
-save_checkpoint_steps: 1500
+save_checkpoint_steps: 5000
 copy_attn: true
 global_attention: mlp
 word_vec_size: 300
