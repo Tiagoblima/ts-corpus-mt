@@ -3,6 +3,7 @@ from nltk.tokenize import word_tokenize
 
 import nltk
 
+nltk.download('punkt')
 ENCODER = "brnn"
 
 model_config = open('model.config.yaml').read()

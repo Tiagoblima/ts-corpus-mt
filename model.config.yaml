@@ -1,5 +1,5 @@
 # Where to save the checkpoints
-
+gpu_ranks: [0]
 save_checkpoint_steps: 15000
 copy_attn: true
 global_attention: mlp
