@@ -4,7 +4,7 @@ save_checkpoint_steps: 10000
 copy_attn: true
 global_attention: mlp
 word_vec_size: 300
-rnn_size: 512
+rnn_size: 256
 layers: 1
 train_steps: 30000
 max_grad_norm: 2
