@@ -71,6 +71,9 @@ for folder_name in os.listdir('datasets/'):
     results_file.write('{},{:.2f}\n'.format(folder_name, BLEUscore))
 
 results_file.close()
+
+os.system(f'zip -r {ENCODER}-pred.zip {ENCODER}')
+breakpoint()
 for folder_name in os.listdir(ENCODER):
     config_file = os.path.join(ENCODER, 'config_files', ENCODER + '.' + folder_name + '.yaml')
 
