@@ -70,7 +70,7 @@ for folder_name in os.listdir('datasets/'):
     BLEUscore = nltk.translate.bleu_score.corpus_bleu([refs], hypothesis)
     results_file.write('{},{:.2f}\n'.format(folder_name, BLEUscore))
 
-breakpoint()
+results_file.close()
 for folder_name in os.listdir(ENCODER):
     config_file = os.path.join(ENCODER, 'config_files', ENCODER + '.' + folder_name + '.yaml')
 
