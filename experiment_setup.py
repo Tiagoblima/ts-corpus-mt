@@ -67,7 +67,7 @@ for folder_name in os.listdir('datasets/'):
         pass
 
     config_path = create_config_file(folder_name)
-    breakpoint()
+
     os.system(f'onmt_build_vocab -config {config_path} -n_sample 10000')
     os.system(f'onmt_train -config {config_path}')
     test_file = f"datasets/{folder_name}/test.{source}"
