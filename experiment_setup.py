@@ -2,7 +2,6 @@ import os
 from nltk.tokenize import word_tokenize
 
 import nltk
-
 nltk.download('punkt')
 ENCODER = "brnn"
 
@@ -17,23 +16,22 @@ def create_config_file(folder_name_):
     target_ = folder_name.split('-')[1]
     config_file_path = os.path.join(ENCODER, 'config_files', f'{ENCODER}.{folder_name_}.yaml')
     file = open(config_file_path, 'w')
-    path_to_save = f"save_data: ../../datasets/{folder_name_}/samples\n"
+    path_to_save = f"save_data: datasets/{folder_name_}/samples\n"
     file.write(path_to_save)
-    source_path = f"src_vocab: ../../datasets/{folder_name_}/vocab/portuguese.vocab\n"
+    source_path = f"src_vocab: datasets/{folder_name_}/vocab/portuguese.vocab\n"
     file.write(source_path)
-    tgt_path = f"tgt_vocab: ../../datasets/{folder_name_}/vocab/portuguese.vocab\n"
+    tgt_path = f"tgt_vocab: datasets/{folder_name_}/vocab/portuguese.vocab\n"
     file.write(tgt_path)
-    options = "overwrite: False\n \
-             share_vocab: True\n"
+    options = "overwrite: False\nshare_vocab: True\n"
     file.write(options)
 
     data_str = "data:\n" \
-               "\tcorpus_1:\n" \
-               f"\t\tpath_src: ../../datasets/{folder_name_}/train.{source_}\n" \
-               f"\t\tpath_tgt: ../../datasets/{folder_name_}/train.{target_}\n" \
-               "\tvalid:\n" \
-               f"\t\tpath_src: ../../datasets/{folder_name_}/val.{source_}\n" \
-               f"\t\tpath_tgt: ../../datasets/{folder_name_}/val.{target_}\n"
+               " corpus_1:\n" \
+               f"   path_src: datasets/{folder_name_}/train.{source_}\n" \
+               f"   path_tgt: datasets/{folder_name_}/train.{target_}\n" \
+               " valid:\n" \
+               f"   path_src: datasets/{folder_name_}/val.{source_}\n" \
+               f"   path_tgt: datasets/{folder_name_}/val.{target_}\n"
     file.write(data_str)
     model_path = f"save_model: {ENCODER}/run/{folder_name_}/model\n"
     file.write(model_path)
@@ -72,18 +70,6 @@ for folder_name in os.listdir('datasets/'):
     results_file.write('{},{:.2f}\n'.format(folder_name, BLEUscore))
 
 results_file.close()
-
 os.system(f'zip -r {ENCODER}-pred.zip {ENCODER}')
-breakpoint()
-for folder_name in os.listdir(ENCODER):
-    config_file = os.path.join(ENCODER, 'config_files', ENCODER + '.' + folder_name + '.yaml')
 
-    os.system(f'onmt_build_vocab -config {config_file} -n_sample 10000')
-    os.system(f'onmt_train -config {config_file}')
-    source = folder_name.split('-')[0]
-    target = folder_name.split('-')[1]
-    test_file = f"datasets/{folder_name}/test.{source}"
-    os.system(f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_30000.pt -src {test_file}'
-              f'-output prediction/{source}-{target}-pred.txt -gpu 0 -verbose')
 
-os.system(f'zip -r {ENCODER}-pred.zip {ENCODER}')
