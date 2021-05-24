@@ -1,10 +1,11 @@
 # Where to save the checkpoints
+
+word_vec_size: 300
+rnn_size: 300
 gpu_ranks: [0]
 save_checkpoint_steps: 10000
 copy_attn: true
 global_attention: mlp
-word_vec_size: 300
-rnn_size: 256
 layers: 1
 train_steps: 30000
 max_grad_norm: 2
@@ -19,4 +20,6 @@ copy_loss_by_seqlength: true
 bridge: true
 seed: 777
 world_size: 1
+
+
 

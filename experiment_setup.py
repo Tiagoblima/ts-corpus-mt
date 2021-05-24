@@ -2,16 +2,17 @@ import os
 from nltk.tokenize import word_tokenize
 
 import nltk
-nltk.download('punkt')
-ENCODER = "brnn"
 
-model_config = open('model.config.yaml').read()
+nltk.download('punkt')
+ENCODER = "transformer"
+
 # open('results.txt', 'w')
 results_file = open('results.txt', 'a')
 results_file.write('dataset,BLEU SCORE')
 
 
 def create_config_file(folder_name_):
+    model_config = open('model.config.yaml').read()
     source_ = folder_name.split('-')[0]
     target_ = folder_name.split('-')[1]
     config_file_path = os.path.join(ENCODER, 'config_files', f'{ENCODER}.{folder_name_}.yaml')
@@ -35,8 +36,20 @@ def create_config_file(folder_name_):
     file.write(data_str)
     model_path = f"save_model: {ENCODER}/run/{folder_name_}/model\n"
     file.write(model_path)
-    encoder = f"encoder_type: {ENCODER}\n"
-    file.write(encoder)
+
+    if ENCODER == 'transformer':
+        model_config += "\n\nencoder_type: transformer\
+        \ndecoder_type: transformer \
+        \nenc_layers: 6 \
+        \ndec_layers: 6\
+        \nheads: 8\
+        \ntransformer_ff: 2048\
+        \ndropout_steps: [0]\
+        \nattention_dropout: [0.1]\
+        \nshare_decoder_embeddings: true\
+        \nshare_embeddings: true"
+    else:
+        model_config += "\n\nencoder_type: brnn"
     file.write(model_config)
     file.close()
     return config_file_path
@@ -54,12 +67,12 @@ for folder_name in os.listdir('datasets/'):
         pass
 
     config_path = create_config_file(folder_name)
+    breakpoint()
     os.system(f'onmt_build_vocab -config {config_path} -n_sample 10000')
     os.system(f'onmt_train -config {config_path}')
     test_file = f"datasets/{folder_name}/test.{source}"
     os.system(f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_30000.pt -src {test_file}'
               f'-output {ENCODER}/prediction/{source}-{target}-pred.txt -gpu 0 -verbose')
-
 
     refs = open(f'datasets/{folder_name}/test.{target}').readlines()
     refs = list(map(lambda sent: [word_tokenize(sent)], refs))
@@ -71,5 +84,3 @@ for folder_name in os.listdir('datasets/'):
 
 results_file.close()
 os.system(f'zip -r {ENCODER}-pred.zip {ENCODER}')
-
-
