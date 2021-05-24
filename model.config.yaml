@@ -9,8 +9,8 @@ layers: 1
 train_steps: 3000
 max_grad_norm: 2
 dropout: 0.5
-batch_size: 128
-valid_batch_size: 128
+batch_size: 64
+valid_batch_size: 64
 optim: adam
 learning_rate: 0.0005
 adagrad_accumulator_init: 0.1
