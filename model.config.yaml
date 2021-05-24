@@ -1,7 +1,7 @@
 # Where to save the checkpoints
 
-word_vec_size: 300
-rnn_size: 300
+word_vec_size: 512
+rnn_size: 512
 gpu_ranks: [0]
 save_checkpoint_steps: 10000
 copy_attn: true
