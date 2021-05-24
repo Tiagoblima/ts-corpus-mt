@@ -1,0 +1,21 @@
+# Where to save the checkpoints
+
+save_checkpoint_steps: 15000
+copy_attn: true
+global_attention: mlp
+word_vec_size: 300
+rnn_size: 512
+layers: 1
+train_steps: 30000
+max_grad_norm: 2
+dropout: 0.5
+batch_size: 32
+valid_batch_size: 32
+optim: adam
+learning_rate: 0.0005
+adagrad_accumulator_init: 0.1
+reuse_copy_attn: true
+copy_loss_by_seqlength: true
+bridge: true
+seed: 777
+world_size: 1
