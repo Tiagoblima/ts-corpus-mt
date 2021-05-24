@@ -1,5 +1,5 @@
 # Where to save the checkpoints
-gpu_ranks: [0]
+#gpu_ranks: [0]
 save_checkpoint_steps: 15000
 copy_attn: true
 global_attention: mlp
@@ -9,8 +9,8 @@ layers: 1
 train_steps: 30000
 max_grad_norm: 2
 dropout: 0.5
-batch_size: 4
-valid_batch_size: 4
+batch_size: 32
+valid_batch_size: 32
 optim: adam
 learning_rate: 0.0005
 adagrad_accumulator_init: 0.1
