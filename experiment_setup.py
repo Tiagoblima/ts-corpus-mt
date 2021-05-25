@@ -12,7 +12,7 @@ results_file.write('dataset,BLEU SCORE')
 
 
 def create_config_file(folder_name_):
-    model_config = open('model.config.yaml').read()
+    model_config = open(f'{ENCODER}.config.yaml').read()
     source_ = folder_name.split('-')[0]
     target_ = folder_name.split('-')[1]
     config_file_path = os.path.join(ENCODER, 'config_files', f'{ENCODER}.{folder_name_}.yaml')
@@ -36,23 +36,6 @@ def create_config_file(folder_name_):
     file.write(data_str)
     model_path = f"save_model: {ENCODER}/run/{folder_name_}/model\n"
     file.write(model_path)
-
-    if ENCODER == 'transformer':
-        model_config += "\n\nencoder_type: transformer\
-        \ndecoder_type: transformer \
-        \nenc_layers: 6 \
-        \ndec_layers: 6\
-        \nheads: 8\
-        \ntransformer_ff: 2048\
-        \ndropout_steps: [0]\
-        \nattention_dropout: [0.1]\
-        \nshare_decoder_embeddings: true\
-        \nshare_embeddings: true \
-        \nword_vec_size: 512\
-        \nrnn_size: 512"
-    else:
-        model_config += "\nencoder_type: brnn\nbatch_size: 2\nbatch_size: 2\nvalid_batch_size: 2\nvalid_batch_size: " \
-                        "2\noptim: adam\nword_vec_size: 300\nrnn_size: 300"
 
     file.write(model_config)
     file.close()

@@ -1,0 +1,33 @@
+# Where to save the checkpoints
+encoder_type: transformer
+decoder_type: transformer
+enc_layers: 6
+dec_layers: 6
+heads: 6
+transformer_ff: 2048
+dropout_steps: [0]
+attention_dropout: [0.1]
+share_decoder_embeddings: true
+share_embeddings: true
+word_vec_size: 300
+rnn_size: 300
+
+
+#gpu_ranks: [0]
+save_checkpoint_steps: 1000
+copy_attn: true
+global_attention: mlp
+layers: 1
+train_steps: 1000
+max_grad_norm: 2
+dropout: 0.5
+batch_size: 64
+valid_batch_size: 64
+optim: adam
+learning_rate: 0.0005
+reuse_copy_attn: true
+copy_loss_by_seqlength: true
+bridge: true
+seed: 777
+world_size: 1
+
