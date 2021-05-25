@@ -5,7 +5,11 @@ share_embeddings: true
 word_vec_size: 300
 rnn_size: 300
 
+eval:
+  scorers: bleu
+  export_on_best: bleu
 
+max_length: 50
 copy_attn: true
 global_attention: mlp
 layers: 1

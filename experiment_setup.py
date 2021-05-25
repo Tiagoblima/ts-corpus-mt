@@ -14,7 +14,7 @@ ENCODER = args.model
 os.system('pip3 install openNMT-py')
 open('results.txt', 'w')
 results_file = open('results.txt', 'a')
-results_file.write('dataset,BLEU SCORE')
+results_file.write('dataset,BLEU SCORE\n')
 
 training_steps = 5000
 
@@ -56,7 +56,7 @@ def create_config_file(folder_name_):
     else:
         training_steps = 1000
         file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
-        file.write("\nbatch_size: 64\nvalid_batch_size: 64")
+        file.write("\nbatch_size: 32\nvalid_batch_size: 32")
     file.close()
     return config_file_path
 
