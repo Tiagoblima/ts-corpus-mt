@@ -40,7 +40,7 @@ def create_config_file(folder_name_):
     if ENCODER == 'transformer':
         model_config += "\n\nencoder_type: transformer \
         \nword_vec_size: 512 \
-        \nsize: 512 \
+        \nrnn_size: 512 \
         \ndecoder_type: transformer \
         \nenc_layers: 6 \
         \ndec_layers: 6 \
