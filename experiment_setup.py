@@ -51,7 +51,7 @@ def create_config_file(folder_name_):
         \nshare_decoder_embeddings: true\
         \nshare_embeddings: true \
         \nmodel_dtype: \"fp16\" \
-        \noptim: \"fusedadam\"\
+        \noptim: \"adam\"\
         \nlearning_rate: 2\
         \nwarmup_steps: 6000\
         \ndecay_method: \"noam\"\
