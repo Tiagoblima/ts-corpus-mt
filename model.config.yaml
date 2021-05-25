@@ -3,11 +3,11 @@
 
 
 #gpu_ranks: [0]
-save_checkpoint_steps: 10000
+save_checkpoint_steps: 5000
 copy_attn: true
 global_attention: mlp
 layers: 1
-train_steps: 30000
+train_steps: 5000
 max_grad_norm: 2
 dropout: 0.5
 batch_size: 2
