@@ -38,7 +38,7 @@ def create_config_file(folder_name_):
     file.write(model_path)
 
     file.write(model_config)
-    file.write(f"save_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
+    file.write(f"save_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}\n")
     if torch.cuda.is_available():
         file.write('\ngpu_ranks: [0]\n')
         file.write("batch_size: 16\nvalid_batch_size: 16")
