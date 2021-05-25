@@ -65,10 +65,9 @@ for folder_name in os.listdir('datasets/'):
     source = folder_name.split('-')[0]
     target = folder_name.split('-')[1]
     try:
-        os.makedirs(os.path.join(ENCODER, "config_files"))
-        os.makedirs(os.path.join(ENCODER, "prediction"))
         os.makedirs(os.path.join(ENCODER, "reports"))
-
+        os.makedirs(os.path.join(ENCODER, "prediction"))
+        os.makedirs(os.path.join(ENCODER, "config_files"))
     except OSError:
         pass
 
