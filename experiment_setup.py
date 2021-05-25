@@ -5,7 +5,7 @@ import nltk
 
 nltk.download('punkt')
 ENCODER = "transformer"
-
+os.system('pip3 install openNMT-py')
 # open('results.txt', 'w')
 results_file = open('results.txt', 'a')
 results_file.write('dataset,BLEU SCORE')
