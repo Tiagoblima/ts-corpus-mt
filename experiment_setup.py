@@ -2,9 +2,15 @@ import os
 from nltk.tokenize import word_tokenize
 import torch
 import nltk
+import argparse
+
+parser = argparse.ArgumentParser(description='Process some integers.')
+parser.add_argument('--model', metavar='N', type=str,
+                    help='an integer for the accumulator')
+args = parser.parse_args()
 
 nltk.download('punkt')
-ENCODER = "transformer"
+ENCODER = args.model
 os.system('pip3 install openNMT-py')
 # open('results.txt', 'w')
 results_file = open('results.txt', 'a')
