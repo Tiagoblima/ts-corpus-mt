@@ -14,6 +14,7 @@ training_steps = 5000
 
 
 def create_config_file(folder_name_):
+    global training_steps
     model_config = open(f'{ENCODER}.config.yaml').read()
     source_ = folder_name.split('-')[0]
     target_ = folder_name.split('-')[1]
@@ -42,7 +43,7 @@ def create_config_file(folder_name_):
     file.write(model_config)
 
     if torch.cuda.is_available():
-        training_steps = 5000
+
         file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
         file.write('\ngpu_ranks: [0]\n')
         file.write("batch_size: 16\nvalid_batch_size: 16")
