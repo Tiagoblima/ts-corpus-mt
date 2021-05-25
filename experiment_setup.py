@@ -38,47 +38,19 @@ def create_config_file(folder_name_):
     file.write(model_path)
 
     if ENCODER == 'transformer':
-        model_config += "\n\nencoder_type: transformer \
-        \nword_vec_size: 512 \
-        \nrnn_size: 512 \
+        model_config += "\n\nencoder_type: transformer\
         \ndecoder_type: transformer \
         \nenc_layers: 6 \
-        \ndec_layers: 6 \
-        \nheads: 8 \
-        \ntransformer_ff: 2048 \
-        \ndropout_steps: [0] \
+        \ndec_layers: 6\
+        \nheads: 8\
+        \ntransformer_ff: 2048\
+        \ndropout_steps: [0]\
         \nattention_dropout: [0.1]\
         \nshare_decoder_embeddings: true\
-        \nshare_embeddings: true \
-        \nmodel_dtype: \"fp16\" \
-        \noptim: \"adam\"\
-        \nlearning_rate: 2\
-        \nwarmup_steps: 6000\
-        \ndecay_method: \"noam\"\
-        \nadam_beta2: 0.998\
-        \nmax_grad_norm: 0\
-        \nlabel_smoothing: 0.1\
-        \nparam_init: 0\
-        \nparam_init_glorot: true\
-        \nnormalization: \"tokens\""
+        \nshare_embeddings: true"
     else:
         model_config += "\nencoder_type: brnn\nbatch_size: 2\nbatch_size: 2\nvalid_batch_size: 2\nvalid_batch_size: " \
-                        "2\noptim: adam\ncopy_attn: true \
-                                            \nword_vec_size: 512 \
-                                            \n rnn_size: 300 \
-                                            \nglobal_attention: mlp \
-                                            \nlayers: 1 \
-                                            \ntrain_steps: 30000 \
-                                            \nmax_grad_norm: 2 \
-                                            \ndropout: 0.5 \
-                                            \nlearning_rate: 0.0005 \
-                                            \nreuse_copy_attn: true \
-                                            \ncopy_loss_by_seqlength: true \
-                                            \nbridge: true \
-                                            \nseed: 777"
-
-
-
+                        "2\noptim: adam"
 
     file.write(model_config)
     file.close()
@@ -102,7 +74,8 @@ for folder_name in os.listdir('datasets/'):
     os.system(f'onmt_train -config {config_path}')
     test_file = f"datasets/{folder_name}/test.{source}"
     pred_file = f"{ENCODER}/prediction/{source}-{target}-pred.txt"
-    os.system(f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_30000.pt -src {test_file} -output {pred_file} -gpu 0 -verbose')
+    os.system(
+        f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_30000.pt -src {test_file} -output {pred_file} -gpu 0 -verbose')
 
     refs = open(f'datasets/{folder_name}/test.{target}').readlines()
     refs = list(map(lambda sent: [word_tokenize(sent)], refs))
