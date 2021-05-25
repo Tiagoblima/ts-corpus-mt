@@ -9,7 +9,9 @@ os.system('pip3 install openNMT-py')
 # open('results.txt', 'w')
 results_file = open('results.txt', 'a')
 results_file.write('dataset,BLEU SCORE')
+
 training_steps = 5000
+
 
 def create_config_file(folder_name_):
     model_config = open(f'{ENCODER}.config.yaml').read()
@@ -38,11 +40,15 @@ def create_config_file(folder_name_):
     file.write(model_path)
 
     file.write(model_config)
-    file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
+
     if torch.cuda.is_available():
+        training_steps = 5000
+        file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
         file.write('\ngpu_ranks: [0]\n')
         file.write("batch_size: 16\nvalid_batch_size: 16")
     else:
+        training_steps = 1000
+        file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
         file.write("\nbatch_size: 64\nvalid_batch_size: 64")
     file.close()
     return config_file_path
