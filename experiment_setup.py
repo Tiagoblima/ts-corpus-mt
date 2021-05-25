@@ -66,7 +66,7 @@ for folder_name in os.listdir('datasets/'):
     test_file = f"datasets/{folder_name}/test.{source}"
     pred_file = f"{ENCODER}/prediction/{source}-{target}-pred.txt"
     os.system(
-        f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_1000.pt -src {test_file} -output {pred_file} -gpu 0 -verbose')
+        f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_{training_steps}.pt -src {test_file} -output {pred_file} -gpu 0 -verbose')
 
     refs = open(f'datasets/{folder_name}/test.{target}').readlines()
     refs = list(map(lambda sent: [word_tokenize(sent)], refs))
