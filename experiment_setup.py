@@ -47,10 +47,12 @@ def create_config_file(folder_name_):
         \ndropout_steps: [0]\
         \nattention_dropout: [0.1]\
         \nshare_decoder_embeddings: true\
-        \nshare_embeddings: true"
+        \nshare_embeddings: true \
+        \nword_vec_size: 512\
+        \nrnn_size: 512"
     else:
         model_config += "\nencoder_type: brnn\nbatch_size: 2\nbatch_size: 2\nvalid_batch_size: 2\nvalid_batch_size: " \
-                        "2\noptim: adam"
+                        "2\noptim: adam\nword_vec_size: 300\nrnn_size: 300"
 
     file.write(model_config)
     file.close()

@@ -1,9 +1,23 @@
 # Where to save the checkpoints
 
 
+
 gpu_ranks: [0]
 save_checkpoint_steps: 10000
+copy_attn: true
+global_attention: mlp
+layers: 1
+train_steps: 30000
+max_grad_norm: 2
+dropout: 0.5
+batch_size: 2
+valid_batch_size: 2
+optim: adam
+learning_rate: 0.0005
+adagrad_accumulator_init: 0.1
+reuse_copy_attn: true
+copy_loss_by_seqlength: true
+bridge: true
+seed: 777
 world_size: 1
-
-
 
