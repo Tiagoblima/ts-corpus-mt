@@ -6,7 +6,7 @@ import argparse
 
 parser = argparse.ArgumentParser(description='Process some integers.')
 parser.add_argument('--model', metavar='N', type=str,
-                    help='an integer for the accumulator')
+                    help='an integer for the accumulator', required=True)
 args = parser.parse_args()
 
 nltk.download('punkt')
