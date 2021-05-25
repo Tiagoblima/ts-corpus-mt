@@ -6,16 +6,12 @@ word_vec_size: 300
 rnn_size: 300
 
 
-#gpu_ranks: [0]
-save_checkpoint_steps: 1000
 copy_attn: true
 global_attention: mlp
 layers: 1
-train_steps: 1000
 max_grad_norm: 2
 dropout: 0.5
-batch_size: 64
-valid_batch_size: 64
+
 optim: adam
 learning_rate: 0.0005
 reuse_copy_attn: true
