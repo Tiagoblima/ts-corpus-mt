@@ -64,6 +64,8 @@ def create_config_file(folder_name_):
     else:
         model_config += "\nencoder_type: brnn\nbatch_size: 2\nbatch_size: 2\nvalid_batch_size: 2\nvalid_batch_size: " \
                         "2\noptim: adam\ncopy_attn: true \
+                                            \nword_vec_size: 512 \
+                                            \n rnn_size: 300 \
                                             \nglobal_attention: mlp \
                                             \nlayers: 1 \
                                             \ntrain_steps: 30000 \
