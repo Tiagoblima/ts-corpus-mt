@@ -12,7 +12,7 @@ args = parser.parse_args()
 nltk.download('punkt')
 ENCODER = args.model
 os.system('pip3 install openNMT-py')
-# open('results.txt', 'w')
+open('results.txt', 'w')
 results_file = open('results.txt', 'a')
 results_file.write('dataset,BLEU SCORE')
 
@@ -78,16 +78,20 @@ for folder_name in os.listdir('datasets/'):
     os.system(f'onmt_train -config {config_path}')
     test_file = f"datasets/{folder_name}/test.{source}"
     pred_file = f"{ENCODER}/prediction/{source}-{target}-pred.txt"
-    os.system(
-        f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_{training_steps}.pt -src {test_file} -output {pred_file} -gpu 0 -verbose')
+    translate_cmd = f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_{training_steps}.pt -src {test_file} -output {pred_file} -verbose'
+    if torch.cuda.is_available() :
+        translate_cmd+=' -gpu 0'
+    os.system(translate_cmd)
 
-    refs = open(f'datasets/{folder_name}/test.{target}').readlines()
+    refs = open(f'datasets/{folder_name}/test.{target}', encoding="utf8").readlines()
     refs = list(map(lambda sent: [word_tokenize(sent)], refs))
-    inputs = open(f'datasets/{folder_name}/test.{source}').readlines()
-    hypothesis = open(f'{ENCODER}/prediction/{source}-{target}-pred.txt').readlines()
+    inputs = open(f'datasets/{folder_name}/test.{source}', encoding="utf8").readlines()
+    hypothesis = open(f'{ENCODER}/prediction/{source}-{target}-pred.txt', encoding='utf8').readlines()
     hypothesis = list(map(lambda hyp: word_tokenize(hyp), hypothesis))
-    BLEUscore = nltk.translate.bleu_score.corpus_bleu([refs], hypothesis)
+
+    BLEUscore = nltk.translate.bleu_score.corpus_bleu(refs, hypothesis)
     results_file.write('{},{:.2f}\n'.format(folder_name, BLEUscore))
+    print('{},{:.2f}\n'.format(folder_name, BLEUscore))
 
 results_file.close()
 os.system(f'zip -r {ENCODER}-pred.zip {ENCODER}')
