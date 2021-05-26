@@ -1,3636 +1,3636 @@
-E disse: Onde o pusestes? Disseram-lhe: Senhor, vem e vê.
-Disse, pois, o rei a Joabe, chefe do exército, o qual tinha consigo: Agora, rodeia por todas as tribos de Israel, desde Dã até Berseba, e numera o povo, para que eu saiba o número do povo.
-E, projetando ele isso, eis que, em sonho, lhe apareceu um anjo do Senhor, dizendo: José, filho de Davi, não temas receber a Maria, tua mulher, porque o que nela está gerado é do Espírito Santo.
-Sucedeu, porém, que, ao cabo de três anos, dois servos de Simei fugiram para Aquis, filho de Maaca, rei de Gate; e deram parte a Simei, dizendo: Eis que teus servos estão em Gate.
-E esta é a promessa que ele nos fez: a vida eterna.
-E tomará o seu punho cheio da flor de farinha da oferta e do seu azeite e todo o incenso que estiver sobre a oferta de manjares; então, o queimará sobre o altar; cheiro suave é isso, por ser memorial ao SENHOR.
-e disse-lhes: Qualquer que receber esta criança em meu nome recebe-me a mim; e qualquer que me recebe a mim recebe o que me enviou; porque aquele que entre vós todos for o menor, esse mesmo é grande.
-Como príncipe, lutou com o anjo e prevaleceu; chorou e lhe suplicou; em Betel o achou, e ali falou conosco;
-Se tomares em penhor a veste do teu próximo, lho restituirás antes do pôr do sol,
-Os grandes não são os sábios, nem os velhos entendem o que é reto.
-Então, Arão, o sacerdote, subiu ao monte Hor, conforme o mandado do SENHOR; e morreu ali, no quinto mês do ano quadragésimo da saída dos filhos de Israel da terra do Egito, no primeiro dia do mês.
-eu também andei com eles contrariamente e os fiz entrar na terra dos seus inimigos; se, então, o seu coração incircunciso se humilhar, e tomarem por bem o castigo da sua iniquidade,
-e degolarás o carneiro, e tomarás do seu sangue, e o porás sobre a ponta da orelha direita de Arão, e sobre a ponta da orelha direita de seus filhos, como também sobre o dedo polegar da sua mão direita, e sobre o dedo polegar do seu pé direito; e o resto do sangue espalharás sobre o altar ao redor.
-Repartem entre si as minhas vestes e lançam sortes sobre a minha túnica.
-E apareceu-lhe um anjo do céu, que o confortava.
-O carro em que estão os cavalos pretos sai para a terra do Norte, e os brancos saem atrás deles, e os grisalhos saem para a terra do Sul.
-Eu conheço Efraim, e Israel não se esconde de mim; porque, agora, te tens prostituído, ó Efraim, e se contaminou Israel.
-Portanto, lhes dirás esta palavra: Os meus olhos derramem lágrimas de noite e de dia e não cessem porque a virgem, filha do meu povo, está ferida de grande ferida, de chaga mui dolorosa.
-Então, Davi disse a Itai: Vem, pois, e passa adiante. Assim, passou Itai, o geteu, e todos os seus homens, e todas as crianças que havia com ele.
-E o seu termo foi para a banda do norte, desde o Jordão; e subia este termo ao lado de Jericó para o norte, e subia pela montanha para o ocidente, sendo as suas saídas no deserto de Bete-Áven.
-E antes dele não houve rei semelhante, que se convertesse ao SENHOR com todo o seu coração, e com toda a sua alma, e com todas as suas forças, conforme toda a Lei de Moisés; e, depois dele, nunca se levantou outro tal.
-E sete mulheres, naquele dia, lançarão mão de um homem, dizendo: Nós comeremos do nosso pão e nos vestiremos de nossas vestes; tão somente queremos que sejamos chamadas pelo teu nome; tira o nosso opróbrio.
-Cada um contribua segundo propôs no seu coração, não com tristeza ou por necessidade; porque Deus ama ao que dá com alegria.
-E acontecerá, naquele dia, que eu responderei, diz o SENHOR, eu responderei aos céus, e estes responderão à terra.
-E os filhos de Cuxe são: Sebá, e Havilá, e Sabtá, e Raamá, e Sabtecá; e os filhos de Raamá são: Sabá e Dedã.
-e cantarão os caminhos do SENHOR, pois grande é a glória do SENHOR.
-pregando o Reino de Deus e ensinando com toda a liberdade as coisas pertencentes ao Senhor Jesus Cristo, sem impedimento algum.
-que, quando for outra vez, o meu Deus me humilhe para convosco, e eu chore por muitos daqueles que dantes pecaram e não se arrependeram da imundícia, e prostituição, e desonestidade que cometeram.
-E eis que endurecerei o coração dos egípcios para que entrem nele atrás deles; e eu serei glorificado em Faraó, e em todo o seu exército, e nos seus carros, e nos cavaleiros,
-E, depois, teve uma filha e chamou o seu nome Diná.
-Ele disse: Creio, Senhor. E o adorou.
-Pelo que guardareis todos os meus estatutos e todos os meus juízos e os cumprireis. Eu sou o SENHOR.
-Há caminho que parece direito ao homem, mas o seu fim são os caminhos da morte.
-Assim diz o Senhor JEOVÁ: Pois que Edom se houve vingativamente para com a casa de Judá, e se fizeram culpadíssimos, quando se vingaram dela,
-porque Moisés levantou o tabernáculo, e pôs as suas bases, e armou as suas tábuas, e meteu nele os seus varais, e levantou as suas colunas;
-Que aproveitará a imagem de escultura, que esculpiu o seu artífice? E a imagem de fundição, que ensina a mentira, para que o artífice confie na obra, fazendo ídolos mudos?
-Será, pois, que, culpado sendo numa destas coisas, confessará aquilo em que pecou.
-Vós que temeis ao SENHOR, louvai-o; todos vós, descendência de Jacó, glorificai-o; e temei-o todos vós, descendência de Israel.
-E a terra produziu nos sete anos de fartura a mãos-cheias.
-Então, ele, pela terceira vez, lhes disse: Mas que mal fez este? Não acho nele culpa alguma de morte. Castigá-lo-ei, pois, e soltá-lo-ei.
-Então, lhe disseram seus irmãos: Tu, pois, deveras reinarás sobre nós? Tu deveras terás domínio sobre nós? Por isso, tanto mais o aborreciam por seus sonhos e por suas palavras.
-E porei dentro de vós o meu espírito e farei que andeis nos meus estatutos, e guardeis os meus juízos, e os observeis.
-E, ouvindo ele dizer de Tiraca, rei de Cuxe: Eis que há saído para te fazer guerra; tornou a enviar mensageiros a Ezequias, dizendo:
-E disse ele: Bendita sejas tu do SENHOR, minha filha; melhor fizeste esta tua última beneficência do que a primeira, pois após nenhuns jovens foste, quer pobres quer ricos.
-Que se lembrou da nossa humilhação; porque a sua benignidade é para sempre.
-Então, chamou a Moisés e a Arão de noite e disse: Levantai-vos, saí do meio do meu povo, tanto vós como os filhos de Israel; e ide, servi ao SENHOR, como tendes dito.
-E não se enterneça o vosso coração, nem temais pelo rumor que se ouvir na terra; porque virá, num ano, um rumor, e depois, noutro ano, outro rumor; e haverá violência na terra, dominador contra dominador.
-Porque toda a casa de meu pai não era senão de homens dignos de morte diante do rei meu senhor; e, contudo, puseste a teu servo entre os que comem à tua mesa; e que mais direito tenho eu de clamar ao rei?
-Inclina o teu ouvido, e ouve as palavras dos sábios, e aplica o teu coração à minha ciência.
-Porque o SENHOR dos Exércitos suscitará contra ele um flagelo, como a matança de Midiã junto à rocha de Orebe e como a sua vara sobre o mar, que contra ele se levantará, como sucedeu aos egípcios.
-E repartiu a todos em Israel, tanto a homens como a mulheres, a cada um um pão, e um bom pedaço de carne, e um frasco de vinho.
-e vós já tendes visto tudo quanto o SENHOR, vosso Deus, fez a todas estas nações por causa de vós, porque o SENHOR, vosso Deus, é o que pelejou por vós.
-E, no terceiro ano do seu reinado, enviou ele os seus príncipes, a Ben-Hail, e a Obadias, e a Zacarias, e a Natanael, e a Micaías, para ensinarem nas cidades de Judá.
-A lei do seu Deus está em seu coração; os seus passos não resvalarão.
-Assim diz o Senhor JEOVÁ: Também destruirei os ídolos e farei cessar as imagens de Nofe; e não haverá mais um príncipe da terra do Egito; e porei o temor na terra do Egito.
-Os lábios do justo apascentam muitos, mas os tolos, por falta de entendimento, morrem.
-Disse-lhe Jesus: Não me detenhas, porque ainda não subi para meu Pai, mas vai para meus irmãos e dize-lhes que eu subo para meu Pai e vosso Pai, meu Deus e vosso Deus.
-e seus irmãos, Semaías, Azarel, Milalai, Gilalai, Maai, Netanel, Judá e Hanani, com os instrumentos músicos de Davi, homem de Deus; e Esdras, o escriba, ia adiante deles.
-E, havendo dito isto, tomando o pão, deu graças a Deus na presença de todos e, partindo-o, começou a comer.
-Alexandre, o latoeiro, causou-me muitos males; o Senhor lhe pague segundo as suas obras.
-Agora, pois, ó rei, confirma o edito e assina a escritura, para que não seja mudada, conforme a lei dos medos e dos persas, que se não pode revogar.
-No ano vinte e sete de Jeroboão, rei de Israel, começou a reinar Azarias, filho de Amazias, rei de Judá.
-Toda a oferta será de vinte e cinco mil canas com mais vinte e cinco mil em quadrado; oferecereis a santa oferta, com a possessão da cidade.
-Mas eis que alguns restarão nela, que serão levados para fora, assim filhos como filhas; eis que eles virão a vós, e vereis o seu caminho e os seus feitos; e ficareis consolados do mal que eu trouxe sobre Jerusalém e de tudo o que trouxe sobre ela.
-e de haver comido todos os seus dias nas trevas, e de haver padecido muito enfado, e enfermidades, e cruel furor?
-Os teus olhos olharão para as mulheres estranhas, e o teu coração falará perversidades.
-E o olho não pode dizer à mão: Não tenho necessidade de ti; nem ainda a cabeça, aos pés: Não tenho necessidade de vós.
-dizendo: Ah! Que temos nós contigo, Jesus Nazareno? Vieste a destruir-nos? Bem sei quem és: o Santo de Deus.
-E também Salomão está assentado no trono do reino.
-Então, o sumo sacerdote rasgou as suas vestes, dizendo: Blasfemou; para que precisamos ainda de testemunhas? Eis que bem ouvistes, agora, a sua blasfêmia.
-Estas são as turmas dos porteiros dentre os filhos dos coraítas e dentre os filhos de Merari.
-E as suas bordas, de quatro dedos de comprimento, estavam fixadas por dentro em redor; e sobre as mesas estava a carne da oferta.
-Como o orvalho do Hermom, que desce sobre os montes de Sião; porque ali o SENHOR ordena a bênção e a vida para sempre.
-(Ainda Jesus não tinha chegado à aldeia, mas estava no lugar onde Marta o encontrara.)
-Se alguém vem ter convosco e não traz esta doutrina, não o recebais em casa, nem tampouco o saudeis.
-Então, entrou o rei Davi, e ficou perante o SENHOR, e disse: Quem sou eu, Senhor JEOVÁ, e qual é a minha casa, que me trouxeste até aqui?
-E apalparás ao meio-dia, como o cego apalpa na escuridade, e não prosperarás nos teus caminhos; porém somente serás oprimido e roubado todos os dias; e não haverá quem te salve.
-E, do meio dela, saía a semelhança de quatro animais; e esta era a sua aparência: tinham a semelhança de um homem.
-E disse o Espírito a Filipe: Chega-te e ajunta-te a esse carro.
-Também tírios habitavam dentro e traziam peixe e toda mercadoria, que no sábado vendiam aos filhos de Judá e em Jerusalém.
-a todos os que são chamados pelo meu nome, e os que criei para minha glória; eu os formei, sim, eu os fiz.
-Abundância de mantimento há na lavoura do pobre, mas alguns há que se consomem por falta de juízo.
-Testemunha disto é que já me fizeste enrugado, e a minha magreza já se levanta contra mim e no meu rosto testifica contra mim.
-Guardarão, pois, o meu mandamento, para que por isso não levem pecado e morram nele, havendo-o profanado. Eu sou o SENHOR que os santifico.
-Quatro mesas de uma, e quatro mesas da outra banda; aos lados da porta, oito mesas, sobre as quais imolavam.
-Os judeus, pois, para que no sábado não ficassem os corpos na cruz, visto como era a preparação (pois era grande o dia de sábado), rogaram a Pilatos que se lhes quebrassem as pernas, e fossem tirados.
-E os filhos de Israel e de Judá que habitavam nas cidades de Judá também trouxeram dízimos das vacas e das ovelhas e dízimos das coisas sagradas que foram consagradas ao SENHOR, seu Deus; e fizeram muitos montões.
-O Senhor enviou uma palavra a Jacó, e ela caiu em Israel.
-Respondeu-lhes Jesus: Credes, agora?
-E quarenta anos vos fiz andar pelo deserto; não se envelheceram sobre vós as vossas vestes, nem se envelheceu no teu pé o teu sapato.
-E não somente isto, mas também nos gloriamos nas tribulações, sabendo que a tribulação produz a paciência;
-E disse-lhe mais o SENHOR: Mete agora a mão no peito. E, tirando-a, eis que sua mão estava leprosa, branca como a neve.
-e cinamomo, e cardamomo, e perfume, e mirra, e incenso, e vinho, e azeite, e flor de farinha, e trigo, e cavalgaduras, e ovelhas; e mercadorias de cavalos, e de carros, e de corpos e de almas de homens.
-Porque, como imaginou na sua alma, assim é; ele te dirá: Come e bebe; mas o seu coração não estará contigo.
-Ele é o que está assentado sobre o globo da terra, cujos moradores são para ele como gafanhotos; ele é o que estende os céus como cortina e os desenrola como tenda para neles habitar;
-E fez o que era reto aos olhos do SENHOR, conforme tudo quanto fizera Davi, seu pai.
-Vossas mulheres, vossos meninos e vosso gado fiquem na terra que Moisés vos deu desta banda do Jordão; porém vós passareis armados na frente de vossos irmãos, todos os valentes e valorosos, e ajudá-los-eis,
-Assentando-se o rei no trono do juízo, com os seus olhos dissipa todo mal.
-Todo primogênito que nascer entre as tuas vacas e entre as tuas ovelhas, o macho santificarás ao SENHOR, teu Deus; com o primogênito do teu boi não trabalharás, nem tosquiarás o primogênito das tuas ovelhas.
-Assim, foram Moisés e Arão a Faraó e disseram-lhe: Assim diz o SENHOR, o Deus dos hebreus: Até quando recusas humilhar-te diante de mim? Deixa ir o meu povo, para que me sirva.
-Sara-me, SENHOR, e sararei; salva-me, e serei salvo; porque tu és o meu louvor.
-E falou Deus a Israel em visões, de noite, e disse: Jacó! Jacó! E ele disse: Eis-me aqui.
-No mesmo instante, os irmãos mandaram a Paulo que fosse até ao mar, mas Silas e Timóteo ficaram ali.
-A este ressuscitou Deus ao terceiro dia e fez que se manifestasse,
-O meu povo foi destruído, porque lhe faltou o conhecimento; porque tu rejeitaste o conhecimento, também eu te rejeitarei, para que não sejas sacerdote diante de mim; visto que te esqueceste da lei do teu Deus, também eu me esquecerei de teus filhos.
-Eis que é vindo e se cumprirá, diz o Senhor JEOVÁ; este é o dia de que tenho falado.
-E aconteceu que, como ele clamou, e eles não ouviram, assim também eles clamarão, mas eu não ouvirei, diz o SENHOR dos Exércitos.
-Porém Balaque prosseguiu ainda em enviar mais príncipes e mais honrados do que aqueles,
-Porém o nome de Arão escreverás sobre a vara de Levi; porque cada cabeça da casa de seus pais terá uma vara.
-que chamo a ave de rapina desde o Oriente e o homem do meu conselho, desde terras remotas; porque assim o disse, e assim acontecerá; eu o determinei e também o farei.
-Então, se achegarão os sacerdotes, filhos de Levi (pois o SENHOR, teu Deus, os escolheu para o servirem, e para abençoarem em nome do SENHOR; e, pelo seu dito, se determinará toda demanda e toda ferida).
-Se alguém me serve, siga-me; e, onde eu estiver, ali estará também o meu servo. E, se alguém me servir, meu Pai o honrará.
-Assim diz Ciro, rei da Pérsia: O SENHOR, Deus dos céus, me deu todos os reinos da terra e me encarregou de lhe edificar uma casa em Jerusalém, que está em Judá; quem, dentre vós é de todo o seu povo, que suba, e o SENHOR, seu Deus, seja com ele.
-e o que foi semeado entre espinhos é o que ouve a palavra, mas os cuidados deste mundo e a sedução das riquezas sufocam a palavra, e fica infrutífera;
-E, pondo-se de joelhos, clamou com grande voz: Senhor, não lhes imputes este pecado. E, tendo dito isto, adormeceu.
-Eis que Deus é mui grande; contudo, a ninguém despreza; grande é em força de coração.
-E todas as aldeias que havia em redor destas cidades, até Baalate-Ber, que é Ramá do Sul; esta era a herança da tribo dos filhos de Simeão, segundo as suas famílias.
-E levantaram-se os príncipes dos moabitas, e vieram a Balaque, e disseram: Balaão recusou vir conosco.
-seis dos seus nomes numa pedra e os outros seis nomes na outra pedra, segundo as suas gerações.
-Quero dizer, com isso, que cada um de vós diz: Eu sou de Paulo, e eu, de Apolo, e eu, de Cefas, e eu, de Cristo.
-Somente o seu sangue não comerás; sobre a terra o derramarás como água.
-Fala a toda esta congregação, dizendo: Levantai-vos do redor da habitação de Corá, Datã e Abirão.
-Bem-aventurado aquele servo a quem o senhor, quando vier, achar fazendo assim.
-Então, o rei Nabucodonosor se espantou e se levantou depressa; falou e disse aos seus capitães: Não lançamos nós três homens atados dentro do fogo? Responderam e disseram ao rei: É verdade, ó rei.
-Porque, ainda que tivésseis dez mil aios em Cristo, não teríeis, contudo, muitos pais; porque eu, pelo evangelho, vos gerei em Jesus Cristo.
-Jesus, pois, já não andava manifestamente entre os judeus, mas retirou-se dali para a terra junto do deserto, para uma cidade chamada Efraim; e ali andava com os seus discípulos.
-Riquezas e honra estão comigo; sim, riquezas duráveis e justiça.
-Mas, havendo alguém que aborrece a seu próximo, e lhe arma ciladas, e se levanta contra ele, e o fere na vida, de modo que morra, e se acolhe em alguma dessas cidades,
-Mas, vindo o sol, queimou-se e secou-se, porque não tinha raiz.
-Espiaram os nossos passos, de maneira que não podíamos andar pelas nossas ruas; está chegando o nosso fim, estão cumpridos os nossos dias, porque é vindo o nosso fim.
-E a sorte da tribo dos filhos de Judá, segundo as suas famílias, caiu para o sul, até ao termo de Edom, até o deserto de Zim, até à extremidade da banda do sul.
-o caminho da águia no céu, o caminho da cobra na penha, o caminho do navio no meio do mar e o caminho do homem com uma virgem.
-E Davi levantou-se, e fugiu, aquele dia, de diante de Saul, e veio a Aquis, rei de Gate.
-E, antes que eu acabasse de falar no meu coração, eis que Rebeca saía com seu cântaro sobre o seu ombro, e desceu à fonte, e tirou água; e eu lhe disse: Ora, dá-me de beber.
-Assim diz o SENHOR: Ponde-vos nos caminhos, e vede, e perguntai pelas veredas antigas, qual é o bom caminho, e andai por ele; e achareis descanso para a vossa alma; mas eles dizem: Não andaremos.
-Vede, irmãos, que nunca haja em qualquer de vós um coração mau e infiel, para se apartar do Deus vivo.
-As vossas memórias são como a cinza; as vossas alturas, como alturas de lodo.
-Então, degolará o cordeiro da expiação da culpa, e o sacerdote tomará do sangue da oferta pela expiação da culpa, e o porá sobre a ponta da orelha direita daquele que tem de purificar-se, e sobre o dedo polegar da sua mão direita, e sobre o dedo polegar do seu pé direito.
-quando vossos pais me tentaram; provaram-me e viram a minha obra.
-E, no primeiro dia da Festa dos Pães Asmos, chegaram os discípulos junto de Jesus, dizendo: Onde queres que preparemos a comida da Páscoa?
-Se com repreensões castigas alguém, por causa da iniquidade, logo destróis, como traça, a sua beleza; de sorte que todo homem é vaidade. (Selá)
-Fez, pois, Moisés como o SENHOR lhe ordenara; porque subiram ao monte Hor perante os olhos de toda a congregação.
-Porventura, as consolações de Deus te são pequenas? Ou alguma coisa se oculta em ti?
-E foram as águas indo e minguando até ao décimo mês; no décimo mês, no primeiro dia do mês, apareceram os cumes dos montes.
-Fez também Salomão todos os utensílios que eram para a Casa de Deus: o altar de ouro e as mesas, sobre as quais estavam os pães da proposição;
-e Arão e seus filhos comerão a carne deste carneiro e o pão que está no cesto à porta da tenda da congregação
-E clamou como um leão: Senhor, sobre a torre de vigia estou em pé continuamente de dia e de guarda me ponho noites inteiras.
-Fiz concerto com os meus olhos; como, pois, os fixaria numa virgem?
-Estava, então, enfermo um certo Lázaro, de Betânia, aldeia de Maria e de sua irmã Marta.
-Mas quero que saibais que Cristo é a cabeça de todo varão, e o varão, a cabeça da mulher; e Deus, a cabeça de Cristo.
-E, como Moisés levantou a serpente no deserto, assim importa que o Filho do Homem seja levantado,
-Quando, pois, ressuscitou dos mortos, os seus discípulos lembraram-se de que lhes dissera isso; e creram na Escritura e na palavra que Jesus tinha dito.
-Porém o teu assentar, e o teu sair, e o teu entrar, e o teu furor contra mim, eu o sei.
-Numa casa se comerá; não levarás daquela carne fora da casa, nem dela quebrareis osso.
-Trazei todos os dízimos à casa do tesouro, para que haja mantimento na minha casa, e depois fazei prova de mim, diz o SENHOR dos Exércitos, se eu não vos abrir as janelas do céu e não derramar sobre vós uma bênção tal, que dela vos advenha a maior abastança.
-Persiste em ler, exortar e ensinar, até que eu vá.
-Deste modo, Nebuzaradã, capitão dos da guarda, ordenou a Nebusazbã, Rabe-Saris, Nergal-Sarezer, Rabe-Mague e todos os príncipes do rei da Babilônia.
-E Davi estava assentado entre as duas portas; e a sentinela subiu ao terraço da porta junto ao muro, e levantou os olhos, e olhou, e eis que um homem corria só.
-Porque, quem sabe o que é bom nesta vida para o homem, por todos os dias da sua vaidade, os quais gasta como sombra? Porque, quem declarará ao homem o que será depois dele debaixo do sol?
-Então, saiu fogo do SENHOR e consumiu os duzentos e cinquenta homens que ofereciam o incenso.
-Porque a sua rocha não é como a nossa Rocha, sendo até os nossos inimigos juízes disso.
-Ouvindo, pois, Balaque que Balaão vinha, saiu-lhe ao encontro até à cidade de Moabe, que está no termo de Arnom, na extremidade do termo dele.
-E, olhando ele para trás de si, viu-me a mim e chamou-me; e eu disse: Eis-me aqui.
-Porque Moisés chamara a Bezalel, e a Aoliabe, e a todo homem sábio de coração em cujo coração o SENHOR tinha dado sabedoria, isto é, a todo aquele a quem o seu coração movera que se chegasse à obra para fazê-la.
-E enviou o rei Salomão mensageiros e mandou trazer a Hirão de Tiro.
-Como cobriu o Senhor de nuvens, na sua ira, a filha de Sião! Derribou do céu à terra a glória de Israel e não se lembrou do escabelo de seus pés, no dia da sua ira.
-Tudo isso disse Jesus por parábolas à multidão e nada lhes falava sem parábolas,
-Dai, antes, esmola do que tiverdes, e eis que tudo vos será limpo.
-E, ao fim dos dez dias, pareceram os seus semblantes melhores; eles estavam mais gordos do que todos os jovens que comiam porção do manjar do rei.
-Feliz aquele que pegar em teus filhos e der com eles nas pedras!
-E, falando com ele, entrou e achou muitos que ali se haviam ajuntado.
-E disse Davi a Saul: Por que dás tu ouvidos às palavras dos homens que dizem: Eis que Davi procura o teu mal?
-E falou o SENHOR a Moisés, dizendo:
-Por isso, estai vós apercebidos também, porque o Filho do Homem há de vir à hora em que não penseis.
-Porquanto amava teus pais, e escolhera a sua semente depois deles, e te tirou do Egito diante de si, com a sua grande força,
-Mas o anjo, respondendo, disse às mulheres: Não tenhais medo; pois eu sei que buscai a Jesus, que foi crucificado.
-e escolheu Moisés homens capazes, de todo o Israel, e os pôs por cabeças sobre o povo: maiorais de mil e maiorais de cem, maiorais de cinquenta e maiorais de dez.
-Porque assim diz o SENHOR aos homens de Judá e a Jerusalém: Lavrai para vós o campo de lavoura e não semeeis entre espinhos.
-E veio a palavra do SENHOR a Jeremias, segunda vez, estando ele ainda encerrado no pátio da guarda, dizendo:
-os quais mostram a obra da lei escrita no seu coração, testificando juntamente a sua consciência e os seus pensamentos, quer acusando-os, quer defendendo-os,
-E sucedeu que, ouvindo-o Baasa, deixou de edificar a Ramá e ficou em Tirza.
-Então, Moisés e Arão se foram de diante da congregação, à porta da tenda da congregação e se lançaram sobre o seu rosto; e a glória do SENHOR lhes apareceu.
-Porquanto me deixaram e queimaram incenso a outros deuses, para me provocarem à ira por todas as obras das suas mãos, o meu furor se acendeu contra este lugar e não se apagará.
-Mas ele, conhecendo bem os seus pensamentos, disse ao homem que tinha a mão mirrada: Levanta-te e fica em pé no meio. E, levantando-se ele, ficou em pé.
-O som de um clamor se ouve da Babilônia e de grande destruição, da terra dos caldeus;
-E um dos anciãos me falou, dizendo: Estes que estão vestidos de vestes brancas, quem são e de onde vieram?
-E disse: Torna a meter a mão no peito. E tornou a meter a mão no peito; depois, tirou-a do peito, e eis que se tornara como a sua outra carne.
-E o atalaia estava na torre de Jezreel, e viu a tropa de Jeú, que vinha, e disse: Vejo uma tropa. Então, disse Jorão: Toma um cavaleiro e envia-lho ao encontro; e diga: Há paz?
-Estes buscaram o seu registro entre os que estavam registrados nas genealogias, mas não se acharam nelas; pelo que por imundos foram rejeitados do sacerdócio.
-Sucedeu, pois, que, estando o teu servo ocupado de uma e de outra parte, entretanto, desapareceu. Então, o rei de Israel lhe disse: Esta é a tua sentença; tu mesmo a pronunciaste.
-Mas, quando vos entregarem, não vos dê cuidado como ou o que haveis de falar, porque, naquela mesma hora, vos será ministrado o que haveis de dizer.
-de Hezrom, a família dos hezronitas; de Carmi, a família dos carmitas.
-E disse Josué: Por que nos turbaste? O SENHOR te turbará a ti este dia. E todo o Israel o apedrejou com pedras, e os queimaram a fogo e os apedrejaram com pedras.
-Também desde o dia em que fui nomeado seu governador na terra de Judá, desde o ano vinte até ao ano trinta e dois do rei Artaxerxes, doze anos, nem eu nem meus irmãos comemos o pão do governador.
-Porque o homem, são seus dias como a erva; como a flor do campo, assim floresce;
-Os meus ossos se apegaram à minha pele e à minha carne, e escapei só com a pele dos meus dentes.
-E disse Gaal, filho de Ebede: Quem é Abimeleque, e quem é Siquém, para que o servíssemos? Não é, porventura, filho de Jerubaal? E não é Zebul o seu mordomo? servi, antes, aos homens de Hamor, pai de Siquém; pois por que razão nós o serviríamos a ele?
-Vistam-se os teus sacerdotes de justiça, e alegrem-se os teus santos.
-Porque tu me lançaste no profundo, no coração dos mares, e a corrente me cercou; todas as tuas ondas e as tuas vagas têm passado por cima de mim.
-Na verdade, agora me molestou; tu assolaste toda a minha companhia.
-Portanto, digo: desviai de mim a vista, e chorarei amargamente; não vos canseis mais em consolar-me pela destruição da filha do meu povo.
-E feriram-no na cabeça com uma cana, e cuspiram nele, e, postos de joelhos, o adoravam.
-Então,  enviou mensageiros, que foram correndo à tenda; e eis que tudo estava escondido na sua tenda, e a prata, debaixo dela.
-E, perseverando unânimes todos os dias no templo e partindo o pão em casa, comiam juntos com alegria e singeleza de coração,
-Por isso, eu vos digo que haverá menos rigor para Tiro e Sidom, no Dia do Juízo, do que para vós.
-Então, disse Saul: Benditos sejais vós do SENHOR, porque vos compadecestes de mim.
-Produzi, pois, frutos dignos de arrependimento
-E os seus olhos eram como chama de fogo; e sobre a sua cabeça havia muitos diademas; e tinha um nome escrito que ninguém sabia, senão ele mesmo.
-para que ofereçam sacrifícios de cheiro suave ao Deus dos céus e orem pela vida do rei e de seus filhos.
-E outra caiu entre espinhos, e, crescendo os espinhos, a sufocaram, e não deu fruto.
-E saiu uma voz do trono, que dizia: Louvai o nosso Deus, vós, todos os seus servos, e vós que o temeis, tanto pequenos como grandes.
-Eu sei que tudo quanto Deus faz durará eternamente; nada se lhe deve acrescentar e nada se lhe deve tirar. E isso faz Deus para que haja temor diante dele.
-Enquanto estou no mundo, sou a luz do mundo.
-Ordena aos filhos de Israel que te tragam azeite de oliveira, puro, batido, para a luminária, para acender as lâmpadas continuamente.
-e todo espírito que não confessa que Jesus Cristo veio em carne não é de Deus; mas este é o espírito do anticristo, do qual já ouvistes que há de vir, e eis que está já no mundo.
-Estando ele ainda falando, chegou um da casa do príncipe da sinagoga, dizendo: A tua filha já está morta; não incomodes o Mestre.
-e Lameque, de Metusalém, e Metusalém, de Enoque, e Enoque, de Jarede, e Jarede, de Maalalel, e Maalalel, de Cainã,
-Como o grou ou a andorinha, assim eu chilreava e gemia como a pomba; alçava os olhos ao alto; ó Senhor, ando oprimido! Fica por meu fiador.
-Portanto, profetiza, ó filho do homem, e dize a Gogue: Assim diz o Senhor JEOVÁ: Não o saberás, naquele dia, quando o meu povo de Israel habitar com segurança?
-Louvai ao Senhor dos senhores; porque a sua benignidade é para sempre.
-E, deixando-os de novo, foi orar pela terceira vez, dizendo as mesmas palavras.
-E, vendo-a Judá, teve-a por uma prostituta; porque ela havia coberto o seu rosto.
-E os filhos de Cam são: Cuxe, e Mizraim, e Pute, e Canaã.
-Tu te aproximaste no dia em que te invoquei; disseste: Não temas.
-Porque toda carne é como erva, e toda a glória do homem, como a flor da erva. Secou-se a erva, e caiu a sua flor;
-Assim, Davi prevaleceu contra o filisteu, com uma funda e com uma pedra, e feriu o filisteu, e o matou sem que Davi tivesse uma espada na mão. Pelo que correu Davi, e pôs-se em pé sobre o filisteu, e tomou a sua espada, e tirou-a da bainha; e o matou e lhe cortou com ela a cabeça; vendo, então, os filisteus que o seu campeão era morto, fugiram.
-Disse-lhes Pilatos: Que farei, então, de Jesus, chamado Cristo? Disseram-lhe todos: Seja crucificado!
-Diziam, pois, os principais sacerdotes dos judeus a Pilatos: Não escrevas, Rei dos judeus, mas que ele disse: Sou Rei dos judeus.
-E todos os homens da sua casa, o nascido em casa e o comprado por dinheiro do estrangeiro, foram circuncidados com ele.
-Porque sai o sol com ardor, e a erva seca, e a sua flor cai, e a formosa aparência do seu aspecto perece; assim se murchará também o rico em seus caminhos.
-Tu amas a justiça e aborreces a impiedade; por isso, Deus, o teu Deus, te ungiu com óleo de alegria, mais do que a teus companheiros.
-Vossos pais, onde estão eles? E os profetas, viverão eles para sempre?
-Então, os homens de Israel, e de Naftali, e de Aser, e de todo o Manassés foram convocados e perseguiram aos midianitas.
-E a multidão viu-os partir, e muitos os conheceram, e correram para lá, a pé, de todas as cidades, e ali chegaram primeiro do que eles, e aproximavam-se deles.
-Ainda estava a palavra na boca do rei, quando caiu uma voz do céu: A ti se diz, ó rei Nabucodonosor: Passou de ti o reino.
-e as porás dentro do cerco do altar para baixo, de maneira que a rede chegue até ao meio do altar.
-ouvindo o teu amor e a fé que tens para com o Senhor Jesus Cristo e para com todos os santos;
-E haverá bastante leite de cabras para o teu sustento, para sustento da tua casa e para sustento das tuas criadas.
-Porque Deus enviou o seu Filho ao mundo não para que condenasse o mundo, mas para que o mundo fosse salvo por ele.
-E, vendo a mulher que aquela árvore era boa para se comer, e agradável aos olhos, e árvore desejável para dar entendimento, tomou do seu fruto, e comeu, e deu também a seu marido, e ele comeu com ela.
-Os meus ossos não te foram encobertos, quando no oculto fui formado e entretecido como nas profundezas da terra.
-E Betuel gerou Rebeca. Estes oito deu Milca a Naor, irmão de Abraão.
-E os filisteus vieram e se estenderam pelo vale dos Refains.
-A quem vencer, eu o farei coluna no templo do meu Deus, e dele nunca sairá; e escreverei sobre ele o nome do meu Deus e o nome da cidade do meu Deus, a nova Jerusalém, que desce do céu, do meu Deus, e também o meu novo nome.
-Porém Urias se deitou à porta da casa real, com todos os servos do seu senhor, e não desceu à sua casa.
-E, lançando-o fora da vinha, o mataram. Que lhes fará, pois, o senhor da vinha?
-Envias o teu Espírito, e são criados, e assim renovas a face da terra.
-E disse Ester: Se bem parecer ao rei, venha o rei e Hamã hoje ao banquete que tenho preparado para o rei.
-porque já é manifesto que vós sois a carta de Cristo, ministrada por nós e escrita não com tinta, mas com o Espírito do Deus vivo, não em tábuas de pedra, mas nas tábuas de carne do coração.
-E, vendo estar com eles o homem que fora curado, nada tinham que dizer em contrário.
-Mas há alguns de vós que não creem. Porque bem sabia Jesus, desde o princípio, quem eram os que não criam e quem era o que o havia de entregar.
-Mas este é um povo roubado e saqueado; todos estão enlaçados em cavernas e escondidos nas casas dos cárceres; são postos por presa, e ninguém há que os livre; por despojo, e ninguém diz: Restitui.
-Porque o teu Criador é o teu marido; SENHOR dos Exércitos é o seu nome; e o Santo de Israel é o teu Redentor; ele será chamado o Deus de toda a terra.
-E era Abraão já velho e adiantado em idade, e o SENHOR havia abençoado a Abraão em tudo.
-Semelhantemente, tereis santa convocação no dia das primícias, quando oferecerdes oferta nova de manjares ao SENHOR, segundo a vossa Festa das Semanas; nenhuma obra servil fareis.
-Porém ele disse: Vive o SENHOR, em cuja presença estou, que a não tomarei. E instou com ele para que a tomasse, mas ele recusou.
-E, quando o estavam atando com correias, disse Paulo ao centurião que ali estava: É-vos lícito açoitar um romano, sem ser condenado?
-Disse-lhe mais: Eu sou o SENHOR, que te tirei de Ur dos caldeus, para dar-te a ti esta terra, para a herdares.
-Porque persuado eu agora a homens ou a Deus? Ou procuro agradar a homens? Se estivesse ainda agradando aos homens, não seria servo de Cristo.
-E, naquele tempo, tomamos todas as suas cidades; nenhuma cidade houve que lhe não tomássemos: sessenta cidades, toda a borda da terra de Argobe e o reino de Ogue, em Basã.
-Invocarei o nome do SENHOR, que é digno de louvor, e ficarei livre dos meus inimigos.
-Ora, derramando ela este unguento sobre o meu corpo, fê-lo preparando-me para o meu sepultamento.
-Se de alguma maneira os afligirdes, e eles clamarem a mim, eu certamente ouvirei o seu clamor,
-Se o ladrão não se achar, então, o dono da casa será levado diante dos juízes, a ver se não meteu a sua mão na fazenda do seu próximo.
-Também farão uma arca de madeira de cetim; o seu comprimento será de dois côvados e meio, e a sua largura, de um côvado e meio, e de um côvado e meio, a sua altura.
-E disse esta à sua senhora: Tomara que o meu senhor estivesse diante do profeta que está em Samaria; ele o restauraria da sua lepra.
-a terra frutífera, em terreno salgado, pela maldade dos que nela habitam.
-O perverso de coração nunca achará o bem; e o que tem a língua dobre virá a cair no mal.
-E Jesus, parando, chamou-os e disse: Que quereis que vos faça?
-o que trouxe o carro e o cavalo, o exército e a força; eles juntamente se deitaram e nunca se levantarão; estão extintos e como um pavio, se apagaram.
-Mas os judeus incitaram algumas mulheres religiosas e honestas, e os principais da cidade, e levantaram perseguição contra Paulo e Barnabé, e os lançaram fora dos seus limites.
-Então, eles também lhe responderão, dizendo: Senhor, quando te vimos com fome, ou com sede, ou estrangeiro, ou nu, ou enfermo, ou na prisão e não te servimos?
-Em Deus louvarei a sua palavra; no SENHOR louvarei a sua palavra.
-E estava ali um homem que tinha uma das mãos mirrada; e eles, para acusarem Jesus, o interrogaram, dizendo: É lícito curar nos sábados?
-E junto a ele assentará as suas tendas a tribo de Simeão; e Selumiel, filho de Zurisadai, será príncipe dos filhos de Simeão. E o seu exército e os que foram contados deles foram cinquenta e nove mil e trezentos.
-Porque havia um mandado do rei acerca deles, a saber, uma certa porção para os cantores, cada qual no seu dia.
-Quando entrares na vinha do teu próximo, comerás uvas conforme o teu desejo até te fartares, porém não as porás no teu vaso.
-E, tendo saído os demônios do homem, entraram nos porcos, e a manada precipitou-se de um despenhadeiro no lago e afogou-se.
-Assim, os justos louvarão o teu nome; os retos habitarão na tua presença.
-Na verdade, na verdade vos digo que quem ouve a minha palavra e crê naquele que me enviou tem a vida eterna e não entrará em condenação, mas passou da morte para a vida.
-Sim, em herança a Israel, seu servo; porque a sua benignidade é para sempre.
-Faze para ti uma arca da madeira de gofer; farás compartimentos na arca e a betumarás por dentro e por fora com betume.
-Porque eis que o SENHOR Deus dos Exércitos tirará de Jerusalém e de Judá o bordão e o cajado, todo o sustento de pão e toda a sede de água;
-nem aprendi a sabedoria, nem tenho o conhecimento do Santo.
-É semelhante ao homem que edificou uma casa, e cavou, e abriu bem fundo, e pôs os alicerces sobre rocha; e, vindo a enchente, bateu com ímpeto a corrente naquela casa e não a pôde abalar, porque estava fundada sobre rocha.
-e Lebaote, e Silim, e Aim, e Rimom: todas as cidades e as suas aldeias; vinte e nove ao todo.
-Porventura, não terão fim estas palavras de vento? Ou que te irrita, para assim responderes?
-E, agora, ó sacerdotes, este mandamento vos toca a vós.
-De todas as famílias da terra a vós somente conheci; portanto, todas as vossas injustiças visitarei sobre vós.
-E toda a multidão da terra dos gadarenos ao redor lhe rogou que se retirasse deles, porque estavam possuídos de grande temor. E, entrando ele no barco, voltou.
-onde o seu bicho não morre, e o fogo nunca se apaga.
-Que é feito dos deuses de Hamate e de Arpade? Que é feito dos deuses de Sefarvaim, Hena e Iva? Porventura, livraram a Samaria da minha mão?
-para publicar com voz de louvor e contar todas as tuas maravilhas.
-E lançarei sobre ti coisas abomináveis, e te envergonharei, e pôr-te-ei como espetáculo.
-Mas o SENHOR nas alturas é mais poderoso do que o ruído das grandes águas e do que as grandes ondas do mar.
-E houve com eles, nas suas gerações, segundo as suas casas paternas, em tropas de gente de guerra, trinta e seis mil; porque tiveram muitas mulheres e filhos.
-Então, o rei lhe disse: Que é o que tens, rainha Ester, ou qual é a tua petição? Até metade do reino se te dará.
-Naftali é uma cerva solta; ele dá palavras formosas.
-Ou comer-se-á sem sal o que é insípido? Ou haverá gosto na clara do ovo?
-E sabereis que eu sou o SENHOR, quando eu abrir as vossas sepulturas e vos fizer sair das vossas sepulturas, ó povo meu.
-foi aberta uma brecha na cidade, e todos os homens de guerra fugiram, e saíram de noite, pelo caminho da porta, entre os dois muros que estavam junto ao jardim do rei (porque os caldeus estavam contra a cidade ao redor), e foram pelo caminho da campina.
-como cerva amorosa e gazela graciosa; saciem-te os seus seios em todo o tempo; e pelo seu amor sê atraído perpetuamente.
-Eliorefe e Aías, filhos de Sisa, secretários; Josafá, filho de Ailude, chanceler;
-Salvou os outros e a si mesmo não pode salvar-se. Se é o Rei de Israel, desça, agora, da cruz, e creremos nele;
-A mãe de Sísera olhava pela janela e exclamava pela grade: Por que tarda em vir o seu carro? Por que se demoram os passos dos seus carros?
-Porque sucedeu que, no tempo da velhice de Salomão, suas mulheres lhe perverteram o coração para seguir outros deuses; e o seu coração não era perfeito para com o SENHOR, seu Deus, como o coração de Davi, seu pai,
-Estes, pois, são os mandamentos, os estatutos e os juízos que mandou o SENHOR, vosso Deus, para se vos ensinar, para que os fizésseis na terra a que passais a possuir;
-Visto como, com o lado e com o ombro, dais empurrões e, com as vossas pontas, escorneais todas as fracas, até que as espalhais para fora,
-No dia da minha angústia, clamarei a ti, porquanto me respondes.
-Como, pois, pode o servo deste meu senhor falar com aquele meu senhor? Porque, quanto a mim, desde agora não resta força em mim, e não ficou em mim fôlego.
-Ouvindo-me, esperavam e em silêncio atendiam ao meu conselho.
-E havia um homem de Benjamim, cujo nome era Quis, filho de Abiel, filho de Zeror, filho de Becorate, filho de Afias, filho de um homem de Benjamim, varão alentado em força.
-E me acamparei ao redor da minha casa, contra o exército, para que ninguém passe e para que ninguém volte; para que não passe mais sobre eles o exator; porque agora vi com os meus olhos.
-aos carpinteiros, e aos edificadores, e aos pedreiros; e para comprar madeira e pedras lavradas, para repararem a casa.
-porquanto os ensinava com autoridade e não como os escribas.
-Farás também cortinas de pelos de cabras por tenda sobre o tabernáculo; de onze cortinas a farás.
-Assim diz o Senhor JEOVÁ a estes ossos: Eis que farei entrar em vós o espírito, e vivereis.
-Efraim foi ferido, secou-se a sua raiz; não darão fruto; sim, ainda que gerem, eu matarei os frutos desejáveis do seu ventre.
-E os homens de Israel saíram à peleja contra Benjamim; e ordenaram os homens de Israel contra eles a peleja ao pé de Gibeá.
-ou corcovado, ou anão, ou que tiver belida no olho, ou sarna, ou impigens, ou que tiver testículo quebrado.
-Também em cada cidade de Judá fez altos para queimar incenso a outros deuses; assim provocou à ira o SENHOR, Deus de seus pais.
-e com as mais excelentes novidades do sol, e com as mais excelentes produções da lua,
-E eles disseram: Senhor, eis aqui duas espadas. E ele lhes disse: Basta.
-porque, em parte, conhecemos e, em parte, profetizamos.
-Louvem-te a ti, ó Deus, os povos, louvem-te os povos todos.
-e foi feito com querubins e palmeiras, de maneira que cada palmeira estava entre querubim e querubim, e cada querubim tinha dois rostos,
-Não devias tu, igualmente, ter compaixão do teu companheiro, como eu também tive misericórdia de ti?
-E a casa que o rei Salomão edificou ao SENHOR era de sessenta côvados de comprimento, e de vinte côvados de largura, e de trinta côvados de altura.
-A sinceridade dos sinceros os encaminhará, mas a perversidade dos desleais os destruirá.
-E direis ao pai de família da casa: O mestre te diz: Onde está o aposento em que hei de comer a Páscoa com os meus discípulos?
-Quem come a minha carne e bebe o meu sangue permanece em mim, e eu, nele.
-E eis que também contigo está Simei, filho de Gera, filho de Benjamim, de Baurim, que me maldisse com maldição atroz, no dia em que ia a Maanaim; porém ele saiu a encontrar-se comigo junto ao Jordão, e eu, pelo SENHOR, lhe jurei, dizendo que o não mataria à espada.
-E aquele sangue vos será por sinal nas casas em que estiverdes; vendo eu sangue, passarei por cima de vós, e não haverá entre vós praga de mortandade, quando eu ferir a terra do Egito.
-e perguntaram-lhe, e disseram-lhe: Por que batizas, pois, se tu não és o Cristo, nem Elias, nem o profeta?
-Por isso, ó SENHOR, te louvarei entre as nações, e entoarei louvores ao teu nome.
-As suas maçãs e as suas canas serão do mesmo; tudo será de uma só peça, obra batida de ouro puro.
-Se todo o corpo fosse olho, onde estaria o ouvido? Se todo fosse ouvido, onde estaria o olfato?
-Mas, se a sua mão não alcançar o que bastar para gado miúdo, então, trará, em expiação da culpa que cometeu, ao SENHOR, duas rolas ou dois pombinhos; um para expiação do pecado, e o outro para holocausto.
-Tão somente os israelitas saquearam para si o gado e os despojos da cidade, conforme a palavra do SENHOR, que tinha ordenado a Josué.
-E este será a nossa paz. Quando a Assíria vier à nossa terra e quando passar sobre os nossos palácios, levantaremos contra ela sete pastores e oito príncipes dentre os homens.
-Não vos entremetais com eles, porque vos não darei da sua terra, nem ainda a pisada da planta de um pé; porquanto a Esaú tenho dado a montanha de Seir por herança.
-Tu vendes por nada o teu povo e não aumentas a tua riqueza com o seu preço.
-assim será a palavra que sair da minha boca; ela não voltará para mim vazia; antes, fará o que me apraz e prosperará naquilo para que a enviei.
-De ti saiu um que pensa mal contra o SENHOR, um conselheiro de Belial.
-A justiça dos virtuosos os livrará, mas, na sua perversidade, serão apanhados os iníquos.
-Jesus respondeu e disse-lhe: Qualquer que beber desta água tornará a ter sede,
-Saíste ao encontro daquele que se alegrava e praticava justiça, daqueles que se lembram de ti nos teus caminhos; eis que te iraste, porque pecamos; neles há eternidade, para que sejamos salvos.
-dos filhos de Jeieli: Zetã e Joel, seu irmão; estes tinham cargo dos tesouros da Casa do SENHOR;
-Porque até as cervas no campo parem e abandonam seus filhos, porquanto não há erva.
-E ele disse: Eis que ainda é muito dia, não é tempo de ajuntar o gado; dai de beber às ovelhas, e ide, e apascentai-as.
-Bem-aventurado o homem que enche deles a sua aljava; não serão confundidos, quando falarem com os seus inimigos à porta.
-Porém ele lhe disse: Eis que há nesta cidade um homem de Deus, e homem honrado é; tudo quanto diz sucede assim infalivelmente; vamo-nos agora lá; porventura, nos mostrará o caminho que devemos seguir.
-E farás as tábuas para o tabernáculo assim: vinte tábuas para a banda do meio-dia, ao sul.
-E, como tivesse grande sede, clamou ao SENHOR e disse: Pela mão do teu servo tu deste esta grande salvação; morrerei eu, pois, agora de sede e cairei na mão destes incircuncisos?
-Espere Israel no SENHOR, porque no SENHOR há misericórdia, e nele há abundante redenção,
-Por que quem se compadeceria de ti, ó Jerusalém? Ou quem se entristeceria por ti? Ou quem se desviaria a perguntar pela tua paz?
-o povo que estava assentado em trevas viu uma grande luz; e aos que estavam assentados na região e sombra da morte a luz raiou.
-Jesus Cristo é o mesmo ontem, e hoje, e eternamente.
-E, quando se pelar a cabeça do homem, calvo é; limpo está. E, se lhe pelar a frente da cabeça, meio-calvo é; limpo está.
-Quadrado e dobrado, será de um palmo o seu comprimento, e de um palmo, a sua largura;
-(Porque só Ogue, rei de Basã, ficou do resto dos gigantes; eis que o seu leito, um leito de ferro, não está porventura em Rabá dos filhos de Amom? De nove côvados o seu comprimento, e de quatro côvados a sua largura, pelo côvado de um homem.)
-A besta que viste foi e já não é, e há de subir do abismo, e irá à perdição. E os que habitam na terra (cujos nomes não estão escritos no livro da vida, desde a fundação do mundo) se admirarão vendo a besta que era e já não é, mas que virá.
-Cada dia te bendirei e louvarei o teu nome pelos séculos dos séculos.
-Deste modo, não nos iremos de após ti; guarda-nos em vida, e invocaremos o teu nome.
-As mãos das mulheres piedosas cozeram seus próprios filhos; serviram-lhes de alimento na destruição da filha do meu povo.
-Amai ao SENHOR, vós todos os que sois seus santos; porque o SENHOR guarda os fiéis e retribui com abundância aos soberbos.
-E a glória do Deus de Israel se levantou do querubim sobre o qual estava, até à entrada da casa; e clamou ao homem vestido de linho, que tinha o tinteiro de escrivão à sua cinta.
-Por causa da violência feita a teu irmão Jacó, cobrir-te-á a confusão, e serás exterminado para sempre.
-e o que fez a Datã e a Abirão, filhos de Eliabe, filho de Rúben; como a terra abriu a sua boca e os tragou com as suas casas e com as suas tendas, como também tudo o que subsistia e lhes pertencia, no meio de todo o Israel;
-Os filhos de Benjamim foram: Belá, e Bequer, e Jediael, três.
-Mas Jesus, respondendo, disse-lhes: Também eu vos perguntarei uma coisa, e respondei-me; e, então, vos direi com que autoridade faço estas coisas.
-Mandou, pois, o SENHOR a peste a Israel; e caíram de Israel setenta mil homens.
-E, pondo-a no meio, disseram-lhe: Mestre, esta mulher foi apanhada, no próprio ato, adulterando,
-Sete dias celebrarás a festa ao SENHOR, teu Deus, no lugar que o SENHOR escolher, porque o SENHOR, teu Deus, te há de abençoar em toda a tua colheita e em toda obra das tuas mãos; pelo que te alegrarás certamente.
-Porque está escrito: Pela minha vida, diz o Senhor, todo joelho se dobrará diante de mim, e toda língua confessará a Deus.
-Por isso, darás presentes a Moresete-Gate; as casas de Aczibe serão uma mentira para os reis de Israel.
-Há uma geração que é pura aos seus olhos e que nunca foi lavada da sua imundícia.
-Dize-me, ó tu, a quem ama a minha alma: onde apascentas o teu rebanho, onde o recolhes pelo meio-dia, pois por que razão seria eu como a que erra ao pé dos rebanhos de teus companheiros?
-vestidos de azul, prefeitos e magistrados, todos jovens de cobiçar, cavaleiros montados a cavalo.
-Se viessem a ti ladrões ou roubadores de noite (como estás destruído!), não furtariam o que lhes bastasse? Se a ti viessem os vindimadores, não deixariam alguns cachos?
-Para que o resto dos homens busque ao Senhor, e também todos os gentios sobre os quais o meu nome é invocado, diz o Senhor, que faz todas estas coisas
-E não ousavam perguntar-lhe mais coisa alguma.
-Enviai o cordeiro ao dominador da terra, desde Sela, no deserto, até ao monte da filha de Sião.
-Porque, agora, escolhi e santifiquei esta casa, para que o meu nome esteja nela perpetuamente; e nela estarão fixos os meus olhos e o meu coração todos os dias.
-corroborados em toda a fortaleza, segundo a força da sua glória, em toda a paciência e longanimidade, com gozo,
-onde, achando alguns irmãos, nos rogaram que por sete dias ficássemos com eles; e depois nos dirigimos a Roma.
-E, ordenando-o eu, purificaram as câmaras; e tornei a trazer ali os utensílios da Casa de Deus, com as ofertas de manjares e o incenso.
-E aconteceu, ao sétimo dia, que alguns do povo saíram para colher, mas não o acharam.
-Agora, pois, ó nosso Deus, que diremos depois disso? Pois deixamos os teus mandamentos,
-porquanto debalde veio e em trevas se vai, e de trevas se cobre o seu nome.
-Então, se lembrarão de mim os que de vós escaparem entre as nações para onde foram levados em cativeiro; porquanto me quebrantei por causa do seu coração corrompido, que se desviou de mim, e por causa dos seus olhos, que se andaram corrompendo após os seus ídolos; e terão nojo de si mesmos, por causa das maldades que fizeram em todas as suas abominações.
-Pois, se os que são da lei são herdeiros, logo a fé é vã e a promessa é aniquilada.
-para que também desse a conhecer as riquezas da sua glória nos vasos de misericórdia, que para glória já dantes preparou,
-Eu sei as tuas obras, e tribulação, e pobreza ( mas tu és rico), e a blasfêmia dos que se dizem judeus e não o são, mas são a sinagoga de Satanás.
-E, chamando dez servos seus, deu-lhes dez minas e disse-lhes: Negociai até que eu venha.
-Contudo, o meu povo se tem esquecido de mim, queimando incenso à vaidade; e fizeram-nos tropeçar nos seus caminhos e nas veredas antigas, para que andassem por veredas afastadas, não aplainadas;
-Até os filhos de Amom passaram o Jordão, para pelejar também contra Judá, e contra Benjamim, e contra a casa de Efraim; de maneira que Israel ficou mui angustiado.
-Mas com quem se indignou por quarenta anos? Não foi, porventura, com os que pecaram, cujos corpos caíram no deserto?
-Estas são as gerações de Noé: Noé era varão justo e reto em suas gerações; Noé andava com Deus. E gerou Noé três filhos: Sem, Cam e Jafé.
-Então, se levantou Samuel e subiu de Gilgal a Gibeá de Benjamim; e Saul contou o povo que achou com ele, uns seiscentos varões.
-Porém com os filhos de Barzilai, o gileadita, usarás de beneficência, e estarão entre os que comem à tua mesa, porque assim se chegaram eles a mim, quando eu fugia por causa de teu irmão Absalão.
-Então, me levou à porta do norte e mediu conforme estas medidas;
-E direis, naquele dia: Dai graças ao SENHOR, invocai o seu nome, tornai manifestos os seus feitos entre os povos e contai quão excelso é o seu nome.
-Porque, com fogo e com a sua espada, entrará o SENHOR em juízo com toda a carne; e os mortos do SENHOR serão multiplicados.
-Melhor é morar num canto de umas águas-furtadas do que com a mulher rixosa numa casa ampla.
-SENHOR, meu Deus, se eu fiz isto, se há perversidade nas minhas mãos,
-Pelo que foram retiradas as chuvas, e não houve chuva tardia; mas tu tens a testa de uma prostituta e não queres ter vergonha.
-Ainda te edificarei, e serás edificada, ó virgem de Israel! Ainda serás adornada com os teus adufes e sairás com o coro dos que dançam.
-Pelo que dize-lhes esta palavra: Assim diz o SENHOR, Deus de Israel: Todo odre se encherá de vinho; e dir-te-ão: Não sabemos nós muito bem que todo odre se encherá de vinho?
-para que hoje te confirme por seu povo, e ele te seja a ti por Deus, como te tem dito e como jurou a teus pais, Abraão, Isaque e Jacó.
-E morreu Eleazar e não teve filhos, porém filhas; e os filhos de Quis, seus irmãos, as tomaram por mulheres.
-Todos os dias do aflito são maus, mas o de coração alegre tem um banquete contínuo.
-Entrando vós na cidade, logo o achareis, antes que suba ao alto para comer; porque o povo não comerá até que ele venha, porque ele é o que abençoa o sacrifício, e depois comem os convidados; subi, pois, agora, que hoje o achareis.
-o seu cadáver não permanecerá no madeiro, mas certamente o enterrarás no mesmo dia, porquanto o pendurado é maldito de Deus; assim, não contaminarás a tua terra, que o SENHOR, teu Deus, te dá em herança.
-E o sacerdote espargirá o sangue sobre o altar do SENHOR, à porta da tenda da congregação, e queimará a gordura por cheiro suave ao SENHOR.
-Porque te cercarei com o meu arraial, e te sitiarei com baluartes, e levantarei trincheiras contra ti.
-E, depois deles, levantar-se-ão sete anos de fome, e toda aquela fartura será esquecida na terra do Egito, e a fome consumirá a terra;
-E os mortos serão arremessados, e do seu corpo subirá o mau cheiro; e com o seu sangue os montes se derreterão.
-e faze-me um guisado saboroso, como eu gosto, e traze-mo, para que eu coma, e para que minha alma te abençoe, antes que morra.
-até aos poderosos arrastam com a sua força; se eles se levantam, não há vida segura.
-Vi as tendas de Cusã em aflição; as cortinas da terra de Midiã tremiam.
-E, quanto a Ismael, também te tenho ouvido: eis aqui o tenho abençoado, e fá-lo-ei frutificar, e fá-lo-ei multiplicar grandissimamente; doze príncipes gerará, e dele farei uma grande nação.
-Meus filhinhos, por quem de novo sinto as dores de parto, até que Cristo seja formado em vós;
-Mas a sua espada lhes entrará no coração, e os seus arcos se quebrarão.
-E, chegando a Samaria, feriu todos os que ficaram de Acabe em Samaria, até que os destruiu, conforme a palavra que o SENHOR dissera a Elias.
-E, descendo eles para a extremidade da cidade, Samuel disse a Saul: Dize ao moço que passe adiante de nós (e passou); porém, tu, espera agora, e te farei ouvir a palavra de Deus.
-E os que de ti procederem edificarão os lugares antigamente assolados; e levantarás os fundamentos de geração em geração, e chamar-te-ão reparador das roturas e restaurador de veredas para morar.
-Então, tomou Hanum os servos de Davi, e lhes rapou metade da barba, e lhes cortou metade das vestes, até às nádegas, e os despediu.
-Louvai ao SENHOR! Louvai, servos do SENHOR, louvai o nome do SENHOR.
-Subi o monte, e trazei madeira, e edificai a casa; e dela me agradarei e eu serei glorificado, diz o SENHOR.
-Porém os filhos dos matadores não matou, como está escrito no livro da Lei de Moisés, no qual o SENHOR deu ordem, dizendo: Não matarão os pais por causa dos filhos, e os filhos não matarão por causa dos pais; mas cada um será morto pelo seu pecado.
-Ora, o mais dos atos de Salum e a conspiração que fez, eis que estão escritos no livro das Crônicas dos Reis de Israel.
-E Cuxe gerou a Ninrode, que começou a ser poderoso na terra.
-Ainda que eu falasse as línguas dos homens e dos anjos e não tivesse amor, seria como o metal que soa ou como o sino que tine.
-E consultou Davi ao SENHOR, dizendo: Irei eu e ferirei estes filisteus? E disse o SENHOR a Davi: Vai, e ferirás os filisteus, e livrarás Queila.
-E eis que, por ordem do SENHOR, um homem de Deus veio de Judá a Betel; e Jeroboão estava junto ao altar, para queimar incenso.
-E disseram-lhe: Ninguém há na tua parentela que se chame por este nome.
-Mas para o violento era a terra, e o homem tido em respeito habitava nela.
-cinco príncipes dos filisteus, e todos os cananeus, e sidônios, e heveus, que habitavam nas montanhas do Líbano, desde o monte de Baal-Hermom até à entrada de Hamate.
-Tenho ouvido as murmurações dos filhos de Israel; fala-lhes, dizendo: Entre as duas tardes, comereis carne, e, pela manhã, vos fartareis de pão, e sabereis que eu sou o SENHOR, vosso Deus.
-E, respondendo a Jesus, disseram: Não sabemos. Ele disse-lhes: Nem eu vos digo com que autoridade faço isso.
-Porém o rei disse a Araúna: Não, porém por certo preço to comprarei, porque não oferecerei ao SENHOR, meu Deus, holocaustos que me não custem nada. Assim, Davi comprou a eira e os bois por cinquenta siclos de prata.
-assim te sobrevirá a tua pobreza como um ladrão, e a tua necessidade, como um homem armado.
-Palavra do SENHOR que foi dita a Oseias, filho de Beeri, nos dias de Uzias, Jotão, Acaz, Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.
-o SENHOR Deus, pois, o lançou fora do jardim do Éden, para lavrar a terra, de que fora tomado.
-dizendo: Certamente, abençoando, te abençoarei e, multiplicando, te multiplicarei.
-Sustenta-me conforme a tua palavra, para que viva, e não me deixes envergonhado da minha esperança.
-Sacudindo-se e removendo-se, escarva a terra e não faz caso do som da buzina.
-As duas colunas, o mar e as bases que Salomão fizera para a Casa do SENHOR, o peso do cobre de todos esses utensílios era incalculável.
-Quando um homem tomar mulher, e, entrando a ela, a aborrecer,
-Porque assim diz o SENHOR: Por nada fostes vendidos; também sem dinheiro sereis resgatados.
-e eram por ele batizados no rio Jordão, confessando os seus pecados.
-As ilhas o viram e temeram; os confins da terra tremeram, aproximaram-se e vieram.
-E a sogra de Simão estava deitada, com febre; e logo lhe falaram dela.
-Depois, disse ao discípulo: Eis aí tua mãe. E desde aquela hora o discípulo a recebeu em sua casa.
-Porque o Filho de Deus, Jesus Cristo, que entre vós foi pregado por nós, isto é, por mim, e Silvano, e Timóteo, não foi sim e não; mas nele houve sim.
-E farei tornar Israel para a sua morada e pastará no Carmelo e em Basã; e fartar-se-á a sua alma no monte de Efraim e em Gileade.
-E prepara-te para amanhã, para que subas pela manhã ao monte Sinai, e ali põe-te diante de mim no cume do monte.
-O fim deles é a perdição, o deus deles é o ventre, e a glória deles é para confusão deles mesmos, que só pensam nas coisas terrenas.
-E chegaram à aldeia para onde iam, e ele fez como quem ia para mais longe.
-Quanto a mim, eis que estou nas vossas mãos; fazei de mim conforme o que for bom e reto aos vossos olhos.
-Se cortar da banda direita, ainda terá fome, e, se comer da banda esquerda, ainda se não fartará; cada um comerá a carne de seu braço:
-E, finalmente, sede todos de um mesmo sentimento, compassivos, amando os irmãos, entranhavelmente misericordiosos e afáveis,
-Disse, pois, Davi a Joabe e a todo o povo que com ele estava: Rasgai as vossas vestes; e cingi-vos de panos de saco e ide pranteando diante de Abner. E o rei Davi ia seguindo o féretro.
-e Nogá, e Nefegue, e Jafia,
-E ali te sustentarei, porque ainda haverá cinco anos de fome, para que não pereças de pobreza, tu, e tua casa, e tudo o que tens.
-Porque  disse: Sou justo, e Deus tirou o meu direito.
-e folgo, por amor de vós, de que eu lá não estivesse, para que acrediteis. Mas vamos ter com ele.
-Ele é que forma o coração de todos eles, que contempla todas as suas obras.
-Ouve, povo meu, e eu falarei; ó Israel, e eu, Deus, o teu Deus, protestarei contra ti.
-Pois sois sofredores, se alguém vos põe em servidão, se alguém vos devora, se alguém vos apanha, se alguém se exalta, se alguém vos fere no rosto.
-não te encurvarás a elas, nem as servirás; porque eu, o SENHOR, teu Deus, sou Deus zeloso, que visito a maldade dos pais sobre os filhos, até à terceira e quarta geração daqueles que me aborrecem,
-E disse Naamã: Seja assim; contudo, dê-se a este teu servo uma carga de terra de um jugo de mulas; porque nunca mais oferecerá este teu servo holocausto nem sacrifício a outros deuses, senão ao SENHOR.
-Se alguém quiser fazer a vontade dele, pela mesma doutrina, conhecerá se ela é de Deus ou se eu falo de mim mesmo.
-Cantai-lhe, cantai-lhe salmos; falai de todas as suas maravilhas.
-Tu para sempre prevaleces contra ele, e ele passa; tu, mudando o seu rosto, o despedes.
-Porém, quanto a nós, o SENHOR é o nosso Deus, e nunca o deixamos; e os sacerdotes que ministram ao SENHOR são filhos de Arão, e os levitas se ocupam na sua obra.
-Como direis: Somos valentes e homens fortes para guerra?
-Insensato! O que tu semeias não é vivificado, se primeiro não morrer.
-Porque, segundo a obra do homem, ele lhe paga; e faz que cada um ache segundo o seu caminho.
-E Deus subiu dele, do lugar onde falara com ele.
-Pondo-os ele à morte, então, o procuravam; e voltavam, e de madrugada buscavam a Deus.
-Qual é o homem que teme ao SENHOR? Ele o ensinará no caminho que deve escolher.
-E retirou-se Jesus com os seus discípulos para o mar, e seguia-o uma grande multidão da Galileia, e da Judeia,
-E foi adversário de Israel por todos os dias de Salomão, e isso, além do mal que Hadade fazia, porque detestava a Israel e reinava sobre a Síria.
-Porque ninguém pode pôr outro fundamento, além do que já está posto, o qual é Jesus Cristo.
-vós que recebestes a lei por ordenação dos anjos e não a guardastes.
-Não deixa viver ao ímpio e faz justiça aos aflitos.
-E aconteceu que, quando Faraó deixou ir o povo, Deus não os levou pelo caminho da terra dos filisteus, que estava mais perto; porque Deus disse: Para que, porventura, o povo não se arrependa, vendo a guerra, e tornem ao Egito.
-Não há entre nós árbitro que ponha a mão sobre nós ambos.
-os quais servem de exemplar e sombra das coisas celestiais, como Moisés divinamente foi avisado, estando já para acabar o tabernáculo; porque foi dito: Olha, faze tudo conforme o modelo que, no monte, se te mostrou.
-todo aquele que oferecia oferta alçada de prata ou de metal, a trazia por oferta alçada ao SENHOR; e todo aquele que se achava com madeira de cetim, a trazia para toda a obra do serviço.
-Então, se ajuntaram contra ele as pessoas das províncias em roda, estenderam sobre ele a rede, e foi apanhado na sua cova.
-Bem-aventurados os teus homens, bem-aventurados estes teus servos que estão sempre diante de ti, que ouvem a tua sabedoria!
-Oh! Inimigo! Consumaram-se as assolações; — tu arrasaste as cidades, e a sua memória pereceu com elas.
-Não conforme o concerto que fiz com seus pais, no dia em que os tomei pela mão, para os tirar da terra do Egito, porquanto eles invalidaram o meu concerto, apesar de eu os haver desposado, diz o SENHOR.
-E veio a ele Tiglate-Pileser, rei da Assíria; porém o pôs em aperto e não o fortaleceu.
-E o sepultaram na Cidade de Davi, com os reis, porque tinha feito bem em Israel e para com Deus e a sua casa.
-E, deixando-os, saiu da cidade para Betânia e ali passou a noite.
-Basta ao discípulo ser como seu mestre, e ao servo ser como seu senhor. Se chamaram Belzebu ao pai de família, quanto mais aos seus domésticos?
-Então, Paulo lhe disse: Deus te ferirá, parede branqueada! Tu estás aqui assentado para julgar-me conforme a lei e, contra a lei, me mandas ferir?
-E interrogaram-no, dizendo: Por que dizem os escribas que é necessário que Elias venha primeiro?
-porque tinham material bastante para toda a obra que havia de fazer-se, e ainda sobejava.
-Depois, voltei-me e atentei para todas as opressões que se fazem debaixo do sol; e eis que vi as lágrimas dos que foram oprimidos e dos que não têm consolador; e a força estava da banda dos seus opressores; mas eles não tinham nenhum consolador.
-Louvar-te-ei entre os povos, SENHOR, e a ti cantarei salmos entre as nações.
-E, ouvindo eles isto, entraram de manhã cedo no templo e ensinavam. Chegando, porém, o sumo sacerdote e os que estavam com ele, convocaram o conselho e a todos os anciãos dos filhos de Israel e enviaram servidores ao cárcere, para que de lá os trouxessem.
-E a nossa esperança acerca de vós é firme, sabendo que, como sois participantes das aflições, assim o sereis também da consolação.
-Vê-lo-ei, mas não agora; contemplá-lo-ei, mas não de perto; uma estrela procederá de Jacó, e um cetro subirá de Israel, que ferirá os termos dos moabitas e destruirá todos os filhos de Sete.
-De modo que, tendo diferentes dons, segundo a graça que nos é dada: se é profecia, seja ela segundo a medida da fé;
-E Jesus lhes disse: Não o proibais, porque quem não é contra nós é por nós.
-Então, te lembrarás dos teus caminhos e te confundirás, quando receberes tuas irmãs mais velhas do que tu com as mais novas do que tu, porque tas darei por filhas, mas não pelo teu concerto.
-Como entrou na Casa de Deus, no tempo de Abiatar, sumo sacerdote, e comeu os pães da proposição, dos quais não era lícito comer senão aos sacerdotes, dando também aos que com ele estavam?
-Desvia de mim o caminho da falsidade e concede-me piedosamente a tua lei.
-Foi, pois, a uma cidade de Samaria, chamada Sicar, junto da herdade que Jacó tinha dado a seu filho José.
-Estou esquecido no coração deles, como um morto; sou como um vaso quebrado.
-Portanto, assim diz o SENHOR, que remiu a Abraão, acerca da casa de Jacó: Jacó não será, agora, envergonhado, nem, agora, se descorará a sua face.
-E o que ofendia o seu próximo o repeliu, dizendo: Quem te constituiu príncipe e juiz sobre nós?
-Eles estão todos quentes como um forno e consomem os seus juízes; todos os seus reis caem; ninguém entre eles há que me invoque.
-Mas o homem de Deus enviou ao rei de Israel, dizendo: Guarda-te de passares por tal lugar; porque os siros desceram ali.
-E apareceu nos querubins uma semelhança de mão de homem debaixo das suas asas.
-Destes, porém, não comereis: dos que remoem ou dos que têm unhas fendidas: o camelo, que remói, mas não tem unhas fendidas; este vos será imundo; o coelho, porque remói, mas não tem as unhas fendidas; este vos será imundo; a lebre, porque remói, mas não tem as unhas fendidas; esta vos será imunda.
-Disse-me ela: Deixa-me colher espigas e ajuntá-las entre as gavelas após os segadores. Assim, ela veio e, desde pela manhã, está aqui até agora, a não ser um pouco que esteve sentada em casa.
-Então, diz: Voltarei para a minha casa, donde saí. E, voltando, acha-a desocupada, varrida e adornada.
-Porque o SENHOR se agrada do seu povo; ele adornará os mansos com a salvação.
-graça e paz vos sejam multiplicadas, pelo conhecimento de Deus e de Jesus, nosso Senhor.
-Aristarco, que está preso comigo, vos saúda, e Marcos, o sobrinho de Barnabé, acerca do qual já recebestes mandamentos; se ele for ter convosco, recebei-o;
-pois eis que armam ciladas à minha alma; os fortes se ajuntam contra mim, sem transgressão minha ou pecado meu, ó SENHOR.
-E, agora, vós sabeis o que o detém, para que a seu próprio tempo seja manifestado.
-Sucedeu, porém, que, indo eles até ao meio da cidade, matou-os Ismael, filho de Netanias, e os lançou num poço, ele e os homens que estavam com ele.
-E ela dará à luz um filho, e lhe porás o nome de JESUS, porque ele salvará o seu povo dos seus pecados.
-E vós vos convertereis a mim, e guardareis os meus mandamentos, e os fareis; então, ainda que os vossos rejeitados estejam no cabo do céu, de lá os ajuntarei e os trarei ao lugar que tenho escolhido para ali fazer habitar o meu nome.
-E Roboão, filho de Salomão, reinava em Judá; de quarenta e um anos de idade era Roboão quando começou a reinar e dezessete anos reinou em Jerusalém, na cidade que o SENHOR elegera de todas as tribos de Israel para pôr ali o seu nome; e era o nome de sua mãe Naamá, amonita.
-E aconteceu, depois disso, que andava de cidade em cidade e de aldeia em aldeia, pregando e anunciando o evangelho do Reino de Deus; e os doze iam com ele,
-Então, ele vos será santuário, mas servirá de pedra de tropeço e de rocha de escândalo às duas casas de Israel; de laço e rede, aos moradores de Jerusalém.
-Vem, pois, agora, rogo-te, amaldiçoa-me este povo, pois mais poderoso é do que eu; para ver se o poderei ferir e o lançarei fora da terra; porque eu sei que a quem tu abençoares será abençoado e a quem tu amaldiçoares será amaldiçoado.
-e o que estiver no campo, que não volte atrás, para tomar a sua veste.
-Porque, se a herança provém da lei, já não provém da promessa; mas Deus, pela promessa, a deu gratuitamente a Abraão.
-Reparte com sete e ainda até com oito, porque não sabes que mal haverá sobre a terra.
-E a sua boca estava dentro da coroa, e era de um côvado por cima; e era a sua boca redonda, segundo a obra da base, de côvado e meio; e também sobre a sua boca havia entalhes, e as suas cintas eram quadradas, não redondas.
-E aconteceu, depois de muitos destes dias, morrendo o rei do Egito, que os filhos de Israel suspiraram por causa da servidão e clamaram; e o seu clamor subiu a Deus por causa de sua servidão.
-Mas os ímpios não têm paz, diz o SENHOR.
-Pelo que verás a terra diante de ti, porém não entrarás nela, na terra que darei aos filhos de Israel.
-e cinco barras para as tábuas do outro lado do tabernáculo; como também cinco barras para as tábuas do outro lado do tabernáculo, de ambas as bandas, para o ocidente.
-o tribuno mandou que o levassem para a fortaleza, dizendo que o examinassem com açoites, para saber por que causa assim clamavam contra ele.
-E o sacerdote tomará o cordeiro da expiação da culpa e o logue de azeite e o sacerdote os moverá por oferta movida perante o SENHOR.
-e, vindo o que te convidou a ti e a ele, te diga: Dá o lugar a este; e então, com vergonha, tenhas de tomar o derradeiro lugar.
-O ouro deu, segundo o peso do ouro, para todos os utensílios de cada ministério; também a prata, por peso, para todos os utensílios de prata, para todos os utensílios de cada espécie de serviço;
-E era já quase a hora sexta, e houve trevas em toda a terra até à hora nona,
-Por que estamos nós também a toda hora em perigo?
-Também, no mesmo dia, se nomearam homens sobre as câmaras, para os tesouros, para as ofertas alçadas, para as primícias e para os dízimos, para ajuntarem nelas, das terras das cidades, as porções designadas pela Lei para os sacerdotes e para os levitas; porque Judá estava alegre por causa dos sacerdotes e dos levitas que assistiam ali.
-E a largura da dianteira do templo e do lugar separado para o oriente, de uma e de outra parte: cem côvados.
-Quantos serão os dias do teu servo? Quando me farás justiça contra os que me perseguem?
-Ora, pecando assim contra os irmãos e ferindo a sua fraca consciência, pecais contra Cristo.
-Era Zedequias da idade de vinte e cinco anos quando começou a reinar e onze anos reinou em Jerusalém.
-Se algum mal nos sobrevier, espada, juízo, peste ou fome, nós nos apresentaremos diante desta casa e diante de ti; pois teu nome está nesta casa; e clamaremos a ti na nossa angústia, e tu nos ouvirás e livrarás.
-Porque tinha ordenado ao espírito imundo que saísse daquele homem; pois já havia muito tempo que o arrebatava. E guardavam-no preso com grilhões e cadeias; mas, quebrando as prisões, era impelido pelo demônio para os desertos.
-Eis que a porei numa cama, e sobre os que adulteram com ela virá grande tribulação, se não se arrependerem das suas obras.
-Quanto aos profetas. O meu coração está quebrantado dentro de mim; todos os meus ossos estremecem; sou como um homem embriagado e como um homem vencido pelo vinho, por causa do SENHOR e por causa das palavras da sua santidade.
-Ri-se do temor, e não se espanta, e não torna atrás por causa da espada.
-E sucedeu que, posto o sol, houve escuridão; e eis um forno de fumaça e uma tocha de fogo que passou por aquelas metades.
-Dou graças a Deus, porque a nenhum de vós batizei, senão a Crispo e a Gaio;
-Se o deixamos assim, todos crerão nele, e virão os romanos e tirar-nos-ão o nosso lugar e a nação.
-Porém, se aquele mau servo disser consigo: O meu senhor tarde virá,
-E os utensílios que te foram dados para o serviço da Casa de teu Deus, restitui-os perante o Deus de Jerusalém.
-Apartai-vos de mim, malfeitores, para que guarde os mandamentos do meu Deus.
-Uma palavra se me disse em segredo; e os meus ouvidos perceberam um sussurro dela.
-Eis que um rio trasborda, e ele não se apressa, confiando que o Jordão possa entrar na sua boca.
-Ouvistes que foi dito: Olho por olho e dente por dente.
-E disse o SENHOR a Satanás: Observaste o meu servo Jó? Porque ninguém há na terra semelhante a ele, homem sincero e reto, temente a Deus, desviando-se do mal, e que ainda retém a sua sinceridade, havendo-me tu incitado contra ele, para o consumir sem causa.
-Minha alma, certamente, se lembra e se abate dentro de mim.
-Então, cantou Moisés e os filhos de Israel este cântico ao SENHOR; e falaram, dizendo: Cantarei ao SENHOR, porque sumamente se exaltou; lançou no mar o cavalo e o seu cavaleiro.
-E os filhos de Coate: Anrão, e Isar, e Hebrom, e Uziel.
-No coração do prudente, repousa a sabedoria, mas o que há no interior dos tolos se conhece.
-Então, disse Absalão a Aitofel: Dai conselho entre vós sobre o que devemos fazer.
-Ponde, pois, estas minhas palavras no vosso coração e na vossa alma, e atai-as por sinal na vossa mão, para que estejam por testeiras entre os vossos olhos,
-como também trezentos escudos de ouro batido; para cada escudo mandou pesar trezentos siclos de ouro; e Salomão os pôs na casa do bosque do Líbano.
-Mas tu és nosso Pai, ainda que Abraão nos não conhece, e Israel não nos reconhece. Tu, ó SENHOR, és nosso Pai; nosso Redentor desde a antiguidade é o teu nome.
-A espada virá sobre os mentirosos, e ficarão insensatos; a espada virá sobre os seus valentes, e desmaiarão.
-não neófito, para que, ensoberbecendo-se, não caia na condenação do diabo.
-Dá ordem a Arão e a seus filhos, dizendo: Esta é a lei do holocausto: o holocausto será queimado sobre o altar toda a noite até pela manhã, e o fogo do altar arderá nele.
-O SENHOR, porém, pague a cada um a sua justiça e a sua lealdade; pois o SENHOR te tinha dado hoje na minha mão, porém não quis estender a minha mão contra o ungido do SENHOR.
-E eles feriram cada um o seu homem; e os siros fugiram, e Israel os perseguiu; porém Ben-Hadade, rei da Síria, escapou a cavalo, com alguns cavaleiros.
-não entrareis na terra, pela qual levantei a minha mão que vos faria habitar nela, salvo Calebe, filho de Jefoné, e Josué, filho de Num.
-das nações de que o SENHOR tinha dito aos filhos de Israel: Não entrareis a elas, e elas não entrarão a vós; de outra maneira, perverterão o vosso coração para seguirdes os seus deuses. A estas se uniu Salomão com amor.
-E, no dia vinte e quatro do primeiro mês, eu estava à borda do grande rio Hidéquel;
-Mas Josué, filho de Num, e Calebe, filho de Jefoné, que eram dos homens que foram espiar a terra, ficaram com vida.
-E disse Esaú: De que te serve todo este bando que tenho encontrado? E ele disse: Para achar graça aos olhos de meu senhor.
-mas nos dias da voz do sétimo anjo, quando tocar a sua trombeta, se cumprirá o segredo de Deus, como anunciou aos profetas, seus servos.
-Então, farás chegar Arão e seus filhos à porta da tenda da congregação e os lavarás com água;
-dos hebronitas, foram Hasabias e seus irmãos, homens valentes, mil e setecentos, que tinham cargo dos ofícios em Israel, daquém do Jordão para o ocidente, em toda obra do SENHOR e para o serviço do rei;
-E estava ali a fonte de Jacó. Jesus, pois, cansado do caminho, assentou-se assim junto da fonte. Era isso quase à hora sexta.
-Porque o Filho do Homem até do sábado é Senhor.
-E, depois disto, aconteceu que se afeiçoou a uma mulher do vale de Soreque, cujo nome era Dalila.
-Assim, o meu coração se azedou, e sinto picadas nos meus rins.
-Ai dos que decretam leis injustas e dos escrivães que escrevem perversidades,
-Tomareis mais de cada tribo um príncipe, para repartir a terra em herança.
-E sobre o exército da tribo dos filhos de Issacar, Natanael, filho de Zuar.
-Então, responderam a  e disseram: Porquanto com certeza foi anunciado aos teus servos que o SENHOR, teu Deus, ordenou a Moisés, seu servo, que vos desse toda esta terra e destruísse todos os moradores da terra diante de vós, tememos muito por nossas vidas por causa de vós. Por isso, fizemos assim.
-Levantou, pois, o SENHOR a Salomão um adversário, a Hadade, o edomita; ele era da semente do rei em Edom.
-Mas, agora, desejam uma melhor, isto é, a celestial. Pelo que também Deus não se envergonha deles, de se chamar seu Deus, porque já lhes preparou uma cidade.
-O temor do SENHOR encaminha para a vida; aquele que o tem ficará satisfeito, e não o visitará mal nenhum.
-Porque eu era filho de meu pai, tenro e único em estima diante de minha mãe.
-Com maldição sois amaldiçoados, porque me roubais a mim, vós, toda a nação.
-mas: Vive o SENHOR que fez subir e que trouxe a geração da casa de Israel da terra do Norte e de todas as terras para onde os tinha arrojado. E habitarão na sua terra.
-Prata escolhida é a língua do justo; o coração dos ímpios é de nenhum preço.
-E todos os que o ouviam admiravam a sua inteligência e respostas.
-Direi do SENHOR: Ele é o meu Deus, o meu refúgio, a minha fortaleza, e nele confiarei.
-E levarão sobre si a sua vergonha e toda a sua rebeldia com que se rebelaram contra mim, quando eles habitarem seguros na sua terra, sem haver quem os espante;
-Contar-lhe-ia alguém o que tenho dito? Ou desejaria um homem que ele fosse devorado?
-E vi outro anjo subir da banda do sol nascente, e que tinha o selo do Deus vivo; e clamou com grande voz aos quatro anjos, a quem fora dado o poder de danificar a terra e o mar,
-Não entregarás a seu senhor o servo que se acolher a ti de seu senhor.
-E será que toda criatura vivente que vier por onde quer que entrarem esses dois ribeiros viverá, e haverá muitíssimo peixe; porque lá chegarão essas águas e sararão, e viverá tudo por onde quer que entrar esse ribeiro.
-E pôs estes querubins no meio da casa de dentro; e os querubins estendiam as asas, de maneira que a asa de um tocava na parede, e a asa do outro querubim tocava na outra parede, e as suas asas no meio da casa tocavam uma na outra.
-E padejá-los-ei com a pá nas portas da terra; desfilhei, destruí o meu povo; não voltaram dos seus caminhos.
-Saí da Babilônia, fugi de entre os caldeus. E anunciai com voz de júbilo, e fazei ouvir isso, e levai-o até ao fim da terra; dizei: O SENHOR remiu a seu servo Jacó.
-e Mispa, porquanto disse: Atente o SENHOR entre mim e ti, quando nós estivermos apartados um do outro.
-Então, depois que a cópia da carta do rei Artaxerxes se leu perante Reum, e Sinsai, o escrivão, e seus companheiros, apressadamente foram eles a Jerusalém, aos judeus, e os impediram à força de braço e com violência.
-E disse o SENHOR a Moisés: Desce, protesta ao povo que não traspasse o termo para ver o SENHOR, a fim de muitos deles não perecerem.
-E dir-lhes-ás: Esta é a oferta queimada que oferecereis ao SENHOR: dois cordeiros de um ano, sem mancha, cada dia, em contínuo holocausto.
-sabendo isto: que a lei não é feita para o justo, mas para os injustos e obstinados, para os ímpios e pecadores, para os profanos e irreligiosos, para os parricidas e matricidas, para os homicidas,
-Porém vós guardareis os meus estatutos e os meus juízos, e nenhuma dessas abominações fareis nem o natural, nem o estrangeiro que peregrina entre vós;
-Disseram, então, os príncipes dos filisteus: Que fazem aqui estes hebreus? E disse Aquis aos príncipes dos filisteus: Não é este Davi, o criado de Saul, rei de Israel, que esteve comigo há alguns dias ou anos? E coisa nenhuma achei nele, desde o dia em que se revoltou até ao dia de hoje.
-E tinha a glória de Deus. A sua luz era semelhante a uma pedra preciosíssima, como a pedra de jaspe, como o cristal resplandecente.
-Reconhece-o em todos os teus caminhos, e ele endireitará as tuas veredas.
-E Jeoaquim dormiu com seus pais; e Joaquim, seu filho, reinou em seu lugar.
-E os espias estavam assentados com ela numa câmara. Então, ela lhe disse: Os filisteus vêm sobre ti, Sansão. Então, quebrou as vergas de vimes, como se quebra o fio da estopa ao cheiro do fogo; assim, não se soube em que consistia a sua força.
-Não serão envergonhados nos dias maus e nos dias de fome se fartarão.
-Agora, pois, que te importa a ti o caminho do Egito, para beberes as águas de Sior? E que te importa a ti o caminho da Assíria, para beberes as águas do rio?
-traguemo-los vivos, como a sepultura, e inteiros, como os que descem à cova;
-Mas o juízo estabelecer-se-á, e eles tirarão o seu domínio, para o destruir e para o desfazer até ao fim.
-E, tendo-os despedido, foi ao monte para orar.
-que fora transportado de Jerusalém com os cativos que foram levados com Jeconias, rei de Judá, ao qual transportara Nabucodonosor, rei de Babilônia.
-Uma vez jurei por minha santidade (não mentirei a Davi).
-o que os sábios anunciaram, e o que ouviram de seus pais, e não ocultaram
-e a Ofir, e a Havilá, e a Jobabe; todos estes foram filhos de Joctã.
-Não extingais o Espírito.
-e destruirei as cidades da tua terra e derribarei todas as tuas fortalezas;
-E disse Isaque a Jacó: Chega-te agora, para que te apalpe, meu filho, se és meu filho Esaú mesmo ou não.
-E, tendo passado para a outra banda, chegaram à terra de Genesaré.
-Assim, tomou Sarai, mulher de Abrão, a Agar, egípcia, sua serva, e deu-a por mulher a Abrão, seu marido, ao fim de dez anos que Abrão habitara na terra de Canaã.
-E Pedro, tornando a si, disse: Agora, sei, verdadeiramente, que o Senhor enviou o seu anjo e me livrou da mão de Herodes e de tudo o que o povo dos judeus esperava.
-ainda que estivessem no meio dela estes três homens, Noé,  e Jó, eles, pela sua justiça, livrariam apenas a sua alma, diz o Senhor JEOVÁ.
-Arrepende-te, pois; quando não, em breve virei a ti e contra eles batalharei com a espada da minha boca.
-Mas houve entre eles dez homens que disseram a Ismael: Não nos mates a nós; porque temos no campo tesouros escondidos, trigo, e cevada, e azeite, e mel. E ele, por isso, os deixou e não os matou, como a seus irmãos.
-E, quanto ao filho de Eliézer, foi Reabias o chefe; e Eliézer não teve outros filhos; porém os filhos de Reabias se multiplicaram grandemente.
-E o SENHOR, nosso Deus, no-lo deu diante de nós, e o ferimos, a ele, e a seus filhos, e a todo o seu povo.
-Estes são os que passaram o Jordão no mês primeiro, quando ele transbordava por todas as suas ribanceiras, e fizeram fugir a todos os dos vales para o oriente e para o ocidente.
-Filipe foi dizê-lo a André, e, então, André e Filipe o disseram a Jesus.
-Portanto, no mesmo instante em que todos os povos ouviram o som da buzina, do pífaro, da harpa, da sambuca, do saltério e de toda sorte de música, se prostraram todos os povos, nações e línguas e adoraram a estátua de ouro que o rei Nabucodonosor tinha levantado.
-Mas quem me negar diante dos homens será negado diante dos anjos de Deus.
-E logo, aproximando-se de Jesus, disse: Eu te saúdo, Rabi. E beijou-o.
-E disse-lhe o SENHOR: Vai, desce; depois, subirás tu, e Arão contigo; os sacerdotes, porém, e o povo não traspassem o termo para subir ao SENHOR, para que não se lance sobre eles.
-Quem és tu, ó monte grande? Diante de Zorobabel, serás uma campina; porque ele trará a primeira pedra com aclamações: Graça, graça a ela.
-pois lhe provocaram a ira com os seus altos e despertaram-lhe o zelo com as suas imagens de escultura.
-Então, Pilatos, querendo satisfazer a multidão, soltou-lhes Barrabás, e, açoitado Jesus, o entregou para que fosse crucificado.
-Então, falou o SENHOR a Moisés, dizendo:
-Regozijar-me-ei muito no SENHOR, a minha alma se alegra no meu Deus, porque me vestiu de vestes de salvação, me cobriu com o manto de justiça, como um noivo que se adorna com atavios e como noiva que se enfeita com as suas joias.
-Então, a nuvem de fumaça se começou a levantar da cidade, como uma coluna de fumaça; e, virando-se Benjamim a olhar para trás de si, eis que a fumaça da cidade subia ao céu.
-Era, pois, muito grande o pecado desses jovens perante o SENHOR, porquanto os homens desprezavam a oferta do SENHOR.
-Mas, agora, despojai-vos também de tudo: da ira, da cólera, da malícia, da maledicência, das palavras torpes da vossa boca.
-E outra vez: Louvai ao Senhor, todos os gentios, e celebrai-o todos os povos.
-E cantavam um como cântico novo diante do trono e diante dos quatro animais e dos anciãos; e ninguém podia aprender aquele cântico, senão os cento e quarenta e quatro mil que foram comprados da terra.
-E, detendo-se ali algum tempo, os irmãos os deixaram voltar em paz para os apóstolos,
-No caminho de tua irmã, andaste; por isso, entregarei o seu copo na tua mão.
-A multidão, pois, que estava com ele quando Lázaro foi chamado da sepultura testificava que ele o ressuscitara dos mortos.
-Desde o dia em que vossos pais saíram da terra do Egito até hoje, enviei-vos todos os meus servos, os profetas, todos os dias madrugando e enviando-os.
-E, havendo Labão ido a tosquiar as suas ovelhas, furtou Raquel os ídolos que seu pai tinha.
-porque aquela é a sua cobertura e a veste da sua pele; em que se deitaria? Será, pois, que, quando clamar a mim, eu o ouvirei, porque sou misericordioso.
-Habitando, pois, os filhos de Israel no meio dos cananeus, e heteus, e amorreus, e ferezeus, e heveus, e jebuseus,
-E, ouvindo nós isto, rogamos-lhe, tanto nós como os que eram daquele lugar, que não subisse a Jerusalém.
-E sucedeu que, no ano duodécimo, no décimo mês, aos cinco do mês do nosso cativeiro, veio a mim um que tinha escapado de Jerusalém, dizendo: Ferida está a cidade.
-E puseram o povo, todo o arraial que estava ao norte da cidade e a sua emboscada ao ocidente da cidade; e foi  aquela noite ao meio do vale.
-Depois, Moisés se recolheu ao arraial, ele e os anciãos de Israel.
-Por que não comestes a oferta pela expiação do pecado no lugar santo? Pois uma coisa santíssima é e o SENHOR a deu a vós, para que levásseis a iniquidade da congregação, para fazer expiação por eles diante do SENHOR.
-E aconteceu que, acabando Jesus de dar instruções aos seus doze discípulos, partiu dali a ensinar e a pregar nas cidades deles.
-E acontecerá que, se eles te não crerem, nem ouvirem a voz do primeiro sinal, crerão a voz do derradeiro sinal;
-e Caim, e Gibeá, e Timna: dez cidades e as suas aldeias.
-Seja, porém, o vosso falar: Sim, sim; não, não, porque o que passa disso é de procedência maligna.
-Para que eu virasse a forma deste negócio, Joabe, teu servo, fez isso; porém sábio é meu senhor, conforme a sabedoria de um anjo de Deus, para entender tudo o que há na terra.
-Porque se chegou ao SENHOR, não se apartou de após ele e guardou os mandamentos que o SENHOR tinha dado a Moisés.
-O que também aprendestes, e recebestes, e ouvistes, e vistes em mim, isso fazei; e o Deus de paz será convosco.
-Eis que farei uma coisa nova, e, agora, sairá à luz; porventura, não a sabereis? Eis que porei um caminho no deserto e rios, no ermo.
-E as sete espigas miúdas devoravam as sete espigas boas. E eu disse-o aos magos, mas ninguém houve que mo interpretasse.
-Também todos os vasos de beber do rei Salomão eram de ouro, e todos os objetos da casa do bosque do Líbano eram de ouro puro; não havia neles prata, porque nos dias de Salomão não tinha estimação alguma.
-Obedecemos, pois, à voz de Jonadabe, filho de Recabe, nosso pai, em tudo quanto nos ordenou; de maneira que não bebemos vinho em todos os nossos dias, nem nós, nem nossas mulheres, nem nossos filhos, nem nossas filhas;
-Abateu a minha força no caminho; abreviou os meus dias.
-Eis que já tens ouvido o que fizeram os reis da Assíria a todas as terras, destruindo-as totalmente; e escaparias tu?
-E não terá respeito aos deuses de seus pais, nem terá respeito ao amor das mulheres, nem a qualquer deus, porque sobre tudo se engrandecerá.
-E chegou a um lugar onde passou a noite, porque já o sol era posto; e tomou uma das pedras daquele lugar, e a pôs por sua cabeceira, e deitou-se naquele lugar.
-que for, e servir a outros deuses, e se encurvar a eles, ou ao sol, ou à lua, ou a todo o exército do céu, o que eu não ordenei;
-Porque assim diz o SENHOR acerca de Salum, filho de Josias, rei de Judá, que reinou em lugar de Josias, seu pai, e que saiu deste lugar: Nunca ali tornará mais.
-Guardai, pois, todos os mandamentos que eu vos ordeno hoje, para que vos esforceis, e entreis, e possuais a terra que passais a possuir;
-E Davi os repartiu por turnos, segundo os filhos de Levi: Gérson, Coate e Merari.
-E o que apanhou a cinza da bezerra lavará as suas vestes e será imundo até à tarde; isto será por estatuto perpétuo aos filhos de Israel e ao estrangeiro que peregrina no meio deles.
-de maneira que algum homem se houver deitado com ela, e for oculto aos olhos de seu marido, e ela o tiver ocultado, havendo-se ela contaminado, e contra ela não houver testemunha, e no feito não for apanhada,
-Nem todo o Líbano basta para o fogo, nem os seus animais bastam para holocaustos.
-Ninguém se engane a si mesmo: se alguém dentre vós se tem por sábio neste mundo, faça-se louco para ser sábio.
-E, quando veio a tarde, os seus discípulos desceram para o mar.
-E subiram do Egito e vieram à terra de Canaã, a Jacó, seu pai.
-Não trarás salário de rameira nem preço de cão à casa do SENHOR, teu Deus, por qualquer voto; porque ambos estes são igualmente abominação ao SENHOR, teu Deus.
-E não vos esqueçais da beneficência e comunicação, porque, com tais sacrifícios, Deus se agrada.
-E disse-lhe: Tudo isto te darei se, prostrado, me adorares.
-pararam-se as águas que vinham de cima; levantaram-se num montão, mui longe da cidade de Adã, que está da banda de Sartã; e as que desciam ao mar das Campinas, que é o mar Salgado, faltavam de todo e separaram-se; então, passou o povo defronte de Jericó.
-Aquele, pois, que vos dá o Espírito e que opera maravilhas entre vós o faz pelas obras da lei ou pela pregação da fé?
-E entrava e saía  entre o povo, porque não o tinham encerrado na prisão.
-Estando ainda este falando veio outro e disse: Estando teus filhos e tuas filhas comendo e bebendo vinho, em casa de seu irmão primogênito,
-Os cantores iam adiante, os tocadores de instrumentos, atrás; entre eles, as donzelas tocando adufes.
-E, havendo-o escarnecido, despiram-lhe a púrpura, e o vestiram com as suas próprias vestes, e o levaram para fora, a fim de o crucificarem.
-Quando forem, sobre eles estenderei a minha rede e, como aves do céu, os farei descer; castigá-los-ei, conforme o que eles têm ouvido na sua congregação.
-Também a minha cabeça será exaltada sobre os meus inimigos que estão ao redor de mim; pelo que oferecerei sacrifício de júbilo no seu tabernáculo; cantarei, sim, cantarei louvores ao SENHOR.
-porque, então, o teu rosto levantarás sem mácula; e estarás firme e não temerás.
-Eis que o filho que te nascer será homem de repouso; porque repouso lhe hei de dar de todos os seus inimigos em redor; portanto, Salomão será o seu nome, e paz e descanso darei a Israel nos seus dias.
-E, tomando o cálice e havendo dado graças, disse: Tomai-o e reparti-o entre vós,
-Toda boa dádiva e todo dom perfeito vêm do alto, descendo do Pai das luzes, em quem não há mudança, nem sombra de variação.
-Quem crer e for batizado será salvo; mas quem não crer será condenado.
-E a casa de Israel nunca mais terá espinho que a pique, nem espinho que cause dor, de qualquer que ao redor deles os roubam; e saberão que eu sou o Senhor JEOVÁ.
-filho de Isar, filho de Coate, filho de Levi, filho de Israel.
-Mas não estenderás a mão para um montão de terra, se houver clamor nele na sua desventura?
-Depois, levaram Jesus da casa de Caifás para a audiência. E era pela manhã cedo. E não entraram na audiência, para não se contaminarem e poderem comer a Páscoa.
-E a Enoque nasceu Irade, e Irade gerou a Meujael, e Meujael gerou a Metusael, e Metusael gerou a Lameque.
-Então, o SENHOR disse a Josué: Estende a lança que tens na tua mão, para Ai, porque a darei na tua mão. E  estendeu a lança, que estava na sua mão, para a cidade.
-Come mel, meu filho, porque é bom, e o favo de mel, que é doce ao teu paladar.
-O ímpio maquina contra o justo e contra ele range os dentes.
-E da cidade tomou a um eunuco, que tinha cargo da gente de guerra, e a cinco homens dos que viam a face do rei, e se acharam na cidade, como também ao escrivão-mor do exército, que registrava o povo da terra para a guerra, e a sessenta homens do povo da terra, que se acharam na cidade.
-Os filhos de Levi foram, pois, Gérson, Coate e Merari.
-Havia também um certo mendigo, chamado Lázaro, que jazia cheio de chagas à porta daquele.
-Mandamo-vos, porém, irmãos, em nome de nosso Senhor Jesus Cristo, que vos aparteis de todo irmão que andar desordenadamente e não segundo a tradição que de nós recebeu.
-E fez o manto do éfode de obra tecida, todo de pano azul.
-E disse-lhe o SENHOR: Esta é a terra de que jurei a Abraão, Isaque e Jacó, dizendo: À tua semente a darei; mostro-ta para a veres com os teus olhos; porém para lá não passarás.
-Por estes, foram repartidas as ilhas das nações nas suas terras, cada qual segundo a sua língua, segundo as suas famílias, entre as suas nações.
-e o amorreu, e o cananeu, e o girgaseu, e o jebuseu.
-Suscito a um do Norte, e ele há de vir; desde o nascimento do sol, invocará o meu nome; e virá sobre os magistrados, como sobre o lodo; e, como o oleiro pisa o barro, assim ele os pisará.
-O homem bom tira boas coisas do seu bom tesouro, e o homem mau do mau tesouro tira coisas más.
-(homens dos quais o mundo não era digno), errantes pelos desertos, e montes, e pelas covas e cavernas da terra.
-E disseram os homens de Judá: Por que subistes contra nós? E eles disseram: Subimos para amarrar Sansão, para lhe fazer a ele como ele nos fez a nós.
-E não escondas o teu rosto do teu servo, porque estou angustiado; ouve-me depressa.
-Porquanto se levantará nação contra nação, e reino contra reino, e haverá fomes, e pestes, e terremotos, em vários lugares.
-Aumentarás a minha grandeza e de novo me consolarás.
-Então, Moisés e Arão caíram sobre os seus rostos perante todo o ajuntamento dos filhos de Israel.
-dizendo: Na cadeira de Moisés, estão assentados os escribas e fariseus.
-Todavia, nenhuma coisa consagrada que alguém consagrar ao SENHOR de tudo o que tem, de homem, ou de animal, ou do campo da sua possessão, se venderá nem resgatará; toda coisa consagrada será uma coisa santíssima ao SENHOR.
-Porque o SENHOR, teu Deus, é um fogo que consome, um Deus zeloso.
-Meu senhor perguntou a seus servos, dizendo: Tendes vós pai ou irmão?
-E os homens da sua cidade, os anciãos e os nobres que habitavam na sua cidade fizeram como Jezabel lhes ordenara, conforme estava escrito nas cartas que lhes mandara.
-Então, saiu Satanás da presença do SENHOR e feriu a  de uma chaga maligna, desde a planta do pé até ao alto da cabeça.
-Então, Jezabel, sua mulher, lhe disse: Governas tu, agora, no reino de Israel? Levanta-te, come pão, e alegre-se o teu coração; eu te darei a vinha de Nabote, o jezreelita.
-Torna a dar-me a alegria da tua salvação e sustém-me com um espírito voluntário.
-E, quanto à porta que olhava para o caminho do norte, no átrio exterior, ele mediu o seu comprimento e a sua largura.
-Então,  rasgou as suas vestes e se prostrou em terra sobre o seu rosto perante a arca do SENHOR até à tarde, ele e os anciãos de Israel; e deitaram pó sobre as suas cabeças.
-Para que todo o Israel o ouça e o tema, e não se torne a fazer segundo esta coisa má no meio de ti.
-Também todos os chefes dos sacerdotes e o povo aumentavam de mais em mais as transgressões, segundo todas as abominações dos gentios; e contaminaram a Casa do SENHOR, que ele tinha santificado em Jerusalém.
-E disse o SENHOR: Judá subirá; eis que lhe dei esta terra na sua mão.
-E levantou-se Abimeleque pela manhã, de madrugada, chamou todos os seus servos e falou todas estas palavras em seus ouvidos; e temeram muito aqueles varões.
-Clamo a ti, mas tu não me respondes; estou em pé, mas para mim não atentas.
-Então, disse o rei de Israel a Josafá: Ainda há um homem por quem podemos consultar ao SENHOR; porém eu o aborreço, porque nunca profetiza de mim bem, mas só mal; este é Micaías, filho de Inlá. E disse Josafá: Não fale o rei assim.
-Quando nascer o boi, ou cordeiro, ou cabra, sete dias estará debaixo de sua mãe; depois, desde o dia oitavo em diante, será aceito por oferta queimada ao SENHOR.
-E subia e saía o carro do Egito por seiscentos siclos de prata, e o cavalo, por cento e cinquenta; e assim, por meio deles, os tiravam para todos os reis dos heteus e para os reis da Síria.
-E Davi considerou essas palavras no seu ânimo e temeu muito diante de Aquis, rei de Gate.
-os filhos de Bila, serva de Raquel: Dã e Naftali;
-Embriagarei as minhas setas de sangue, e a minha espada comerá carne; do sangue dos mortos e dos prisioneiros, desde a cabeça, haverá vinganças do inimigo.
-E eis que estavam falando com ele dois varões, que eram Moisés e Elias,
-Então, todo o Judá trouxe os dízimos do grão, e do mosto, e do azeite aos celeiros.
-E uma espada virá ao Egito, e haverá grande dor na Etiópia, quando caírem os traspassados no Egito; e tomarão a sua multidão, e quebrar-se-ão os seus fundamentos.
-Que mais te dirá Davi, acerca da honra feita a teu servo? Porém tu bem conheces o teu servo.
-Redime, ó Deus, a Israel de todas as suas angústias.
-E acontecerá, naquele dia, que os profetas se envergonharão, cada um da sua visão, quando profetizarem; nem mais se vestirão de manto de pelos, para mentirem.
-Porque todas as nações beberam do vinho da ira da sua prostituição. Os reis da terra se prostituíram com ela. E os mercadores da terra se enriqueceram com a abundância de suas delícias.
-Porque assim me disse o SENHOR: Como o leão e o filhote do leão rugem sobre a sua presa, ainda que se convoque contra eles uma multidão de pastores, e não se espantam das suas vozes, nem se abatem pela sua multidão, assim o SENHOR dos Exércitos descerá para pelejar pelo monte Sião e pelo seu outeiro.
-Assim devem os maridos amar a sua própria mulher como a seu próprio corpo. Quem ama a sua mulher ama-se a si mesmo.
-Isto lhe dirás: Assim diz o SENHOR: Eis que o que edifiquei eu derribo e o que plantei eu arranco, e isso em toda esta terra.
-E escrevi-vos isso mesmo para que, quando lá for, não tenha tristeza da parte dos que deveriam alegrar-me, confiando em vós todos de que a minha alegria é a de todos vós.
-E abriu-se no céu o templo de Deus, e a arca do seu concerto foi vista no seu templo; e houve relâmpagos, e vozes, e trovões, e terremotos, e grande saraiva.
-Também feriu os moabitas, e os moabitas ficaram servos de Davi, trazendo presentes.
-Quando por alguém fores convidado às bodas, não te assentes no primeiro lugar, para que não aconteça que esteja convidado outro mais digno do que tu,
-Então, estendeu um querubim a mão de entre os querubins para o fogo que estava entre os querubins; e tirou e o pôs nas mãos do que estava vestido de linho, o qual o tomou e saiu.
-Depois, despirá as suas vestes, e vestirá outras vestes, e levará a cinza fora do arraial para um lugar limpo.
-Também lhes disse Rúben: Não derrameis sangue; lançai-o nesta cova que está no deserto e não lanceis mãos nele; para livrá-lo das suas mãos e para torná-lo a seu pai.
-Eis que tu, que tens por sobrenome judeu, e repousas na lei, e te glorias em Deus;
-E, no dia vinte e quatro deste mês, se ajuntaram os filhos de Israel com jejum e com pano de saco e traziam terra sobre si. E a geração de Israel se apartou de todos os estranhos, e puseram-se em pé e fizeram confissão dos seus pecados e das iniquidades de seus pais.
-Era Jeoaquim de vinte e cinco anos de idade quando começou a reinar e onze anos reinou em Jerusalém; e fez o que era mau aos olhos do SENHOR, seu Deus.
-Quanto menos lhe poderei eu responder ou escolher diante dele as minhas palavras!
-Que se responderá, pois, aos mensageiros do povo? Que o SENHOR fundou a Sião, para que os opressos do seu povo nela encontrem abrigo.
-Tendo Jesus saído de casa naquele dia, estava assentado junto ao mar.
-Ó Deus, não estejas em silêncio! Não cerres os ouvidos nem fiques impassível, ó Deus!
-Dize à casa de Israel: Assim diz o Senhor JEOVÁ: Eis que eu profanarei o meu santuário, a glória da vossa fortaleza, o desejo dos vossos olhos e o regalo da vossa alma; e vossos filhos e vossas filhas, que deixastes, cairão à espada.
-Eis que vos corromperei a semente e espalharei esterco sobre o vosso rosto, o esterco das vossas festas; e com ele sereis tirados.
-Porque por mim mesmo jurei, diz o SENHOR, que Bozra servirá de espanto, de opróbrio, de assolação e de execração; e todas as suas cidades se tornarão em assolações perpétuas.
-E sucedeu, no ano undécimo, no terceiro mês, ao primeiro do mês, que veio a mim a palavra do SENHOR, dizendo:
-Dizendo ele essas coisas, muitos creram nele.
-E disse o SENHOR: Também a Judá hei de tirar de diante da minha face, como tirei a Israel, e rejeitarei esta cidade de Jerusalém que elegi, como também a casa de que disse: Estará ali o meu nome.
-Então, ia ter com ele Jerusalém, e toda a Judeia, e toda a província adjacente ao Jordão;
-Inclinar-me-ei para o teu santo templo e louvarei o teu nome, pela tua benignidade e pela sua verdade; pois engrandeceste a tua palavra acima de todo o teu nome.
-E isso foi causa de pecado à casa de Jeroboão, para destruí-la e extingui-la da terra.
-E o rei de Sodoma disse a Abrão: Dá-me a mim as almas e a fazenda toma para ti.
-para que a geração vindoura a soubesse, e os filhos que nascessem se levantassem e a contassem a seus filhos;
-nem estejais em silêncio, até que confirme e até que ponha a Jerusalém por louvor na terra.
-Para que não bebam, e se esqueçam do estatuto, e pervertam o juízo de todos os aflitos.
-Pois lhes dirás: Assim diz o SENHOR dos Exércitos, o Deus de Israel: Bebei, e embebedai-vos, e vomitai, e caí, e não torneis a levantar-vos, por causa da espada que eu vos enviarei.
-Se a nuvem, porém, não se levantava, não caminhavam até ao dia em que ela se levantava;
-Antes de ser afligido, andava errado; mas agora guardo a tua palavra.
-Então, entra, e fecha a porta sobre ti e sobre teus filhos, e deita o azeite em todos aqueles vasos, e põe à parte o que estiver cheio.
-Tu multiplicaste este povo e a alegria lhe aumentaste; todos se alegrarão perante ti, como se alegram na ceifa e como exultam quando se repartem os despojos.
-Assim trouxeram os sacerdotes a arca do concerto do SENHOR ao seu lugar, ao oráculo da casa, ao Lugar Santíssimo, até debaixo das asas dos querubins.
-E Davi e os seus homens vieram à cidade, e eis que estava queimada a fogo, e suas mulheres, seus filhos e suas filhas eram levados cativos.
-E, quanto ao que viu o rei, um vigia, um santo, que descia do céu e que dizia: Cortai a árvore e destruí-a, mas o tronco, com as suas raízes, deixai na terra e, com cadeias de ferro e de bronze, na erva do campo; e seja molhado do orvalho do céu, e a sua porção seja com os animais do campo, até que passem sobre ele sete tempos,
-Guardai-vos de que vos esqueçais do concerto do SENHOR, vosso Deus, que tem feito convosco, e vos façais alguma escultura, imagem de alguma coisa que o SENHOR, vosso Deus, vos proibiu.
-Depois disso, José de Arimateia (o que era discípulo de Jesus, mas oculto, por medo dos judeus) rogou a Pilatos que lhe permitisse tirar o corpo de Jesus. E Pilatos lho permitiu. Então, foi e tirou o corpo de Jesus.
-Porque, segundo o homem interior, tenho prazer na lei de Deus.
-A nossa santa e gloriosa casa, em que te louvavam nossos pais, foi queimada; e todas as nossas coisas mais aprazíveis se tornaram em assolação.
-E, naquele mesmo ano, oprimiram e vexaram aos filhos de Israel; dezoito anos oprimiram todos os filhos de Israel que estavam dalém do Jordão, na terra dos amorreus, que está em Gileade.
-e senhoreava no monte Hermom, e em Salca, e em toda a Basã, até ao termo dos gesureus e dos maacateus e metade de Gileade, termo de Seom, rei de Hesbom.
-E viverá, e se lhe dará do ouro de Sabá, e continuamente se fará por ele oração, e todos os dias o bendirão.
-Nem tu as ouviste, nem tu as conheceste, nem tampouco desde então foi aberto o teu ouvido, porque eu sabia que procederias muito perfidamente e que eras prevaricador desde o ventre.
-deu ordem Moisés aos levitas que levavam a arca do concerto do SENHOR, dizendo:
-E Hirão, rei de Tiro, respondeu por escrito e enviou a Salomão, dizendo: Porquanto o SENHOR ama o seu povo, te pôs sobre ele rei.
-Porventura, dá graças ao tal servo, porque fez o que lhe foi mandado? Creio que não.
-Também contareis as casas de Jerusalém e derribareis as casas, para fortalecer os muros.
-E olhei para a altura do templo em redor; e eram os fundamentos das câmaras laterais da medida de uma cana inteira: seis côvados grandes. A grossura da parede das câmaras laterais de fora era de cinco côvados; e o que foi deixado vazio era o lugar das câmaras laterais, que estavam junto ao templo. E entre as câmaras havia a largura de vinte côvados por todo o redor do templo. E as entradas das câmaras laterais estavam voltadas para o lugar vazio; uma entrada para o caminho do norte, e outra entrada para o do sul; e a largura do lugar vazio era de cinco côvados em redor.
-e Eltolade, e Quesil, e Horma,
-Farás também dois anéis de ouro, que porás nas duas ombreiras do éfode, abaixo, na frente dele, perto da sua juntura, sobre o cinto de obra esmerada do éfode.
-disse o rei a Ester, no banquete do vinho: Qual é a tua petição? E se te dará. E qual é o teu requerimento? E se fará, ainda até metade do reino.
-Então, vieram os homens de Judá e ungiram ali a Davi rei sobre a casa de Judá. E deram avisos a Davi, dizendo: Os homens de Jabes-Gileade são os que sepultaram Saul.
-Depois, havendo a concupiscência concebido, dá à luz o pecado; e o pecado, sendo consumado, gera a morte.
-E buscaram por todos os termos de Israel uma moça formosa; e acharam a Abisague, sunamita, e a trouxeram ao rei.
-e Salum gerou a Hilquias, e Hilquias gerou a Azarias;
-Pois perseguem a quem afligiste e conversam sobre a dor daqueles a quem feriste.
-que introduzissem na presença do rei a rainha Vasti, com a coroa real, para mostrar aos povos e aos príncipes a sua formosura, porque era formosa à vista.
-E da sua boca tirarei os nomes de baalins, e os seus nomes não virão mais em memória.
-Sucedeu, porém, que, no ano vinte e três do rei Joás, os sacerdotes ainda não tinham reparado as fendas da casa.
-Então, disse-lhe José: Esta é a sua interpretação: os três sarmentos são três dias;
-Pois comerás do trabalho das tuas mãos, feliz serás, e te irá bem.
-Mas, para que os não escandalizemos, vai ao mar, lança o anzol, tira o primeiro peixe que subir e, abrindo-lhe a boca, encontrarás um estáter; toma-o e dá-o por mim e por ti.
-dizendo: Bendito o Rei que vem em nome do Senhor! Paz no céu e glória nas alturas!
-E há de ser que, depois, derramarei o meu Espírito sobre toda a carne, e vossos filhos e vossas filhas profetizarão, os vossos velhos terão sonhos, os vossos jovens terão visões.
-e, de igual modo, também de  e João, filhos de Zebedeu, que eram companheiros de Simão. E disse Jesus a Simão: Não temas; de agora em diante, serás pescador de homens.
-E aos filhos de Arão deram as cidades de refúgio: Hebrom, e Libna, e os seus arrabaldes, e Jatir, e Estemoa, e os seus arrabaldes, e Hilém, e os seus arrabaldes, e Debir, e os seus arrabaldes, e Asã, e os seus arrabaldes, e Bete-Semes, e os seus arrabaldes;
-E rogo-vos, com instância, que assim o façais para que eu mais depressa vos seja restituído.
-não defraudando; antes, mostrando toda a boa lealdade, para que, em tudo, sejam ornamento da doutrina de Deus, nosso Salvador.
-Livra-me, ó SENHOR, dos meus inimigos; porque em ti é que eu me refugio.
-Eu amo os que me amam, e os que de madrugada me buscam me acharão.
-Abres a mão e satisfazes os desejos de todos os viventes.
-E multiplicarei o fruto das árvores e a novidade do campo, para que nunca mais recebais o opróbrio da fome entre as nações.
-E em Jerusalém estavam habitando judeus, varões religiosos, de todas as nações que estão debaixo do céu.
-E veio a mim a palavra do SENHOR, segunda vez, dizendo: Que é que vês? E eu disse: Vejo uma panela a ferver, cuja face está para a banda do Norte.
-E semeou Isaque naquela mesma terra e colheu, naquele mesmo ano, cem medidas, porque o SENHOR o abençoava.
-Então, se acendeu a ira do SENHOR contra Uzá e o feriu, por ter estendido a mão à arca; e morreu ali perante Deus.
-Assim diz o SENHOR: Guardai a vossa alma e não tragais cargas no dia de sábado, nem as introduzais pelas portas de Jerusalém;
-Então, o profeta levantou o cadáver do homem de Deus, e pô-lo em cima do jumento, e o tornou a levar; assim veio o profeta velho à cidade, para o chorar e enterrar.
-E contará com aquele que o comprou, desde o ano que se vendeu a ele até ao Ano do Jubileu; e o dinheiro da sua venda será conforme o número dos anos, conforme os dias de um jornaleiro estará com ele.
-O teu povo se apresentará voluntariamente no dia do teu poder, com santos ornamentos; como vindo do próprio seio da alva, será o orvalho da tua mocidade.
-E todos os filhos de Israel o fizeram; como o SENHOR ordenara a Moisés e a Arão, assim fizeram.
-Depois, porás na arca o Testemunho, que eu te darei.
-E o sacerdote, examinando a praga, depois que for lavada, e eis que, se a praga não mudou a sua aparência, nem a praga se estendeu, imundo está; com fogo o queimarás; praga penetrante é, seja pelado em todo ou em parte.
-Porquanto este povo desprezou as águas de Siloé que correm brandamente e com Rezim e com o filho de Remalias se alegrou,
-Ora, quando essas coisas começarem a acontecer, olhai para cima e levantai a vossa cabeça, porque a vossa redenção está próxima.
-Mas os filhos de Belial disseram: É este o que nos há de livrar? E o desprezaram e não lhe trouxeram presentes. Porém ele se fez como surdo.
-E, quando todas as coisas lhe estiverem sujeitas, então, também o mesmo Filho se sujeitará àquele que todas as coisas lhe sujeitou, para que Deus seja tudo em todos.
-tempo de espalhar pedras e tempo de ajuntar pedras; tempo de abraçar e tempo de afastar-se de abraçar;
-Porque convém que reine até que haja posto a todos os inimigos debaixo de seus pés.
-Porque é impossível que os que já uma vez foram iluminados, e provaram o dom celestial, e se fizeram participantes do Espírito Santo,
-E que o ressuscitaria dos mortos, para nunca mais tornar à corrupção, disse-o assim: As santas e fiéis bênçãos de Davi vos darei.
-Porque ele a fundou sobre os mares e a firmou sobre os rios.
-e, vindo ter conosco, tomou a cinta de Paulo e, ligando-se os seus próprios pés e mãos, disse: Isto diz o Espírito Santo: Assim ligarão os judeus, em Jerusalém, o varão de quem é esta cinta e o entregarão nas mãos dos gentios.
-Para que não se fartem os estranhos do teu poder, e todos os teus trabalhos entrem na casa do estrangeiro;
-E lançaram sortes, assim os pequenos como os grandes, segundo as casas de seus pais, para cada porta.
-e Fineias, filho de Eleazar, filho de Arão, estava perante ele naqueles dias), dizendo: Sairei ainda mais a pelejar contra os filhos de Benjamim, meu irmão, ou pararei? E disse o SENHOR: Subi, que amanhã eu to entregarei na mão.
-E te tomarei, e reinarás sobre tudo o que desejar a tua alma e serás rei sobre Israel.
-Enfraquecida está Damasco; virou as costas para fugir, e tremor a tomou; angústia e dores a tomaram como da mulher que está de parto.
-E sobre este tal abres os teus olhos, e a mim me fazes entrar em juízo contigo.
-Porém, se a praga tornar e brotar na casa, depois de se arrancarem as pedras, e depois de a casa ser raspada, e depois de ser rebocada,
-Porque a ira do homem não opera a justiça de Deus.
-Uma flecha mortífera é a língua deles; fala engano; com a sua boca fala cada um de paz com o seu companheiro, mas no seu interior arma-lhe ciladas.
-Antes, te lembrarás do SENHOR, teu Deus, que ele é o que te dá força para adquirires poder; para confirmar o seu concerto, que jurou a teus pais, como se vê neste dia.
-E, quanto ao seu tratamento, foi-lhe sempre dado o tratamento comum do rei da Babilônia, a sua porção cotidiana, até o dia da sua morte, todos os dias da sua vida.
-E possuí-los-eis por herança para vossos filhos depois de vós, para herdarem a possessão; perpetuamente os fareis servir, mas sobre vossos irmãos, os filhos de Israel, cada um sobre o seu irmão, não vos assenhoreareis dele com rigor.
-E o seu espírito voltou, e ela logo se levantou; e Jesus mandou que lhe dessem de comer.
-Que pensais vós contra o SENHOR? Ele mesmo vos consumirá de todo; não se levantará por duas vezes a angústia.
-ele, então, o tomou em seus braços, e louvou a Deus, e disse:
-Assim diz o Senhor JEOVÁ: Visto como dizem Moabe e Seir: Eis que a casa de Judá é como todas as nações;
-E continuarão os oficiais a falar ao povo, dizendo: Qual é o homem medroso e de coração tímido? Vá e torne-se à sua casa, para que o coração de seus irmãos se não derreta como o seu coração.
-Naqueles dias, assentando-se Mardoqueu à porta do rei, dois eunucos do rei, dos guardas da porta, Bigtã e Teres, grandemente se indignaram e procuraram pôr as mãos sobre o rei Assuero.
-E te porei em assolação e como opróbrio entre as nações que estão em redor de ti, aos olhos de todos os que passarem.
-Porque convém que o bispo seja irrepreensível como despenseiro da casa de Deus, não soberbo, nem iracundo, nem dado ao vinho, nem espancador, nem cobiçoso de torpe ganância;
-E ela chamou o nome do SENHOR, que com ela falava: Tu és Deus da vista, porque disse: Não olhei eu também para aquele que me vê?
-E viu Deus a terra, e eis que estava corrompida; porque toda carne havia corrompido o seu caminho sobre a terra.
-Não o comerás, para que bem te suceda a ti e a teus filhos, depois de ti, quando fizeres o que for reto aos olhos do SENHOR.
-E eles responderam:  Batista; e outros, Elias; mas outros, um dos profetas.
-E o rei enviou com ele a Zadoque, o sacerdote, e a Natã, o profeta, e a Benaia, filho de Joiada, e aos quereteus, e aos peleteus; e o fizeram montar a mula do rei.
-Não andeis, pois, inquietos, dizendo: Que comeremos ou que beberemos ou com que nos vestiremos?
-Então,  falou ao rei: Ó rei, vive para sempre!
-Ficaram, pois, sãs aquelas águas até ao dia de hoje, conforme a palavra que Eliseu tinha dito.
-Do comprimento de cem côvados era a entrada do norte; e a largura era de cinquenta côvados.
-porque somos membros do seu corpo.
-Se o não ouvirdes e se não propuserdes no vosso coração dar honra ao meu nome, diz o SENHOR dos Exércitos, enviarei a maldição contra vós e amaldiçoarei as vossas bênçãos; e já as tenho amaldiçoado, porque vós não pondes isso no coração.
-e os castiçais com as suas lâmpadas de ouro finíssimo, para as acenderem segundo o costume, perante o oráculo.
-(porque, se alguém não sabe governar a sua própria casa, terá cuidado da igreja de Deus?);
-Pelo que não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio dos mares.
-De sorte que era bem necessário que as figuras das coisas que estão no céu assim se purificassem; mas as próprias coisas celestiais, com sacrifícios melhores do que estes.
-E, chegando Eliseu àquela casa, eis que o menino jazia morto sobre a sua cama.
-E era Eli da idade de noventa e oito anos; e estavam os seus olhos tão escurecidos, que já não podia ver.
-Tomai o saltério e trazei o adufe, a harpa suave e o alaúde.
-Desde o dia em que eu tirei o meu povo de Israel do Egito, não escolhi cidade alguma de todas as tribos de Israel para edificar alguma casa, para ali estabelecer o meu nome; porém escolhi a Davi, para que governasse sobre o meu povo de Israel.
-E, demais disto também, estando eles na terra dos seus inimigos, não os rejeitarei, nem me enfadarei deles, para consumi-los e invalidar o meu concerto com eles, porque eu sou o SENHOR, seu Deus.
-E ouviu-se uma voz dos céus, que dizia: Tu és o meu Filho amado, em quem me comprazo.
-para que se busque no livro das crônicas de teus pais, e, então, acharás no livro das crônicas e saberás que aquela foi uma cidade rebelde e danosa aos reis e províncias e que nela houve rebelião em tempos antigos; pelo que foi aquela cidade destruída.
-para que sofras a tua vergonha e sejas envergonhada por tudo o que fizeste, dando-lhes tu consolação.
-E os filhos de Benjamim: Belá, e Bequer, e Asbel, e Gera, e Naamã, e Eí, e Rôs, e Mupim, e Hupim, e Arde.
-Do preceito de seus lábios nunca me apartei e as palavras da sua boca prezei mais do que o meu alimento.
-Mostrai-me uma moeda. De quem tem a imagem e a inscrição? E, respondendo eles, disseram: De César.
-e fazei veredas direitas para os vossos pés, para que o que manqueja se não desvie inteiramente; antes, seja sarado.
-E, prosseguindo  em sua parábola, disse:
-Toda essa congregação junta foi de quarenta e dois mil trezentos e sessenta, afora os seus servos e as suas servas, que foram sete mil trezentos e trinta e sete; também tinham duzentos cantores e cantoras. Os seus cavalos, setecentos e trinta e seis; os seus mulos, duzentos e quarenta e cinco; os seus camelos, quatrocentos e trinta e cinco; os jumentos, seis mil setecentos e vinte.
-E quem chamará como eu, e anunciará isso, e o porá em ordem perante mim, desde que ordenei um povo eterno? Este que anuncie as coisas futuras e as que ainda hão de vir.
-E deu Moisés a Eleazar, o sacerdote, o tributo da oferta alçada do SENHOR, como o SENHOR ordenara a Moisés.
-E o puseram em guarda; porquanto ainda não estava declarado o que se lhe devia fazer.
-E suas crianças serão despedaçadas perante os seus olhos; as suas casas serão saqueadas, e a mulher de cada um, violada.
-Põe-se nos cerrados das aldeias; nos lugares ocultos mata o inocente; os seus olhos estão ocultamente fixos sobre o pobre.
-Por isso, fomos consolados pela vossa consolação e muito mais nos alegramos pela alegria de Tito, porque o seu espírito foi recreado por vós todos.
-Levantaram-se, pois, do redor da habitação de Corá, Datã e Abirão. E Datã e Abirão saíram e se puseram à porta das suas tendas, juntamente com as suas mulheres, e seus filhos, e suas crianças.
-Quanto aos filhos de Rúben, o primogênito de Israel (porque ele era o primogênito, mas, porque profanara a cama de seu pai, deu-se a sua primogenitura aos filhos de José, filho de Israel; para assim não ser contado na genealogia da primogenitura.
-E, perto da hora nona, exclamou Jesus em alta voz, dizendo: Eli, Eli, lemá sabactâni, isto é, Deus meu, Deus meu, por que me desamparaste?
-Pelo que, ainda que tenha em Cristo grande confiança para te mandar o que te convém,
-e Azarias gerou a Seraías, e Seraías gerou a Jeozadaque;
-Os mais poderosos dos valentes lhe falarão desde o meio do inferno, juntamente com os que a socorrem: Desceram e estão lá os incircuncisos, traspassados à espada.
-E a haste da sua lança era como eixo de tecelão, e o ferro da sua lança, de seiscentos siclos de ferro; e diante dele ia o escudeiro.
-Em bons pastos as apascentarei, e nos altos montes de Israel será a sua malhada; ali, se deitarão numa boa malhada e pastarão em pastos gordos nos montes de Israel.
-e Alameleque, e Amade, e Misal; e chegava ao Carmelo para o ocidente, e a Sior-Libnate;
-O SENHOR trouxe a nossa justiça à luz; vinde e contemos em Sião a obra do SENHOR, nosso Deus.
-manteiga de vacas e leite do rebanho, com a gordura dos cordeiros e dos carneiros que pastam em Basã e dos bodes, com a gordura da flor do trigo; e bebeste o sangue das uvas, o vinho puro.
-Mas eu roguei por ti, para que a tua fé não desfaleça; e tu, quando te converteres, confirma teus irmãos.
-Vinda a luz da manhã, despediram-se estes varões, eles com os seus jumentos.
-Mas não sabem os pensamentos do SENHOR, nem entendem o seu conselho, porque as ajuntou como gavelas em uma eira.
-porque é vindo o grande Dia da sua ira; e quem poderá subsistir?
-dizendo: Eu sou o Deus de teus pais, o Deus de Abraão, e o Deus de Isaque, e o Deus de Jacó. E Moisés, todo trêmulo, não ousava olhar.
-Quando, pois, a nuvem se levantava de sobre o tabernáculo, então, os filhos de Israel caminhavam em todas as suas jornadas.
-É melhor confiar no SENHOR do que confiar nos príncipes.
-Naqueles dias, havendo mui grande multidão e não tendo o que comer, Jesus chamou a si os seus discípulos e disse-lhes:
-Estava, pois, o rei com o rosto coberto; e o rei gritava a alta voz: Meu filho Absalão, Absalão, meu filho, meu filho!
-E veio outro, dizendo: Senhor, aqui está a tua mina, que guardei num lenço,
-Porque o que vende não tornará a possuir o que vendeu, ainda que esteja entre os viventes; porque a visão não tornará para trás sobre toda a sua multidão; nem ninguém fortalecerá a sua vida com a sua iniquidade.
-Ora, o mais dos atos de Jeoacaz, e tudo quanto fez mais, e o seu poder, porventura, não estão escritos no livro das Crônicas dos Reis de Israel?
-E dali passava este termo a Luz, ao lado de Luz (que é Betel) para o sul; e descia este termo a Atarote-Adar, ao pé do monte que está da banda do sul de Bete-Horom de baixo.
-Eis que estes são ímpios; e, todavia, estão sempre em segurança, e se lhes aumentam as riquezas.
-Disse-lhes ele: Moisés, por causa da dureza do vosso coração, vos permitiu repudiar vossa mulher; mas, ao princípio, não foi assim.
-E correu dele esta fama por toda a Judeia e por toda a terra circunvizinha.
-como também da casa de Gilgal e dos campos de Gibeá e Azmavete; porque os cantores tinham edificado para si aldeias nos arredores de Jerusalém.
-Então, os homens armados deixaram os presos e o despojo diante dos maiorais e de toda a congregação.
-Assim diz o Senhor JEOVÁ dos Exércitos: Anda, vai ter com este tesoureiro, com Sebna, o mordomo, e dize-lhe:
-Não estais estreitados em nós; mas estais estreitados nos vossos próprios afetos.
-Ninguém da semente de Arão que for leproso ou tiver fluxo comerá das coisas santas, até que seja limpo; como também o que tocar alguma coisa imunda de cadáver ou aquele de que sair a semente da cópula;
-E a minha mão será contra os profetas que veem vaidade e que adivinham mentira; na congregação do meu povo, não estarão, nem nos registros da casa de Israel se escreverão, nem entrarão na terra de Israel; e sabereis que eu sou o Senhor JEOVÁ.
-Ele faz coisas tão grandiosas, que se não podem esquadrinhar; e tantas maravilhas que se não podem contar.
-E porei a minha face contra eles; eles sairão do fogo, mas o fogo os consumirá; e sabereis que eu sou o SENHOR, quando tiver posto a minha face contra eles.
-E sucedeu que, ao fim de dez dias, veio a palavra do SENHOR a Jeremias.
-E não terá mais da casa de Israel a confiança para lhes trazer à lembrança a sua iniquidade, quando olharem para trás deles; antes, saberão que eu sou o Senhor JEOVÁ.
-Com a outra meia tribo os rubenitas e os gaditas já receberam a sua herança, a qual lhes deu Moisés dalém do Jordão, para o oriente, como já lhes tinha dado Moisés, servo do SENHOR,
-Eu, o SENHOR disse: Será assim, e o farei; não tornarei atrás e não pouparei, nem me arrependerei; conforme os teus caminhos e conforme os teus feitos, te julgarão, diz o Senhor JEOVÁ.
-E, se for de cinco anos até vinte, a tua avaliação dum varão será de vinte siclos, e a da fêmea, de dez siclos.
-E morrerão grandes e pequenos nesta terra e não serão sepultados; e não os prantearão nem se farão por eles incisões, nem por eles se raparão os cabelos.
-Então, ordenou o rei Zedequias que pusessem  no átrio da guarda; e deram-lhe um bolo de pão cada dia, da rua dos padeiros, até que se acabou todo o pão da cidade. Assim, ficou  no átrio da guarda.
-E apareceu-lhe o Anjo do SENHOR em uma chama de fogo, no meio de uma sarça; e olhou, e eis que a sarça ardia no fogo, e a sarça não se consumia.
-Como com ferida mortal em meus ossos, me afrontam os meus adversários, quando todo o dia me dizem: Onde está o teu Deus?
-Então, feriu Saul os amalequitas, desde Havilá até chegar a Sur, que está defronte do Egito.
-e Quedemote, e os seus arrabaldes, e a Mefaate, e os seus arrabaldes;
-E eis que um profeta se chegou a Acabe, rei de Israel, e lhe disse: Assim diz o SENHOR: Viste toda esta grande multidão? Eis que hoje ta entregarei nas tuas mãos, para que saibas que eu sou o SENHOR.
-Um beca para cada cabeça, isto é, meio siclo, conforme o siclo do santuário, de qualquer que passava aos arrolados, da idade de vinte anos e acima, que foram seiscentos e três mil e quinhentos e cinquenta.
-Por que diriam os gentios: Onde está o seu Deus? Torne-se manifesta entre as nações, à nossa vista, a vingança do sangue derramado dos teus servos.
-Com as unhas dos seus cavalos pisará todas as tuas ruas; ao teu povo matará à espada, e as colunas da tua fortaleza cairão por terra.
-A tua habitação está no meio do engano; pelo engano recusam conhecer-me, diz o SENHOR.
-E disse Eliseu: Vive o SENHOR dos Exércitos, em cuja presença estou, que, se eu não respeitasse a presença de Josafá, rei de Judá, não olharia para ti nem te veria.
-E sucedeu, pois, que, reinando ele, feriu a toda a casa de Jeroboão; nada de Jeroboão deixou que tivesse fôlego, até o destruir, conforme a palavra do SENHOR que dissera pelo ministério de seu servo Aías, o silonita,
-E, vendo os homens de Israel que estavam desta banda do vale e desta banda do Jordão que os homens de Israel fugiram e que Saul e seus filhos estavam mortos, desampararam as cidades e fugiram; e vieram os filisteus e habitaram nelas.
-E, porque sois filhos, Deus enviou aos nossos corações o Espírito de seu Filho, que clama: Aba, Pai.
-E morreu Débora, a ama de Rebeca, e foi sepultada ao pé de Betel, debaixo do carvalho cujo nome chamou Alom-Bacute.
-E ela disse: Bebe, meu senhor. E apressou-se, e abaixou o seu cântaro sobre a sua mão, e deu-lhe de beber.
-e eu saía após ele, e o feria, e a livrava da sua boca; e, levantando-se ele contra mim, lançava-lhe mão da barba, e o feria, e o matava.
-Porque o SENHOR se levantará, como no monte de Perazim, e se irará, como no vale de Gibeão, para fazer a sua obra, a sua estranha obra, e para executar o seu ato, o seu estranho ato.
-E Jesus, tendo ouvido essas palavras, disse ao principal da sinagoga: Não temas, crê somente.
-Disse mais: Ora, não se ire o Senhor que ainda só mais esta vez falo: se, porventura, se acharem ali dez? E disse: Não a destruirei, por amor dos dez.
-Porque assim como vós também, antigamente, fostes desobedientes a Deus, mas, agora, alcançastes misericórdia pela desobediência deles,
-E farei que nunca mais se ouça em ti a afronta dos gentios; e não levarás mais sobre ti o opróbrio das nações, nem mais desfilharás a tua nação, diz o Senhor JEOVÁ.
-E os teus céus que estão sobre a cabeça serão de bronze; e a terra que está debaixo de ti será de ferro.
-Ainda hoje a minha queixa está em amargura; a violência da minha praga mais se agrava do que o meu gemido.
-ou sozinho comi o meu bocado, e o órfão não comeu dele
-Então, o rei Ezequias se levantou de madrugada, e ajuntou os maiorais da cidade, e subiu à Casa do SENHOR.
-Por isso, os moradores delas, com as mãos encolhidas, ficaram pasmados e confundidos; eram como a erva do campo, e a hortaliça verde, e o feno dos telhados, e o trigo queimado, antes que se levante.
-Este é o ministério das gerações dos filhos dos gersonitas na tenda da congregação; e a sua guarda será debaixo da mão de Itamar, filho de Arão, o sacerdote.
-A tua palavra é muito pura; por isso, o teu servo a ama.
-E porei inimizade entre ti e a mulher e entre a tua semente e a sua semente; esta te ferirá a cabeça, e tu lhe ferirás o calcanhar.
-E o SENHOR te porá por cabeça e não por cauda; e só estarás em cima e não debaixo, quando obedeceres aos mandamentos do SENHOR, teu Deus, que hoje te ordeno, para os guardar e fazer.
-segundo a minha intensa expectação e esperança, de que em nada serei confundido; antes, com toda a confiança, Cristo será, tanto agora como sempre, engrandecido no meu corpo, seja pela vida, seja pela morte.
-Louvai ao SENHOR, porque é bom cantar louvores ao nosso Deus; isto é agradável; decoroso é o louvor.
-E todos os que caíram aquele dia, assim homens como mulheres, foram doze mil; todos moradores de Ai.
-Mortificai, pois, os vossos membros que estão sobre a terra: a prostituição, a impureza, o apetite desordenado, a vil concupiscência e a avareza, que é idolatria;
-Vindo, pois, eu de Padã, me morreu Raquel na terra de Canaã, no caminho, quando ainda ficava um pequeno espaço de terra para vir a Efrata; e eu a sepultei ali, no caminho de Efrata, que é Belém.
-Mas assim diz o SENHOR: Por certo que os presos se tirarão ao valente, e a presa do tirano escapará; porque eu contenderei com os que contendem contigo e os teus filhos eu remirei.
-Faraó, porém, não vos ouvirá; e eu porei a mão sobre o Egito e tirarei os meus exércitos, o meu povo, os filhos de Israel, da terra do Egito com grandes juízos.
-Que os teus olhos estejam dia e noite abertos sobre este lugar, de que disseste que ali porias o teu nome, para ouvires a oração que o teu servo fizer neste lugar.
-Do seu dia se espantarão os vindouros, e os antigos serão sobressaltados de horror.
-e para que prolongueis os dias na terra que o SENHOR jurou a vossos pais dá-la a eles e à sua semente, terra que mana leite e mel.
-Há os que até os limites removem; roubam os rebanhos e os apascentam.
-Porventura, perverteria Deus o direito, e perverteria o Todo-Poderoso a justiça?
-e atender à oração do desamparado, e não desprezar a sua oração.
-Na terra, não há coisa que se lhe possa comparar, pois foi feito para estar sem pavor.
-Então, saiu ele ao manancial das águas e deitou sal nele; e disse: Assim diz o SENHOR: Sararei estas águas; não haverá mais nelas morte nem esterilidade.
-E eles, quer ouçam quer deixem de ouvir (porque eles são casa rebelde), hão de saber que esteve no meio deles um profeta.
-Antes, digo que as coisas que os gentios sacrificam, as sacrificam aos demônios e não a Deus. E não quero que sejais participantes com os demônios.
-E habitava debaixo das palmeiras de Débora, entre Ramá e Betel, nas montanhas de Efraim; e os filhos de Israel subiam a ela a juízo.
-As vossas Festas da Lua Nova, e as vossas solenidades, as aborrece a minha alma; já me são pesadas; já estou cansado de as sofrer.
-O inferno, desde o profundo, se turbou por ti, para te sair ao encontro na tua vinda; despertou por ti os mortos e todos os príncipes da terra e fez levantar do seu trono a todos o reis das nações.
-No primeiro mês (que é o mês de nisã), no ano duodécimo do rei Assuero, se lançou Pur, isto é, a sorte, perante Hamã, de dia em dia e de mês em mês, até ao duodécimo mês, que é o mês de adar.
-E, ao seu lado, reparou Refaías, filho de Hur, maioral da metade de Jerusalém.
-No amor, não há temor; antes, o perfeito amor lança fora o temor; porque o temor tem consigo a pena, e o que teme não é perfeito em amor.
-Queríamos sarar a Babilônia, mas ela não sarou; deixai-a, e vá cada um para a sua terra, porque o seu juízo chegou até ao céu e se elevou até às mais altas nuvens.
-Assim, partiram pela primeira vez, segundo o dito do SENHOR, pela mão de Moisés.
-SENHOR, Deus da minha salvação, diante de ti tenho clamado de dia e de noite.
-Nossos pais adoraram neste monte, e vós dizeis que é em Jerusalém o lugar onde se deve adorar.
-E, ajuntando-se a multidão, começou a dizer: Maligna é esta geração; ela pede um sinal; e não lhe será dado outro sinal, senão o sinal do profeta Jonas.
-Mas Pedro o levantou, dizendo: Levanta-te, que eu também sou homem.
-Os porteiros estavam aos quatro ventos: ao oriente, ao ocidente, ao norte e ao sul.
-Verdadeiramente, tu és o Deus que te ocultas, o Deus de Israel, o Salvador.
-então, ouve tu desde os céus, e perdoa o pecado de teus servos e do teu povo de Israel, ensinando-lhes o bom caminho, em que andem, e dá chuva sobre a tua terra, que deste ao teu povo em herança.
-Porque no dia da adversidade me esconderá no seu pavilhão; no oculto do seu tabernáculo me esconderá; pôr-me-á sobre uma rocha.
-E os peixes que estavam no rio morreram, e o rio fedeu, e os egípcios não podiam beber a água do rio; e houve sangue por toda a terra do Egito.
-Mas nós, que somos do dia, sejamos sóbrios, vestindo-nos da couraça da fé e do amor e tendo por capacete a esperança da salvação.
-E não se chegará a cadáver algum, nem por causa de seu pai, nem por sua mãe, se contaminará;
-Mas Gideão lhe respondeu: Ai, senhor meu, se o SENHOR é conosco, por que tudo isto nos sobreveio? E que é feito de todas as suas maravilhas que nossos pais nos contaram, dizendo: Não nos fez o SENHOR subir do Egito? Porém, agora, o SENHOR nos desamparou e nos deu na mão dos midianitas.
-Manda, pois, estas coisas, para que elas sejam irrepreensíveis.
-Agora, pois, sois malditos; e, dentre vós, não deixará de haver servos, nem rachadores de lenha, nem tiradores de água, para a casa do meu Deus.
-Quando tem algum negócio, vem a mim, para que eu julgue entre um e outro e lhes declare os estatutos de Deus e as suas leis.
-Estais pasmados, não respondeis mais, faltam-vos as palavras.
-Agora, pois, por que tentais a Deus, pondo sobre a cerviz dos discípulos um jugo que nem nossos pais nem nós podemos suportar?
-Depois, fez Hirão as pias, e as pás, e as bacias; e acabou Hirão de fazer toda a obra que fez para o rei Salomão, para a Casa do SENHOR, a saber, as duas colunas, e os globos dos capitéis que estavam sobre a cabeça das duas colunas, e as duas redes, para cobrir os dois globos dos capitéis que estavam sobre a cabeça das colunas, e as quatrocentas romãs, para as duas redes, a saber, duas carreiras de romãs para cada rede, para cobrirem os dois globos dos capitéis que estavam em cima das colunas, juntamente com as dez bases e as dez pias sobre as bases, como também um mar e os doze bois debaixo daquele mar, e os caldeirões, e as pás, e as bacias, e todos esses utensílios que fez Hirão para o rei Salomão, para a Casa do SENHOR, todos eram de cobre brunido.
-Assim, morreu ali Moisés, servo do SENHOR, na terra de Moabe, conforme o dito do SENHOR.
-Porque somos estranhos diante de ti e peregrinos como todos os nossos pais; como a sombra são os nossos dias sobre a terra, e não há outra esperança.
-Mas, agora, quebrarei o seu jugo de cima de ti e romperei os teus laços.
-então, o sacerdote lhe contará a soma da tua avaliação até ao Ano do Jubileu; e, no mesmo dia, dará a tua avaliação por santidade ao SENHOR.
-porquanto ouvimos da vossa fé em Cristo Jesus e do amor que tendes para com todos os santos;
-E partiram, indo habitar em Gerute-Quimã, que está perto de Belém, para dali entrarem no Egito,
-Por que transgridem os teus discípulos a tradição dos anciãos? Pois não lavam as mãos quando comem pão.
-para que, no tempo que vos resta na carne, não vivais mais segundo as concupiscências dos homens, mas segundo a vontade de Deus.
-Havia em Jerusalém um homem cujo nome era Simeão; e este homem era justo e temente a Deus, esperando a consolação de Israel; e o Espírito Santo estava sobre ele.
-E falou o SENHOR a Moisés no deserto do Sinai, no segundo ano da sua saída da terra do Egito, no primeiro mês, dizendo:
-que faz justiça aos oprimidos; que dá pão aos famintos. O SENHOR solta os encarcerados;
-Enviaram, pois, os homens de Gibeão a  ao arraial de Gilgal, dizendo: Não retires as tuas mãos de teus servos; sobe apressadamente a nós, e livra-nos, e ajuda-nos, porquanto todos os reis dos amorreus que habitam na montanha se ajuntaram contra nós.
-Abre a boca com sabedoria, e a lei da beneficência está na sua língua.
-e pôs-se em pé, e abençoou a toda a congregação de Israel em alta voz, dizendo:
-E crescia Jesus em sabedoria, e em estatura, e em graça para com Deus e os homens.
-Assim mesmo também as boas obras são manifestas, e as que são doutra maneira não podem ocultar-se.
-E fez o que era mal aos olhos do SENHOR, conforme as abominações dos gentios que o SENHOR lançara de diante dos filhos de Israel.
-E, no dia vigésimo terceiro do sétimo mês, o rei deixou ir o povo para as suas tendas, alegres e de bom ânimo, pelo bem que o SENHOR tinha feito a Davi, e a Salomão, e a seu povo de Israel.
-Faze-te calva e tosquia-te, por causa dos filhos das tuas delícias; alarga a tua calva como a águia, porque de ti foram levados para o cativeiro.
-porque aquele que quiser salvar a sua vida perdê-la-á, e quem perder a sua vida por amor de mim achá-la-á.
-O SENHOR extirpará das tendas de Jacó o homem que fizer isso, o que vela, e o que responde, e o que oferece dons ao SENHOR dos Exércitos.
-E os príncipes traziam pedras sardônicas, e pedras de engaste para o éfode e para o peitoral,
-Portanto, ofereçamos sempre, por ele, a Deus sacrifício de louvor, isto é, o fruto dos lábios que confessam o seu nome.
-E fez tornar o copeiro-mor ao seu ofício de copeiro, e este deu o copo na mão de Faraó. Mas ao padeiro-mor enforcou, como José havia interpretado.
-E, vendo-a os filhos de Israel, disseram uns aos outros: Que é isto? Porque não sabiam o que era. Disse-lhes, pois, Moisés: Este é o pão que o SENHOR vos deu para comer.
-Considerei os meus caminhos e voltei os meus pés para os teus testemunhos.
-e não somente com a sua vinda, mas também pela consolação com que foi consolado de vós, contando-nos as vossas saudades, o vosso choro, o vosso zelo por mim, de maneira que muito me regozijei.
-Porque Moisés disse: O Senhor, vosso Deus, levantará dentre vossos irmãos um profeta semelhante a mim; a ele ouvireis em tudo quanto vos disser.
-E, levantando-se ela a colher, Boaz deu ordem aos seus moços, dizendo: Até entre as gavelas deixai-a colher e não lhe embaraceis.
-Porquanto não atentam para as obras do SENHOR, nem para o que as suas mãos têm feito; pelo que ele os derribará e não os reedificará.
-(pois a lei nenhuma coisa aperfeiçoou), e desta sorte é introduzida uma melhor esperança, pela qual chegamos a Deus.
-Desaparece a sua carne a olhos vistos; e os seus ossos, que se não viam, agora aparecem;
-Temos um altar de que não têm direito de comer os que servem ao tabernáculo.
-Disse-lhe o oficial: Senhor, desce, antes que meu filho morra.
-E, reunindo-se segunda vez as virgens, Mardoqueu estava assentado à porta do rei.
-As nossas crianças, as nossas mulheres, a nossa fazenda e todos os nossos animais estarão aí nas cidades de Gileade.
-Então, tomou Joanã, filho de Careá, e todos os príncipes dos exércitos que estavam com ele a todo o resto do povo que ele havia recobrado de Ismael, filho de Netanias, desde Mispa, depois que tinha sido ferido Gedalias, filho de Aicão, e aos homens valentes de guerra, e às mulheres, e aos meninos, e aos eunucos que havia recobrado de Gibeão.
-E, se a família dos egípcios não subir, nem vier, virá sobre eles a praga com que o SENHOR ferirá as nações que não subirem a celebrar a Festa das Cabanas.
-E afirmou a sua vista e fitou os olhos nele, até se envergonhar; e chorou o homem de Deus.
-O seu nome permanecerá eternamente; o seu nome se irá propagando de pais a filhos, enquanto o sol durar; e os homens serão abençoados nele; todas as nações lhe chamarão bem-aventurado.
-Ele tem a pá na sua mão, e limpará a sua eira, e ajuntará o trigo no seu celeiro, mas queimará a palha com fogo que nunca se apaga.
-Então, muitos da multidão, ouvindo essa palavra, diziam: Verdadeiramente, este é o Profeta.
-Ensinar-vos-ei o que é concernente à mão de Deus, e não vos encobrirei o que está com o Todo-Poderoso.
-E isto te será por sinal: Este ano se comerá o que nascer por si mesmo, e no ano seguinte o que daí proceder; porém, no terceiro ano, semeai, e segai, e plantai vinhas, e comei os seus frutos.
-Então, foi Obadias encontrar-se com Acabe e lho anunciou; e foi Acabe encontrar-se com Elias.
-Assim, Salomão acabou a Casa do SENHOR e a casa do rei; e tudo quanto Salomão intentou fazer na Casa do SENHOR e na sua casa, prosperamente o efetuou.
-E, sobre o altar de ouro, estenderão um pano azul, e com a coberta de peles de texugos o cobrirão, e lhe porão os seus varais.
-Então, lhe disse Zebul: Onde está agora a tua boca, com a qual dizias: Quem é Abimeleque, para que o servíssemos? Não é este, porventura, o povo que desprezaste? Sai, pois, peço-te, e peleja contra ele.
-Porventura, deita alguma fonte de um mesmo manancial água doce e água amargosa?
-E aconteceu que, acabando Isaque de abençoar a Jacó, apenas Jacó acabava de sair da face de Isaque, seu pai, veio Esaú, seu irmão, da sua caça.
-para que a violência feita aos setenta filhos de Jerubaal viesse, e o seu sangue caísse sobre Abimeleque, seu irmão, que os matara, e sobre os cidadãos de Siquém, que lhe corroboraram as mãos, para matar os seus irmãos.
-O SENHOR dos Exércitos os amparará; e comerão, depois que os tiverem sujeitado, as pedras da funda; também beberão e farão barulho como excitados pelo vinho; e encher-se-ão como taças, como os cantos do altar.
-A espada virá sobre os caldeus, diz o SENHOR, e sobre os moradores da Babilônia, e sobre os seus príncipes, e sobre os seus sábios.
-E acontecerá que, no dia do sacrifício do SENHOR, hei de castigar os príncipes, e os filhos do rei, e todos os que se vestem de vestidura estranha.
-Por que te esquecerias de nós para sempre? Por que nos desampararias por tanto tempo?
-ao qual dei o ermo por casa e a terra salgada, por moradas?
-Mas tu és o mesmo, e os teus anos nunca terão fim.
-Mas eu sou verme, e não homem, opróbrio dos homens e desprezado do povo.
-E falava ousadamente no nome de Jesus. Falava e disputava também contra os gregos, mas eles procuravam matá-lo.
-Estando ele à porta de Benjamim, achava-se ali um capitão da guarda, cujo nome era Jerias, filho de Selemias, filho de Hananias, o qual prendeu a Jeremias, o profeta, dizendo: Tu foges para os caldeus.
-Isto ainda seria a minha consolação e me refrigeraria no meu tormento, não me poupando ele; porque não repulsei as palavras do Santo.
-Esteja na memória do SENHOR a iniquidade de seus pais, e não se apague o pecado de sua mãe.
-E os consumi e os atravessei, de modo que nunca mais se levantaram, mas caíram debaixo dos meus pés.
-O meu coração clama por causa de Moabe; fugiram os seus nobres para Zoar, como a novilha de três anos, porque vão chorando pela subida de Luíte, porque, no caminho de Horonaim, levantam um lastimoso pranto.
-Em lugar do que devíeis dizer: Se o Senhor quiser, e se vivermos, faremos isto ou aquilo.
-Mas umas poucas coisas tenho contra ti, porque tens lá os que seguem a doutrina de Balaão, o qual ensinava Balaque a lançar tropeços diante dos filhos de Israel para que comessem dos sacrifícios da idolatria e se prostituíssem.
-O varão, pois, não deve cobrir a cabeça, porque é a imagem e glória de Deus, mas a mulher é a glória do varão.
-E o sacerdote examinará a praga e encerrará a coisa que tem a praga por sete dias.
-Estas são as famílias dos zebulonitas, segundo os que foram deles contados, sessenta mil e quinhentos.
-Assim me disse o SENHOR: Vai, põe-te à porta dos filhos do povo, pela qual entram os reis de Judá e pela qual saem, como também a todas as portas de Jerusalém,
-Também não tomareis expiação por aquele que se acolher à cidade do seu refúgio, para tornar a habitar na terra, até à morte do sumo sacerdote.
-Nenhuma mão tocará nele; porque certamente será apedrejado ou asseteado; quer seja animal, quer seja homem, não viverá; soando a buzina longamente, então, subirão o monte.
-todavia, como esta viúva me molesta, hei de fazer-lhe justiça, para que enfim não volte e me importune muito.
-E foi notório a todos os que habitam em Jerusalém, de maneira que na sua própria língua esse campo se chama Aceldama, isto é, Campo de Sangue.
-Finalmente apareceu aos onze, estando eles assentados juntamente, e lançou-lhes em rosto a sua incredulidade e dureza de coração, por não haverem crido nos que o tinham visto já ressuscitado.
-E ele clamou ao SENHOR, e o SENHOR mostrou-lhe um lenho que lançou nas águas, e as águas se tornaram doces; ali lhes deu estatutos e uma ordenação e ali os provou.
-Ouvindo, pois, os adversários de Judá e Benjamim que os que tornaram do cativeiro edificavam o templo ao SENHOR, Deus de Israel,
-Levai também convosco vossas ovelhas e vossas vacas, como tendes dito; e ide e abençoai-me também a mim.
-Agora, pois, ó SENHOR, meu Deus, tu fizeste reinar teu servo em lugar de Davi, meu pai; e sou ainda menino pequeno, nem sei como sair, nem como entrar.
-Vós sois os filhos dos profetas e do concerto que Deus fez com nossos pais, dizendo a Abraão: Na tua descendência serão benditas todas as famílias da terra.
-O Espírito de Deus me fez; e a inspiração do Todo-Poderoso me deu vida.
-Dize-lhes, pois: Qualquer homem da casa de Israel ou dos estrangeiros que peregrinam entre vós que oferecer holocausto ou sacrifício
-Porém Deus me disse: Não edificarás casa ao meu nome, porque és homem de guerra e derramaste muito sangue.
-Sabendo, pois, Davi que Saul maquinava esse mal contra ele, disse a Abiatar, sacerdote: Traze aqui o éfode.
-Este achou primeiro a seu irmão Simão e disse-lhe: Achamos o Messias (que, traduzido, é o Cristo).
-além dos que estavam contados pelas genealogias dos varões, da idade de três anos e daí para cima, a todos os que entravam na Casa do SENHOR, para a obra de cada dia no seu dia pelo seu ministério nas suas guardas, segundo as suas turmas,
-E edificava-se a casa com pedras preparadas; como as traziam, se edificava, de maneira que nem martelo, nem machado, nem nenhum outro instrumento de ferro se ouviu na casa quando a edificavam.
-Proclamai isto às nações, fazei-o ouvir contra Jerusalém: Vigias vêm de uma terra remota e levantarão a sua voz contra as cidades de Judá.
-Quando, retinindo, as tocardes, então, partirão os arraiais que alojados estão da banda do oriente.
-E era a obra das rodas como a obra da roda de carro; seus eixos, e suas cambas, e seus cubos, e seus raios, todos eram fundidos.
-Os filhos de Sem são: Elão, e Assur, e Arfaxade, e Lude, e Arã.
-Assim diz o SENHOR acerca de todos os meus maus vizinhos, que tocam a minha herança, que fiz herdar ao meu povo de Israel: Eis que os arrancarei da sua terra e a casa de Judá arrancarei do meio deles.
-Aos seus jovens, consumiu-os o fogo, e as suas donzelas não tiveram festa nupcial.
-Seria, porventura, o homem mais justo do que Deus? Seria, porventura, o varão mais puro do que o seu Criador?
-Todavia, aguardando eu o bem, eis que me veio o mal; e, esperando eu a luz, veio a escuridão.
-Disse mais Husai: Bem conheces tu a teu pai e a seus homens, que são valorosos e que estão com o espírito amargurado, como a ursa no campo, roubada dos cachorros; também teu pai é homem de guerra, e não passará a noite com o povo.
-também o altar de ouro, e o azeite da unção, e o incenso aromático, e a coberta da porta da tenda;
-Pois tu és o Deus da minha fortaleza; por que me rejeitas? Por que me visto de luto por causa da opressão do inimigo?
-às mulheres idosas, como a mães, às moças, como a irmãs, em toda a pureza.
-O que diz a verdade manifesta a justiça, mas a testemunha falsa engana.
-Certamente, as ilhas me aguardarão, e, primeiro, os navios de Társis, para trazer teus filhos de longe, a sua prata e o seu ouro com eles, na santificação do nome do SENHOR, teu Deus, e do Santo de Israel, porquanto te glorificou.
-Ungirás também o altar do holocausto e a todos os seus utensílios e santificarás o altar; e o altar será uma coisa santíssima.
-e há de ser que, ouvindo tu um ruído de andadura pelas copas das amoreiras, então, sai à peleja; porque Deus haverá saído diante de ti, a ferir o exército dos filisteus.
-E sucedeu que, ao outro dia, Saul pôs o povo em três companhias, e vieram ao meio do arraial pela vigília da manhã e feriram a Amom, até que o dia aqueceu. E sucedeu que os restantes se espalharam, que não ficaram dois deles juntos.
-para que se cumprisse o que fora dito pelo profeta, que disse: Abrirei em parábolas a boca; publicarei coisas ocultas desde a criação do mundo.
-E, vindo ele a Leí, os filisteus lhe saíram ao encontro, jubilando; porém o Espírito do SENHOR possantemente se apossou dele, e as cordas que ele tinha nos braços se tornaram como fios de linho que estão queimados, e as suas amarraduras se desfizeram das suas mãos.
-Como cisco e rejeitamento, nos puseste no meio dos povos.
-Todas essas cidades eram fortificadas com altos muros, portas e ferrolhos; além de outras muitas cidades sem muros.
-Então, chamaram os escrivães do rei no primeiro mês, no dia treze do mesmo, e conforme tudo quanto Hamã mandou se escreveu aos príncipes do rei, e aos governadores que havia sobre cada província, e aos principais de cada povo; a cada província segundo a sua escritura e a cada povo segundo a sua língua; em nome do rei Assuero se escreveu, e com o anel do rei se selou.
-Porque, em certo lugar, disse assim do dia sétimo: E repousou Deus de todas as suas obras no sétimo dia.
-Então, disse eu: Ah! Senhor JEOVÁ! Eis que a minha alma não foi contaminada, porque nunca comi coisa morta, nem despedaçada, desde a minha mocidade até agora, nem carne abominável entrou na minha boca.
-E todos os que as ouviam as conservavam em seu coração, dizendo: Quem será, pois, este menino? E a mão do Senhor estava com ele.
-E disse Elias a Eliseu: Fica-te aqui, porque o SENHOR me enviou a Betel. Porém Eliseu disse: Vive o SENHOR, e vive a tua alma, que te não deixarei. E assim foram a Betel.
-Então, Jorão voltou as mãos, e fugiu, e disse a Acazias: Traição há, Acazias.
-E todo o Israel, com os seus anciãos, e os seus príncipes, e os seus juízes estavam de uma e outra banda da arca, perante os sacerdotes levitas, que levavam a arca do concerto do SENHOR, assim estrangeiros como naturais; metade deles em frente do monte Gerizim, e a outra metade em frente do monte Ebal; como Moisés, servo do SENHOR, ordenara, para abençoar primeiramente o povo de Israel.
-E, dito isso, ia caminhando adiante, subindo para Jerusalém.
-E lamentou Davi a Saul e a Jônatas, seu filho, com esta lamentação,
-E disse Deus: Eis que vos tenho dado toda erva que dá semente e que está sobre a face de toda a terra e toda árvore em que há fruto de árvore que dá semente; ser-vos-ão para mantimento.
-Mas, logo que os judeus de Tessalônica souberam que a palavra de Deus também era anunciada por Paulo em Bereia, foram lá e excitaram as multidões.
-A bandeira do exército de Efraim, segundo os seus esquadrões estará para a banda do ocidente; e Elisama, filho de Amiúde, será príncipe dos filhos de Efraim. E o seu exército e os que foram contados deles foram quarenta mil e quinhentos.
-Também estes com ele descerão ao inferno, a juntar-se aos que foram traspassados à espada; sim, aos que foram seu braço e que estavam assentados à sombra no meio das nações.
-E, quando te falarem os filhos do teu povo, dizendo: Não nos declararás o que significam estas coisas?
-E falou Hananias aos olhos de todo o povo, dizendo: Assim diz o SENHOR: Assim quebrarei o jugo de Nabucodonosor, rei da Babilônia, depois de passados dois anos completos, de sobre o pescoço de todas as nações. E Jeremias, o profeta, se foi, tomando o seu caminho.
-Ninguém, de maneira alguma, vos engane, porque não será assim sem que antes venha a apostasia e se manifeste o homem do pecado, o filho da perdição,
-Meu coração é para os legisladores de Israel, que voluntariamente se ofereceram entre o povo; louvai ao SENHOR.
-E vós descrevereis a terra em sete partes e ma trareis a mim aqui descrita, para que eu aqui lance as sortes perante o SENHOR, nosso Deus.
-E foi outra vez e orou, dizendo as mesmas palavras.
-Todos os dias em que a praga estiver nele, será imundo; imundo está, habitará só; a sua habitação será fora do arraial.
-então, tomarás das primícias de todos os frutos da terra que trouxeres da tua terra, que te dá o SENHOR, teu Deus, e as porás num cesto, e irás ao lugar que escolher o SENHOR, teu Deus, para ali fazer habitar o seu nome.
-E o oferecido da oferta da terra lhes será Santidade das Santidades, junto ao termo dos levitas.
-Mas tu não devias olhar para o dia de teu irmão, no dia do seu desterro; nem alegrar-te sobre os filhos de Judá, no dia da sua ruína; nem alargar a tua boca, no dia da angústia;
-Eu continuei olhando, até que foram postos uns tronos, e um ancião de dias se assentou; a sua veste era branca como a neve, e o cabelo da sua cabeça, como a limpa lã; o seu trono, chamas de fogo, e as rodas dele, fogo ardente.
-Então, Salomão enviou a Hirão, dizendo:
-E tu, dentre todo o povo, procura homens capazes, tementes a Deus, homens de verdade, que aborreçam a avareza; e põe-nos sobre eles por maiorais de mil, maiorais de cem, maiorais de cinquenta e maiorais de dez;
-Então, responderam a Josué, dizendo: Tudo quanto nos ordenaste faremos e aonde quer que nos enviares iremos.
-e Belá teve estes filhos: Adar, e Gera, e Abiúde,
-E Josafá, rei de Judá, voltou à sua casa em paz, a Jerusalém.
-E o arauto apregoava em alta voz: Ordena-se a vós, ó povos, nações e gente de todas as línguas:
-mercadorias de ouro, e de prata, e de pedras preciosas, e de pérolas, e de linho fino, e de púrpura, e de seda, e de escarlata; e toda madeira odorífera, e todo vaso de marfim, e todo vaso de madeira preciosíssima, de bronze e de ferro, e de mármore;
-E ele disse: Amanhã. E Moisés disse: Seja conforme a tua palavra, para que saibas que ninguém há como o SENHOR, nosso Deus.
-Porque isto é o meu sangue, o sangue do Novo Testamento, que é derramado por muitos, para remissão dos pecados.
-Eu vo-lo disse, agora, antes que aconteça, para que, quando acontecer, vós acrediteis.
-Então, foram chamados os escrivães do rei, naquele mesmo tempo e no mês terceiro (que é o mês de sivã), aos vinte e três do mesmo, e se escreveu conforme tudo quanto ordenou Mardoqueu aos judeus, como também aos sátrapas, e aos governadores, e aos maiorais das províncias que se estendem da Índia até à Etiópia, cento e vinte e sete províncias, a cada província segundo a sua escritura e a cada povo conforme a sua língua; como também aos judeus segundo a sua escritura e conforme a sua língua.
-Perante o SENHOR, teu Deus, os comerás de ano em ano, no lugar que o SENHOR escolher, tu e a tua casa.
-Porque edificaram os altos de Baal, para queimarem seus filhos em holocausto a Baal; o que nunca lhes ordenei, nem falei, nem subiu ao meu coração.
-E Salomão lhe edificou casa;
-Disse, porém, Rute: Não me instes para que te deixe e me afaste de ti; porque, aonde quer que tu fores, irei eu e, onde quer que pousares à noite, ali pousarei eu; o teu povo é o meu povo, o teu Deus é o meu Deus.
-Pelo que a terra está contaminada; e eu visitarei sobre ela a sua iniquidade, e a terra vomitará os seus moradores.
-E dirão: Porque deixaram ao SENHOR, seu Deus, que tirou da terra do Egito seus pais, e se apegaram a deuses alheios, e se encurvaram perante eles, e os serviram; por isso, trouxe o SENHOR sobre eles todo este mal.
-Porque chamarei contra Gogue a espada, sobre todos os meus montes, diz o Senhor JEOVÁ; a espada de cada um se voltará contra seu irmão.
-porque já sabeis a graça de nosso Senhor Jesus Cristo, que, sendo rico, por amor de vós se fez pobre, para que, pela sua pobreza, enriquecêsseis.
-Porque esta palavra chegou ao rei de Nínive, e levantou-se do seu trono, e tirou de si as suas vestes, e cobriu-se de pano de saco, e assentou-se sobre a cinza.
-Ordena aos filhos de Israel que lancem fora do arraial a todo leproso, e a todo o que padece fluxo, e a todos os imundos por causa de contato com algum morto.
-A graça do Senhor Jesus Cristo seja convosco.
-E assim a minha língua falará da tua justiça e do teu louvor, todo o dia.
-Cingiram-se de panos de saco nas suas ruas; nos seus terraços e nas suas praças, todos andam uivando e choram abundantemente.
-E havia diante do trono um como mar de vidro, semelhante ao cristal, e, no meio do trono e ao redor do trono, quatro animais cheios de olhos por diante e por detrás.
-Pelo monte de Sião, que está assolado, andam as raposas.
-e que estendeu para mim a sua beneficência perante o rei, e os seus conselheiros, e todos os príncipes poderosos do rei. Assim, me esforcei, segundo a mão do SENHOR sobre mim, e ajuntei dentre Israel alguns chefes para subirem comigo.
-E tomou Moisés o peito e moveu-o por oferta de movimento perante o SENHOR; aquela foi a porção de Moisés, do carneiro da consagração, como o SENHOR ordenara a Moisés.
-o mistério que esteve oculto desde todos os séculos e em todas as gerações e que, agora, foi manifesto aos seus santos;
-Tomou mais Judá a Gaza com o seu termo, e a Asquelom com o seu termo, e a Ecrom com o seu termo.
-Falou mais o SENHOR a Moisés, dizendo:
-E eles tomaram a cinza do forno e puseram-se diante de Faraó, e Moisés a espalhou para o céu; e tornou-se em sarna, que arrebentava em úlceras nos homens e no gado;
-E os filhos de Eseque, seu irmão: Ulão, seu primogênito, Jeús, o segundo, e Elifelete, o terceiro.
+Então, contendeu o povo com Moisés e disse: Dá-nos água para beber. E Moisés lhes disse: Por que contendeis comigo? Por que tentais ao SENHOR?
+Tão somente esforça-te e tem mui bom ânimo para teres o cuidado de fazer conforme toda a lei que meu servo Moisés te ordenou; dela não te desvies, nem para a direita nem para a esquerda, para que prudentemente te conduzas por onde quer que andares.
+E acontecerá que, se alguma das famílias da terra não subir a Jerusalém, para adorar o Rei, o SENHOR dos Exércitos, não virá sobre ela a chuva.
 Ao cabo de doze meses, andando a passear sobre o palácio real de Babilônia,
-Isto, porém, lhes faremos: dar-lhes-emos a vida, para que não haja grande ira sobre nós, por causa do juramento que já lhes temos jurado.
-E disse Filipe: É lícito, se crês de todo o coração. E, respondendo ele, disse: Creio que Jesus Cristo é o Filho de Deus.
-E Arão falou todas as palavras que o SENHOR falara a Moisés e fez os sinais perante os olhos do povo.
-Seja reto o meu coração para com os teus estatutos, para que eu não seja confundido.
-Então, sabereis que eu sou o SENHOR, quando estiverem os seus traspassados no meio dos seus ídolos, em redor dos seus altares, em todo o outeiro alto, em todos os cumes dos montes, e debaixo de toda árvore verde, e debaixo de todo carvalho espesso, no lugar onde ofereciam suave perfume a todos os seus ídolos.
-E Pedro e os que estavam com ele estavam carregados de sono; e, quando despertaram, viram a sua glória e aqueles dois varões que estavam com ele.
-As tuas mãos me fizeram e me afeiçoaram; dá-me inteligência para que aprenda os teus mandamentos.
-Mas, se, passando-se-lhe um ano inteiro, ainda não for resgatada, então, a casa que estiver na cidade que tem muro, em perpetuidade, ficará ao que a comprou, pelas suas gerações; não sairá no jubileu.
-E, começando por Moisés e por todos os profetas, explicava-lhes o que dele se achava em todas as Escrituras.
-E veio a mim a palavra do SENHOR, dizendo:
-Agora, pois, ouvi-me e tornai a enviar os prisioneiros que trouxestes presos de vossos irmãos, porque o ardor da ira do SENHOR está sobre vós.
-A sua mão esquerda esteja debaixo da minha cabeça, e a sua mão direita me abrace.
-E esta palavra pareceu boa aos olhos de Absalão, e aos olhos de todos os anciãos de Israel.
-Se eu tivesse fome, não to diria, pois meu é o mundo e a sua plenitude.
-Assim diz o SENHOR dos Exércitos: Diligentemente, respigarão os resíduos de Israel como uma vinha; torna a tua mão, como o vindimador, aos cestos.
-(Ouviram, pois, os filhos de Benjamim que os filhos de Israel haviam subido a Mispa.) E disseram os filhos de Israel: Falai, como sucedeu esta maldade?
-E esse rei fará conforme a sua vontade, e se levantará, e se engrandecerá sobre todo deus; e contra o Deus dos deuses falará coisas incríveis e será próspero, até que a ira se complete; porque aquilo que está determinado será feito.
-Noé, Sem, Cam e Jafé.
-Conforme forem as obras deles, assim será a sua retribuição; furor, aos seus adversários, e recompensa, aos seus inimigos; às ilhas dará ele a sua recompensa.
-E aconteceu que, indo ele a Jerusalém, passou pelo meio de Samaria e da Galileia;
-eis que farei que a sombra dos graus, que passou com o sol pelos graus do relógio de Acaz, volte dez graus atrás. Assim, recuou o sol dez graus pelos graus que já tinha andado.
-E ele tinha na sua destra sete estrelas; e da sua boca saía uma aguda espada de dois fios; e o seu rosto era como o sol, quando na sua força resplandece.
-os filhos de Babilônia, e todos os caldeus de Pecode, e de Soa, e de Coa, e todos os filhos da Assíria com eles, jovens de cobiçar, prefeitos e magistrados todos eles, capitães e homens afamados, todos eles montados a cavalo.
-E Miriã lhes respondia: Cantai ao SENHOR, porque sumamente se exaltou e lançou no mar o cavalo com o seu cavaleiro.
-Vendo, pois, todo o Israel que o rei não lhe dava ouvidos, tornou-lhe o povo a responder, dizendo: Que parte temos nós com Davi? Não há para nós herança no filho de Jessé. Às tuas tendas, ó Israel! Provê, agora, à tua casa, ó Davi. Então, Israel se foi às suas tendas.
-Porque não temos um sumo sacerdote que não possa compadecer-se das nossas fraquezas; porém um que, como nós, em tudo foi tentado, mas sem pecado.
-Atentando, pois, para vós, eis que nenhum de vós há que possa convencer a Jó, nem que responda às suas razões.
-para que todos vejam, e saibam, e considerem, e juntamente entendam que a mão do SENHOR fez isso, e o Santo de Israel o criou.
-Ouvi isto, ó sacerdotes, e escutai, ó casa de Israel, e escutai, ó casa do rei, porque a vós pertence este juízo, visto que fostes um laço para Mispa e rede estendida sobre o Tabor.
-E tomaram-na os sete, sem, contudo, terem deixado descendência. Finalmente, depois de todos, morreu também a mulher.
-Responderam-lhe: A Jesus, o Nazareno. Disse-lhes Jesus: Sou eu. E Judas, que o traía, estava também com eles.
-Mas tinha tomado Raquel os ídolos, e os tinha posto na albarda de um camelo, e assentara-se sobre eles; e apalpou Labão toda a tenda e não os achou.
-E morreu Harã, estando seu pai Tera ainda vivo, na terra do seu nascimento, em Ur dos caldeus.
-E, quando um homem se deitar com uma mulher que for serva desposada do homem e não for resgatada, nem se lhe houver dado liberdade, então, serão açoitados; não morrerão, pois não foi libertada.
-E engana os que habitam na terra com sinais que lhe foi permitido que fizesse em presença da besta, dizendo aos que habitam na terra que fizessem uma imagem à besta que recebera a ferida de espada e vivia.
-E, sepultando a Abner em Hebrom, o rei levantou a sua voz e chorou junto da sepultura de Abner; e chorou todo o povo.
-Trata com o teu servo segundo a tua benignidade e ensina-me os teus estatutos.
-Anda chorando Judá, e as suas portas estão enfraquecidas; andam de luto até ao chão, e o clamor de Jerusalém vai subindo.
-O rico domina sobre os pobres, e o que toma emprestado é servo do que empresta.
-e quando eles uniformemente tocavam as trombetas e cantavam para fazerem ouvir uma só voz, bendizendo e louvando ao SENHOR, e quando levantavam eles a voz com trombetas, e címbalos, e outros instrumentos músicos, para bendizerem ao SENHOR, porque era bom, porque a sua benignidade durava para sempre, então, a casa se encheu de uma nuvem, a saber, a Casa do SENHOR;
-E os discípulos  e João, vendo isso, disseram: Senhor, queres que digamos que desça fogo do céu e os consuma, como Elias também fez?
-Porque eis aqui a pedra que pus diante de Josué; sobre esta pedra única estão sete olhos; eis que eu esculpirei a sua escultura, diz o SENHOR dos Exércitos, e tirarei a iniquidade desta terra, em um dia.
-E a mim clamarão: Deus meu! Nós, Israel, te conhecemos.
-E eu lancei-me a seus pés para o adorar, mas ele disse-me: Olha, não faças tal; sou teu conservo e de teus irmãos que têm o testemunho de Jesus; adora a Deus; porque o testemunho de Jesus é o espírito de profecia.
-Então, o rei se afeiçoará à tua formosura, pois ele é teu senhor; obedece-lhe.
-Tendo por certo isto mesmo: que aquele que em vós começou a boa obra a aperfeiçoará até ao Dia de Jesus Cristo.
-e Levi, de Simeão, e Simeão, de Judá, e Judá, de José, e José, de Jonã, e Jonã, de Eliaquim,
-e das primeiras cadeiras nas sinagogas, e dos primeiros assentos nas ceias;
-E consideremo-nos uns aos outros, para nos estimularmos ao amor e às boas obras,
-que também vos sujeiteis aos tais e a todo aquele que auxilia na obra e trabalha.
-E o terá consigo e nele lerá todos os dias da sua vida, para que aprenda a temer ao SENHOR, seu Deus, para guardar todas as palavras desta lei e estes estatutos, para fazê-los.
-Os filhos de Judá foram: Perez, e Hezrom, e Carmi, e Hur, e Sobal.
-E nós cortaremos tanta madeira no Líbano quanta houveres mister e ta traremos em jangadas pelo mar a Jope, e tu a farás subir a Jerusalém.
-E vós, montes, que saltastes como carneiros, e vós, outeiros, como cordeiros?
-Resta, irmãos meus, que vos regozijeis no Senhor. Não me aborreço de escrever-vos as mesmas coisas, e é segurança para vós.
-E, ao cabo de alguns anos, foi ter com Acabe, a Samaria; e Acabe matou ovelhas e bois em abundância, para ele e para o povo que vinha com ele, e o persuadiu a subir com ele a Ramote-Gileade.
-e toda a sua terra abrasada com enxofre e sal, de sorte que não será semeada, e nada produzirá, nem nela crescerá erva alguma, assim como foi a destruição de Sodoma e de Gomorra, de Admá e de Zeboim, que o SENHOR destruiu na sua ira e no seu furor;
-E fez o SENHOR Deus a Adão e a sua mulher túnicas de peles e os vestiu.
-Ora, tinha vindo a  a palavra do SENHOR, estando ele ainda encerrado no átrio da guarda, dizendo:
-E chegou a uns currais de ovelhas no caminho, onde estava uma caverna; e entrou nela Saul, a cobrir seus pés; e Davi e os seus homens estavam aos lados da caverna.
-Sucedeu, depois disso, que, ouvindo-o Jabim, rei de Hazor, enviou mensageiros a Jobabe, rei de Madom, e ao rei de Sinrom, e ao rei de Acsafe;
-Porque sempre tendes os pobres convosco e podeis fazer-lhes bem, quando quiserdes; mas a mim nem sempre me tendes.
-E, chegando uma ocasião favorável em que Herodes, no dia do seu aniversário, dava uma ceia aos grandes, e tribunos, e príncipes da Galileia,
-Então, cingiram panos de saco aos lombos e cordas às cabeças, e vieram ao rei de Israel, e disseram: Diz o teu servo Ben-Hadade: Deixa-me viver. E disse ele: Pois ainda vive? É meu irmão.
-ouve, então, nos céus, assento da tua habitação, a sua oração e a sua súplica, e faze-lhes justiça,
-Mas não se humilhou perante o SENHOR, como Manassés, seu pai, se humilhara; antes, multiplicou Amom os seus delitos.
-Também o homem que adulterar com a mulher de outro, havendo adulterado com a mulher do seu próximo, certamente morrerá o adúltero e a adúltera.
-Porventura, são todos apóstolos? São todos profetas? São todos doutores? São todos operadores de milagres?
-Chegando eles até ao vale de Escol e vendo esta terra, descorajaram o coração dos filhos de Israel, para que não viessem à terra que o SENHOR lhes tinha dado.
-com as suas quarenta bases de prata; duas bases debaixo de uma tábua e duas bases debaixo de outra tábua.
-Também se juntaram com Baal-Peor e comeram os sacrifícios dos mortos.
-E os primogênitos dos pobres serão apascentados, e os necessitados se deitarão seguros; mas farei morrer de fome a tua raiz, e serão destruídos os teus resíduos.
-Porque este é o concerto que, depois daqueles dias, farei com a casa de Israel, diz o Senhor: porei as minhas leis no seu entendimento e em seu coração as escreverei; e eu lhes serei por Deus, e eles me serão por povo.
-Porque o ímpio gloria-se do desejo da sua alma, bendiz ao avarento e blasfema do SENHOR.
-Certamente, que não entrarei na tenda em que habito, nem subirei ao leito em que durmo;
-Amai, pois, a vossos inimigos, e fazei o bem, e emprestai, sem nada esperardes, e será grande o vosso galardão, e sereis filhos do Altíssimo; porque ele é benigno até para com os ingratos e maus.
-E plantou um bosque em Berseba e invocou lá o nome do SENHOR, Deus eterno.
-Depois, farás um véu de pano azul, e púrpura, e carmesim, e linho fino torcido; com querubins de obra prima se fará.
-E Simão Pedro estava ali e aquentava-se. Disseram-lhe, pois: Não és também tu um dos seus discípulos? Ele negou e disse: Não sou.
-Depois,  e Silas, que também eram profetas, exortaram e confirmaram os irmãos com muitas palavras.
-E tu torna a recebê-lo como ao meu coração.
-Por esta razão, nós também, desde o dia em que o ouvimos, não cessamos de orar por vós e de pedir que sejais cheios do conhecimento da sua vontade, em toda a sabedoria e inteligência espiritual;
-E servirá de sinal e de testemunho ao SENHOR dos Exércitos na terra do Egito, porque ao SENHOR clamarão por causa dos opressores, e ele lhes enviará um Redentor e Protetor que os livrará.
-O desejo que se cumpre deleita a alma, mas apartar-se do mal é abominação para os loucos.
-Porque, eis que, na cidade que se chama pelo meu nome, começo a castigar; e ficareis vós totalmente impunes? Não, não ficareis impunes, porque eu chamo a espada sobre todos os moradores da terra, diz o SENHOR dos Exércitos.
-Porque este mandamento, que hoje te ordeno, te não é encoberto e tampouco está longe de ti.
-Assim, a herança dos filhos de Israel não passará de tribo em tribo; pois os filhos de Israel se chegarão cada um à herança da tribo de seus pais.
-Não crês tu que eu estou no Pai e que o Pai está em mim? As palavras que eu vos digo, não as digo de mim mesmo, mas o Pai, que está em mim, é quem faz as obras.
-E do Egito e de todas aquelas terras traziam cavalos a Salomão.
-E, chegando o rei Davi a Baurim, eis que dali saiu um homem da linhagem da casa de Saul, cujo nome era Simei, filho de Gera; e, saindo, ia amaldiçoando.
-Por que morrerias tu e o teu povo à espada, e à fome, e de peste, como o SENHOR disse da gente que não servir ao rei da Babilônia?
-Medita estas coisas, ocupa-te nelas, para que o teu aproveitamento seja manifesto a todos.
-E sobre o exército da tribo dos filhos de Zebulom, Eliabe, filho de Helom.
-Estes são os estatutos que lhes proporás:
-Porém ao rei de Judá, que vos enviou a consultar ao SENHOR, assim lhe direis: Assim diz o SENHOR, o Deus de Israel, acerca das palavras que ouviste:
-Também tomará ambos os bodes e os porá perante o SENHOR, à porta da tenda da congregação.
-Bendito serás ao entrares e bendito serás ao saíres.
-No ano doze de Jorão filho de Acabe, rei de Israel, começou a reinar Acazias, filho de Jeorão, rei de Judá.
-segundo o eterno propósito que fez em Cristo Jesus, nosso Senhor,
-E morre no monte, ao qual subirás; e recolhe-te ao teu povo, como Arão, teu irmão, morreu no monte de Hor e se recolheu ao seu povo,
-Depois, andou pelo deserto, e rodeou a terra dos edomitas e a terra dos moabitas, e veio do nascente do sol à terra dos moabitas, e alojou-se dalém de Arnom; porém não entrou nos limites dos moabitas, porque Arnom é limite dos moabitas.
-Então, chegando-se a ela, tomou-a pela mão e levantou-a; e a febre a deixou, e servia-os.
-E subiu Benaia, filho de Joiada, e deu sobre ele, e o matou; e foi sepultado em sua casa, no deserto.
-Filhinhos, sois de Deus e já os tendes vencido, porque maior é o que está em vós do que o que está no mundo.
-Será também como o faminto que sonha que está comendo, mas, acordando, sente a sua alma vazia; ou como o sequioso que sonha que está bebendo, mas, acordando, eis que ainda desfalecido se acha, e a sua alma, com sede; assim será toda a multidão das nações que pelejarem contra o monte Sião.
-e disse-lhes: Vós sois os chefes dos pais entre os levitas; santificai-vos, vós e vossos irmãos, para que façais subir a arca do SENHOR, Deus de Israel, ao lugar que lhe tenho preparado.
-Ajuntam-se, escondem-se, espiam os meus passos, como aguardando a minha morte.
-para entender provérbios e sua interpretação, como também as palavras dos sábios e suas adivinhações.
-E, estando ele ainda falando com eles, eis que vinha subindo do exército dos filisteus o homem guerreiro, cujo nome era Golias, o filisteu de Gate, e falou conforme aquelas palavras, e Davi as ouviu.
-Porque adulteraram, e sangue se acha nas suas mãos; com os seus ídolos adulteraram, e até os seus filhos, que de mim geraram, fizeram passar pelo fogo, para os consumirem.
-Faze uma cadeia, porque a terra está cheia de crimes de sangue, e a cidade está cheia de violência.
-Porém ele lhes disse: Uma comida tenho para comer, que vós não conheceis.
-Sucedeu, pois, que, vindo os filisteus ao outro dia a despojar os mortos, acharam a Saul e a seus três filhos estirados na montanha de Gilboa.
-Houve também, de coisas consagradas, seiscentos bois e três mil ovelhas.
-Haverá, porventura, entre as vaidades dos gentios, alguma que faça chover? Ou podem os céus dar chuvas? Não és tu somente, ó SENHOR, nosso Deus? Portanto, em ti esperaremos, pois tu fazes todas estas coisas.
-E, chamando-os a si, disse-lhes por parábolas: Como pode Satanás expulsar Satanás?
-A espada virá sobre os seus cavalos, e sobre os seus carros, e sobre todo o povo misto que está no meio dela; e eles serão como mulheres; a espada virá sobre os seus tesouros, e serão saqueados.
-vós também, como pedras vivas, sois edificados casa espiritual e sacerdócio santo, para oferecerdes sacrifícios espirituais, agradáveis a Deus, por Jesus Cristo.
-E as feras que uivam gritarão umas às outras nos seus palácios vazios, como também os chacais, nos seus palácios de prazer; pois bem perto já vem chegando o seu tempo, e os seus dias não se prolongarão.
-Os céus manifestam a glória de Deus e o firmamento anuncia a obra das suas mãos.
-E acontecerá, naquele dia, que as nações perguntarão pela raiz de Jessé, posta por pendão dos povos, e o lugar do seu repouso será glorioso.
-Não se contaminará por príncipe entre o seu povo, para se profanar.
-Não é bom ter respeito à pessoa do ímpio, para derribar o justo em juízo.
-Então, os oficiais dos filhos de Israel viram-se em aflição, porquanto se dizia: Nada diminuireis de vossos tijolos, da tarefa do dia no seu dia.
-E eis que a teus servos, os cortadores, que cortarem a madeira, darei vinte mil coros de trigo malhado, e vinte mil coros de cevada, e vinte mil batos de vinho, e vinte mil batos de azeite.
-E toda a congregação se prostrou quando cantavam o canto, e as trombetas tocavam; tudo isso, até o holocausto se acabar.
-Os que te temem alegraram-se quando me viram, porque tenho esperado na tua palavra.
-E perguntou Ezequias aos sacerdotes e aos levitas acerca daqueles montões.
-E, quanto mais sábio foi o Pregador, tanto mais sabedoria ao povo ensinou; e atentou, e esquadrinhou, e compôs muitos provérbios.
-Seus pais disseram isso, porque temiam os judeus, porquanto já os judeus tinham resolvido que, se alguém confessasse ser ele o Cristo, fosse expulso da sinagoga.
-E tocou o sétimo anjo a trombeta, e houve no céu grandes vozes, que diziam: Os reinos do mundo vieram a ser de nosso Senhor e do seu Cristo, e ele reinará para todo o sempre.
-Mas Israel estendeu a sua mão direita e a pôs sobre a cabeça de Efraim, ainda que era o menor, e a sua esquerda sobre a cabeça de Manassés, dirigindo as suas mãos avisadamente, ainda que Manassés era o primogênito.
-é soberbo e nada sabe, mas delira acerca de questões e contendas de palavras, das quais nascem invejas, porfias, blasfêmias, ruins suspeitas,
-Tu os padejarás, e o vento os levará, e o tufão os espalhará; mas tu te alegrarás no SENHOR e te gloriarás no Santo de Israel.
-O SENHOR reina; tremam as nações. Ele está entronizado entre os querubins; comova-se a terra.
-E Salum, filho de Coré, filho de Ebiasafe, filho de Corá, e seus irmãos da casa de seu pai, os coraítas, tinham cargo da obra do ministério e eram guardas dos umbrais do tabernáculo; e seus pais foram capitães do arraial do SENHOR e guardadores da entrada.
-E Jesus o repreendeu, dizendo: Cala-te e sai dele. E o demônio, lançando-o por terra no meio do povo, saiu dele, sem lhe fazer mal.
-Assim, comeram a Páscoa os filhos de Israel que tinham voltado do cativeiro, com todos os que a eles se apartavam da imundícia das nações da terra, para buscarem o SENHOR, Deus de Israel.
-E disse Saul: De Amaleque as trouxeram; porque o povo perdoou ao melhor das ovelhas e das vacas, para as oferecer ao SENHOR, teu Deus; o resto, porém, temos destruído totalmente.
-O grande dia do SENHOR está perto, está perto, e se apressa muito a voz do dia do SENHOR; amargamente clamará ali o homem poderoso.
-porquanto prevaricastes contra mim no meio dos filhos de Israel, nas águas da contenção, em Cades, no deserto de Zim, pois me não santificastes no meio dos filhos de Israel.
-Os velhos que sejam sóbrios, graves, prudentes, sãos na fé, no amor e na paciência.
-Porventura, não te escrevi excelentes coisas acerca de todo conselho e conhecimento,
-porque Herodes temia a João, sabendo que era varão justo e santo; e guardava-o com segurança e fazia muitas coisas, atendendo-o, e de boa vontade o ouvia.
-E também dantes, sendo Saul ainda rei sobre nós, eras tu o que saías e entravas com Israel; e também o SENHOR te disse: Tu apascentarás o meu povo de Israel e tu serás chefe sobre Israel.
-e que as primícias da nossa massa, e as nossas ofertas alçadas, e o fruto de toda árvore, e o mosto, e o azeite traríamos aos sacerdotes, às câmaras da Casa do nosso Deus; e os dízimos da nossa terra aos levitas; e que os levitas pagariam os dízimos em todas as cidades da nossa lavoura;
-Então, disse Raquel: Julgou-me Deus, e também ouviu a minha voz, e me deu um filho; por isso, chamou o seu nome Dã.
-O teu nome, ó SENHOR, permanece perpetuamente; e a tua memória, ó SENHOR, de geração em geração.
-Pois contra Jacó não vale encantamento, nem adivinhação contra Israel; neste tempo se dirá de Jacó e de Israel: Que coisas Deus tem feito!
-E o SENHOR, seu Deus, naquele dia, os salvará, como ao rebanho do seu povo; porque, como as pedras de uma coroa, eles serão exaltados na sua terra.
-E será que, tomando vós a cidade, poreis a cidade a fogo; conforme a palavra do SENHOR fareis; olhai que vo-lo tenho mandado.
-Então, Jacó rasgou as suas vestes, e pôs pano de saco sobre os seus lombos, e lamentou a seu filho muitos dias.
-Ele persegue-os e passa em paz por uma vereda em que, com os seus pés, nunca tinha caminhado.
-Então, chegaram ao pé de Jesus uns escribas e fariseus de Jerusalém, dizendo:
-E se escreveu em nome do rei Assuero, e se selou com o anel do rei; e se enviaram as cartas pela mão de correios a cavalo e que cavalgavam sobre ginetes, que eram das cavalariças do rei.
-Aumentai muito sobre mim o dote e a dádiva, e darei o que me disserdes; dai-me somente a moça por mulher.
-Aqueles, pois, que se haviam reunido perguntaram-lhe, dizendo: Senhor, restaurarás tu neste tempo o reino a Israel?
-E disse Hazael: Pois que é teu servo, que não é mais do que um cão, para fazer tão grande coisa? E disse Eliseu: O SENHOR me tem mostrado que tu hás de ser rei da Síria.
-É esta a terceira vez que vou ter convosco. Por boca de duas ou três testemunhas, será confirmada toda palavra.
-e derribarei o trono dos reinos e destruirei a força dos reinos das nações; e destruirei o carro e os que nele se assentam; e os cavalos e os que andam montados neles cairão, cada um pela espada do seu irmão.
-E em Jerusalém havia a Festa da Dedicação, e era inverno.
-Portanto, para Efraim serei como a traça e para a casa de Judá, como a podridão.
-Tinham, porém, contra ele algumas questões acerca de sua superstição e de um tal Jesus, defunto, que Paulo afirmava viver.
-Indo assim para a Porta da Fonte e defronte deles, subiram as escadas da Cidade de Davi pela subida do muro, desde cima da casa de Davi até à Porta das Águas, da banda do oriente.
-E foi-se Sansão a Gaza, e viu ali uma mulher prostituta, e entrou a ela.
-E o rei deu ordem a Hilquias, e a Aicão, filho de Safã, e a Abdom, filho de Mica, e a Safã, o escrivão, e a Asaías, ministro do rei, dizendo:
-A minha carne se tem vestido de bichos e de torrões de pó; a minha pele está gretada e se fez abominável.
-E eles serão meus, diz o SENHOR dos Exércitos, naquele dia que farei, serão para mim particular tesouro; poupá-los-ei como um homem poupa a seu filho que o serve.
-Justo é o SENHOR, pois me rebelei contra os seus mandamentos; ouvi, pois, todos os povos e vede a minha dor; as minhas virgens e os meus jovens se foram para o cativeiro.
-Levam o jumento do órfão; tomam em penhor o boi da viúva.
-Mas o SENHOR foi o meu alto retiro; e o meu Deus, a rocha em que me refugiei.
-E deu-lhes ordem, dizendo: Olhai, poreis emboscadas à cidade, por detrás da cidade; não vos alongueis muito da cidade; e todos vós estareis apercebidos.
-E preparou-lhes Uzias, para todo o exército, escudos, e lanças, e capacetes, e couraças, e arcos, e até fundas para atirar pedras.
-E tornou a haver guerra; e saiu Davi, e pelejou contra os filisteus, e feriu-os de grande ferida; e fugiram diante dele.
-Mas das mãos de seu filho tomarei o reino e to darei a ti, as dez tribos dele.
-Mas a Escritura encerrou tudo debaixo do pecado, para que a promessa pela fé em Jesus Cristo fosse dada aos crentes.
-E os bárbaros usaram conosco de não pouca humanidade; porque, acendendo uma grande fogueira, nos recolheram a todos por causa da chuva que caía e por causa do frio.
-acharemos toda sorte de fazenda preciosa; encheremos as nossas casas de despojos;
-Para cheirar são bons os teus unguentos; como unguento derramado é o teu nome; por isso, as virgens te amam.
-E o estrondo das asas dos querubins se ouviu até ao átrio exterior, como a voz do Deus Todo-Poderoso, quando fala.
-Porque bem sabia ele quem o havia de trair; por isso, disse: Nem todos estais limpos.
-Ora, o mais dos atos de Jeú e tudo quanto fez, e todo o seu poder, porventura, não estão escritos no livro das Crônicas dos Reis de Israel?
-Louve-te o estranho, e não a tua boca, o estrangeiro, e não os teus lábios.
-Vendo, pois, os siros que tinham sido feridos diante de Israel, tornaram a refazer-se.
-E foram açoitados os oficiais dos filhos de Israel, que os exatores de Faraó tinham posto sobre eles, dizendo estes: Por que não acabastes vossa tarefa ontem e hoje, fazendo tijolos como antes?
-Levedado não se cozerá; sua porção é que lhes dei das minhas ofertas queimadas; coisa santíssima é, como a expiação do pecado e como a expiação da culpa.
-E, quando a leram, alegraram-se pela exortação.
-A justiça do sincero endireitará o seu caminho, mas o ímpio, pela sua impiedade, cairá.
-E assim lhe sucedeu, porque o povo o atropelou à porta, e ele morreu.
-Vem o fim, o fim vem, despertou-se contra ti; eis que vem;
-E quatro homens leprosos estavam à entrada da porta, os quais disseram uns aos outros: Para que estaremos nós aqui até morrermos?
-E disse-lhe Pedro: Eneias, Jesus Cristo te dá saúde; levanta-te e faze a tua cama. E logo se levantou.
-Procurou o Pregador achar palavras agradáveis; e o escrito é a retidão, palavras de verdade.
-No ano primeiro do rei Ciro, o rei Ciro deu esta ordem: Com respeito à Casa de Deus em Jerusalém, essa casa se edificará para lugar em que se ofereçam sacrifícios, e seus fundamentos serão firmes; a sua altura, de sessenta côvados, e a sua largura, de sessenta côvados,
-E mediu a largura da dianteira do átrio interior, por fora: cem côvados da banda do oriente e do norte.
-E será que, quando alguém ainda profetizar, seu pai e sua mãe, que o geraram, lhe dirão: Não viverás, porque mentirosamente falaste em nome do SENHOR; e seu pai e sua mãe, que o geraram, o traspassarão quando profetizar.
-E esta é a causa do tributo que impôs o rei Salomão, para edificar a Casa do SENHOR, e a sua casa, e Milo, e o muro de Jerusalém, como também a Hazor, e a Megido, e a Gezer.
-E eu rogarei ao Pai, e ele vos dará outro Consolador, para que fique convosco para sempre,
-E os filhos de Tola foram: Uzi, e Refaías, e Jeriel, e Jamai, e Ibsão, e Samuel, chefes das casas de seus pais, e descendentes de Tola, varões de valor nas suas gerações; o seu número, nos dias de Davi, foi de vinte e dois mil e seiscentos.
-E disse Abraão: Porque eu dizia comigo: Certamente não há temor de Deus neste lugar, e eles me matarão por amor da minha mulher.
-O que justifica o ímpio e o que condena o justo abomináveis são para o SENHOR, tanto um como o outro.
-Àquele que dividiu o mar Vermelho em duas partes; porque a sua benignidade é para sempre.
-Porém Absalão disse a Husai: É esta a tua beneficência para com o teu amigo? Por que não foste com o teu amigo?
-Porque a semente prosperará, a vide dará o seu fruto, e a terra dará a sua novidade, e os céus darão o seu orvalho; e farei que o resto deste povo herde tudo isto.
-Quem fala de si mesmo busca a sua própria glória, mas o que busca a glória daquele que o enviou, esse é verdadeiro, e não há nele injustiça.
-Quem vencer herdará todas as coisas, e eu serei seu Deus, e ele será meu filho.
-porém à moça não farás nada; a moça não tem culpa de morte; porque, como o homem que se levanta contra o seu próximo e lhe tira a vida, assim é este negócio.
-No ano trinta e sete de Joás, rei de Judá, começou a reinar Jeoás, filho de Jeoacaz, sobre Israel, em Samaria, e reinou dezesseis anos.
-Porque, partindo os filhos de Israel, chegaram às suas cidades ao terceiro dia; e suas cidades eram Gibeão, e Cefira, e Beerote, e Quiriate-Jearim.
-Tu os esmigalharás com uma vara de ferro; tu os despedaçarás como a um vaso de oleiro.
-Paulo, e Silvano, e Timóteo, à igreja dos tessalonicenses, em Deus, o Pai, e no Senhor Jesus Cristo: graça e paz tenhais de Deus, nosso Pai, e do Senhor Jesus Cristo.
-Mas, no dia em que Ló saiu de Sodoma, choveu do céu fogo e enxofre, consumindo a todos.
-Então, o rei de Israel ajuntou os profetas até quase quatrocentos homens e disse-lhes: Irei à peleja contra Ramote-Gileade ou deixarei de ir? E eles disseram: Sobe, porque o Senhor a entregará na mão do rei.
-a aranha, que se apanha com as mãos e está nos paços dos reis.
-Defronte da moldura estavam as argolas para os lugares dos varais, para levar a mesa.
-e tornai a vosso pai e a vossas famílias, e vinde a mim; e eu vos darei o melhor da terra do Egito, e comereis a fartura da terra.
-Farás, pois, chegar os levitas perante o SENHOR; e os filhos de Israel porão as suas mãos sobre os levitas.
-Eis aqui o meu servo que escolhi, o meu amado, em quem a minha alma se compraz; porei sobre ele o meu Espírito, e anunciará aos gentios o juízo.
-E, se ainda restarem poucos anos até ao Ano do Jubileu, então, fará contas com ele; segundo os seus anos, restituirá o seu resgate.
-E sucedeu que, chegando Davi a Maanaim, Sobi, filho de Naás, de Rabá, dos filhos de Amom, e Maquir, filho de Amiel, de Lo-Debar, e Barzilai, o gileadita, de Rogelim,
-E os escribas e príncipes dos sacerdotes, tendo ouvido isso, buscavam ocasião para o matar; pois eles o temiam porque toda a multidão estava admirada acerca da sua doutrina.
-E ouvi o número dos assinalados, e eram cento e quarenta e quatro mil assinalados, de todas as tribos dos filhos de Israel.
-E tu tens feito vão o temor e diminuis os rogos diante de Deus.
-Habitou, pois, Josafá em Jerusalém, e tornou a passar pelo povo desde Berseba até as montanhas de Efraim, e fez com que tornassem ao SENHOR, Deus de seus pais.
-A mão dos diligentes dominará, mas os enganadores serão tributários.
-E também eles, se não permanecerem na incredulidade, serão enxertados; porque poderoso é Deus para os tornar a enxertar.
-É mais fácil passar um camelo pelo fundo de uma agulha do que entrar um rico no Reino de Deus.
-para que eu te faça jurar pelo SENHOR, Deus dos céus e Deus da terra, que não tomarás para meu filho mulher das filhas dos cananeus, no meio dos quais eu habito,
-E, não achando por onde o pudessem levar, por causa da multidão, subiram ao telhado e, por entre as telhas, o baixaram com a cama até ao meio, diante de Jesus.
-Tomamos, pois, esta terra em possessão naquele tempo; desde Aroer, que está junto ao ribeiro de Arnom, e a metade da montanha de Gileade, com as suas cidades, tenho dado aos rubenitas e gaditas.
-Quem crê nele não é condenado; mas quem não crê já está condenado, porquanto não crê no nome do unigênito Filho de Deus.
-Porque temi por causa da ira e do furor com que o SENHOR tanto estava irado contra vós, para vos destruir; porém, ainda por esta vez, o SENHOR me ouviu.
-Na tua comprida viagem, te cansaste; mas não dizes: Não há esperança; o que buscavas achaste; por isso, não adoeces.
-Erasto ficou em Corinto, e deixei Trófimo doente em Mileto.
-Eu sou pobre e necessitado; mas o Senhor cuida de mim: tu és o meu auxílio e o meu libertador; não te detenhas, ó meu Deus.
-Tu, ó Deus, mandaste a chuva em abundância e confortaste a tua herança, quando estava cansada.
-Agora, pois, corre-lhe ao encontro e dize-lhe: Vai bem contigo? Vai bem com teu marido? Vai bem com teu filho? E ela disse: Vai bem.
-E o Espírito do SENHOR o começou a impelir de quando em quando para o campo de Dã, entre Zorá e Estaol.
-Pois Davi enviou espias e soube que Saul vinha decerto.
-E não guardastes a ordenança das minhas coisas sagradas; antes, vos constituístes a vós mesmos guardas da minha ordenança no meu santuário.
-o Espírito da verdade, que o mundo não pode receber, porque não o vê, nem o conhece; mas vós o conheceis, porque habita convosco e estará em vós.
-com mil e duzentos carros e com sessenta mil cavaleiros; e era inumerável a gente que vinha com ele do Egito, tanto de líbios como suquitas e etíopes.
-E sucedeu, no quarto ano do rei Ezequias (que era o sétimo ano de Oseias, filho de Elá, rei de Israel), que Salmaneser, rei da Assíria, subiu contra Samaria e a cercou.
-Ele converte rios em desertos; nascentes, em terra sedenta;
-E respondeu  e disse a Amazias: Eu não era profeta, nem filho de profeta, mas boieiro e cultivador de sicômoros.
-E, a todos quantos andarem conforme esta regra, paz e misericórdia sobre eles e sobre o Israel de Deus.
-Porque nem do Oriente, nem do Ocidente, nem do deserto vem a exaltação.
-Antes, os membros do corpo que parecem ser os mais fracos são necessários.
-E sucedeu que, desde que a rodearam com ela, a mão do SENHOR veio contra aquela cidade, com mui grande vexação; pois feriu os homens daquela cidade, desde o pequeno até ao grande; e tinham hemorroidas nas partes secretas.
-E era toda a terra de uma mesma língua e de uma mesma fala.
-Porque, quando Deus fez a promessa a Abraão, como não tinha outro maior por quem jurasse, jurou por si mesmo,
-E tomaram do fruto da terra nas suas mãos, e no-lo trouxeram, e nos tornaram a dar resposta, e disseram: Boa é a terra que nos dá o SENHOR, nosso Deus.
-E, chamando a si cada um dos devedores do seu senhor, disse ao primeiro: Quanto deves ao meu senhor?
-Então, o rei se perturbou, e subiu à sala que estava por cima da porta, e chorou; e, andando, dizia assim: Meu filho Absalão, meu filho, meu filho Absalão! Quem me dera que eu morrera por ti, Absalão, meu filho, meu filho!
-E a cada um foi dada uma comprida veste branca e foi-lhes dito que repousassem ainda um pouco de tempo, até que também se completasse o número de seus conservos e seus irmãos que haviam de ser mortos como eles foram.
-Eu os remirei da violência do inferno e os resgatarei da morte; onde estão, ó morte, as tuas pragas? Onde está, ó inferno, a tua perdição? O arrependimento será escondido de meus olhos.
-E aquele homem foi e anunciou aos judeus que Jesus era o que o curara.
-se eu escolhia o seu caminho, assentava-me como chefe; e habitava como rei entre as suas tropas, como aquele que consola os que pranteiam.
-Os filhos de Joel: Semaías, de quem foi filho Gogue, de quem foi filho Simei, de quem foi filho
-E alegraram-se toda a congregação de Judá, e os sacerdotes, e os levitas, e toda a congregação de todos os que vieram de Israel, como também os estrangeiros que vieram da terra de Israel e os que habitavam em Judá.
-Mas esta multidão, que não sabe a lei, é maldita.
-Então, pegaram em pedras para lhe atirarem; mas Jesus ocultou-se, e saiu do templo, passando pelo meio deles, e assim se retirou.
-Não acendereis fogo em nenhuma das vossas moradas no dia de sábado.
-e nenhum de vós pense mal no seu coração contra o seu companheiro, nem ame o juramento falso; porque todas estas coisas eu aborreço, diz o SENHOR.
-Porque os lábios do sacerdote guardarão a ciência, e da sua boca buscarão a lei, porque ele é o anjo do SENHOR dos Exércitos.
-E foram crucificados com ele dois salteadores, um, à direita, e outro, à esquerda.
-E os que ouviram foram batizados em nome do Senhor Jesus.
-E os pastores de Gerar porfiaram com os pastores de Isaque, dizendo: Esta água é nossa. Por isso, chamou o nome daquele poço Eseque, porque contenderam com ele.
-ou quando alguma pessoa tocar em alguma coisa imunda, seja corpo morto de besta-fera imunda, seja corpo morto de animal imundo, seja corpo morto de réptil imundo, ainda que lhe fosse oculto, contudo, será ele imundo e culpado;
-E, demorando-nos ali por muitos dias, chegou da Judeia um profeta, por nome Ágabo;
-Falou, pois, o SENHOR ao peixe, e ele vomitou a  na terra.
-Também havia quem dizia: Tomamos dinheiro emprestado até para o tributo do rei, sobre as nossas terras e as nossas vinhas.
-e tomou seiscentos carros escolhidos, e todos os carros do Egito, e os capitães sobre eles todos.
-E repartia-se a cada um, segundo a necessidade que cada um tinha.
-Fugi, salvai a vossa vida e sereis como a tamargueira no deserto.
-Ele foi oprimido, mas não abriu a boca; como um cordeiro, foi levado ao matadouro e, como a ovelha muda perante os seus tosquiadores, ele não abriu a boca.
-Concebem o trabalho e produzem a iniquidade; e o seu ventre prepara enganos.
-que operou sinais e prodígios no meio de ti, ó Egito, contra Faraó e contra os seus servos;
-E será que, quando vos achegardes à peleja, o sacerdote se adiantará, e falará ao povo,
-Balanças justas, e efa justo, e bato justo tereis.
-Então, Balaque levou Balaão consigo ao cume de Peor, que olha para a banda do deserto.
-E confirmaste a teu povo Israel por teu povo para sempre e tu, SENHOR, te fizeste o seu Deus.
-Ao que te ferir numa face, oferece-lhe também a outra; e ao que te houver tirado a capa, nem a túnica recuses.
-Agora, pois, ó Senhor, olha para as suas ameaças e concede aos teus servos que falem com toda a ousadia a tua palavra,
-E foi-se o SENHOR, quando acabou de falar a Abraão; e Abraão tornou ao seu lugar.
-E prepararás um cordeiro de um ano, sem mancha, em holocausto ao SENHOR, cada dia; todas as manhãs o prepararás.
-E, cuspindo nele, tiraram-lhe a cana e batiam-lhe com ela na cabeça.
-E Samuel respondeu a Saul e disse: Eu sou o vidente; sobe diante de mim ao alto; e comei hoje comigo; e pela manhã te despedirei e tudo quanto está no teu coração to declararei.
-Porém o altar de cobre, que estava perante o SENHOR, tirou ele de diante da casa, de entre o seu altar e a Casa do SENHOR e pô-lo ao lado do seu altar, da banda do norte.
-Ouviu, pois, Ebede-Meleque, o etíope, um eunuco que, então, estava na casa do rei, que tinham metido a  no calabouço. Estava, porém, o rei assentado à Porta de Benjamim. Logo, Ebede-Meleque saiu da casa do rei e falou ao rei, dizendo:
-O inimigo não o importunará, nem o filho da perversidade o afligirá.
-Também todo réptil que voa vos será imundo; não se comerá.
-como, em muita prova de tribulação, houve abundância do seu gozo, e como a sua profunda pobreza superabundou em riquezas da sua generosidade.
-Tendo esperança em Deus, como estes mesmos também esperam, de que há de haver ressurreição de mortos, tanto dos justos como dos injustos.
-Quando o pai de família se levantar e cerrar a porta, e começardes a estar de fora e a bater à porta, dizendo: Senhor, Senhor, abre-nos; e, respondendo ele, vos disser: Não sei de onde vós sois,
-Então, os judeus disseram àquele que tinha sido curado: É sábado, não te é lícito levar a cama.
-E da tribo de Benjamim, Gibeão e os seus arrabaldes, Geba e os seus arrabaldes;
-Contudo, o SENHOR mandará de dia a sua misericórdia, e de noite a sua canção estará comigo: a oração ao Deus da minha vida.
-Buscavam, pois, a Jesus e diziam uns aos outros, estando no templo: Que vos parece? Não virá à festa?
-E andaram errantes duas ou três cidades, indo a outra cidade, para beberem água, mas não se saciaram; contudo, não vos convertestes a mim, disse o SENHOR.
-E Joás, rei de Israel, subiu; e ele e Amazias, rei de Judá, viram-se face a face em Bete-Semes, que está em Judá.
-O campo está assolado, e a terra, triste; porque o trigo está destruído, o mosto se secou, o óleo falta.
-Os seus sacerdotes caíram à espada, e suas viúvas não se lamentaram.
-E, havendo-o prendido, o encerrou na prisão, entregando-o a quatro quaternos de soldados, para que o guardassem, querendo apresentá-lo ao povo depois da Páscoa.
-Depois, veio a palavra do SENHOR a mim, dizendo:
-que tem preparado o coração para buscar ao SENHOR Deus, o Deus de seus pais, ainda que não esteja purificado segundo a purificação do santuário.
-Não se enriquecerá, nem subsistirá a sua fazenda, nem se estenderão pela terra as suas possessões.
-Os ouvidos que escutam a repreensão da vida no meio dos sábios farão a sua morada.
-todo animal, todo réptil, toda ave, tudo o que se move sobre a terra, conforme as suas famílias, saiu para fora da arca.
-agora, pois, se diligentemente ouvirdes a minha voz e guardardes o meu concerto, então, sereis a minha propriedade peculiar dentre todos os povos; porque toda a terra é minha.
-Pois o SENHOR pôs o Jordão por termo entre nós e vós, ó filhos de Rúben e filhos de Gade; não tendes parte no SENHOR. E assim bem poderiam vossos filhos fazer desistir a nossos filhos de temer ao SENHOR.
-E, se morrer algum dos animais, que vos servem de mantimento, quem tocar no seu cadáver será imundo até à tarde;
-E disse: Deixai-o estar; ninguém mexa nos seus ossos. Assim, deixaram estar os seus ossos com os ossos do profeta que viera de Samaria.
-Pelo que, ó SENHOR, te louvarei entre as nações e cantarei louvores ao teu nome.
-Tu, porém, permanece naquilo que aprendeste e de que foste inteirado, sabendo de quem o tens aprendido.
-Mas, vendo o povo que Moisés tardava em descer do monte, ajuntou-se o povo a Arão e disseram-lhe: Levanta-te, faze-nos deuses que vão adiante de nós; porque quanto a este Moisés, a este homem que nos tirou da terra do Egito, não sabemos o que lhe sucedeu.
-E ele concordou e buscava oportunidade para lho entregar sem alvoroço.
-E, achando discípulos, ficamos ali sete dias; e eles, pelo Espírito, diziam a Paulo que não subisse a Jerusalém.
-E o rei lhes respondeu asperamente, porque o rei Roboão deixou o conselho dos anciãos.
-para que se cumprisse o que fora dito pelo profeta Isaías, que diz:
-E eis aqui eu vou, hoje, pelo caminho de toda a terra; e vós bem sabeis, com todo o vosso coração e com toda a vossa alma que nem uma só palavra caiu de todas as boas palavras que falou de vós o SENHOR, vosso Deus; todas vos sobrevieram, nem delas caiu uma só palavra.
-Mas o Senhor assistiu-me e fortaleceu-me, para que, por mim, fosse cumprida a pregação e todos os gentios a ouvissem; e fiquei livre da boca do leão.
-E deu Davi a Salomão, seu filho, o risco do alpendre com as suas casarias, e as suas tesourarias, e os seus cenáculos, e as suas recâmaras de dentro, como também da casa do propiciatório.
-De maneira que nenhum dom vos falta, esperando a manifestação de nosso Senhor Jesus Cristo,
-e as intimarás a teus filhos e delas falarás assentado em tua casa, e andando pelo caminho, e deitando-te, e levantando-te.
-Porque o seu sangue está no meio dela; sobre uma penha descalvada o pôs e não o derramou sobre a terra, para o cobrir com pó;
-Assim, ajuntou-se com as moças de Boaz, para colher, até que a sega das cevadas e dos trigos se acabou; e ficou com a sua sogra.
-Mas, aos outros, digo eu, não o Senhor: se algum irmão tem mulher descrente, e ela consente em habitar com ele, não a deixe.
-Há, porventura, iniquidade na minha língua? Ou não poderia o meu paladar dar a entender as minhas misérias?
-Circunvalou os meus caminhos com pedras lavradas, fez tortuosas as minhas veredas.
-E Josué, filho de Num, foi cheio do espírito de sabedoria, porquanto Moisés tinha posto sobre ele as suas mãos; assim, os filhos de Israel lhe deram ouvidos e fizeram como o SENHOR ordenara a Moisés.
-Porém, respondendo Pedro e os apóstolos, disseram: Mais importa obedecer a Deus do que aos homens.
-Porventura, não ouviste que já muito antes eu fiz isso e que já desde os dias antigos o tinha pensado? Agora, porém, se cumpre, e eu quis que fosses tu que destruísses as cidades fortes e as reduzisses a montões assolados.
-Então, o SENHOR me respondeu e disse: Escreve a visão e torna-a bem legível sobre tábuas, para que a possa ler o que correndo passa.
-Porque, na verdade, as minhas palavras não serão falsas; contigo está um que é sincero na sua opinião.
-Mas o que sobejar da carne e do pão queimareis com fogo.
-Assim, Senaqueribe, rei da Assíria, se retirou, e se foi, e voltou, e ficou em Nínive.
-Eu me deitei e dormi; acordei, porque o SENHOR me sustentou.
-Ora, se, estando inteiro, não servia para obra alguma, quanto menos sendo consumido do fogo, quanto menos sendo queimado, se faria dele qualquer obra?
-Eu vos escrevi, pais, porque já conhecestes aquele que é desde o princípio. Eu vos escrevi, jovens, porque sois fortes, e a palavra de Deus está em vós, e já vencestes o maligno.
-Lembrai-vos dos presos, como se estivésseis presos com eles, e dos maltratados, como sendo-o vós mesmos também no corpo.
-Os profetas que houve antes de mim e antes de ti, desde a antiguidade, profetizaram contra muitas terras e contra grandes reinos guerra, e mal, e peste.
-Então, disse o rei: Fazei apressar a Hamã, que cumpra o mandado de Ester. Vindo, pois, o rei e Hamã ao banquete, que  tinha preparado,
-E estas foram as suas habitações, segundo os seus acampamentos, no seu termo, a saber: dos filhos de Arão, da família dos coatitas, porque neles caiu a sorte,
-Disse-lhe Nicodemos: Como pode um homem nascer, sendo velho? Porventura, pode tornar a entrar no ventre de sua mãe e nascer?
-E, chamando, perguntaram se Simão, que tinha por sobrenome Pedro, morava ali.
-E dos levitas: Jozabade, e Simei, e Quelaías (este é Quelita), e Petaías, e Judá, e Eliézer.
-Então, falou o rei Assuero e disse à rainha Ester: Quem é esse? E onde está esse cujo coração o instigou a fazer assim?
-Uma à outra se chega tão perto, que nem um assopro passa por entre elas.
-Não te vestirás de diversos estofos de lã e linho juntamente.
-E ao anjo da igreja que está em Laodiceia escreve: Isto diz o Amém, a testemunha fiel e verdadeira, o princípio da criação de Deus.
-Então, rasgaram as suas vestes, e carregou cada um o seu jumento, e tornaram à cidade.
-E disse-lhe Jesus: Eu vim a este mundo para juízo, a fim de que os que não veem vejam e os que veem sejam cegos.
-E falou o SENHOR a Moisés, dizendo:
-De um assim me gloriarei eu, mas de mim mesmo não me gloriarei, senão nas minhas fraquezas.
-Porque Saul tinha dado sua filha Mical, mulher de Davi, a Palti, filho de Laís, o qual era de Galim.
-E andou nos caminhos dos reis de Israel, como fazia a casa de Acabe; porque tinha a filha de Acabe por mulher e fazia o que era mau aos olhos do SENHOR.
-E Jesus, respondendo, disse-lhes: Em verdade Elias virá primeiro e restaurará todas as coisas.
-Sê propício ao teu povo Israel, que tu, ó SENHOR, resgataste, e não ponhas o sangue inocente no meio do teu povo Israel. E aquele sangue lhes será expiado.
-Porém Sansão deitou-se até à meia-noite, e à meia-noite se levantou, e travou das portas da entrada da cidade com ambas as umbreiras, e juntamente com a tranca as tomou, pondo-as sobre os ombros; e levou-as para cima, até ao cume do monte que está defronte de Hebrom.
-dizendo: Peço-te que me deixes ir, porquanto a nossa linhagem tem um sacrifício na cidade, e meu irmão mesmo me mandou ir. Se, pois, agora tenho achado graça a teus olhos, peço-te que me deixes partir, para que veja meus irmãos. Por isso, não veio à mesa do rei.
-Disse-me mais: Filho do homem, coloca no coração todas as minhas palavras que te hei de dizer e ouve-as com os teus ouvidos.
-Voz que diz: Clama; e alguém disse: Que hei de clamar? Toda carne é erva, e toda a sua beleza, como as flores do campo.
-o qual tinha a sua morada nos sepulcros, e nem ainda com cadeias o podia alguém prender.
-O SENHOR está comigo entre aqueles que me ajudam; pelo que verei cumprido o meu desejo sobre os que me aborrecem.
-procurando guardar a unidade do Espírito pelo vínculo da paz:
-Assim, Noemi voltou, e com ela, Rute, a moabita, sua nora, que voltava dos campos de Moabe; e chegaram a Belém no princípio da sega das cevadas.
-desviai-vos do caminho, apartai-vos da vereda; fazei que deixe de estar o Santo de Israel perante nós.
-Guarda-me, ó Deus, porque em ti confio.
-Deleito-me em fazer a tua vontade, ó Deus meu; sim, a tua lei está dentro do meu coração.
-Tomou, também, alguns cinco mil homens, e pô-los entre Betel e Ai em emboscada, ao ocidente da cidade.
-Porém o território da cidade e as suas aldeias deram a Calebe, filho de Jefoné.
-Aiezer, o chefe, e Joás, filhos de Semaá, o gibeatita; Jeziel e Pelete, filhos de Azmavete; e Beraca, e Jeú, o anatotita; e Ismaías, o gibeonita, valente entre os trinta e capitão dos trinta; Jeremias, e Jaaziel, e Joanã, e Jozabade, o gederatita; Eluzai, e Jerimote, e Bealias, e Semarias, e Sefatias, o harufita; Elcana, e Issias, e Azarel, e Joezer, e Jasobeão, os coraítas; e Joela, e Zebadias, filhos de Jeroão, de Gedor.
-Porque há de ser que, no dia em que saíres e passares o ribeiro de Cedrom, saibas decerto que morrerás; o teu sangue será sobre a tua cabeça.
-Vê, pois, que a luz que em ti há não sejam trevas.
-Porque vede, irmãos, a vossa vocação, que não são muitos os sábios segundo a carne, nem muitos os poderosos, nem muitos os nobres que são chamados.
-E, quando aparecer o Sumo Pastor, alcançareis a incorruptível coroa de glória.
-E outra vez: O Senhor conhece os pensamentos dos sábios, que são vãos.
-Porque na lei de Moisés está escrito: Não atarás a boca ao boi que trilha o grão. Porventura, tem Deus cuidado dos bois?
-Bem concebemos nós e tivemos dores de parto, mas isso não foi senão vento; livramento não trouxemos à terra, nem caíram os moradores do mundo.
-sem pai, sem mãe, sem genealogia, não tendo princípio de dias nem fim de vida, mas, sendo feito semelhante ao Filho de Deus, permanece sacerdote para sempre.
-E José fez jurar os filhos de Israel, dizendo: Certamente, vos visitará Deus, e fareis transportar os meus ossos daqui.
-E aconteceu que, tornando eu para Jerusalém, quando orava no templo, fui arrebatado para fora de mim.
-Porém, aos quinze dias do mês sétimo, quando tiverdes recolhido a novidade da terra, celebrareis a festa do SENHOR, por sete dias; ao dia primeiro, haverá descanso, e, ao dia oitavo, haverá descanso.
-os quais dizem: Não está próximo o tempo de edificar casas; esta cidade é a panela, e nós, a carne.
-Também Davi, meu pai, propusera em seu coração o edificar casa ao nome do SENHOR, o Deus de Israel.
-eis que eu estenderei a mão contra ti, e te darei por despojo às nações, e te arrancarei dentre os povos, e te destruirei dentre as terras, e acabarei de todo contigo; e saberás que eu sou o SENHOR.
-Porventura, não fizeram vossos pais assim, e nosso Deus não trouxe todo este mal sobre nós e sobre esta cidade? E vós ainda mais acrescentais o ardor de sua ira sobre Israel, profanando o sábado.
-E isto é o que disse de Judá: Ouve, ó SENHOR, a voz de Judá, e introduze-o no seu povo; as suas mãos lhe bastem, e tu lhe sejas em ajuda contra os seus inimigos.
-Porém Barzilai disse ao rei: Quantos serão os dias dos anos da minha vida, para que suba com o rei a Jerusalém?
-Quando entrarem na tenda da congregação, lavar-se-ão com água, para que não morram, ou quando se chegarem ao altar para ministrar, para acender a oferta queimada ao SENHOR.
-E vieram a Jerusalém; e Jesus, entrando no templo, começou a expulsar os que vendiam e compravam no templo; e derribou as mesas dos cambistas e as cadeiras dos que vendiam pombas.
-Pois o que é mais fácil? Dizer ao paralítico: Perdoados te são os teus pecados, ou: Levanta-te e anda?
-Tomando-te eles pela mão, te quebraste e lhes rasgaste todo o ombro; e, encostando-se eles a ti, te quebraste, tornando imóveis todos os seus lombos.
-invejas, homicídios, bebedices, glutonarias e coisas semelhantes a estas, acerca das quais vos declaro, como já antes vos disse, que os que cometem tais coisas não herdarão o Reino de Deus.
-E fez o que era reto aos olhos do SENHOR, conforme tudo o que fizera Uzias, seu pai, exceto que não entrou no templo do SENHOR, e ainda o povo se corrompia.
-A nudez de tua nora não descobrirás; ela é mulher de teu filho; não descobrirás a sua nudez.
-Porque os cavalos de Faraó, com os seus carros e com os seus cavaleiros, entraram no mar, e o SENHOR fez tornar as águas do mar sobre eles; mas os filhos de Israel passaram em seco pelo meio do mar.
-Porém Samuel tomou a Saul e ao seu moço e os levou à câmara; e deu-lhes lugar acima de todos os convidados, que eram uns trinta homens.
-Vai, pois, come com alegria o teu pão e bebe com bom coração o teu vinho, pois já Deus se agrada das tuas obras.
-Nuvens e obscuridade estão ao redor dele; justiça e juízo são a base do seu trono.
-Os altos, porém, se não tiraram; todavia, foi o coração de Asa reto para com o SENHOR todos os seus dias.
-E, quanto aos levitas, Aías tinha cargo dos tesouros da Casa de Deus e dos tesouros das coisas sagradas.
-Portanto, grandioso és, ó Senhor JEOVÁ, porque não há semelhante a ti, e não há outro Deus, senão tu só, segundo tudo o que temos ouvido com os nossos ouvidos.
-Então, respondeu Isaque e disse a Esaú: Eis que o tenho posto por senhor sobre ti, e todos os seus irmãos lhe tenho dado por servos; e de trigo e de mosto o tenho fortalecido; que te farei, pois, agora a ti, meu filho?
-Respondeu Jesus: O meu Reino não é deste mundo; se o meu Reino fosse deste mundo, lutariam os meus servos, para que eu não fosse entregue aos judeus; mas, agora, o meu Reino não é daqui.
-néscios, infiéis nos contratos, sem afeição natural, irreconciliáveis, sem misericórdia;
-e estejam prontos para o terceiro dia; porquanto, no terceiro dia, o SENHOR descerá diante dos olhos de todo o povo sobre o monte Sinai.
-mas alegrai-vos no fato de serdes participantes das aflições de Cristo, para que também na revelação da sua glória vos regozijeis e alegreis.
-Subiu, pois, o povo do Jordão no dia dez do mês primeiro; e alojaram-se em Gilgal, da banda oriental de Jericó.
-Eles dizem: Se um homem despedir sua mulher, e ela se ausentar dele e se ajuntar a outro homem, porventura, tornará a ela mais? Não se poluiria de todo aquela terra? Ora, tu te maculaste com muitos amantes; mas, ainda assim, torna para mim, diz o SENHOR.
-Ninguém ma tira de mim, mas eu de mim mesmo a dou; tenho poder para a dar e poder para tornar a tomá-la. Esse mandamento recebi de meu Pai.
-Como a fonte produz as suas águas, assim ela produz a sua malícia; violência e estrago se ouvem nela; enfermidade e feridas há diante de mim continuadamente.
-E faz habitar ali os famintos, que edificam cidade para sua residência,
-E irão muitas nações e dirão: Vinde, e subamos ao monte do SENHOR e à Casa do Deus de Jacó, para que nos ensine os seus caminhos, e nós andemos pelas suas veredas; porque de Sião sairá a lei, e a palavra do SENHOR, de Jerusalém.
-Até quando andarás errante, ó filha rebelde? Porque o SENHOR criou uma coisa nova na terra: uma mulher cercará um varão.
-Mas, vendo-o os lavradores, arrazoaram entre si dizendo: Este é o herdeiro; vinde, matemo-lo, para que a herança seja nossa.
-pois elas fariam desviar teus filhos de mim, para que servissem a outros deuses; e a ira do SENHOR se acenderia contra vós e depressa vos consumiria.
-porque bem sei a prontidão do vosso ânimo, da qual me glorio de vós, para com os macedônios, que a Acaia está pronta desde o ano passado, e o vosso zelo tem estimulado muitos.
-Porque os que são segundo a carne inclinam-se para as coisas da carne; mas os que são segundo o Espírito, para as coisas do Espírito.
-E sucedeu, naqueles dias, que, juntando os filisteus os seus exércitos para a peleja, para fazer guerra contra Israel, disse Aquis a Davi: Sabe, decerto, que comigo sairás ao arraial, tu e os teus homens.
-E disseram-lhe seus servos: Que é isso que fizeste? Pela criança viva jejuaste e choraste; porém, depois que morreu a criança, te levantaste e comeste pão.
-E acordou Salomão, e eis que era sonho. E veio a Jerusalém, e pôs-se perante a arca do concerto do SENHOR, e sacrificou holocaustos, e preparou sacrifícios pacíficos, e fez um banquete a todos os seus servos.
-E disse Micaías: Se tu voltares em paz, o SENHOR não tem falado por mim. Disse mais: Ouvi todos os povos!
-foram os filhos de Parós, dois mil cento e setenta e dois. Os filhos de Sefatias, trezentos e setenta e dois. Os filhos de Ará, seiscentos e cinquenta e dois. Os filhos de Paate-Moabe, dos filhos de Jesua e de Joabe, dois mil oitocentos e dezoito. Os filhos de Elão, mil duzentos e cinquenta e quatro. Os filhos de Zatu, oitocentos e quarenta e cinco. Os filhos de Zacai, setecentos e sessenta. Os filhos de Binui, seiscentos e quarenta e oito. Os filhos de Bebai, seiscentos e vinte e oito. Os filhos de Azgade, dois mil trezentos e vinte e dois. Os filhos de Adonicão, seiscentos e sessenta e sete. Os filhos de Bigvai, dois mil e sessenta e sete. Os filhos de Adim, seiscentos e cinquenta e cinco. Os filhos de Ater, de Ezequias, noventa e oito. Os filhos de Hasum, trezentos e vinte e oito. Os filhos de Besai, trezentos e vinte e quatro. Os filhos de Harife, cento e doze. Os filhos de Gibeão, noventa e cinco.
-E correu a tua fama entre as nações, por causa da tua formosura, pois era perfeita, por causa da minha glória que eu tinha posto sobre ti, diz o Senhor JEOVÁ.
-Como o SENHOR ordenara a Moisés, assim fizeram os filhos de Israel e repartiram a terra.
-Eia, agora, vós que dizeis: Hoje ou amanhã, iremos a tal cidade, e lá passaremos um ano, e contrataremos, e ganharemos.
-E apressou-se, e vazou o seu cântaro na pia, e correu outra vez ao poço para tirar água, e tirou para todos os seus camelos.
-A este Moisés, ao qual haviam negado, dizendo: Quem te constituiu príncipe e juiz? A este enviou Deus como príncipe e libertador, pela mão do anjo que lhe aparecera no sarçal.
-E fez deles setenta mil carreteiros e oitenta mil cortadores na montanha, como também três mil e seiscentos inspetores, para fazerem trabalhar o povo.
-E cobriu Salomão a casa por dentro de ouro puro, e, com cadeias de ouro, pôs um véu diante do oráculo, e o cobriu com ouro.
-E, então, verão vir o Filho do Homem nas nuvens, com grande poder e glória.
-A palavra de Cristo habite em vós abundantemente, em toda a sabedoria, ensinando-vos e admoestando-vos uns aos outros, com salmos, hinos e cânticos espirituais; cantando ao Senhor com graça em vosso coração.
-e se encherão os teus celeiros abundantemente, e trasbordarão de mosto os teus lagares.
-E disse o SENHOR a Satanás: Eis que tudo quanto tem está na tua mão; somente contra ele não estendas a tua mão. E Satanás saiu da presença do SENHOR.
-porque assim diz o SENHOR dos Exércitos, o Deus de Israel: Ainda se comprarão casas, e campos, e vinhas nesta terra.
-Porque assim sucedeu como o homem de Deus falara ao rei, dizendo: Amanhã, quase a este tempo, haverá duas medidas de cevada por um siclo, e uma medida de farinha, por um siclo, à porta de Samaria.
-Guardai-vos dos escribas, que querem andar com vestes compridas e amam as saudações nas praças, e as principais cadeiras nas sinagogas, e os primeiros lugares nos banquetes;
-E disse-lhes: Consagrados sois do SENHOR, e sagrados são estes vasos, como também esta prata e este ouro, oferta voluntária, oferecida ao SENHOR, Deus de vossos pais.
-Assim diz o SENHOR: Eis que um povo vem da terra do Norte, e uma grande nação se levantará das bandas da terra.
-a Tito, meu verdadeiro filho, segundo a fé comum: graça, misericórdia e paz, da parte de Deus Pai e da do Senhor Jesus Cristo, nosso Salvador.
-dos despojos das guerras as consagraram, para repararem a Casa do SENHOR,
-Beije-me ele com os beijos da sua boca; porque melhor é o seu amor do que o vinho.
-Todos os mandamentos que hoje vos ordeno guardareis para os fazer, para que vivais, e vos multipliqueis, e entreis, e possuais a terra que o SENHOR jurou a vossos pais.
-Pôs também a mesa na tenda da congregação, ao lado do tabernáculo para o norte, fora do véu.
-Toda alma esteja sujeita às autoridades superiores; porque não há autoridade que não venha de Deus; e as autoridades que há foram ordenadas por Deus.
-No ano vigésimo quinto do nosso cativeiro, no princípio do ano, no décimo dia do mês, catorze anos depois que a cidade foi ferida, naquele mesmo dia, veio sobre mim a mão do SENHOR e me levou para lá.
-E os que comerem os seus manjares o quebrantarão; e o exército dele se derramará, e cairão muitos traspassados.
-Porque é bastante que, no tempo passado da vida, fizéssemos a vontade dos gentios, andando em dissoluções, concupiscências, borracheiras, glutonarias, bebedices e abomináveis idolatrias;
-Então, ele lavrou duas tábuas de pedra, como as primeiras; e levantou-se Moisés pela manhã de madrugada e subiu ao monte Sinai, como o SENHOR lhe tinha ordenado; e tomou as duas tábuas de pedra na sua mão.
-porque qualquer que fizer a vontade de meu Pai, que está nos céus, este é meu irmão, e irmã, e mãe.
-Portanto, o SENHOR suscitará contra ele os adversários de Rezim e instigará os seus inimigos.
-Então, vieram duas mulheres prostitutas ao rei e se puseram perante ele.
-Porque, se ao madeiro verde fazem isso, que se fará ao seco?
-Da banda do levante, tinha três portas; da banda do norte, três portas; da banda do sul, três portas; da banda do poente, três portas.
-e trazei o bezerro cevado, e matai-o; e comamos e alegremo-nos,
-Justo és, ó SENHOR, e retos são os teus juízos.
-e como os principais dos sacerdotes e os nossos príncipes o entregaram à condenação de morte e o crucificaram.
-E os espalharei com tempestade entre todas as nações que eles não conheceram, e a terra será assolada atrás deles, de sorte que ninguém passará por ela, nem se voltará, porque têm feito da terra desejada uma desolação.
-E todos os seus conhecidos e as mulheres que juntamente o haviam seguido desde a Galileia estavam de longe vendo essas coisas.
-E junto a ele, a tribo de Manassés; e Gamaliel, filho de Pedazur, será príncipe dos filhos de Manassés. E o seu exército e os que foram contados deles foram trinta e dois mil e duzentos.
-e farei tremer todas as nações, e virá o Desejado de todas as nações, e encherei esta casa de glória, diz o SENHOR dos Exércitos.
-Sustentaste os meus olhos vigilantes; estou tão perturbado, que não posso falar.
-E Abraão circuncidou o seu filho Isaque, quando era da idade de oito dias, como Deus lhe tinha ordenado.
-Estes são os filhos de Dã, segundo as suas famílias: de Suão, a família dos suamitas; estas são as famílias de Dã, segundo as suas famílias.
-Seja mudado o seu coração, para que não seja mais coração de homem, e seja-lhe dado coração de animal; e passem sobre ele sete tempos.
-O resgate da vida de cada um são as suas riquezas, mas o pobre não ouve as ameaças.
-E eis que uns homens transportaram numa cama um homem que estava paralítico e procuravam fazê-lo entrar e pô-lo diante dele.
-Onde quer que morreres, morrerei eu e ali serei sepultada; me faça assim o SENHOR e outro tanto, se outra coisa que não seja a morte me separar de ti.
-Mas, se eu expulso os demônios pelo Espírito de Deus, é conseguintemente chegado a vós o Reino de Deus.
-como o SENHOR ordenara a Moisés, assim os contou no deserto do Sinai.
-E estes foram os filhos de Eúde, que foram chefes dos pais dos moradores de Geba, e os transportados a Manaate: Naamã, e Aías, e Gera; a estes Gera transportou e gerou a Uzá e a Aiude.
-Pelo seu Espírito ornou os céus; a sua mão formou a serpente enroscadiça.
-E, introduzindo a arca do SENHOR, a puseram no seu lugar, na tenda que Davi lhe armara; e ofereceu Davi holocaustos e ofertas pacíficas perante o SENHOR.
-E achou-o um varão, porque ele andava errado pelo campo, e perguntou-lhe o varão, dizendo: Que procuras?
-José, pois, conheceu os seus irmãos; mas eles não o conheceram.
-Demolida está a cidade vazia, todas as casas fecharam, ninguém já pode entrar.
-E em Tafnes se escurecerá o dia, quando eu quebrar ali os jugos do Egito, e nela cessar a soberba da sua força; uma nuvem a cobrirá, e suas filhas cairão em cativeiro.
-Deliciosamente, vivestes sobre a terra, e vos deleitastes, e cevastes o vosso coração, como num dia de matança.
-Também alguns dos principais da Ásia, que eram seus amigos, lhe rogaram que não se apresentasse no teatro.
-E sucedeu que, antes que ele acabasse de falar, eis que Rebeca, que havia nascido a Betuel, filho de Milca, mulher de Naor, irmão de Abraão, saía com o seu cântaro sobre o seu ombro.
-E, desde aquele dia em diante, Saul tinha Davi em suspeita.
-Semelhantemente, quando um homem se deitar com a sua nora, ambos, certamente, morrerão; fizeram confusão; o seu sangue é sobre eles.
-Comprarão campos por dinheiro, e subscreverão os autos, e os selarão, e farão que os atestem testemunhas na terra de Benjamim, e nos contornos de Jerusalém, e nas cidades de Judá, e nas cidades das montanhas, e nas cidades das planícies, e nas cidades do Sul; porque os farei voltar do seu cativeiro, diz o SENHOR.
-Fugi, desviai-vos para mui longe e habitai nas profundezas, ó moradores de Hazor, diz o SENHOR, porque Nabucodonosor, rei da Babilônia, tomou conselho contra vós e intentou um desígnio contra vós.
-Bem-aventurados sereis quando os homens vos aborrecerem, e quando vos separarem, e vos injuriarem, e rejeitarem o vosso nome como mau, por causa do Filho do Homem.
-Não se ungirá com ele a carne do homem, nem fareis outro semelhante conforme a sua composição; santo é e será santo para vós.
-Então, Pedro, tomando a palavra, disse-lhe: Eis que nós deixamos tudo e te seguimos; que receberemos?
-E o SENHOR lhe disse: Vai, volta pelo teu caminho para o deserto de Damasco, vem e unge a Hazael rei sobre a Síria.
-Então, me levantou o Espírito, e me levou à porta oriental da Casa do SENHOR, que olha para o oriente; e eis que estavam à entrada da porta vinte e cinco homens; e no meio deles vi a Jazanias, filho de Azur, e a Pelatias, filho de Benaías, príncipes do povo.
-Fez das trevas o seu lugar oculto; o pavilhão que o cercava era a escuridão das águas e as nuvens dos céus.
-Andando nós agitados por uma veemente tempestade, no dia seguinte, aliviaram o navio.
-E escreveu uma carta que continha isto:
-Então, chamou Faraó a Moisés e a Arão e disse: Ide e sacrificai ao vosso Deus nesta terra.
-Porém o rei da Assíria achou em Oseias conspiração, porque enviara mensageiros a Sô, rei do Egito, e não pagava presentes ao rei da Assíria cada ano, como dantes; então, o rei da Assíria o encerrou e aprisionou na casa do cárcere.
-Não há rei que se salve com a grandeza de um exército, nem o homem valente se livra pela muita força.
-Mas ele disse: Longe de mim que eu tal faça; o varão em cuja mão o copo foi achado, aquele será meu servo; porém vós subi em paz para vosso pai.
-Disse Jesus: Tirai a pedra. Marta, irmã do defunto, disse-lhe: Senhor, já cheira mal, porque é já de quatro dias.
-E eles, ouvindo isso, maravilharam-se e, deixando-o, se retiraram.
-Semelhantemente quebrou as estátuas, e cortou os bosques, e encheu o seu lugar com ossos de homens.
-Mas o que se ajunta com o Senhor é um mesmo espírito.
-Nela, não comerás levedado; sete dias nela comerás pães asmos, pão de aflição (porquanto apressadamente saíste da terra do Egito), para que te lembres do dia da tua saída da terra do Egito, todos os dias da tua vida.
-Quanto mais se o povo hoje livremente tivesse comido do despojo que achou de seus inimigos. Porém, agora, não foi tão grande o estrago dos filisteus.
-Porque o SENHOR o revelara aos ouvidos de Samuel, um dia antes que Saul viesse, dizendo:
-Assim diz o SENHOR: Neste lugar (de que vós dizeis que está deserto, sem homens nem animais), nas cidades de Judá e nas ruas de Jerusalém, que estão assoladas, sem homens, sem moradores e sem animais, ainda se ouvirá
-E levou-me para o átrio interior da Casa do SENHOR, e eis que estavam à entrada do templo do SENHOR, entre o pórtico e o altar, cerca de vinte e cinco homens, de costas para o templo do SENHOR e com o rosto para o oriente; e eles adoravam o sol, virados para o oriente.
-Não cumpras, ó SENHOR, ao ímpio os seus desejos; não deixes ir por diante o seu mau propósito, para que não se exalte. (Selá)
-Foram envergonhados por terem confiado; e, chegando ali, se confundem.
-O filho de oito dias, pois, será circuncidado; todo macho nas vossas gerações, o nascido na casa e o comprado por dinheiro a qualquer estrangeiro, que não for da tua semente.
-E estes são os nomes dos filhos de Israel, que vieram ao Egito, Jacó e seus filhos: Rúben, o primogênito de Jacó,
-Então, disse Jesus ao centurião: Vai, e como creste te seja feito. E, naquela mesma hora, o seu criado sarou.
-E estes são os filhos de Benjamim: Salu, filho de Mesulão, filho de Joede, filho de Pedaías, filho de Colaías, filho de Maaseias, filho de Itiel, filho de Jesaías.
-Vem o tempo, é chegado o dia; o que compra não se alegre, e o que vende não se entristeça; porque a ira ardente está sobre toda a multidão deles.
-Então, se levantou Davi com os seus homens, uns seiscentos, e saíram de Queila e foram-se aonde puderam; e, sendo anunciado a Saul que Davi escapara de Queila, cessou de sair contra ele.
-O homem, porém, que eu te não desarraigar do meu altar será para te consumir os olhos e para te entristecer a alma; e toda a multidão da tua casa morrerá quando chegar à idade varonil.
-Fez também dois querubins de ouro; de obra batida os fez, às duas extremidades do propiciatório;
-Tu usas de benignidade com milhares e tornas a maldade dos pais ao seio dos filhos depois deles; tu és o grande e poderoso Deus cujo nome é SENHOR dos Exércitos,
-No ano terceiro de Asa, rei de Judá, Baasa, filho de Aías, começou a reinar sobre todo o Israel em Tirza, e reinou vinte e quatro anos.
-Palal, filho de Uzai, reparou defronte da esquina e a torre que sai da casa real superior, que está junto ao pátio da prisão; depois dele, reparou Pedaías, filho de Parós, e os netineus, que habitavam em Ofel, até defronte da Porta das Águas, para o oriente, e até à torre alta.
-Como geme o gado! As manadas de vacas estão confusas, porque não têm pasto; também os rebanhos de ovelhas são destruídos.
-e as cortinas do pátio, e o pavilhão da porta do pátio, que estão junto ao tabernáculo e junto ao altar, em redor; como também as suas cordas para todo o seu serviço.
-Se alguém der prata ou objetos ao seu próximo a guardar, e isso for furtado da casa daquele homem, se o ladrão se achar, pagará o dobro.
-Conjuração dos seus profetas há no meio dela, como um leão que ruge, que arrebata a presa; eles devoram as almas; tesouros e coisas preciosas tomam, multiplicam as suas viúvas no meio dela.
-Os filhos de estranhos se me sujeitaram; ouvindo a minha voz, me obedeceram.
-E sucedeu que, vendo o rei a rainha Ester, que estava no pátio, ela alcançou graça aos seus olhos; e o rei apontou para  com o cetro de ouro, que tinha na sua mão, e  chegou e tocou a ponta do cetro.
-Quanto às colunas, a altura de uma coluna era de dezoito côvados, e um fio de doze côvados a cercava; e era a sua espessura de quatro dedos, e era oca. E havia sobre ela um capitel de bronze, e altura do capitel era de cinco côvados, e a rede e as romãs em roda do capitel; e tudo era de bronze; e semelhante a esta era a outra coluna, com as romãs.
-Então, ela caiu sobre o seu rosto, e se inclinou à terra, e disse-lhe: Por que achei graça em teus olhos, para que faças caso de mim, sendo eu uma estrangeira?
-À minha justiça me apegarei e não a largarei; não me remorderá o meu coração em toda a minha vida.
-Então, ela lhe disse: Como dirás: Tenho-te amor, não estando comigo o teu coração? Já três vezes zombaste de mim e ainda me não declaraste em que consiste a tua força.
-E, voltando elas, prepararam especiarias e unguentos e, no sábado, repousaram, conforme o mandamento.
-pois não tinham compreendido o milagre dos pães; antes, o seu coração estava endurecido.
-De noite busquei em minha cama aquele a quem ama a minha alma; busquei-o e não o achei.
-Por isso, vo-lo enviei mais depressa, para que, vendo-o outra vez, vos regozijeis, e eu tenha menos tristeza.
-Formosa és, amiga minha, como Tirza, aprazível como Jerusalém, formidável como um exército com bandeiras.
-E será, naquele dia, que chamarei a meu servo Eliaquim, filho de Hilquias.
-E levantou-me o Espírito e me levou ao átrio interior; e eis que a glória do SENHOR encheu o templo.
-Tudo quanto te vier à mão para fazer, faze-o conforme as tuas forças, porque na sepultura, para onde tu vais, não há obra, nem indústria, nem ciência, nem sabedoria alguma.
-Então, José aprontou o seu carro e subiu ao encontro de Israel, seu pai, a Gósen. E, mostrando-se-lhe, lançou-se ao seu pescoço e chorou sobre o seu pescoço, longo tempo.
-Portanto, dize: Assim diz o Senhor JEOVÁ: Ainda que os lancei para longe entre as nações e ainda que os espalhei pelas terras, todavia, lhes servirei de santuário, por um pouco de tempo, nas terras para onde foram.
-E eis que subiam do rio sete vacas, formosas à vista e gordas de carne, e pastavam no prado.
-E as suas casas passarão a outros, herdades e mulheres juntamente; porque estenderei a mão contra os habitantes desta terra, diz o SENHOR.
-Porque, como na multidão dos sonhos há vaidades, assim também nas muitas palavras; mas tu, teme a Deus.
-veio expressamente a palavra do SENHOR a Ezequiel, filho de Buzi, o sacerdote, na terra dos caldeus, junto ao rio Quebar, e ali esteve sobre ele a mão do SENHOR.
-Os meus amigos são os que zombam de mim; os meus olhos se desfazem em lágrimas diante de Deus.
-Ninguém, sendo tentado, diga: De Deus sou tentado; porque Deus não pode ser tentado pelo mal e a ninguém tenta.
-Toma a harpa, rodeia a cidade, ó prostituta entregue ao esquecimento; toca bem, canta e repete a ária, para que haja memória de ti.
-E disseram: Ah! SENHOR, Deus de Israel, por que sucedeu isto em Israel, que hoje falte uma tribo em Israel?
-Mas ele lhe disse: Como fala qualquer doida, assim falas tu; receberemos o bem de Deus e não receberíamos o mal? Em tudo isto não pecou  com os seus lábios.
-E disse: Deixa-me ir, porque já a alva subiu. Porém ele disse: Não te deixarei ir, se me não abençoares.
-Aquele que confia nas suas riquezas cairá, mas os justos reverdecerão como a rama.
-E sucedeu que, no ano vinte e sete, no mês primeiro, no primeiro dia do mês, veio a mim a palavra do SENHOR, dizendo:
-que, naquele tempo, estáveis sem Cristo, separados da comunidade de Israel e estranhos aos concertos da promessa, não tendo esperança e sem Deus no mundo.
-Quem vos ouve a vós a mim me ouve; e quem vos rejeita a vós a mim me rejeita; e quem a mim me rejeita rejeita aquele que me enviou.
-Fez também para a tenda uma coberta de peles de carneiros tintas de vermelho; e, por cima, uma coberta de peles de texugo.
-Não digas: Como ele me fez a mim, assim lhe farei a ele; pagarei a cada um segundo a sua obra.
-Aniquilará a morte para sempre, e assim enxugará o Senhor JEOVÁ as lágrimas de todos os rostos, e tirará o opróbrio do seu povo de toda a terra; porque o SENHOR o disse.
-Todos os ribeiros vão para o mar, e, contudo, o mar não se enche; para o lugar para onde os ribeiros vão, para aí tornam eles a ir.
-Não comas o pão daquele que tem os olhos malignos, nem cobices os seus manjares gostosos.
-e Jaaziel disse: Dai ouvidos todo o Judá, e vós, moradores de Jerusalém, e tu, ó rei Josafá. Assim o SENHOR vos diz: Não temais, nem vos assusteis por causa desta grande multidão, pois a peleja não é vossa, senão de Deus.
-Mas o justo viverá da fé; e, se ele recuar, a minha alma não tem prazer nele.
-Porém, ó rei, meu senhor, os olhos de todo o Israel estão sobre ti, para que lhe declares quem se assentará sobre o trono do rei, meu senhor, depois dele.
-Cruel é o furor e a impetuosa ira, mas quem parará perante a inveja?
-E, como eles se não importaram de ter conhecimento de Deus, assim Deus os entregou a um sentimento perverso, para fazerem coisas que não convém;
-Porque a minha vida está gasta de tristeza, e os meus anos, de suspiros; a minha força descai por causa da minha iniquidade, e os meus ossos se consomem.
-Cairá a seca sobre as suas águas, e secarão, porque é uma terra de imagens de escultura, e eles, pelos seus ídolos, andam enfurecidos.
-Então, Festo, tendo falado com o conselho, respondeu: Apelaste para César? Para César irás.
-E deu ordem Ezequias que oferecessem o holocausto sobre o altar, e, ao tempo em que começou o holocausto, começou também o canto do SENHOR, com as trombetas e com os instrumentos de Davi, rei de Israel.
-E os filhos de Samuel: Vasni, seu primogênito, e o segundo Abias.
-Antes, murmuraram em suas tendas e não deram ouvidos à voz do SENHOR.
-Quem suscitou do Oriente o justo e o chamou para o pé de si? Quem deu as nações à sua face e o fez dominar sobre reis? Ele os entregou à sua espada como o pó e como pragana arrebatada do vento, ao seu arco.
-Mas esta casta de demônios não se expulsa senão pela oração e pelo jejum.
-Então, chamou Abimeleque a Abraão e disse-lhe: Que nos fizeste? E em que pequei contra ti, para trazeres sobre mim e meu reino tamanho pecado? Tu me fizeste aquilo que não deverias ter feito.
-Achará castigo e vilipêndio, e o seu opróbrio nunca se apagará.
-Mataram-no, porventura, Ezequias, rei de Judá, e todo o Judá? Antes, não temeu este ao SENHOR e não implorou o favor do SENHOR? E o SENHOR se arrependeu do mal que falara contra eles. E nós não fazemos um grande mal contra a nossa alma?
-Azarias edificou a Elate e a restituiu a Judá, depois que o rei dormiu com seus pais.
-Desperta, glória minha! Desperta, alaúde e harpa! Eu mesmo despertarei ao romper da alva.
-E os servos de Saul falaram todas essas palavras aos ouvidos de Davi. Então, disse Davi: Parece-vos pouco aos vossos olhos ser genro do rei, sendo eu homem pobre e desprezível?
-Mas Nabucodonosor, rei da Babilônia, havia ordenado acerca de Jeremias, a Nebuzaradã, capitão dos da guarda, dizendo:
-Pelo que também eu disse: Não os expelirei de diante de vós; antes, estarão às vossas costas, e os seus deuses vos serão por laço.
-Portanto, deixará o varão o seu pai e a sua mãe e apegar-se-á à sua mulher, e serão ambos uma carne.
-por trigo me produza cardos, e por cevada, joio. Acabaram-se as palavras de Jó.
-e sobre Queriote, e sobre Bozra e até sobre todas as cidades da terra de Moabe, as de longe e as de perto.
-Agora, pois, por que morreríamos? Pois este grande fogo nos consumiria; se ainda mais ouvíssemos a voz do SENHOR, nosso Deus, morreríamos.
-Em lugar de teus pais será a teus filhos que farás príncipes sobre toda a terra.
-Porque, nos teus desertos, e nos teus lugares solitários, e na tua terra destruída, te verás, agora, apertada de moradores, e os que te devoravam se afastarão para longe de ti.
-E eis que eu intento edificar uma casa ao nome do SENHOR, meu Deus, como falou o SENHOR a Davi, meu pai, dizendo: Teu filho, que porei em teu lugar no teu trono, esse edificará uma casa ao meu nome.
-Nas tuas mãos encomendo o meu espírito; tu me remiste, SENHOR, Deus da verdade.
-E disse Israel: Basta; ainda vive meu filho José; eu irei e o verei antes que eu morra.
-E nós somos testemunhas de todas as coisas que fez, tanto na terra da Judeia como em Jerusalém; ao qual mataram, pendurando-o num madeiro.
-Quanto a seus irmãos, pelas suas famílias, quando foram postos nas genealogias segundo as suas descendências, tinham por chefes Jeiel e Zacarias,
-E pisareis os ímpios, porque se farão cinza debaixo das plantas de vossos pés, naquele dia que farei, diz o SENHOR dos Exércitos.
-Manteiga e mel comerá, até que ele saiba rejeitar o mal e escolher o bem.
-Uma geração má e adúltera pede um sinal, e nenhum sinal lhe será dado, senão o sinal do profeta Jonas. E, deixando-os, retirou-se.
-Assim diz o SENHOR dos Exércitos: Eis que enviarei entre eles a espada, e a fome, e a peste e fá-los-ei como a figos podres, que não se podem comer, de maus que são.
-por causa dos seus pecados que cometera, fazendo o que era mal aos olhos do SENHOR, andando no caminho de Jeroboão e no seu pecado que fizera, fazendo pecar a Israel.
-Seus pais responderam e disseram-lhes: Sabemos que este é nosso filho e que nasceu cego,
-Israel rejeitou o bem; o inimigo persegui-lo-á.
-Ainda que ele dê fruto entre os irmãos, virá o vento leste, vento do SENHOR, subindo do deserto, e secar-se-á a sua nascente, e secar-se-á a sua fonte; ele saqueará o tesouro de todos os vasos desejáveis.
-Acaso é a mim que eles provocam à ira, diz o SENHOR, e não antes a si mesmos, para confusão dos seus rostos?
-Assim ordenou também o Senhor aos que anunciam o evangelho, que vivam do evangelho.
-Dize-nos quando serão essas coisas e que sinal haverá quando todas elas estiverem para se cumprir.
-E esta palavra pareceu boa aos olhos do Senhor, que Salomão pedisse esta coisa.
-Mas as casas das aldeias que não têm muro em roda serão estimadas como o campo da terra; para elas haverá resgate, e sairão no jubileu.
-Então, disse Sarai a Abrão: Meu agravo seja sobre ti. Minha serva pus eu em teu regaço; vendo ela, agora, que concebeu, sou menosprezada aos seus olhos. O SENHOR julgue entre mim e ti.
-E o anjo que falava comigo me disse: Clama, dizendo: Assim diz o SENHOR dos Exércitos: Com grande zelo, estou zelando por Jerusalém e por Sião.
-Semelhantemente não rabiscarás a tua vinha, nem colherás os bagos caídos da tua vinha; deixá-los-ás ao pobre e ao estrangeiro. Eu sou o SENHOR, vosso Deus.
-Três vezes no ano todos os teus varões aparecerão diante do SENHOR.
-Porquanto eis que, naqueles dias e naquele tempo, em que removerei o cativeiro de Judá e de Jerusalém,
-E entrei e olhei, e eis que toda forma de répteis, e de animais abomináveis, e de todos os ídolos da casa de Israel estavam pintados na parede em todo o redor.
-E o povo tomou a sua massa, antes que levedasse, e as suas amassadeiras atadas em suas vestes, sobre seus ombros.
-E disse Abner a Joabe: Deixa levantar os jovens, e joguem diante de nós. E disse Joabe: Levantem-se.
-O SENHOR te deu agora a paga de todo o sangue da casa de Saul, em cujo lugar tens reinado; já deu o SENHOR o reino na mão de Absalão, teu filho; e eis-te agora na tua desgraça, porque és um homem de sangue.
-O tempo da minha vida se foi e foi removido de mim, como choça de pastor; cortei como tecelão a minha vida; como que do tear me cortará; desde a manhã até à noite, me acabarás.
-Fecha os olhos para imaginar perversidades; mordendo os lábios, efetua o mal.
-Prata rejeitada lhes chamarão, porque o SENHOR os rejeitou.
-E apliquei o meu coração a esquadrinhar e a informar-me com sabedoria de tudo quanto sucede debaixo do céu; essa enfadonha ocupação deu Deus aos filhos dos homens, para nela os exercitar.
-Pararam, pois, os sacerdotes que levavam a arca no meio do Jordão, em pé, até que se cumpriu tudo quanto o SENHOR a  mandara dizer ao povo, conforme tudo quanto Moisés tinha ordenado a Josué; e apressou-se o povo e passou.
-Ó Deus, tu nos rejeitaste, tu nos espalhaste, tu tens estado indignado; oh! Volta-te para nós!
-Ouvem que eu suspiro, mas não tenho quem me console; todos os meus inimigos que souberam do meu mal folgam, porque tu o determinaste; mas, em trazendo tu o dia que apregoaste, serão como eu.
-aguardando e apressando-vos para a vinda do Dia de Deus, em que os céus, em fogo, se desfarão, e os elementos, ardendo, se fundirão?
-Porque, na verdade,  batizou com água, mas vós sereis batizados com o Espírito Santo, não muito depois destes dias.
-Levanta-te e desce à casa do oleiro, e lá te farei ouvir as minhas palavras.
-E julgará entre muitos povos e castigará poderosas nações até mui longe; e converterão as suas espadas em enxadas e as suas lanças em foices; uma nação não levantará a espada contra outra nação, nem aprenderão mais a guerra.
-Ninguém vos engane com palavras vãs; porque por essas coisas vem a ira de Deus sobre os filhos da desobediência.
-Ponde-vos também, agora, aqui e vede esta grande coisa que o SENHOR vai fazer diante dos vossos olhos.
-E os jovens que com ele haviam crescido lhe falaram, dizendo: Assim dirás a este povo, que te falou, dizendo: Teu pai agravou o nosso jugo, tu, porém, alivia-nos. Assim, pois, lhe falarás: O meu dedo mínimo é mais grosso do que os lombos de meu pai.
-Porque são como a palha diante do vento, e como a pragana, que arrebata o redemoinho.
-Tomei, pois, os cabeças de vossas tribos, homens sábios e experimentados, e os tenho posto por cabeças sobre vós, e por capitães de milhares, e por capitães de cem, e por capitães de cinquenta, e por capitães de dez, e por governadores das vossas tribos.
-Todas essas coisas eram de pedras finíssimas, cortadas à medida, serradas à serra por dentro e por fora; e isso, desde o fundamento até às beiras do teto e por fora até ao grande pátio.
-E Isaque orou instantemente ao SENHOR por sua mulher, porquanto era estéril; e o SENHOR ouviu as suas orações, e Rebeca, sua mulher, concebeu.
-Falou ele, e vieram gafanhotos e pulgão em quantidade inumerável,
-Demais disto, sacrificaram seus filhos e suas filhas aos demônios;
-E, caindo em si, disse: Quantos trabalhadores de meu pai têm abundância de pão, e eu aqui pereço de fome!
-Estes eram os chefes dos oficiais que estavam sobre a obra de Salomão, quinhentos e cinquenta, que davam ordens ao povo que trabalhava na obra.
-Quando Israel era menino, eu o amei; e do Egito chamei a meu filho.
-E faltarão as águas do mar, e o rio se esgotará e secará.
-Assim, se espalharam, por não haver pastor, e ficaram para pasto de todas as feras do campo, porquanto se espalharam.
-causa que a minha alma ainda busca, mas não a achei; um homem entre mil achei eu, mas uma mulher entre todas estas não achei.
-que humilharia também a sua descendência entre as nações e os espalharia pelas terras.
-E arrancou os olhos a Zedequias e o atou com duas cadeias de bronze; e o rei da Babilônia o levou para a Babilônia e o conservou na prisão até o dia da sua morte.
-Apanhavam malvas junto aos arbustos, e o seu mantimento eram raízes dos zimbros.
-E falou o SENHOR a Moisés, nas campinas dos moabitas, junto ao Jordão, de Jericó, dizendo:
-Bem-aventurados vós, que agora tendes fome, porque sereis fartos. Bem-aventurados vós, que agora chorais, porque haveis de rir.
-e disseram a Jeremias, o profeta: Caia, agora, a nossa súplica diante de ti, e roga por nós ao SENHOR, teu Deus, por todo este resto; porque de muitos restamos uns poucos, como veem os teus olhos;
-E ajuntou-se muita gente ao pé dele, de sorte que, entrando num barco, se assentou; e toda a multidão estava em pé na praia.
-todos os homens que viram a minha glória e os meus sinais que fiz no Egito e no deserto, e me tentaram estas dez vezes, e não obedeceram à minha voz,
-Porque que ação de graças poderemos dar a Deus por vós, por todo o gozo com que nos regozijamos por vossa causa diante do nosso Deus,
-Se o homem recebe a circuncisão no sábado, para que a lei de Moisés não seja quebrantada, indignais-vos contra mim, porque, no sábado, curei de todo um homem?
-E, agora, que tenho eu aqui que fazer, diz o SENHOR, pois o meu povo foi tomado sem nenhuma razão? Os que dominam sobre ele dão uivos, diz o SENHOR; e o meu nome é blasfemado incessantemente todo o dia.
-Vendo, pois, Raquel que não dava filhos a Jacó, teve Raquel inveja de sua irmã e disse a Jacó: Dá-me filhos, senão morro.
-E todos os príncipes, e os grandes, e até todos os filhos do rei Davi se submeteram ao rei Salomão.
-E, vinda já a tarde, chegou um homem rico de Arimateia, por nome José, que também era discípulo de Jesus.
-Porque o que é chamado pelo Senhor, sendo servo, é liberto do Senhor; e, da mesma maneira, também o que é chamado, sendo livre, servo é de Cristo.
-Pelo que o SENHOR, seu Deus, o entregou nas mãos do rei dos siros, os quais o feriram e levaram dele em cativeiro uma grande multidão de presos, que trouxeram a Damasco; também foi entregue nas mãos do rei de Israel, o qual o feriu com grande ferida.
-E vi uma de suas cabeças como ferida de morte, e a sua chaga mortal foi curada; e toda a terra se maravilhou após a besta.
-Não é Efraim para mim um filho precioso, uma criança das minhas delícias? Porque, depois que falo contra ele, ainda me lembro dele solicitamente; por isso, se comove por ele o meu coração; deveras me compadecerei dele, diz o SENHOR.
-e ao heveu, e ao arqueu, e ao sineu,
-O homem de bem deixa uma herança aos filhos de seus filhos, mas a riqueza do pecador é depositada para o justo.
-Eleazar gerou a Fineias, e Fineias gerou a Abisua;
-E, ouvindo passar a multidão, perguntou que era aquilo.
-perseguidos, mas não desamparados; abatidos, mas não destruídos;
-E a terra de Judá será um espanto para o Egito; todo aquele a quem isso se anunciar se assombrará, por causa do propósito do SENHOR dos Exércitos, do que determinou contra eles.
-Faz dos ventos seus mensageiros, dos seus ministros, um fogo abrasador.
-O SENHOR é a porção da minha herança e o meu cálice; tu sustentas a minha sorte.
-e a todas as cidades das munições que Salomão tinha, e as cidades dos carros, e as cidades dos cavaleiros, e o que o desejo de Salomão quis edificar em Jerusalém, e no Líbano, e em toda a terra do seu domínio.
-Porque quem não é contra nós é por nós.
-Dai ao SENHOR a glória devida ao seu nome; trazei oferendas e entrai nos seus átrios.
-Maldito aquele que desprezar a seu pai ou a sua mãe! E todo o povo dirá: Amém!
-E o meu tabernáculo estará com eles, e eu serei o seu Deus, e eles serão o meu povo.
-Também falei aos sacerdotes e a todo este povo, dizendo: Assim diz o SENHOR: Não deis ouvidos às palavras dos vossos profetas que vos profetizam, dizendo: Eis que os utensílios da Casa do SENHOR cedo voltarão da Babilônia; pois eles vos profetizam mentiras.
-Contra ti, contra ti somente pequei, e fiz o que a teus olhos é mal, para que sejas justificado quando falares e puro quando julgares.
-Assim também ficar a alma sem conhecimento não é bom; e o que se apressa com seus pés peca.
-E sucedeu assim por os filhos de Israel pecarem contra o SENHOR, seu Deus, que os fizera subir da terra do Egito, de debaixo da mão de Faraó, rei do Egito; e temeram a outros deuses.
-Quanto menos àquele que não faz acepção da pessoa de príncipes, nem estima o rico mais do que o pobre; porque todos são obra de suas mãos.
-mas ele, largando o lençol, fugiu nu.
-Todo aquele que se deitar com animal certamente morrerá.
-O meu coração está anelante, e o horror apavora-me; o crepúsculo, que desejava, se me tornou em tremores.
-Afasta, pois, a ira do teu coração e remove da tua carne o mal, porque a adolescência e a juventude são vaidade.
-Eu serei, para Israel, como orvalho; ele florescerá como o lírio e espalhará as suas raízes como o Líbano.
-Bom é para o homem suportar o jugo na sua mocidade;
-para que os filhos de Israel, trazendo os seus sacrifícios, que sacrificam sobre a face do campo, os tragam ao SENHOR, à porta da tenda da congregação, ao sacerdote, e os ofereçam por sacrifícios pacíficos ao SENHOR.
-e trazei-me vosso irmão mais novo; assim, saberei que não sois espias, mas homens de retidão; então, vos darei o vosso irmão, e negociareis na terra.
-agora, pois, jura-me aqui por Deus que me não mentirás a mim, nem a meu filho, nem a meu neto; segundo a beneficência que te fiz, me farás a mim e à terra onde peregrinaste.
-E ele disse ao homem vestido de linho, que estava sobre as águas do rio: Que tempo haverá até ao fim das maravilhas?
-Acabou-se, pois, o muro aos vinte e cinco de elul, em cinquenta e dois dias.
-que os príncipes de Israel, os cabeças da casa de seus pais, os que foram príncipes das tribos, que estavam sobre os que foram contados, ofereceram,
-Farás também varais para o altar, varais de madeira de cetim, e os cobrirás de cobre.
-Eis que fizeste os meus dias como a palmos; o tempo da minha vida é como nada diante de ti; na verdade, todo homem, por mais firme que esteja, é totalmente vaidade. (Selá)
-E seja a tua casa como a casa de Perez ( que Tamar teve de Judá), da semente que o SENHOR te der desta moça.
-E, sendo Jesus batizado, saiu logo da água, e eis que se lhe abriram os céus, e viu o Espírito de Deus descendo como pomba e vindo sobre ele.
-E Barnabé aconselhava que tomassem consigo a João, chamado Marcos.
-Ali, o reto pleitearia com ele, e eu me livraria para sempre do meu juiz.
-Moisés e Arão, entre os seus sacerdotes, e Samuel, entre os que invocam o seu nome, clamavam ao SENHOR, e ele os ouvia.
-Para ti, que habitas nos céus, levanto os meus olhos.
-E as aves desciam sobre os cadáveres; Abrão, porém, as enxotava.
-Os mercadores destas coisas, que com elas se enriqueceram, estarão de longe, pelo temor do seu tormento, chorando, e lamentando,
-e não haja de receber muito mais neste mundo e, na idade vindoura, a vida eterna.
-E foi também Jacó o seu caminho, e encontraram-no os anjos de Deus.
-Mas, tendo lá ido os servidores, não os acharam na prisão e, voltando, lho anunciaram,
-Qualquer, porém, que blasfemar contra o Espírito Santo, nunca obterá perdão, mas será réu do eterno juízo.
-confirmaram os judeus e tomaram sobre si, e sobre a sua semente, e sobre todos os que se achegassem a eles que não se deixaria de guardar esses dois dias conforme o que se escrevera deles e segundo o seu tempo determinado, todos os anos;
-para fazer diferença entre o santo e o profano e entre o imundo e o limpo,
-Este é o meu repouso para sempre; aqui habitarei, pois o desejei.
-Melhor é o meu fruto do que o ouro, sim, do que o ouro refinado; e as minhas novidades, melhores do que a prata escolhida.
-Portanto, vós orareis assim: Pai nosso, que estás nos céus, santificado seja o teu nome.
-Louvai ao Deus dos deuses; porque a sua benignidade é para sempre.
-e, se alguém tirar quaisquer palavras do livro desta profecia, Deus tirará a sua parte da árvore da vida e da Cidade Santa, que estão escritas neste livro.
-Sabei, porém, isto: se o pai de família soubesse a que hora havia de vir o ladrão, vigiaria e não deixaria minar a sua casa.
-prossigo para o alvo, pelo prêmio da soberana vocação de Deus em Cristo Jesus.
-E vós, irmãos, não vos canseis de fazer o bem.
-E ele lhes disse: Vamos às aldeias vizinhas, para que eu ali também pregue, porque para isso vim.
-Disse mais Jeú: Consagrai a Baal uma assembleia solene. E a apregoaram.
-Mas nem todos obedecem ao evangelho; pois  diz: Senhor, quem creu na nossa pregação?
-Então, serás abatida, falarás de debaixo da terra, e a tua fala desde o pó sairá fraca, e será a tua voz debaixo da terra como a de um feiticeiro, e a tua fala assobiará desde o pó.
-E também seus vizinhos de mais perto, até Issacar, e Zebulom, e Naftali, trouxeram pão sobre jumentos, e sobre camelos, e sobre mulos, e sobre bois, provisões de farinha, pastas de figos, e cachos de passas, e vinho, e azeite, e bois, e gado miúdo em abundância; porque havia alegria em Israel.
-E o SENHOR disse a Josué: Não os temas, porque os tenho dado na tua mão; nenhum deles parará diante de ti.
-Foi feito isso da parte do rei, meu senhor? E não fizeste saber a teu servo quem se assentaria no trono do rei, meu senhor, depois dele?
-Disse-lhe Jesus: Em verdade te digo que, nesta mesma noite, antes que o galo cante, três vezes me negarás.
-retendo firme a fiel palavra, que é conforme a doutrina, para que seja poderoso, tanto para admoestar com a sã doutrina como para convencer os contradizentes.
-Ora, nós sabemos que tudo o que a lei diz aos que estão debaixo da lei o diz, para que toda boca esteja fechada e todo o mundo seja condenável diante de Deus.
-E os filhos de Efraim: Sutela, e seu filho Berede, e seu filho Taate, e seu filho Eleada e seu filho Taate,
-para que o meu inimigo não diga: Prevaleci contra ele; e os meus adversários se não alegrem, vindo eu a vacilar.
-E enviarei padejadores contra a Babilônia, que a padejarão e despojarão a sua terra, porque virão contra ela em redor no dia da calamidade.
-E tornou a sair no dia seguinte, e eis que dois varões hebreus contendiam; e disse ao injusto: Por que feres o teu próximo?
-Assim farei a este lugar, diz o SENHOR, e aos seus moradores; sim, para pôr esta cidade como Tofete.
-E, de noite, saí pela Porta do Vale, para a banda da Fonte do Dragão e para a Porta do Monturo e contemplei os muros de Jerusalém, que estavam fendidos, e as suas portas, que tinham sido consumidas pelo fogo.
-E destruirá, neste monte, a máscara do rosto com que todos os povos andam cobertos e o véu com que todas as nações se escondem.
-Porque assim é a vontade de Deus, que, fazendo o bem, tapeis a boca à ignorância dos homens loucos;
-E, tirando eles o dinheiro que se tinha trazido à Casa do SENHOR, Hilquias, o sacerdote, achou o livro da Lei do SENHOR, dada pelas mãos de Moisés.
-O rei, pois, não deu ouvidos ao povo, porque esta revolta vinha do SENHOR, para confirmar a palavra que o SENHOR tinha dito pelo ministério de Aías, o silonita, a Jeroboão, filho de Nebate.
-ao vigésimo quarto dia do sexto mês, no segundo ano do rei Dario.
-E o escriba lhe disse: Muito bem, Mestre, e com verdade disseste que há um só Deus e que não há outro além dele;
-E ele disse: Trazei-me uma salva nova e ponde nela sal. E lha trouxeram.
-Senhor, até quando verás isto? Resgata a minha alma das suas assolações, e a minha predileta, dos leões.
-Dai bebida forte aos que perecem, e o vinho, aos amargosos de espírito;
-Então, veio o Espírito do SENHOR, no meio da congregação, sobre Jaaziel, filho de Zacarias, filho de Benaías, filho de Jeiel, filho de Matanias, levita, dos filhos de Asafe,
-e em Jesua, e em Molada, e em Bete-Palete,
-Melhor é o que se estima em pouco e tem servos do que o que se honra a si mesmo e tem falta de pão.
-assim persegue-os com a tua tempestade e assombra-os com o teu torvelinho.
-E a toda alma que nela havia feriram a fio de espada e totalmente os destruíram, e nada restou do que tinha fôlego; e a Hazor queimou com fogo.
-Todas as famílias dos suamitas, segundo os que foram deles contados foram sessenta e quatro mil e quatrocentos.
-Então, o SENHOR Deus fez cair um sono pesado sobre Adão, e este adormeceu; e tomou uma das suas costelas e cerrou a carne em seu lugar.
-E o que sobejar da oferta de manjares será de Arão e de seus filhos; coisa santíssima é, de ofertas queimadas ao SENHOR.
-Então, veio Jesus da Galileia ter com  junto do Jordão, para ser batizado por ele.
-E, se o justo apenas se salva, onde aparecerá o ímpio e o pecador?
-Ao homem herege, depois de uma e outra admoestação, evita-o,
-Digo-vos que, naquela noite, estarão dois numa cama; um será tomado, e outro será deixado.
-Vós que vos alegrais de nada, vós que dizeis: Não nos temos nós tornado poderosos por nossa força?
-Ora, tendo a Escritura previsto que Deus havia de justificar pela fé os gentios, anunciou primeiro o evangelho a Abraão, dizendo: Todas as nações serão benditas em ti.
-A candeia do corpo é o olho. Sendo, pois, o teu olho simples, também todo o teu corpo será luminoso; mas, se for mau, também o teu corpo será tenebroso.
-E, vindo Mefibosete, filho de Jônatas, filho de Saul, a Davi, se prostrou com o rosto por terra e se inclinou; e disse Davi: Mefibosete! E ele disse: Eis aqui teu servo.
-Aquele que tem os meus mandamentos e os guarda, este é o que me ama; e aquele que me ama será amado de meu Pai, e eu o amarei e me manifestarei a ele.
-Então, Moisés tomou a vara de diante do SENHOR, como lhe tinha ordenado.
-A sanguessuga tem duas filhas, a saber: Dá, Dá. Estas três coisas nunca se fartam; e quatro nunca dizem: Basta:
-Ora, este adquiriu um campo com o galardão da iniquidade e, precipitando-se, rebentou pelo meio, e todas as suas entranhas se derramaram.
-E veio a mim a palavra do SENHOR, pela manhã, dizendo:
-E os filhos de Israel fizeram conforme tudo o que o SENHOR ordenara a Moisés; assim, assentaram o arraial segundo as suas bandeiras; e assim marcharam, cada qual segundo as suas gerações, segundo a casa de seus pais.
-Porquanto Moisés tinha dito: Consagrai hoje as vossas mãos ao SENHOR; porquanto cada um será contra o seu filho e contra o seu irmão; e isto para ele vos dar hoje bênção.
-E toda a tua avaliação se fará conforme o siclo do santuário; o siclo será de vinte geras.
-e nos fez reis e sacerdotes para Deus e seu Pai, a ele, glória e poder para todo o sempre. Amém!
-Então, Barnabé, tomando-o consigo, o trouxe aos apóstolos e lhes contou como no caminho ele vira ao Senhor, e este lhe falara, e como em Damasco falara ousadamente no nome de Jesus.
-E da filha de Sião foi-se toda a sua glória; os seus príncipes ficaram sendo como corços que não acham pasto e caminham sem força na frente do perseguidor.
-E dormiu Uzias com seus pais, e o sepultaram com seus pais no campo do sepulcro que era dos reis, porque disseram: Leproso é. E Jotão, seu filho, reinou em seu lugar.
-O espírito do homem aliviará a sua enfermidade, mas ao espírito abatido, quem o levantará?
-E da tribo de Gade, Ramote, cidade de refúgio do homicida, em Gileade, e os seus arrabaldes, e Maanaim e os seus arrabaldes;
-nem torpezas, nem parvoíces, nem chocarrices, que não convêm; mas, antes, ações de graças.
-Ela faz esquecer o coral e as pérolas; porque a aquisição da sabedoria é melhor que a dos rubis.
-E os dias que Jeú reinou sobre Israel em Samaria foram vinte e oito anos.
-E da boca do dragão, e da boca da besta, e da boca do falso profeta vi saírem três espíritos imundos, semelhantes a rãs,
-Então, Jefté disse aos anciãos de Gileade: Se me tornardes a levar para combater contra os filhos de Amom, e o SENHOR mos der diante de mim, então, eu vos serei por cabeça?
-Porque enviarei contra ela a peste e o sangue nas suas ruas, e os traspassados cairão no meio dela, estando a espada em roda contra ela; e saberão que eu sou o SENHOR.
-Que sabes tu, que nós não saibamos? Que entendes, que não haja em nós?
-Também trouxemos outro dinheiro em nossas mãos, para comprar mantimento; não sabemos quem tenha posto o nosso dinheiro nos nossos sacos.
-Então, disseram-lhe os seus servos: Busquem para o rei, nosso senhor, uma moça virgem, que esteja perante o rei, e tenha cuidado dele, e durma no seu seio, para que o rei, nosso senhor, aqueça.
-Ele domina eternamente pelo seu poder; os seus olhos estão sobre as nações; não se exaltem os rebeldes. (Selá)
-E sobre a cabeça das colunas estava a obra de lírios. E assim se acabou a obra das colunas.
-Apresentemo-nos ante a sua face com louvores e celebremo-lo com salmos.
-E disse Leia: Deus me deu a mim uma boa dádiva; desta vez morará o meu marido comigo, porque lhe tenho dado seis filhos. E chamou o seu nome Zebulom.
-E nasceram a José na terra do Egito Manassés e Efraim, que lhe deu Asenate, filha de Potífera, sacerdote de Om.
-Por mim se decreta que, no meu reino, todo aquele do povo de Israel e dos seus sacerdotes e levitas que quiser ir contigo a Jerusalém, vá.
-Assim que, quanto ao comer das coisas sacrificadas aos ídolos, sabemos que o ídolo nada é no mundo e que não há outro Deus, senão um só.
-Fiz para mim obras magníficas; edifiquei para mim casas; plantei para mim vinhas.
-A estultícia é alegria para o que carece de entendimento, mas o homem sábio anda retamente.
-Falou mais o SENHOR a Moisés, dizendo:
-E Faraó levantou-se de noite, ele, e todos os seus servos, e todos os egípcios; e havia grande clamor no Egito, porque não havia casa em que não houvesse um morto.
-Sejam confundidos e envergonhados os que buscam a minha vida; voltem atrás e envergonhem-se os que contra mim intentam o mal.
-Orai sem cessar.
-Desgarrei-me como a ovelha perdida; busca o teu servo, pois não me esqueci dos teus mandamentos.
-Também este feriu um homem egípcio, homem de respeito; e na mão do egípcio havia uma lança, porém Benaia desceu a ele com um cajado, e arrancou a lança da mão do egípcio, e o matou com a sua própria lança.
-E, estando Jesus em Betânia, em casa de Simão, o leproso, aproximou-se dele uma mulher com um vaso de alabastro, com unguento de grande valor, e derramou-lho sobre a cabeça, quando ele estava assentado à mesa.
-Disse-lhe Jesus: Também está escrito: Não tentarás o Senhor, teu Deus.
-E, dizendo ele isso, veio uma nuvem que os cobriu com a sua sombra; e, entrando eles na nuvem, temeram.
-e, na terra aonde forem levados em cativeiro, tornarem em si, e se converterem, e na terra do seu cativeiro te suplicarem, dizendo: Pecamos, e perversamente agimos, e cometemos iniquidade;
-Jetur, Nafis e Quedemá; estes foram os filhos de Ismael.
-que, como te jurei pelo SENHOR, Deus de Israel, dizendo: Certamente teu filho Salomão reinará depois de mim e ele se assentará no meu trono, em meu lugar, assim o farei no dia de hoje.
-Ainda que o mal lhe seja doce na boca, e ele o esconda debaixo da sua língua,
-Quando algum homem tomar uma mulher nova, não sairá à guerra, nem se lhe imporá carga alguma; por um ano inteiro ficará livre na sua casa e alegrará a sua mulher, que tomou.
-E falou Deus assim: Que a sua descendência seria peregrina em terra alheia, e a sujeitariam à escravidão e a maltratariam por quatrocentos anos.
-Guarda-te que não ofereças os teus holocaustos em todo lugar que vires;
-A bênção do SENHOR é que enriquece, e ele não acrescenta dores.
-e contra todos os montes altos, e contra todos os outeiros elevados;
-Porque qual é a nossa esperança, ou gozo, ou coroa de glória? Porventura, não o sois vós também diante de nosso Senhor Jesus Cristo em sua vinda?
-Na verdade vos digo que todos os pecados serão perdoados aos filhos dos homens, e toda sorte de blasfêmias, com que blasfemarem.
-os quais lhes disseram: Varões galileus, por que estais olhando para o céu? Esse Jesus, que dentre vós foi recebido em cima no céu, há de vir assim como para o céu o vistes ir.
-Então, estremeceu Isaque de um estremecimento muito grande e disse: Quem, pois, é aquele que apanhou a caça e ma trouxe? Eu comi de tudo, antes que tu viesses, e abençoei-o; também será bendito.
-E nem ainda uma palavra podia responder a Abner, porque o temia.
-Então, se levantaram e passaram, por conta, doze de Benjamim, da parte de Isbosete, filho de Saul, e doze dos servos de Davi.
-Então, eles, de boa mente, o receberam no barco; e logo o barco chegou à terra para onde iam.
-Assim, o tomou consigo ao campo de Zofim, ao cume de Pisga; e edificou sete altares e ofereceu um bezerro e um carneiro sobre cada altar.
-E, por isso, Deus lhes enviará a operação do erro, para que creiam a mentira,
-e Daná, e Quiriate-Sana, que é Debir,
-E cobrirás de ouro as tábuas e farás de ouro as suas argolas, para meter por elas as barras; também as barras cobrirás de ouro.
-Assim como tu me enviaste ao mundo, também eu os enviei ao mundo.
-E, estando Pedro duvidando entre si acerca do que seria aquela visão que tinha visto, eis que os varões que foram enviados por Cornélio pararam à porta, perguntando pela casa de Simão.
-Estes são os que falaram a Faraó, rei do Egito, para que tirassem do Egito os filhos de Israel; estes são Moisés e Arão.
-Mas disse Gedalias, filho de Aicão, a Joanã, filho de Careá: Não faças tal coisa, porque falas falsamente contra Ismael.
-Então, vindo, lhes dirigiram súplicas; e, tirando-os para fora, lhes pediram que saíssem da cidade.
-Desde agora, ninguém me inquiete; porque trago no meu corpo as marcas do Senhor Jesus.
-O que amar o dinheiro nunca se fartará de dinheiro; e quem amar a abundância nunca se fartará da renda; também isso é vaidade.
-No princípio do reinado de Jeoaquim, filho de Josias, rei de Judá, veio esta palavra do SENHOR, dizendo:
-E vós a herdareis, tanto um como o outro; pois sobre ela levantei a mão, para a dar a vossos pais; assim, que essa mesma terra vos cairá a vós em herança.
-Então, me disse: Viste, filho do homem, o que os anciãos da casa de Israel fazem nas trevas, cada um nas suas câmaras pintadas de imagens? E eles dizem: O SENHOR não nos vê, o SENHOR abandonou a terra.
-E Salomão se aparentou com Faraó, rei do Egito, e tomou a filha de Faraó, e a trouxe à Cidade de Davi, até que acabasse de edificar a sua casa, e a Casa do SENHOR, e a muralha de Jerusalém em roda.
-E o rei do Norte virá, e levantará baluartes, e tomará a cidade forte; e os braços do Sul não poderão subsistir, nem o seu povo escolhido, pois não haverá força que possa subsistir.
-como também tirará ambos os rins, e a gordura que está sobre eles e sobre as tripas, e o redenho que está sobre o fígado com os rins.
-Esta, porém, é a bênção com que Moisés, homem de Deus, abençoou os filhos de Israel antes da sua morte.
-Somente com os teus olhos olharás e verás a recompensa dos ímpios.
-por causa do Dia que vem para destruir a todos os filisteus, para cortar de Tiro e de Sidom todo o resto que os socorra; porque o SENHOR destruirá os filisteus, o resto da ilha de Caftor.
-Ainda que cavem até ao inferno, a minha mão os tirará dali; e, se subirem ao céu, dali os farei descer.
-E esperou sete dias, até ao tempo que Samuel determinara; não vindo, porém, Samuel a Gilgal, o povo se espalhava dele.
-E tu, levanta a tua vara, e estende a tua mão sobre o mar, e fende-o, para que os filhos de Israel passem pelo meio do mar em seco.
-para te fazer saber a certeza das palavras de verdade, para que possas responder palavras de verdade aos que te enviarem?
-Disse-lhe Pilatos: Que é a verdade? E, dizendo isso, voltou até os judeus e disse-lhes: Não acho nele crime algum.
-Vendo, pois, Leia que cessava de gerar, tomou também a Zilpa, sua serva, e deu-a a Jacó por mulher.
-A minha vida abomino, pois não viverei para sempre; retira-te de mim, pois vaidade são os meus dias.
-E eu disse: isto é enfermidade minha; e logo me lembrei dos anos da destra do Altíssimo.
-Porque em ti, SENHOR, espero; tu, Senhor, meu Deus, me ouvirás.
-E todo o Israel, desde Dã até Berseba, conheceu que Samuel estava confirmado por profeta do SENHOR.
-E, entrando em casa, a ninguém deixou entrar, senão a Pedro, e a Tiago, e a João, e ao pai, e a mãe da menina.
-E os olhos se lhes abriram. E Jesus ameaçou-os, dizendo: Olhai que ninguém o saiba.
-Portanto, o que jurar pelo altar jura por ele e por tudo o que sobre ele está.
-Então, disse Saul a todos os seus criados que estavam com ele: Ouvi, peço-vos, filhos de Benjamim, dar-vos-á também o filho de Jessé, a todos vós, terras e vinhas, e far-vos-á a todos chefes de milhares e chefes de centenas,
-Eis que eles me dizem: Onde está a palavra do SENHOR? Venha agora!
-Os céus são os céus do SENHOR; mas a terra, deu-a ele aos filhos dos homens.
-Não desprezeis as profecias.
-Mas, quando vier aquele Espírito da verdade, ele vos guiará em toda a verdade, porque não falará de si mesmo, mas dirá tudo o que tiver ouvido e vos anunciará o que há de vir.
-E partiu Abraão dali para a terra do Sul e habitou entre Cades e Sur; e peregrinou em Gerar.
-E tomou o SENHOR Deus o homem e o pôs no jardim do Éden para o lavrar e o guardar.
-Dezoito mil medidas em redor; e o nome da cidade desde aquele dia será: O SENHOR Está Ali.
-E, nos seus palácios, crescerão espinhos, urtigas e cardos nas suas fortalezas; e será uma habitação de dragões e sala para os filhos do avestruz.
-Vós todos os animais do campo todas as feras dos bosques, vinde comer.
-O SENHOR mandará sobre ti a maldição, a turbação e a perdição em tudo que puseres a tua mão para fazer, até que sejas destruído e até que repentinamente pereças, por causa da maldade das tuas obras, com que me deixaste.
-E levantar-se-ão salvadores no monte Sião, para julgarem a montanha de Esaú; e o reino será do SENHOR.
-Desvia-te dele, para que tenha repouso, até que, como o jornaleiro, tenha contentamento no seu dia.
-os quais Davi também consagrou ao SENHOR, juntamente com a prata e ouro que trouxera de todas as mais nações: dos edomitas, e dos moabitas, e dos filhos de Amom, e dos filisteus, e dos amalequitas.
-E elas disseram: Um homem egípcio nos livrou da mão dos pastores; e também nos tirou água em abundância e abeberou o rebanho.
-E, se alguém a seu próximo pedir alguma coisa, e for danificada ou morta, não estando presente o seu dono, certamente a restituirá.
-E deitou-se e dormiu debaixo de um zimbro; e eis que, então, um anjo o tocou e lhe disse: Levanta-te e come.
-Então, disse Ezequias que se preparassem câmaras na Casa do SENHOR, e as prepararam.
-Vós, mulheres, estai sujeitas a vosso próprio marido, como convém no Senhor.
-Como na água o rosto corresponde ao rosto, assim o coração do homem ao homem.
-Lembra-te, SENHOR, dos filhos de Edom no dia de Jerusalém, porque diziam: Arrasai-a, arrasai-a, até aos seus alicerces.
-Ouve-me, povo meu, e eu te admoestarei. Ah! Israel, se me ouvisses!
-Vendo-o, pois, os principais dos sacerdotes e os servos, gritaram, dizendo: Crucifica-o! Crucifica-o! Disse-lhes Pilatos: Tomai-o vós e crucificai-o, porque eu nenhum crime acho nele.
-Acerca do Egito, contra o exército de Faraó Neco, rei do Egito, que estava junto ao rio Eufrates, em Carquemis; ao qual feriu Nabucodonosor, rei da Babilônia, no ano quarto de Jeoaquim, filho de Josias, rei de Judá:
-E foi o seu termo Jezreel, e Quesulote, e Suném,
-Porque eu sei que, depois da minha morte, certamente vos corrompereis e vos desviareis do caminho que vos ordenei; então, este mal vos alcançará nos últimos dias, quando fizerdes mal aos olhos do SENHOR, para o provocar à ira com a obra das vossas mãos.
-antes que se quebre a cadeia de prata, e se despedace o copo de ouro, e se despedace o cântaro junto à fonte, e se despedace a roda junto ao poço,
-Porém ninguém fora como Acabe, que se vendera para fazer o que era mau aos olhos do SENHOR, porque Jezabel, sua mulher, o incitava.
-e Elienai, e Ziletai, e Eliel,
-E, levantando-se de manhã muito cedo, estando ainda escuro, saiu, e foi para um lugar deserto, e ali orava.
-ou tudo aquilo sobre que jurou falsamente; e o restituirá no seu cabedal e ainda sobre isso acrescentará o quinto; àquele de quem é o dará no dia de sua expiação.
-que eu retenho até ao tempo da angústia, até ao dia da peleja e da guerra?
-E ele lhe disse: Tem bom ânimo, filha, a tua fé te salvou; vai em paz.
-E deram aviso a Tamar, dizendo: Eis que teu sogro sobe a Timna, a tosquiar as suas ovelhas.
-O SENHOR, porém, endureceu o coração de Faraó, e este não os quis deixar ir.
-Mas, quando enfraqueceu o rebanho, não as pôs. Assim, as fracas eram de Labão, e as fortes, de Jacó.
-e o azeite da unção e o incenso aromático para o santuário; farão conforme tudo que te tenho mandado.
-Porque estou prestes a coxear; a minha dor está constantemente perante mim.
-Seis dias o colhereis, mas o sétimo dia é o sábado; nele não haverá.
-Fizeram também as campainhas de ouro puro, pondo as campainhas no meio das romãs nas bordas da capa, em roda, entre as romãs:
-E foi-me dada uma cana semelhante a uma vara; e chegou o anjo e disse: Levanta-te e mede o templo de Deus, e o altar, e os que nele adoram.
-Semelhantemente, no dia da vossa alegria, e nas vossas solenidades, e nos princípios dos vossos meses, também tocareis as trombetas sobre os vossos holocaustos, sobre os vossos sacrifícios pacíficos, e vos serão por lembrança perante vosso Deus. Eu sou o SENHOR, vosso Deus.
-Porque ele livrará ao necessitado quando clamar, como também ao aflito e ao que não tem quem o ajude.
-Também este andou nos caminhos da casa de Acabe, porque sua mãe era sua conselheira, para proceder impiamente.
-Ora, se ele estivesse na terra, nem tampouco sacerdote seria, havendo ainda sacerdotes que oferecem dons segundo a lei,
-Naquele dia, quem estiver no telhado, tendo os seus utensílios em casa, não desça a tomá-los; e, da mesma sorte, o que estiver no campo não volte para trás.
-Então, falou Davi aos homens que estavam com ele, dizendo: Que farão àquele homem que ferir a este filisteu e tirar a afronta de sobre Israel? Quem é, pois, este incircunciso filisteu, para afrontar os exércitos do Deus vivo?
-Desta mesma terra saiu ele à Assíria e edificou a Nínive, e Reobote-Ir, e Calá,
-Subiu, porém, a filha de Faraó da Cidade de Davi à sua casa, que Salomão lhe edificara; então edificou a Milo.
-Fala aos filhos de Israel, dizendo: Quem oferecer ao SENHOR o seu sacrifício pacífico trará a sua oferta ao SENHOR; do seu sacrifício pacífico
-E seus irmãos, homens valentes, dois mil e setecentos, chefes dos pais; e o rei Davi os constituiu sobre os rubenitas, e os gaditas, e a meia tribo dos manassitas, para todos os negócios de Deus e para todos os negócios do rei.
-E o SENHOR dos Exércitos dará, neste monte, a todos os povos uma festa com animais gordos, uma festa com vinhos puros, com tutanos gordos e com vinhos puros, bem purificados.
-Desde aquele dia, pois, consultavam-se para o matarem.
-Porém dos filhos de Israel, de quem Salomão não fez servos para a sua obra (mas eram homens de guerra, chefes dos seus capitães, e chefes dos seus carros, e dos seus cavaleiros),
-Agora, pois, ó SENHOR Deus, confirme-se a tua palavra, dada a Davi, meu pai; porque tu me fizeste rei sobre um povo numeroso como o pó da terra.
-O simples dá crédito a cada palavra, mas o prudente atenta para os seus passos.
-e, abrindo a boca, os ensinava, dizendo:
-E deixaram a Casa do SENHOR, Deus de seus pais, e serviram às imagens do bosque e aos ídolos; então, veio grande ira sobre Judá e Jerusalém por causa desta sua culpa.
-cuja boca está cheia de maldição e amargura.
-E, ordenando-o eu, buscaram e acharam que, de tempos antigos, aquela cidade se levantou contra os reis, e nela se tem feito rebelião e sedição.
-Também me livraste das contendas do meu povo; guardaste-me para cabeça das nações; o povo que não conhecia me servirá.
-Porém, se alguém das suas dízimas resgatar alguma coisa, acrescentará o seu quinto sobre ela.
-Assim, naquele tempo, tomamos a terra da mão daqueles dois reis dos amorreus, que estavam dalém do Jordão: desde o rio Arnom até ao monte Hermom
-Disse mais o rei a Simei: Bem sabes tu toda a maldade que o teu coração reconhece que fizeste a Davi, meu pai; pelo que o SENHOR fez recair a tua maldade sobre a tua cabeça.
-Sabendo que o homem não é justificado pelas obras da lei, mas pela fé em Jesus Cristo, temos também crido em Jesus Cristo, para sermos justificados pela fé de Cristo e não pelas obras da lei, porquanto pelas obras da lei nenhuma carne será justificada.
-Peso do deserto do mar. Como os tufões de vento do Sul, que tudo assolam, ele virá do deserto, da terra horrível.
-Mas as prudentes levaram azeite em suas vasilhas, com as suas lâmpadas.
-Tu a cobriste com o abismo, como com uma veste; as águas estavam sobre os montes;
-A sua prata lançarão pelas ruas, e o seu ouro será como imundícia; nem a sua prata nem o seu ouro os poderá livrar no dia do furor do SENHOR; eles não fartarão a sua alma, nem lhes encherão as entranhas, porque isso foi o tropeço da sua maldade.
-Saiu, pois, o povo ao campo, a encontrar-se com Israel, e deu-se a batalha no bosque de Efraim.
-E esta foi a causa por que levantou a mão contra o rei: Salomão tinha edificado a Milo e cerrou as aberturas da Cidade de Davi, seu pai.
-Disse o Deus de Israel, a Rocha de Israel a mim me falou: Haverá um justo que domine sobre os homens, que domine no temor de Deus.
-E deixou tudo o que tinha na mão de José, de maneira que de nada sabia do que estava com ele, a não ser do pão que comia. E José era formoso de aparência e formoso à vista.
-E o rei da Babilônia os feriu e os matou em Ribla, na terra de Hamate; assim Judá foi levado da sua terra para o cativeiro.
-Filho meu, se aceitares as minhas palavras e esconderes contigo os meus mandamentos,
-Porém ele disse: Não posso voltar contigo, nem entrarei contigo; nem tampouco comerei pão, nem beberei contigo água neste lugar.
-Porque, aonde iria eu com a minha vergonha? E tu serias como um dos loucos de Israel. Agora, pois, peço-te que fales ao rei, porque não me negará a ti.
-E puseram as duas cadeiazinhas de trança de ouro nas duas argolas, nas duas extremidades do peitoral.
-Ainda que os teus desterrados estejam para a extremidade do céu, desde ali te ajuntará o SENHOR, teu Deus, e te tomará dali.
-se sofrermos, também com ele reinaremos; se o negarmos, também ele nos negará;
-há um só corpo e um só Espírito, como também fostes chamados em uma só esperança da vossa vocação;
-Chegando eles, pois, à eira do espinhal, que está além do Jordão, fizeram um grande e gravíssimo pranto; e fez a seu pai um grande pranto por sete dias.
-E sucedeu que, falando-lhe ele, lhe respondeu: Puseram-te por conselheiro do rei? Cala-te, por que te feririam? Então, o profeta parou e disse: Bem vejo eu que já Deus deliberou destruir-te, porquanto fizeste isso e não deste ouvidos a meu conselho.
-E, quando a filha do sacerdote se casar com homem estranho, ela não comerá da oferta movida das coisas santas.
-Tornai-lhe a dar como ela vos tem dado e retribuí-lhe em dobro conforme as suas obras; no cálice em que vos deu de beber, dai-lhe a ela em dobro.
-Quanto a Elcana, os filhos de Elcana foram Zofai seu filho, e seu filho Naate,
-Dá-me, pois, agora, sabedoria e conhecimento, para que possa sair e entrar perante este povo; porque quem poderia julgar a este teu tão grande povo?
-Desperta, desperta, Débora, desperta, desperta, entoa um cântico; levanta-te, Baraque, e leva presos teus prisioneiros, tu, filho de Abinoão.
-O SENHOR é justo, no meio dela; ele não comete iniquidade; cada manhã traz o seu juízo à luz; nunca falta; mas o perverso não conhece a vergonha.
-Encolhe-se, abaixa-se, para que os pobres caiam em suas fortes garras.
-Ai de mim! Porque estou como quando são colhidas as frutas do verão, como os rabiscos da vindima: não há cacho de uvas para comer, nem figos temporãos que a minha alma desejou.
-Assim, foi desfeita toda substância que havia sobre a face da terra, desde o homem até ao animal, até ao réptil e até à ave dos céus; e foram extintos da terra; e ficou somente Noé e os que com ele estavam na arca.
-E aconteceu que, fazendo-me Deus sair errante da casa de meu pai, eu lhe disse: Seja esta a graça que me farás em todo o lugar aonde viermos: dize de mim: É meu irmão.
-Também dei ordem a Josué, no mesmo tempo, dizendo: Os teus olhos veem tudo o que o SENHOR, vosso Deus, tem feito a estes dois reis; assim fará o SENHOR a todos os reinos, a que tu passarás.
-Porque eu sabia que eras duro, e a tua cerviz, um nervo de ferro, e a tua testa, de bronze.
-E as cidades que se separaram para os filhos de Efraim estavam no meio da herança dos filhos de Manassés; todas aquelas cidades e as suas aldeias.
-a qual nenhum dos príncipes deste mundo conheceu; porque, se a conhecessem, nunca crucificariam ao Senhor da glória.
-Não te aflijas por causa dos malfeitores, nem tenhas inveja dos ímpios.
-Acabando-se, pois, o dinheiro na terra do Egito e na terra de Canaã, vieram todos os egípcios a José, dizendo: Dá-nos pão; por que morreremos em tua presença? Porquanto o dinheiro nos falta.
-De sorte que os que são da fé são benditos com o crente Abraão.
-Entre ti se não achará quem faça passar pelo fogo o seu filho ou a sua filha, nem adivinhador, nem prognosticador, nem agoureiro, nem feiticeiro,
-Eu te louvarei, porque de um modo terrível e tão maravilhoso fui formado; maravilhosas são as tuas obras, e a minha alma o sabe muito bem.
-Tomaram, pois, aquelas coisas do meio da tenda, e as trouxeram a  e a todos os filhos de Israel, e as deitaram perante o SENHOR.
-Se alguém lhe tocar com a espada, essa não poderá penetrar, nem lança, dardo ou flecha.
-Novamente, o transportou o diabo a um monte muito alto; e mostrou-lhe todos os reinos do mundo e a glória deles.
-E irá em seguimento de seus amantes, mas não os alcançará; e buscá-los-á, mas não os achará; então, dirá: Ir-me-ei e tornar-me-ei a meu primeiro marido, porque melhor me ia, então, do que agora.
-Mas Jesus lhes disse: Não sabeis o que pedis; podeis vós beber o cálice que eu bebo e ser batizados com o batismo com que eu sou batizado?
-E levantou-se Ismael, filho de Netanias, com os dez homens que estavam com ele, e feriram a Gedalias, filho de Aicão, filho de Safã, à espada, matando, assim, aquele que o rei da Babilônia havia posto sobre a terra.
-Dizia eu: Subirei à palmeira, pegarei em seus ramos; e, então, os teus peitos serão como os cachos na vide, e o cheiro da tua respiração, como o das maçãs.
-E ele disse: Ouvi a tua voz soar no jardim, e temi, porque estava nu, e escondi-me.
-E, levantando-se dali, foi para o território da Judeia, além do Jordão, e a multidão se reuniu em torno dele; e tornou a ensiná-los, como tinha por costume.
-dizendo: Amém! Louvor, e glória, e sabedoria, e ações de graças, e honra, e poder, e força ao nosso Deus, para todo o sempre. Amém!
-E Zadoque, o sacerdote, tomou o vaso do azeite do tabernáculo e ungiu a Salomão; e tocaram a trombeta, e todo o povo disse: Viva o rei Salomão!
-Mas, do renovo das suas raízes, um se levantará em seu lugar, e virá com o exército, e entrará nas fortalezas do rei do Norte, e operará contra elas, e prevalecerá.
-E respondeu o tribuno: Eu com grande soma de dinheiro alcancei este direito de cidadão. Paulo disse: Mas eu sou-o de nascimento.
-Ora, quanto à coleta que se faz para os santos, fazei vós também o mesmo que ordenei às igrejas da Galácia.
-E sucedeu que, no ano duodécimo, no mês duodécimo, ao primeiro do mês, veio a mim a palavra do SENHOR, dizendo:
-Buscai ao SENHOR enquanto se pode achar, invocai-o enquanto está perto.
-Porque, em que tendes vós sido inferiores às outras igrejas, a não ser que eu mesmo vos não fui pesado? Perdoai-me este agravo.
-Disseram-lhe, pois: Que sinal, pois, fazes tu, para que o vejamos, e creiamos em ti? Que operas tu?
-Que vos abstenhais das coisas sacrificadas aos ídolos, e do sangue, e da carne sufocada, e da fornicação; destas coisas fareis bem se vos guardardes. Bem vos vá.
-E, oito dias depois, estavam outra vez os seus discípulos dentro, e, com eles, Tomé. Chegou Jesus, estando as portas fechadas, e apresentou-se no meio, e disse: Paz seja convosco!
-E não havia água para a congregação; então, se congregaram contra Moisés e contra Arão.
-Então, cavaram outro poço e também porfiaram sobre ele. Por isso, chamou o seu nome Sitna.
-Na verdade, amas os povos; todos os teus santos estão na tua mão; postos serão no meio, entre os teus pés, cada um receberá das tuas palavras.
-E concebia o rebanho diante das varas, e as ovelhas davam crias listradas, salpicadas e malhadas.
-E disse Abraão a seus moços: Ficai-vos aqui com o jumento, e eu e o moço iremos até ali; e, havendo adorado, tornaremos a vós.
-E, como o dia fosse já muito adiantado, os seus discípulos se aproximaram dele e lhe disseram: O lugar é deserto, e o dia está já muito adiantado;
-A tua estatura é semelhante à palmeira, e os teus peitos, aos cachos de uvas.
-E, quando tiver chegado, mandarei os que, por cartas, aprovardes, para levar a vossa dádiva a Jerusalém.
-Naquele mesmo tempo, me disse o SENHOR: Alisa duas tábuas de pedra, como as primeiras, e sobe a mim a este monte, e faze uma arca de madeira.
-Despertou, pois, o SENHOR contra Jeorão o espírito dos filisteus e dos arábios, que estão da banda dos etíopes.
-Comprei, pois, a herdade de Hananel, filho de meu tio, a qual está em Anatote; e pesei-lhe o dinheiro: dezessete siclos de prata.
-Quem abriria as portas do seu rosto? Pois em roda dos seus dentes está o terror.
-E deu Deus a Salomão sabedoria, e muitíssimo entendimento, e largueza de coração, como a areia que está na praia do mar.
-E prostituiu-se Oolá, sendo minha; e enamorou-se dos seus amantes, dos assírios, seus vizinhos,
-Verdade é que também alguns pregam a Cristo por inveja e porfia, mas outros de boa mente;
-Entra e fala a Faraó, rei do Egito, que deixe sair os filhos de Israel da sua terra.
-Mas, sobretudo, meus irmãos, não jureis nem pelo céu nem pela terra, nem façais qualquer outro juramento; mas que a vossa palavra seja sim, sim e não, não, para que não caiais em condenação.
-E serás uma coroa de glória na mão do SENHOR e um diadema real na mão do teu Deus.
-A misericórdia e a verdade se encontraram; a justiça e a paz se beijaram.
-Todavia, também ele é sábio, e fará vir o mal, e não retirará as suas palavras; ele se levantará contra a casa dos malfeitores e contra a ajuda dos que praticam a iniquidade.
-Então, disse Raquel: Com lutas de Deus, tenho lutado com minha irmã e também venci; e chamou o seu nome Naftali.
-Com a sua malícia alegram ao rei e com as suas mentiras, aos príncipes.
-E não só ela, mas nós mesmos, que temos as primícias do Espírito, também gememos em nós mesmos, esperando a adoção, a saber, a redenção do nosso corpo.
-Olha para a minha aflição e para a minha dor e perdoa todos os meus pecados.
-Aconteceu também, naqueles dias em que não havia rei em Israel, que houve um homem levita, que, peregrinando aos lados da montanha de Efraim, tomou para si uma mulher concubina, de Belém de Judá.
-Assim, pois, lhes fez e livrou-os das mãos dos filhos de Israel; e não os mataram.
-As suas viúvas mais se multiplicaram do que as areias dos mares; trouxe ao meio-dia um destruidor sobre a mãe dos jovens; fiz que caísse de repente sobre ela e enchesse a cidade de terrores.
-Para onde foi o teu amado, ó mais formosa entre as mulheres? Para onde virou a vista o teu amado, e o buscaremos contigo?
-E veio sobre ele o Espírito do SENHOR, e julgou a Israel e saiu à peleja; e o SENHOR deu na sua mão a Cusã-Risataim, rei da Síria; e a sua mão prevaleceu contra Cusã-Risataim.
-e a paciência, a experiência; e a experiência, a esperança.
-Pois, se vós, sendo maus, sabeis dar boas dádivas aos vossos filhos, quanto mais dará o Pai celestial o Espírito Santo àqueles que lho pedirem?
-Desde Aroer, que está à borda do ribeiro de Arnom, e a cidade que está junto ao ribeiro, até Gileade, nenhuma cidade houve que de nós escapasse; tudo isto o SENHOR, nosso Deus, nos entregou diante de nós.
-O teu umbigo, como uma taça redonda, a que não falta bebida; o teu ventre, como monte de trigo, cercado de lírios.
-A altura de uma coluna era de dezoito côvados, e sobre ela havia um capitel de cobre, e de altura tinha o capitel três côvados; e a rede, e as romãs em roda do capitel, tudo era de cobre; e semelhante a esta era a outra coluna com a rede.
-E os nossos reis, os nossos príncipes, os nossos sacerdotes e os nossos pais não guardaram a tua lei e não deram ouvidos aos teus mandamentos e aos teus testemunhos, que testificaste contra eles.
-E foram contados os levitas de trinta anos para cima; e foi o número deles, segundo as suas cabeças, trinta e oito mil homens.
-Doce é o sono do trabalhador, quer coma pouco quer muito; mas a fartura do rico não o deixa dormir.
-Dos izaritas, Quenanias e seus filhos foram postos sobre Israel para a obra de fora, por oficiais e por juízes;
-Os flecheiros lhe deram amargura, e o flecharam, e o aborreceram.
-para virares contra Deus o teu espírito e deixares sair tais palavras da tua boca?
-A Festa dos Tabernáculos guardarás sete dias, quando colheres da tua eira e do teu lagar.
-Como, pois, farias virar o rosto de um só príncipe dos menores servos de meu senhor? Porém tu confias no Egito, por causa dos carros e cavaleiros.
-E foi Jesus apresentado ao governador, e o governador o interrogou, dizendo: És tu o Rei dos judeus? E disse-lhe Jesus: Tu o dizes.
-Como a oferta pela expiação do pecado, assim será a oferta pela expiação da culpa; uma mesma lei haverá para elas: será do sacerdote que houver feito propiciação com ela.
-Então, o ajuntamento enviou lá doze mil homens dos mais valentes e lhes ordenou, dizendo: Ide e a fio de espada feri aos moradores de Jabes-Gileade, e às mulheres, e aos meninos.
-Vindo, pois, todos os príncipes a  e interrogando-o, declarou-lhes conforme todas as palavras que o rei lhe havia ordenado; e o deixaram, porque não se revelou o negócio.
-E aquele que é do Norte farei partir para longe de vós, e lançá-lo-ei em uma terra seca e deserta; a sua frente para o mar oriental, e a sua retaguarda para o mar ocidental; e subirá o seu mau cheiro, e subirá a sua podridão; porque fez grandes coisas.
-Assim diz o SENHOR: O povo que escapou da espada encontrou graça no deserto; é Israel mesmo, quando eu o fizer descansar.
-Mas o seu Redentor é forte, o SENHOR dos Exércitos é o seu nome; certamente, pleiteará a causa deles, para dar descanso à terra e inquietar os moradores da Babilônia.
-Mas os levitas não foram contados entre os filhos de Israel, como o SENHOR ordenara a Moisés.
-de Gebal, de Amom, de Amaleque e a Filístia com os moradores de Tiro.
-Como se ajuntam a prata, e o bronze, e o ferro, e o chumbo, e o estanho no meio do forno, para assoprar o fogo sobre eles, a fim de se fundirem, assim vos ajuntarei na minha ira e no meu furor, e ali vos deixarei, e fundirei.
-E, enviando-os a Belém, disse: Ide, e perguntai diligentemente pelo menino, e, quando o achardes, participai-mo, para que também eu vá e o adore.
-Ouvimos da soberba de Moabe, a soberbíssima, e da sua altivez, e da sua soberba, e do seu furor; a sua jactância é vã.
-E ele disse: Eu tenho sido em extremo zeloso pelo SENHOR, Deus dos Exércitos, porque os filhos de Israel deixaram o teu concerto, derribaram os teus altares e mataram os teus profetas à espada; e eu fiquei só, e buscam a minha vida para ma tirarem.
-E vim a Jerusalém e compreendi o mal que Eliasibe fizera para beneficiar a Tobias, fazendo-lhe uma câmara nos pátios da Casa de Deus,
-E tomou os tesouros da Casa do SENHOR e os tesouros da casa do rei, e ainda tomou tudo, e também tomou todos os escudos de ouro que Salomão tinha feito.
-É verdade que também algumas mulheres dentre nós nos maravilharam, as quais de madrugada foram ao sepulcro;
-e falou com ele benignamente e pôs o seu trono acima dos tronos dos reis que estavam com ele em Babilônia;
-Depois,  se levantou de madrugada, e os sacerdotes levaram a arca do SENHOR.
-E veio e tomou o livro da destra do que estava assentado no trono.
-E partiram de Mara e vieram a Elim; e em Elim havia doze fontes de águas e setenta palmeiras, e acamparam-se ali.
-Arrebatarei os homens e os animais, consumirei as aves do céu, e os peixes do mar, e os tropeços com os ímpios; e exterminarei os homens de cima da terra, disse o SENHOR.
-Tornou-se o Senhor como inimigo; devorou Israel, devorou todos os seus palácios, destruiu as suas fortalezas; e multiplicou na filha de Judá a lamentação e a tristeza.
-Então, os vizinhos e aqueles que dantes tinham visto que era cego diziam: Não é este aquele que estava assentado e mendigava?
-Se, pois, todo o teu corpo é luminoso, não tendo em trevas parte alguma, todo será luminoso, como quando a candeia te alumia com o seu resplendor.
-todavia, para nós há um só Deus, o Pai, de quem é tudo e para quem nós vivemos; e um só Senhor, Jesus Cristo, pelo qual são todas as coisas, e nós por ele.
-E aos filhos de Israel falarás, dizendo: Qualquer que amaldiçoar o seu Deus levará sobre si o seu pecado.
-Pois quem no céu se pode igualar ao SENHOR? Quem é semelhante ao SENHOR entre os filhos dos poderosos?
-E esta palavra: Ainda uma vez, mostra a mudança das coisas móveis, como coisas feitas, para que as imóveis permaneçam.
-Nunca me esquecerei dos teus preceitos, pois por eles me tens vivificado.
-Pelo que, por lábios estranhos e por outra língua, falará a este povo,
-Vendo, pois, Eliú que já não havia resposta na boca daqueles três homens, a sua ira se acendeu.
-E assombrar-se-ão, e apoderar-se-ão deles dores e ais, e se angustiarão como a mulher parturiente; cada um se espantará do seu próximo; o seu rosto será rosto flamejante.
-Na cidade, só ficou a desolação, e, com estalidos, se quebra a porta.
-E tu, ó filho do homem, profetiza e dize: Assim diz o Senhor JEOVÁ acerca dos filhos de Amom e acerca do seu desprezo; dize, pois: A espada, a espada está desembainhada, açacalada para a matança, para consumir, para reluzir;
-Então, falou o SENHOR a Moisés, dizendo:
-Assim, o rei não deu ouvidos ao povo, porque esta mudança vinha de Deus, para que o SENHOR confirmasse a sua palavra, a qual falara pelo ministério de Aías, o silonita, a Jeroboão, filho de Nebate.
-E expeliu Calebe dali os três filhos de Anaque: Sesai, e Aimã, e Talmai, gerados de Anaque.
-E até àquele tempo estavam de guarda à porta do rei para o oriente; estes foram os porteiros entre os arraiais dos filhos de Levi.
-Então, a ira de Balaque se acendeu contra Balaão, e bateu ele as suas palmas; e Balaque disse a Balaão: Para amaldiçoar os meus inimigos te tenho chamado; porém agora já três vezes os abençoaste inteiramente.
-Para onde me irei do teu Espírito ou para onde fugirei da tua face?
-E sairei eu e estarei à mão de meu pai no campo em que estiveres; e eu falarei de ti a meu pai, e verei o que houver, e to anunciarei.
-E os filhos de Jada, irmão de Samai, foram: Jéter e Jônatas; e Jéter morreu sem filhos.
-Quando vejo os teus céus, obra dos teus dedos, a lua e as estrelas que preparaste;
-tribulação e angústia sobre toda alma do homem que faz o mal, primeiramente do judeu e também do grego;
-Busca lã e linho e trabalha de boa vontade com as suas mãos.
-E disse a Jeroboão: Toma para ti os dez pedaços, porque assim diz o SENHOR, Deus de Israel: Eis que rasgarei o reino da mão de Salomão e a ti darei as dez tribos.
-Também, naquele tempo, disse ao povo: Cada um com o seu moço fique em Jerusalém, para que, de noite, nos sirvam de guarda e, de dia, na obra.
-a fim de que seja anunciado o nome do SENHOR em Sião, e o seu louvor, em Jerusalém,
-Então, os filhos de Israel clamaram ao SENHOR, porquanto Jabim tinha novecentos carros de ferro e por vinte anos oprimia os filhos de Israel violentamente.
-E tocou-lhe na mão, e a febre a deixou; e levantou-se e serviu-os.
-Abre a tua boca a favor do mudo, pelo direito de todos os que se acham em desolação.
-Efraim mui amargosamente provocou a sua ira; portanto, deixará ficar sobre ele o seu sangue e o seu Senhor fará cair sobre ele o seu opróbrio.
-Então, alguns dos de Jerusalém diziam: Não é este o que procuram matar?
-Qualquer que vem a mim, e ouve as minhas palavras, e as observa, eu vos mostrarei a quem é semelhante.
-Assim diz o rei: Não vos engane Ezequias; porque não vos poderá livrar da sua mão;
-Não castigaria eu estas coisas? — diz o SENHOR; não se vingaria a minha alma de uma nação como esta?
-Então, responderam todos os homens de Judá aos homens de Israel: Porquanto o rei é nosso parente; e por que vos irais por isso? Porventura, comemos à custa do rei ou nos apresentou algum presente?
-A palavra que mandou Jeremias, o profeta, a Seraías, filho de Nerias, filho de Maaseias, indo ele com Zedequias, rei de Judá, à Babilônia, no ano quarto do seu reinado; e Seraías era um príncipe pacífico.
-Pelo que hoje saberás e refletirás no teu coração que só o SENHOR é Deus em cima no céu e embaixo na terra; nenhum outro há.
-Saúda-vos Lucas, o médico amado, e Demas.
-Então, disse sua irmã à filha de Faraó: Irei eu a chamar uma ama das hebreias, que crie este menino para ti?
-E tomaram o rei e o fizeram subir ao rei de Babilônia, a Ribla; e procederam contra ele.
-e para que sejamos livres de homens dissolutos e maus; porque a fé não é de todos.
-Ou como podes dizer a teu irmão: Irmão, deixa-me tirar o argueiro que está no teu olho, não atentando tu mesmo na trave que está no teu olho? Hipócrita, tira primeiro a trave do teu olho e, então, verás bem para tirar o argueiro que está no olho de teu irmão.
-Então, chamou a Geazi e disse: Chama essa sunamita. E chamou-a, e veio a ele. E disse ele: Toma o teu filho.
-Toma a soma da presa dos prisioneiros, de homens e de animais, tu e Eleazar, o sacerdote, e os cabeças das casas dos pais da congregação;
-E saiu do templo, que está no céu, outro anjo, o qual também tinha uma foice aguda.
-Casa de Arão, confia no SENHOR; ele é teu auxílio e teu escudo.
-Portanto, eis que vêm dias, diz o SENHOR, em que farei ouvir em Rabá dos filhos de Amom o alarido de guerra, e tornar-se-á num montão de ruínas, e os lugares da sua jurisdição serão queimados; e Israel herdará aqueles que o herdaram, diz o SENHOR.
-Essa não é a sabedoria que vem do alto, mas é terrena, animal e diabólica.
-Filho meu, atenta para as minhas palavras; às minhas razões inclina o teu ouvido.
-Naquele tempo, veio  e extirpou os anaquins das montanhas de Hebrom, de Debir, de Anabe, de todas as montanhas de Judá e de todas as montanhas de Israel;  os destruiu totalmente com as suas cidades.
-Então, lhe anunciaram, dizendo: José ainda vive e ele também é regente em toda a terra do Egito. E o seu coração desmaiou, porque não os acreditava.
-A chuva, porventura, tem pai? Ou quem gera as gotas do orvalho?
-Bendizei ao SENHOR, todas as suas obras, em todos os lugares do seu domínio. Bendize, ó minha alma, ao SENHOR.
-O receio do homem armará laços, mas o que confia no SENHOR será posto em alto retiro.
-e cada um de vós armado passar o Jordão perante o SENHOR, até que haja lançado fora os seus inimigos de diante dele,
-pelas entranhas da misericórdia do nosso Deus, com que o oriente do alto nos visitou,
-os gafanhotos não têm rei; e, contudo, todos saem e em bandos se repartem;
-E a mulher que viste é a grande cidade que reina sobre os reis da terra.
-Os olhos do SENHOR estão sobre os justos; e os seus ouvidos, atentos ao seu clamor.
-Ou só eu e Barnabé não temos direito de deixar de trabalhar?
-E estava na sinagoga um homem que tinha um espírito de um demônio imundo, e este exclamou em alta voz,
-E fareis como eu fiz; não vos rebuçareis e não comereis o pão dos homens.
-e um cesto de bolos asmos, bolos de flor de farinha com azeite, amassados, e coscorões asmos untados com azeite, como também a sua oferta de manjares e as suas libações.
-E o capitão da guarda pô-los a cargo de José, para que os servisse; e estiveram muitos dias na prisão.
-Nisto se manifestou o amor de Deus para conosco: que Deus enviou seu Filho unigênito ao mundo, para que por ele vivamos.
-Porque a sabedoria deste mundo é loucura diante de Deus; pois está escrito: Ele apanha os sábios na sua própria astúcia.
-Falou-me mais o SENHOR, dizendo: Atentei para este povo, e eis que ele é povo obstinado.
-Chegue a minha súplica perante a tua face; livra-me segundo a tua palavra.
-E despertou Noé do seu vinho e soube o que seu filho menor lhe fizera.
-No seu fim, morderá como a cobra e, como o basilisco, picará.
-Além disso, eu, Paulo, vos rogo, pela mansidão e benignidade de Cristo, eu que, na verdade, quando presente entre vós, sou humilde, mas ausente, ousado para convosco;
-porque tomaram das suas filhas para si e para seus filhos, e assim se misturou a semente santa com os povos destas terras, e até a mão dos príncipes e magistrados foi a primeira nesta transgressão.
-Disse-lhes Simão Pedro: Vou pescar. Disseram-lhe eles: Também nós vamos contigo. Foram, e subiram logo para o barco, e naquela noite nada apanharam.
-Então, cessou a obra da Casa de Deus, que estava em Jerusalém, e cessou até ao ano segundo do reinado de Dario, rei da Pérsia.
-As suas pedras são o lugar da safira e têm pós de ouro.
-Os reis da terra se levantam, e os príncipes juntos se mancomunam contra o SENHOR e contra o seu ungido, dizendo:
-fez também trezentos escudos de ouro batido; três arráteis de ouro mandou pesar para cada escudo; e o rei os pôs na casa do bosque do Líbano.
-Então, se ajuntaram os sátrapas, os prefeitos, os presidentes, os juízes, os tesoureiros, os conselheiros, os oficiais e todos os governadores das províncias, para a consagração da estátua que o rei Nabucodonosor tinha levantado, e estavam em pé diante da imagem que Nabucodonosor tinha levantado.
-não folga com a injustiça, mas folga com a verdade;
-E eles disseram: Aquele varão particularmente nos perguntou por nós e pela nossa parentela, dizendo: Vive ainda vosso pai? Tendes mais um irmão? E respondemos-lhe conforme as mesmas palavras. Podíamos nós saber que diria: Trazei vosso irmão?
-pela tua sabedoria e pelo teu entendimento alcançaste o teu poder e adquiriste ouro e prata nos teus tesouros;
-E carregaram o seu trigo sobre os seus jumentos e partiram dali.
-O desejo do homem é a sua beneficência; mas o pobre é melhor do que o mentiroso.
-A alma do homem é a lâmpada do SENHOR, a qual esquadrinha todo o mais íntimo do ventre.
-E ele, chamando-o, disse-lhe: Que é isso que ouço de ti? Presta contas da tua mordomia, porque já não poderás ser mais meu mordomo.
-e auxiliou a Israel, seu servo, recordando-se da sua misericórdia (como falou a nossos pais) para com Abraão e sua posteridade, para sempre.
-E o traidor tinha-lhes dado um sinal, dizendo: O que eu beijar é esse; prendei-o.
-Naquele dia, se dirá a Jerusalém: Não temas, ó Sião, não se enfraqueçam as tuas mãos.
-E o SENHOR nos ordenou que fizéssemos todos estes estatutos, para temermos ao SENHOR, nosso Deus, para o nosso perpétuo bem, para nos guardar em vida, como no dia de hoje.
-O homem ímpio endurece o seu rosto, mas o reto considera o seu caminho.
-E disseram eles: De boa mente os daremos. E estenderam uma capa, e cada um deles deitou ali um pendente do seu despojo.
-Filho do homem, fala aos filhos do teu povo e dize-lhes: Quando eu fizer vir a espada sobre a terra e o povo da terra tomar um homem dos seus termos e o constituir por seu atalaia;
-Palavra do SENHOR que foi dirigida a Joel, filho de Petuel.
-Nos montes de Israel, cairás, tu, e todas as tuas tropas, e os povos que estão contigo; e às aves de rapina, e às aves de toda a asa, e aos animais do campo, te darei por pasto.
-Alegrai-vos no SENHOR e regozijai-vos, vós, os justos; e cantai alegremente todos vós que sois retos de coração.
-para que a vossa fé não se apoiasse em sabedoria dos homens, mas no poder de Deus.
-Por isso, me perturbo perante ele; e quando isto considero, temo-me dele.
-E também farás chegar contigo a teus irmãos, a tribo de Levi, a tribo de teu pai, para que se ajuntem a ti e te sirvam; mas tu e teus filhos contigo estareis perante a tenda do Testemunho.
-Não porei coisa má diante dos meus olhos; aborreço as ações daqueles que se desviam; nada se me pegará.
-Eis que esse está com dores de perversidade; concebeu trabalhos e produzirá mentiras.
-Eis que, como jumentos monteses no deserto, saem à sua obra, madrugando para a presa; o campo raso dá mantimento a eles e aos seus filhos.
-Pelo que, ouvindo eu também a fé que entre vós há no Senhor Jesus e o vosso amor para com todos os santos,
-E eis que lhes apareceram Moisés e Elias, falando com ele.
-O cetro não se arredará de Judá, nem o legislador dentre seus pés, até que venha Siló; e a ele se congregarão os povos.
-Com boa ordem exporia ante ele a minha causa e a minha boca encheria de argumentos.
-E chamou Faraó o nome de José Zafenate-Paneia e deu-lhe por mulher a Asenate, filha de Potífera, sacerdote de Om; e saiu José por toda a terra do Egito. E José era da idade de trinta anos quando esteve diante da face de Faraó, rei do Egito. E saiu José da face de Faraó e passou por toda a terra do Egito.
-E edificarão os lugares antigamente assolados, e restaurarão os de antes destruídos, e renovarão as cidades assoladas, destruídas de geração em geração.
-E os varais farás de madeira de cetim e os forrarás com ouro.
-Diante dele um fogo consome; e atrás dele uma chama abrasa; a terra diante dele é como o jardim do Éden, mas atrás dele um desolado deserto; sim, nada lhe escapará.
-E sobre ela deitarás azeite e porás sobre ela incenso; oferta é de manjares.
-Se o oferecer por oferta de louvores, com o sacrifício de louvores, oferecerá bolos asmos amassados com azeite e coscorões asmos amassados com azeite; e os bolos amassados com azeite serão fritos, de flor de farinha.
-E, respondendo um dos doutores da lei, disse-lhe: Mestre, quando dizes isso também nos afrontas a nós.
-E, acabando-se os mil anos, Satanás será solto da sua prisão
-Sabendo-o, porém, os irmãos, o acompanharam até Cesareia e o enviaram a Tarso.
-E eis que vêm sete anos, e haverá grande fartura em toda a terra do Egito.
-E disse-lhe: Assim diz o SENHOR: Porquanto soltaste da mão o homem que eu havia posto para destruição, a tua vida será em lugar de sua vida, e o teu povo, em lugar do seu povo.
-mas, encontrado, pagará sete vezes tanto; dará toda a fazenda de sua casa.
-mas o bode peludo é o rei da Grécia; e a ponta grande que tinha entre os olhos é o rei primeiro;
-porque atentou na humildade de sua serva; pois eis que, desde agora, todas as gerações me chamarão bem-aventurada.
-Já abatido está Bel, Nebo já se encurvou, os seus ídolos são postos sobre os animais, sobre as bestas; as cargas dos vossos fardos são canseira para as bestas já cansadas.
-Todavia, os edomitas ficaram revoltados contra o mando de Judá até ao dia de hoje; então, também se revoltou Libna no mesmo tempo.
-Fez também cinquenta colchetes de metal para ajuntar a tenda, para que fosse uma.
-E peço isto: que o vosso amor aumente mais e mais em ciência e em todo o conhecimento.
-Ouve, ó nosso Deus, que somos tão desprezados, e caia o seu opróbrio sobre a sua cabeça, e faze com que sejam um despojo, numa terra de cativeiro.
-E, indo já à vista de Chipre, deixando-a à esquerda, navegamos para a Síria e chegamos a Tiro; porque o navio havia de ser descarregado ali.
-E, expulsando-o da cidade, o apedrejavam. E as testemunhas depuseram as suas vestes aos pés de um jovem chamado Saulo.
-E ele uniu cinco cortinas à parte, e seis cortinas à parte,
-Então, o Espírito do SENHOR revestiu a Gideão, o qual tocou a buzina, e os abiezritas se ajuntaram após ele.
-E me disse: Tu és meu servo, e Israel, aquele por quem hei de ser glorificado.
-Depois, tornou José para o Egito, ele, e seus irmãos, e todos os que com ele subiram a sepultar o seu pai, depois de haver sepultado o seu pai.
-Naquela mesma noite, foi morto Belsazar, rei dos caldeus.
-E aconteceu, no trigésimo ano, no quarto mês, no dia quinto do mês, que, estando eu no meio dos cativos, junto ao rio Quebar, se abriram os céus, e eu vi visões de Deus.
-Porque Elão tomou a aljava, com carros de homens e cavaleiros; e Quir descobre os escudos.
-Disse-lhes, pois, Jesus: Na verdade, na verdade vos digo que Moisés não vos deu o pão do céu, mas meu Pai vos dá o verdadeiro pão do céu.
-E saíram os fariseus e começaram a disputar com ele, pedindo-lhe, para o tentarem, um sinal do céu.
-Façamos-lhe, pois, um pequeno quarto junto ao muro e ali lhe ponhamos uma cama, e uma mesa, e uma cadeira, e um candeeiro; e há de ser que, vindo ele a nós, para ali se retirará.
-O SENHOR te dê tão somente prudência e entendimento e te instrua acerca de Israel; e isso para guardar a Lei do SENHOR, teu Deus.
-E todo aquele que sobre a face do campo tocar a algum que for morto pela espada, ou outro morto, ou aos ossos de algum homem, ou a uma sepultura, será imundo sete dias.
-E o rei mandou a Hilquias, o sacerdote, e a Aicão, filho de Safã, e a Acbor, filho de Micaías, e a Safã, o escrivão, e a Asaías, o servo do rei, dizendo:
-Então, dirás: São de teu servo Jacó, presente que envia a meu senhor, a Esaú; e eis que ele mesmo vem também atrás de nós.
-Ali, os presos juntamente repousam e não ouvem a voz do exator.
-Porque cedo serão ceifados como a erva e murcharão como a verdura.
-E disse-lhes: Vejo que o rosto de vosso pai para comigo não é como anteriormente; porém o Deus de meu pai esteve comigo.
-Chegaram-se, pois, os filhos de Israel aos filhos de Benjamim, no dia seguinte.
-Então, disse o remidor: Para mim não a poderei redimir, para que não cause dano à minha herdade; redime tu a minha remissão para ti, porque eu não a poderei redimir.
-E respondeu José a Faraó, dizendo: Isso não está em mim; Deus dará resposta de paz a Faraó.
-No princípio das tuas súplicas, saiu a ordem, e eu vim, para to declarar, porque és mui amado; toma, pois, bem sentido na palavra e entende a visão.
-Filho do homem, tu habitas no meio da casa rebelde, que tem olhos para ver e não vê, e tem ouvidos para ouvir e não ouve; porque é casa rebelde.
-E ele disse a Geazi: Cinge os teus lombos, e toma o meu bordão na tua mão, e vai; se encontrares alguém, não o saúdes; e, se alguém te saudar, não lhe respondas; e põe o meu bordão sobre o rosto do menino.
-Clamou este pobre, e o SENHOR o ouviu; e o salvou de todas as suas angústias.
-Ó pastor de Israel, dá ouvidos; tu, que guias a José como a um rebanho, que te assentas entre os querubins, resplandece.
-Portanto, ninguém se glorie nos homens; porque tudo é vosso:
-O SENHOR faz justiça e juízo a todos os oprimidos.
-Porém não deram ouvidos; antes, endureceram a sua cerviz, como a cerviz de seus pais, que não creram no SENHOR, seu Deus.
-mas servirão ao SENHOR, seu Deus, como também a Davi, seu rei, que lhes levantarei.
-Abraão, vosso pai, exultou por ver o meu dia, e viu-o, e alegrou-se.
-Não digo isso como quem manda, mas para provar, pela diligência dos outros, a sinceridade do vosso amor;
-Lembra-te, agora: qual é o inocente que jamais pereceu? E onde foram os sinceros destruídos?
-O SENHOR, teu Deus, passará adiante de ti; ele destruirá estas nações diante de ti, para que as possuas;  passará adiante de ti, como o SENHOR tem dito.
-E habitaram desde Havilá até Sur, que está em frente do Egito, indo para Assur; e Ismael fez o seu assento diante da face de todos os seus irmãos.
-Porque furioso é o ciúme do marido; e de maneira nenhuma perdoará no dia da vingança.
-Deus, com a sua destra, o elevou a Príncipe e Salvador, para dar a Israel o arrependimento e remissão dos pecados.
-Ele é o teu louvor e o teu Deus, que te fez estas grandes e terríveis coisas que os teus olhos têm visto.
-Tudo o que tinha fôlego de espírito de vida em seus narizes, tudo o que havia no seco, morreu.
-e vimos, e testificamos que o Pai enviou seu Filho para Salvador do mundo.
-Sebuel, filho de Gérson, o filho de Moisés, era maioral dos tesouros;
-Portanto, o seu caminho lhes será como lugares escorregadios na escuridão; serão empurrados e cairão nele; porque trarei sobre eles mal, o ano mesmo da sua visitação, diz o SENHOR.
-Sessenta são as rainhas, e oitenta, as concubinas, e as virgens, sem número.
-Issacar, Zebulom e Benjamim;
-Falai aos filhos de Israel, dizendo: Estes são os animais que comereis de todos os animais que há sobre a terra:
-E vós sabereis que eu estou no meio de Israel e que eu sou o SENHOR, vosso Deus, e ninguém mais; e o meu povo não será envergonhado para sempre.
-Põe a tua mão sobre ele, lembra-te da peleja e nunca mais tal intentarás.
-para que todo aquele que nele crê não pereça, mas tenha a vida eterna.
-Disse mais: Ora, não se ire o Senhor, se eu ainda falar: se, porventura, se acharem ali trinta? E disse: Não o farei se achar ali trinta.
-Não temas, ó terra; regozija-te e alegra-te; porque o SENHOR fez grandes coisas.
-E todos ficaram maravilhados, e glorificaram a Deus, e ficaram cheios de temor, dizendo: Hoje, vimos prodígios.
-Bem-aventurado é o homem a quem tu repreendes, ó SENHOR, e a quem ensinas a tua lei,
-Assim, se cumprirá a minha ira, e satisfarei neles o meu furor e me consolarei; e saberão que sou eu, o SENHOR, que tenho falado no meu zelo, quando cumprir neles o meu furor.
-E  lhes disse: Assim direis a vosso senhor: Assim diz o SENHOR: Não temas as palavras que ouviste, com as quais os servos do rei da Assíria me blasfemaram.
-Mas, quando apareceu a benignidade e o amor de Deus, nosso Salvador, para com os homens,
-Estes eram, ao todo, uns doze varões.
-Então, Davi tornou a consultar o SENHOR, e o SENHOR lhe respondeu e disse: Levanta-te, desce a Queila, porque te dou os filisteus na tua mão.
-Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança.
-pois inquire do derramamento de sangue e lembra-se dele; não se esquece do clamor dos aflitos.
-Tu quebrantaste a Raabe como se fora ferida de morte; espalhaste os teus inimigos com o teu braço poderoso.
-Então, lhe disse Mica: Fica comigo e sê-me por pai e sacerdote; e cada ano te darei dez moedas de prata, e vestuário, e o teu sustento. E o levita entrou.
-porque em verdade vos digo que qualquer que disser a este monte: Ergue-te e lança-te no mar, e não duvidar em seu coração, mas crer que se fará aquilo que diz, tudo o que disser lhe será feito.
-E os filhos de Jeconias: Assir e seu filho Sealtiel.
-E ela lhe disse: Pai meu, abriste tu a tua boca ao SENHOR; faze de mim como saiu da tua boca, pois o SENHOR te vingou dos teus inimigos, os filhos de Amom.
-E disse-lhes Jeremias, o profeta: Eu vos ouvi; eis que orarei ao SENHOR, vosso Deus, conforme as vossas palavras; e seja o que for que o SENHOR vos responder, eu vo-lo declararei; não vos ocultarei nada.
-Gastam o ouro da bolsa e pesam a prata nas balanças; assalariam o ourives, e ele faz um deus, e diante dele se prostram e se inclinam.
-Mas resistia-lhes Elimas, o encantador (porque assim se interpreta o seu nome), procurando apartar da fé o procônsul.
-A madre se esquecerá deles, os vermes os comerão gostosamente; nunca mais haverá lembrança deles, e a iniquidade se quebrará como a árvore.
-Anunciai, e chegai-vos, e tomai conselho todos juntos; quem fez ouvir isso desde a antiguidade? Quem, desde então, o anunciou? Porventura, não sou eu, o SENHOR? E não há outro Deus senão eu; Deus justo e Salvador, não há fora de mim.
-Disse-lhes, pois, Jesus: Se Deus fosse o vosso Pai, certamente, me amaríeis, pois que eu saí e vim de Deus; não vim de mim mesmo, mas ele me enviou.
-Também Absalão mandou vir Aitofel, o gilonita, do conselho de Davi, à sua cidade de Gilo, estando ele sacrificando os seus sacrifícios; e a conjuração se fortificava, e vinha o povo e se aumentava com Absalão.
-Responde-me, SENHOR, responde-me, para que este povo conheça que tu, SENHOR, és Deus e que tu fizeste tornar o seu coração para trás.
-Quem intentará acusação contra os escolhidos de Deus? É Deus quem os justifica.
-E Saul deu ouvidos à voz de Jônatas e jurou Saul: Vive o SENHOR, que não morrerá.
-Tu os esconderás, no secreto da tua presença, das intrigas dos homens; ocultá-los-ás, em um pavilhão, da contenda das línguas.
-E não profanará a sua semente entre os seus povos; porque eu sou o SENHOR que os santifico.
-Ora, àquele que faz qualquer obra, não lhe é imputado o galardão segundo a graça, mas segundo a dívida.
-O enfermo respondeu-lhe: Senhor, não tenho homem algum que, quando a água é agitada, me coloque no tanque; mas, enquanto eu vou, desce outro antes de mim.
-E, no sétimo dia, tereis santa convocação; nenhuma obra servil fareis.
-Bem-aventurado aquele que teme ao SENHOR e anda nos seus caminhos!
-O teu olho não poupará: vida por vida, olho por olho, dente por dente, mão por mão, pé por pé.
-E os filhos de Rúben e os filhos de Gade tinham muito gado em grande multidão; e viram a terra de Jazer e a terra de Gileade, e eis que o lugar era lugar de gado.
-E todo o povo subiu após ele, e o povo tocava gaitas, e alegrava-se com grande alegria, de maneira que, com o seu clamor, a terra retiniu.
-Então, separou Amazias as tropas que lhe tinham vindo de Efraim, para que se fossem ao seu lugar; pelo que se acendeu a sua ira contra Judá, e voltaram para o seu lugar em ardor de ira.
-Maldito aquele que tomar suborno para matar a alguma pessoa inocente! E todo o povo dirá: Amém!
-Porque a impiedade lavra como um fogo, ela devora as sarças e os espinheiros; sim, ela se ateará no emaranhado da floresta; e subirão ao alto espessas nuvens de fumaça.
-e estará sobre Arão quando ministrar, para que se ouça o seu sonido, quando entrar no santuário diante do SENHOR e quando sair, para que não morra.
-E ele negou outra vez, com juramento: Não conheço tal homem.
-E contendi com os nobres de Judá e lhes disse: Que mal é este que fazeis, profanando o dia de sábado?
-E acharam no campo um homem egípcio e o trouxeram a Davi; deram-lhe pão, e comeu, e deram-lhe a beber água.
-até que o SENHOR dê descanso a vossos irmãos, como a vós, e eles também possuam a terra que o SENHOR, vosso Deus, lhes dá; então, tornareis à terra da vossa herança e possuireis a que vos deu Moisés, o servo do SENHOR, desta banda do Jordão, para o nascente do sol.
-Lamenta como a virgem que está cingida de pano de saco pelo marido da sua mocidade.
-Cavou um poço, e o fez fundo, e caiu na cova que fez.
-Apresentaram falsas testemunhas, que diziam: Este homem não cessa de proferir palavras blasfemas contra este santo lugar e a lei;
-Porque, se há prontidão de vontade, será aceita segundo o que qualquer tem e não segundo o que não tem.
-E o povo estava em pé de longe; Moisés, porém, se chegou à escuridade, onde Deus estava.
-Mardoqueu lhe fez saber tudo quanto lhe tinha sucedido, como também a oferta da prata que Hamã dissera que daria para os tesouros do rei pelos judeus, para os lançar a perder.
-E puseram a arca de Deus em um carro novo e a levaram da casa de Abinadabe, que está em Geba; e Uzá e Aiô, filhos de Abinadabe, guiavam o carro novo.
-e falou-lhes, dizendo: Voltais às vossas tendas com grandes riquezas, e com muitíssimo gado, com prata, e com ouro, e com metal, e com ferro, e com muitíssimas vestes; reparti com vossos irmãos o despojo dos vossos inimigos.
-Como com as novas do Egito, assim haverá dores quando se ouvirem as de Tiro.
-Nenhum agravo sobrevirá ao justo, mas os ímpios ficam cheios de mal.
-Sede benditos do SENHOR, que fez os céus e a terra.
-Como a justiça encaminha para a vida, assim o que segue o mal faz isso para sua morte.
-Mas no mesmo castiçal havia quatro copos a modo de amêndoas com as suas maçãs e com as suas flores.
-Até quando, SENHOR? Esconder-te-ás para sempre? Arderá a tua ira como fogo?
-nos açoites, nas prisões, nos tumultos, nos trabalhos, nas vigílias, nos jejuns,
-Todos os dias do seu nazireado, não comerá de coisa alguma que se faz da vinha, desde os caroços até às cascas.
-Disse mais ao rei: Se ao rei parece bem, deem-se-me cartas para os governadores dalém do rio, para que me deem passagem até que chegue a Judá;
-E a mulher de Sansão chorou diante dele e disse: Tão somente me aborreces e não me amas; pois deste aos filhos do meu povo um enigma a adivinhar e ainda mo não declaraste a mim. E ele lhe disse: Eis que nem a meu pai nem à minha mãe o declarei e to declararia a ti?
-A relva que está junto ao rio, junto às ribanceiras dos rios, e tudo o que foi semeado junto ao rio se secarão, e serão arrancados, e não subsistirão.
-O rei da Babilônia ouviu a fama deles, e desfaleceram as suas mãos; angústia se apoderou dele, dores, como da que está de parto.
-Portanto, assim diz o SENHOR dos Exércitos: Visto que não escutastes as minhas palavras,
-Anunciai-nos as coisas que ainda hão de vir, para que saibamos que sois deuses; fazei bem ou fazei mal, para que nos assombremos e, juntamente, o vejamos.
-E a fortaleza de Efraim cessará, como também o reino de Damasco e o resíduo da Síria; serão como a glória dos filhos de Israel, diz o SENHOR dos Exércitos.
-E Elias disse: Fica-te aqui, porque o SENHOR me enviou ao Jordão. Mas ele disse: Vive o SENHOR, e vive a tua alma, que te não deixarei. E assim ambos foram juntos.
-Pelo que tu e toda a tua congregação congregados estais contra o SENHOR; e Arão, que é ele, que murmurais contra ele?
-E subiu Judá, e o SENHOR lhe deu na sua mão os cananeus e os ferezeus; e feriram deles em Bezeque a dez mil homens.
-E estas são as saídas da cidade, desde a banda do norte: quatro mil e quinhentas medidas. E as portas da cidade serão conforme os nomes das tribos de Israel: três portas para o norte: a porta de Rúben, uma, a porta de Judá, outra, a porta de Levi, outra; da banda do oriente, quatro mil e quinhentas medidas e três portas, a saber: a porta de José, uma, a porta de Benjamim, outra, a porta de Dã, outra; da banda do sul, quatro mil e quinhentas medidas e três portas: a porta de Simeão, uma, a porta de Issacar, outra, a porta de Zebulom, outra; da banda do ocidente, quatro mil e quinhentas medidas e as suas três portas: a porta de Gade, uma, a porta de Aser, outra, a porta de Naftali, outra.
-E trouxe as coisas que tinha consagrado seu pai e as coisas que ele mesmo tinha consagrado à Casa de Deus: prata, e ouro, e utensílios.
-Porém o homem não quis ali passar a noite, mas levantou-se, e partiu, e veio até defronte de Jebus (que é Jerusalém), e com ele o par de jumentos albardados, como também a sua concubina. Estando, pois, já perto de Jebus, e tendo-se já declinado muito o dia, disse o moço a seu senhor: Caminhai agora, e retiremo-nos a esta cidade dos jebuseus e passemos ali a noite.
-visto como, na prova desta administração, glorificam a Deus pela submissão que confessais quanto ao evangelho de Cristo, e pela liberalidade de vossos dons para com eles e para com todos,
-E, nos dias de Artaxerxes, escreveu Bislão, Mitredate, Tabeel e os outros da sua companhia a Artaxerxes, rei da Pérsia; e a carta estava escrita em caracteres aramaicos e na língua siríaca.
-E ajuntaram-se os sátrapas, e os prefeitos, e os presidentes, e os capitães do rei, contemplando estes homens, e viram que o fogo não tinha tido poder algum sobre os seus corpos; nem um só cabelo da sua cabeça se tinha queimado, nem as suas capas se mudaram, nem cheiro de fogo tinha passado sobre eles.
-da idade de trinta anos para cima, até aos cinquenta, contarás a todo aquele que entrar neste serviço, para exercer o ministério da tenda da congregação.
-E removerei o cativeiro de Judá e o cativeiro de Israel e os edificarei como no princípio;
-Àquele que com entendimento fez os céus; porque a sua benignidade é para sempre.
-Estas coisas tens feito, e eu me calei; pensavas que era como tu; mas eu te arguirei, e, em sua ordem, tudo porei diante dos teus olhos.
-E, levantando-se de madrugada, e saindo o sol sobre as águas, viram os moabitas defronte deles as águas vermelhas como sangue.
-Moisés, porém, falou perante o SENHOR, dizendo: Eis que os filhos de Israel me não têm ouvido; como, pois, me ouvirá Faraó? Também eu sou incircunciso de lábios.
-E saiu da nuvem uma voz que dizia: Este é o meu Filho amado; a ele ouvi.
-E os despojaram, e tomaram a sua cabeça e as suas armas, e as enviaram pela terra dos filisteus em redor, para o anunciarem a seus ídolos e ao povo.
-Como a perdiz que ajunta ovos que não choca, assim é aquele que ajunta riquezas, mas não retamente; no meio de seus dias as deixará e no seu fim se fará um insensato.
-E isso faremos, se Deus o permitir.
-E não se chegarão a mim, para me servirem no sacerdócio, nem se chegarão a nenhuma de todas as minhas coisas sagradas, à Santidade das Santidades, mas levarão sobre si a sua vergonha e as suas abominações que cometeram.
-E eu, irmãos, quando fui ter convosco, anunciando-vos o testemunho de Deus, não fui com sublimidade de palavras ou de sabedoria.
-E, embora não achassem alguma causa de morte, pediram a Pilatos que ele fosse morto.
-Os que dão mal pelo bem são meus adversários, porque eu sigo o que é bom.
-E cercaram a Benjamim, e o seguiram, e à vontade o pisaram, até diante de Gibeá, para o nascente do sol.
-E fez o que era mal aos olhos do SENHOR, conforme as abominações dos gentios que o SENHOR desterrara de suas possessões de diante dos filhos de Israel.
-O SENHOR dará força ao seu povo; o SENHOR abençoará o seu povo com paz.
-E o macho com prepúcio, cuja carne do prepúcio não estiver circuncidada, aquela alma será extirpada dos seus povos; quebrantou o meu concerto.
-Também levantou a capa de Elias, que lhe caíra; e voltou-se e parou à borda do Jordão.
-Guardai, pois, as palavras deste concerto e cumpri-as para que prospereis em tudo quanto fizerdes.
+nan
+E assim, quanto está em mim, estou pronto para também vos anunciar o evangelho, a vós que estais em Roma.
+Em paga do meu amor, são meus adversários; mas eu faço oração.
+escureçam-se-lhes os olhos para não verem, e encurvem-se-lhes continuamente as costas.
+Também fez na Casa da Santidade das Santidades dois querubins na forma de andantes e cobriu-os de ouro.
+Porque não nos pregamos a nós mesmos, mas a Cristo Jesus, o Senhor; e nós mesmos somos vossos servos, por amor de Jesus.
+porquanto vos alegrastes, e saltastes de prazer, ó saqueadores da minha herança, e vos inchastes como bezerra gorda, e rinchastes como cavalos vigorosos.
+E, respondendo Jesus, disse-lhe: Marta, Marta, estás ansiosa e afadigada com muitas coisas,
+Então, disse Jacó a Rebeca, sua mãe: Eis que Esaú, meu irmão, é varão cabeludo, e eu, varão liso.
+Se disser assim: Está bem! Então, teu servo tem paz. Porém, se muito se indignar, sabe que já está inteiramente determinado no mal.
+Filho do homem, houve duas mulheres, filhas de uma mesma mãe.
+Eis que, para minha paz, eu estive em grande amargura; tu, porém, tão amorosamente abraçaste a minha alma, que não caiu na cova da corrupção, porque lançaste para trás das tuas costas todos os meus pecados.
+Saúda-vos Gaio, meu hospedeiro e de toda a igreja. Saúda-vos Erasto, procurador da cidade, e também o irmão Quarto.
+Este é o holocausto contínuo, instituído no monte Sinai, em cheiro suave, oferta queimada ao SENHOR.
 Quando um homem for achado deitado com mulher casada com marido, então, ambos morrerão, o homem que se deitou com a mulher e a mulher; assim, tirarás o mal de Israel.
-E ajuntou-se em Jerusalém muito povo para celebrar a Festa dos Pães Asmos, no segundo mês; uma mui grande congregação.
-Não temas, ó filha de Sião! Eis que o teu Rei vem assentado sobre o filho de uma jumenta.
-Então, se levantou, e entrou na casa, e derramou o azeite sobre a sua cabeça, e lhe disse: Assim diz o SENHOR, Deus de Israel: Ungi-te rei sobre o povo do SENHOR, sobre Israel.
-E ainda que digam: Vive o SENHOR, decerto falsamente juram.
-Pois, quanto a ter morrido, de uma vez morreu para o pecado; mas, quanto a viver, vive para Deus.
-Quanto ao que viste do ferro misturado com barro de lodo, misturar-se-ão com semente humana, mas não se ligarão um ao outro, assim como o ferro se não mistura com o barro.
-E sucedeu que, importunando-o ela todos os dias com as suas palavras e molestando-o, a sua alma se angustiou até à morte.
-E as sete vacas magras e feias à vista, que subiam depois delas, são sete anos, como as sete espigas miúdas e queimadas do vento oriental; serão sete anos de fome.
-Porque eis que eu crio céus novos e nova terra; e não haverá lembrança das coisas passadas, nem mais se recordarão.
-o SENHOR sobre ti levante o seu rosto e te dê a paz.
-E, chegando ele, eis que Eli estava assentado sobre uma cadeira, vigiando ao pé do caminho; porquanto o seu coração estava tremendo pela arca de Deus; entrando, pois, aquele homem a anunciar isso na cidade, toda a cidade gritou.
-A todas as meretrizes dão paga, mas tu dás presentes a todos os teus amantes; e lhes dás presentes, para que venham a ti de todas as partes, pelas tuas prostituições.
-E saiu a segunda sorte a Simeão, à tribo dos filhos de Simeão, segundo as suas famílias, e foi a sua herança no meio da herança dos filhos de Judá.
-e a Festa da Sega dos primeiros frutos do teu trabalho, que houveres semeado no campo, e a Festa da Colheita à saída do ano, quando tiveres colhido do campo o teu trabalho.
-Nenhuma oferta de manjares, que oferecerdes ao SENHOR, se fará com fermento; porque de nenhum fermento, nem de mel algum oferecereis oferta queimada ao SENHOR.
-E os escribas deles e os fariseus murmuravam contra os seus discípulos, dizendo: Por que comeis e bebeis com publicanos e pecadores?
-E o sacerdote de Júpiter, cujo templo estava em frente da cidade, trazendo para a entrada da porta touros e grinaldas, queria com a multidão sacrificar-lhes.
-E olhei e ouvi a voz de muitos anjos ao redor do trono, e dos animais, e dos anciãos; e era o número deles milhões de milhões e milhares de milhares,
-Ora, se eu, Senhor e Mestre, vos lavei os pés, vós deveis também lavar os pés uns aos outros.
-E, entrando eu em casa de Semaías, filho de Delaías, o filho de Meetabel (que estava encerrado), disse ele: Vamos juntamente à Casa de Deus, ao meio do templo, e fechemos as portas do templo; porque virão matar-te; sim, de noite virão matar-te.
-Sucedeu, porém, que, morrendo Acabe, se revoltou o rei dos moabitas contra o rei de Israel.
-Que os filhos de Israel celebrem a Páscoa a seu tempo determinado. No dia catorze deste mês, pela tarde, a seu tempo determinado a celebrareis; segundo todos os seus estatutos e segundo todos os seus ritos, a celebrareis.
-Preparado está o meu coração, ó Deus, preparado está o meu coração; cantarei e salmodiarei.
-Juntando-se, pois, Israel a Baal-Peor, a ira do SENHOR se acendeu contra Israel.
-Eis que nos seus servos não confia e nos seus anjos encontra loucura;
-E, de medo, passará a sua rocha de refúgio, e os seus príncipes desertarão a bandeira, diz o SENHOR, cujo fogo está em Sião e cuja fornalha, em Jerusalém.
-E eis que foi levantado um talento de chumbo, e uma mulher estava assentada no meio do efa.
-E glorificavam a Deus a respeito de mim.
-disse o rei ao profeta Natã: Ora, olha, eu moro em casa de cedros e a arca de Deus mora dentro de cortinas.
-agora, pois, rogo-vos que também aqui fiqueis esta noite, para que eu saiba o que o SENHOR me dirá mais.
-O coração alegre serve de bom remédio, mas o espírito abatido virá a secar os ossos.
-Disse-lhes Jesus: Enchei de água essas talhas. E encheram-nas até em cima.
-E logo, falando ele ainda, veio Judas, que era um dos doze, da parte dos principais dos sacerdotes, e dos escribas, e dos anciãos, e, com ele, uma grande multidão com espadas e porretes.
-E os filhos de Judá: Er, e Onã, e Selá, e Perez, e Zerá. Er e Onã, porém, morreram na terra de Canaã; e os filhos de Perez foram Esrom e Hamul.
-Portanto, eis que eu sou contra os profetas, diz o SENHOR, que furtam as minhas palavras, cada um ao seu companheiro.
-Porque os teus servos têm prazer nas suas pedras e se compadecem do seu pó.
-E Quis, pai de Saul, e Ner, pai de Abner, eram filhos de Abiel.
-Também da mão do estrangeiro nenhum manjar oferecereis ao vosso Deus, de todas estas coisas, pois a sua corrupção está nelas; falta nelas há; não serão aceitas a vosso favor.
-Mas nem ele, nem os seus servos, nem o povo da terra deram ouvidos às palavras do SENHOR que falou pelo ministério de Jeremias, o profeta.
-Mas ele, respondendo, disse-lhes: Quando é chegada a tarde, dizeis: Haverá bom tempo, porque o céu está rubro.
-Ó Deus, não te alongues de mim; meu Deus, apressa-te em ajudar-me.
-Porém qualquer que fizer alguma dessas abominações, as almas que as fizerem serão extirpadas do seu povo.
-Então, Samuel lhe disse: O SENHOR tem rasgado de ti hoje o reino de Israel e o tem dado ao teu próximo, melhor do que tu.
-Ensina-me, SENHOR, o teu caminho e guia-me pela vereda direita, por causa dos que me andam espiando.
-descobrindo-nos o mistério da sua vontade, segundo o seu beneplácito, que propusera em si mesmo,
-Os presbíteros que governam bem sejam estimados por dignos de duplicada honra, principalmente os que trabalham na palavra e na doutrina.
-Porque penso que em nada fui inferior aos mais excelentes apóstolos.
-Estes foram ter com os principais dos sacerdotes e anciãos e disseram: Conjuramo-nos, sob pena de maldição, a nada provarmos até que matemos a Paulo.
-Depois destas coisas, olhei, e eis aqui uma multidão, a qual ninguém podia contar, de todas as nações, e tribos, e povos, e línguas, que estavam diante do trono e perante o Cordeiro, trajando vestes brancas e com palmas nas suas mãos;
-Como hipócritas zombadores nas festas, rangiam os dentes contra mim.
-E, se for Timóteo, vede que esteja sem temor convosco; porque trabalha na obra do Senhor, como eu também.
-Os teus pastores dormitarão, ó rei da Assíria; os teus ilustres deitar-se-ão, o teu povo se derramará pelos montes, sem que haja quem possa ajuntá-lo.
-Então, responderam e disseram diante do rei: Daniel, que é dos transportados de Judá, não tem feito caso de ti, ó rei, nem do edito que assinaste; antes, três vezes por dia faz a sua oração.
-porás, certamente, sobre ti como rei aquele que escolher o SENHOR, teu Deus; dentre teus irmãos porás rei sobre ti; não poderás pôr homem estranho sobre ti, que não seja de teus irmãos.
-Então, enviou Saul mensageiros para trazerem a Davi, os quais viram uma congregação de profetas profetizando, onde estava Samuel, que presidia sobre eles; e o Espírito de Deus veio sobre os mensageiros de Saul, e também eles profetizaram.
-Vendo, pois, o sogro de Moisés tudo o que ele fazia ao povo, disse: Que é isto que tu fazes ao povo? Por que te assentas só, e todo o povo está em pé diante de ti, desde a manhã até à tarde?
-E exultará o meu íntimo, quando os teus lábios falarem coisas retas.
-E dizia-lhes: O Filho do Homem é senhor até do sábado.
-Porque a ira destrói o louco; e o zelo mata o tolo.
-Deixe o ímpio o seu caminho, e o homem maligno, os seus pensamentos e se converta ao SENHOR, que se compadecerá dele; torne para o nosso Deus, porque grandioso é em perdoar.
-Porque este dia é o dia do Senhor JEOVÁ dos Exércitos, dia de vingança para se vingar dos seus adversários; e a espada devorará, e fartar-se-á, e embriagar-se-á com o sangue deles; porque o Senhor JEOVÁ dos Exércitos tem um sacrifício na terra do Norte, junto ao rio Eufrates.
-Porque comereis a carne de vossos filhos e a carne de vossas filhas comereis.
-Mas, se esperamos o que não vemos, com paciência o esperamos.
-Porque assim diz o Senhor JEOVÁ: Farei subir contra elas uma congregação e as entregarei ao desterro e ao roubo.
-E estas são as gerações de Esaú ( que é Edom).
-Mas, se Demétrio e os artífices que estão com ele têm alguma coisa contra alguém, há audiências e há procônsules; que se acusem uns aos outros.
-e para que contes aos ouvidos de teus filhos e dos filhos de teus filhos as coisas que fiz no Egito e os meus sinais que tenho feito entre eles; para que saibais que eu sou o SENHOR.
-Assim também farás no sétimo dia do mês, por causa dos que erram e por causa dos símplices; assim, expiareis a casa.
-a qual as nuvens destilam e gotejam sobre o homem abundantemente.
-Tu és meu martelo e minhas armas de guerra; e contigo despedaçarei nações e contigo destruirei os reis;
-Assim diz o Senhor JEOVÁ a Tiro: Não tremerão as ilhas com o estrondo da tua queda, quando gemerem os traspassados, quando se fizer uma espantosa matança no meio de ti?
-O meu Deus, segundo as suas riquezas, suprirá todas as vossas necessidades em glória, por Cristo Jesus.
-E vivia nela um sábio pobre, que livrou aquela cidade pela sua sabedoria, e ninguém se lembrava daquele pobre homem.
-E muitos leprosos havia em Israel no tempo do profeta Eliseu, e nenhum deles foi purificado, senão Naamã, o siro.
-Será, pois, perdoado a toda a congregação dos filhos de Israel, e mais ao estrangeiro que peregrina no meio deles, porquanto por erro sobreveio a todo o povo.
-Tenho-vos dito essas coisas para que vos não escandalizeis.
-Então, alguns homens dentre os chefes dos filhos de Efraim, Azarias, filho de Joanã, Berequias, filho de Mesilemote, e Jeizquias, filho de Salum, e Amasa, filho de Hadlai, se levantaram contra os que voltavam da batalha.
-Se confessarmos os nossos pecados, ele é fiel e justo para nos perdoar os pecados e nos purificar de toda injustiça.
-para matar está afiada, para reluzir está açacalada; alegrar-nos-emos, pois? A vara do meu filho é que despreza todo madeiro.
-Purifica-me com hissopo, e ficarei puro; lava-me, e ficarei mais alvo do que a neve.
-Eu, porém, não recebo testemunho de homem, mas digo isso, para que vos salveis.
-E fez o que era reto aos olhos do SENHOR, porém não com coração inteiro.
-Encontraram-me no dia da minha calamidade; porém o SENHOR se fez o meu esteio.
-e Nagai, de Maate, e Maate, de Matatias, e Matatias, de Semei, e Semei, de José, e José, de Jodá,
-E da sua boca tirarei o seu sangue e dentre os seus dentes as suas abominações; e ele também ficará como um resto para o nosso Deus; e será como príncipe em Judá, e Ecrom, como um jebuseu.
-E, em qualquer casa onde entrardes, dizei primeiro: Paz seja nesta casa.
-As tuas primícias e os teus licores não retardarás; o primogênito de teus filhos me darás.
-De Gérson é a geração dos libnitas e a geração dos simeítas; estas são as gerações dos gersonitas.
-Subi vós a esta festa; eu não subo ainda a esta festa, porque ainda o meu tempo não está cumprido.
-Também fez em Jerusalém máquinas da invenção de engenheiros, que estivessem nas torres e nos cantos, para atirarem flechas e grandes pedras; e voou a sua fama até muito longe, porque foi maravilhosamente ajudado até que se tornou forte.
-Então, tocou Joabe a buzina, e voltou o povo de perseguir a Israel, porque Joabe deteve o povo.
-E Simão Pedro e outro discípulo seguiam a Jesus. E este discípulo era conhecido do sumo sacerdote e entrou com Jesus na sala do sumo sacerdote.
-Fizeram, pois, os centuriões conforme tudo quanto ordenara o sacerdote Joiada, tomando cada um os seus homens, tanto aos que entravam no sábado como aos que saíam no sábado; e vieram ao sacerdote Joiada.
-porquanto vos digo que importa que em mim se cumpra aquilo que está escrito: E com os malfeitores foi contado. Porque o que está escrito de mim terá cumprimento.
-Porventura, me apalpará o meu pai, e serei, a seus olhos, enganador; assim, trarei eu sobre mim maldição e não bênção.
-Bendito o Reino do nosso pai Davi, que vem em nome do Senhor! Hosana nas alturas!
-E ferirei os habitantes desta cidade, assim os homens como os animais; de grande pestilência morrerão.
-E Hur gerou a Uri, e Uri gerou a Bezalel.
-Adiante dele ia a peste, e raios de fogo, sob os seus pés.
-Porque, quando ainda estávamos convosco, vos mandamos isto: que, se alguém não quiser trabalhar, não coma também.
-E, acabada a ceia, tendo já o diabo posto no coração de  Iscariotes, filho de Simão, que o traísse,
-E o anunciaram a Saul, dizendo: Eis que o povo peca contra o SENHOR, comendo com sangue. E disse ele: Aleivosamente, procedestes; revolvei-me hoje uma grande pedra.
-Clamam, porém ele não responde, por causa da arrogância dos maus.
-E tomou Lameque para si duas mulheres; o nome de uma era Ada, e o nome da outra, Zilá.
-Eu dei ordens aos meus santificados, sim, já chamei os meus valentes para a minha ira, os que exultam com a minha majestade.
-Mas, resistindo e blasfemando eles, sacudiu as vestes e disse-lhes: O vosso sangue seja sobre a vossa cabeça; eu estou limpo e, desde agora, parto para os gentios.
-Porém, depois da morte de Joiada, vieram os príncipes de Judá e prostraram-se perante o rei; e o rei os ouviu.
-A teu servo, pois, dá um coração entendido para julgar a teu povo, para que prudentemente discirna entre o bem e o mal; porque quem poderia julgar a este teu tão grande povo?
-E converteram a sua glória na figura de um boi que come erva.
-Cercaram-me como abelhas, mas apagaram-se como fogo de espinhos; pois no nome do SENHOR as despedacei.
-Porém o SENHOR me disse: Levanta-te, põe-te a caminho diante do povo, para que entre e possua a terra que jurei a seus pais dar-lhes.
-Todos os que me veem zombam de mim, estendem os lábios e meneiam a cabeça, dizendo:
-Disseram-lhe, pois, os judeus: Agora, conhecemos que tens demônio. Morreu Abraão e os profetas; e tu dizes: Se alguém guardar a minha palavra, nunca provará a morte.
-Loucos se tornaram os príncipes de Zoã, e enganados estão os príncipes de Nofe; eles farão errar o Egito, eles que são a pedra de esquina das suas tribos.
-Porém ele lhe disse: Mau servo, pela tua boca te julgarei; sabias que eu sou homem rigoroso, que tomo o que não pus e sego o que não semeei.
-Faze-nos voltar, ó Deus dos Exércitos; faze resplandecer o teu rosto, e seremos salvos.
-Então, sacrificaram a Páscoa no dia décimo quarto do segundo mês; e os sacerdotes e levitas se envergonharam, e se santificaram, e trouxeram holocaustos à Casa do SENHOR.
-Então, disse Davi a Urias: Fica cá ainda hoje, e amanhã te despedirei. Urias, pois, ficou em Jerusalém aquele dia e o seguinte.
-Ele me levou e me fez andar em trevas e não na luz.
-Dá ordem aos filhos de Israel que, da herança da sua possessão, deem cidades aos levitas, em que habitem; e também aos levitas dareis arrabaldes ao redor delas.
-Falou mais o SENHOR a Moisés e a Arão, dizendo:
-E, se alguém não tiver resgatador, porém a sua mão alcançar e achar o que basta para o seu resgate,
-Escreve as coisas que tens visto, e as que são, e as que depois destas hão de acontecer:
-Quando, pois, te perguntar este povo, ou qualquer profeta, ou sacerdote, dizendo: Qual é o peso do SENHOR?, então, lhe dirás: Vós sois o peso, eu vos deixarei, diz o SENHOR.
-Mas vós, amados, edificando-vos a vós mesmos sobre a vossa santíssima fé, orando no Espírito Santo,
-Porque agora tenho estendido a mão, para te ferir a ti e ao teu povo com pestilência e para que sejas destruído da terra;
-Tens tu fé? Tem-na em ti mesmo diante de Deus. Bem-aventurado aquele que não se condena a si mesmo naquilo que aprova.
-E ouvi outro do altar, que dizia: Na verdade, ó Senhor, Deus Todo-Poderoso, verdadeiros e justos são os teus juízos.
-E quanto ao que disseste, que o não verás, juízo há perante ele; por isso, espera nele.
-E se tirará a cobertura de Judá, e, naquele dia, olharás para as armas da casa do bosque.
-Digo eu isso segundo os homens? Ou não diz a lei também o mesmo?
-E tomaram os filisteus a arca de Deus, e a meteram na casa de Dagom, e a puseram junto a Dagom.
-Também prepararam as pedras sardônicas, engastadas em ouro, lavradas com gravuras de selo, com os nomes dos filhos de Israel.
-Aborreço, desprezo as vossas festas, e as vossas assembleias solenes não me dão nenhum prazer.
-Até quando julgareis injustamente e respeitareis a aparência da pessoa dos ímpios? (Selá)
-E Abraão tomou outra mulher; o seu nome era Quetura.
-Mas Maria guardava todas essas coisas, conferindo-as em seu coração.
-E foi, e tomou-os, e trouxe-os à sua mãe; e sua mãe fez um guisado saboroso, como seu pai gostava.
-e quatro carros e oito bois deu aos filhos de Merari, segundo o seu ministério, debaixo da mão de Itamar, filho de Arão, o sacerdote.
-Tu me cercaste em volta e puseste sobre mim a tua mão.
-e Uzi gerou a Zeraías, e Zeraías gerou a Meraiote;
-E caiu a sorte do oriente a Selemias; e lançou-se a sorte por seu filho Zacarias, conselheiro prudente, e saiu-lhe a sorte do norte.
-Sucedeu, porém, que ao tempo que Merabe, filha de Saul, devia ser dada a Davi, ela foi dada por mulher a Adriel, meolatita.
-assim, lhes fizeram amargar a vida com dura servidão, em barro e em tijolos, e com todo o trabalho no campo, com todo o seu serviço, em que os serviam com dureza.
-O servo não se emendará com palavras, porque, ainda que te entenda, não te atenderá.
-Vem a destruição; e eles buscarão a paz, mas não há nenhuma.
-Todas essas coisas se cansam tanto, que ninguém o pode declarar; os olhos não se fartam de ver, nem os ouvidos de ouvir.
-Porque o desvio dos simples os matará, e a prosperidade dos loucos os destruirá.
-O inferno está nu perante ele, e não há coberta para a perdição.
-E, correndo abaixo de uma pequena ilha chamada Cauda, apenas pudemos ganhar o batel.
-E aconteceu que, quando falou Arão a toda a congregação dos filhos de Israel, e eles se viraram para o deserto, eis que a glória do SENHOR apareceu na nuvem.
-Faze bem ao teu servo, para que viva e observe a tua palavra.
-para que temas ao SENHOR, teu Deus, e guardes todos os seus estatutos e mandamentos, que eu te ordeno, tu, e teu filho, e o filho de teu filho, todos os dias da tua vida; e que teus dias sejam prolongados.
-Portanto, é pela fé, para que seja segundo a graça, a fim de que a promessa seja firme a toda a posteridade, não somente à que é da lei, mas também à que é da fé de Abraão, o qual é pai de todos nós
-Acaz, porém, disse: Não o pedirei, nem tentarei ao SENHOR.
-Quando o SENHOR, teu Deus, desarraigar as nações, cuja terra te dará o SENHOR, teu Deus, e tu as possuíres e morares nas suas cidades e nas suas casas,
-Então, Davi se levantou da terra, e se lavou, e se ungiu, e mudou de vestes, e entrou na Casa do SENHOR, e adorou; então, veio a sua casa e pediu pão; e lhe puseram pão, e comeu.
-sabendo-o eles, fugiram para Listra e Derbe, cidades da Licaônia, e para a província circunvizinha;
-Fazes com que ele tenha domínio sobre as obras das tuas mãos; tudo puseste debaixo de seus pés:
-Assim trabalhávamos na obra; e metade deles tinha as lanças desde a subida da alva até ao sair das estrelas.
-E olhei, e eis que havíeis pecado contra o SENHOR, vosso Deus; vós tínheis feito um bezerro de fundição; cedo vos desviastes do caminho que o SENHOR vos ordenara.
-Não crê que tornará das trevas, mas que o espera a espada.
-E, de noite, me levantei, eu e poucos homens comigo, e não declarei a ninguém o que o meu Deus me pôs no coração para fazer em Jerusalém; e não havia comigo animal algum, senão aquele em que estava montado.
-E Sucedeu que, acabando ele de falar com Saul, a alma de Jônatas se ligou com a alma de Davi; e Jônatas o amou como à sua própria alma.
-Goza a vida com a mulher que amas, todos os dias de vida da tua vaidade; os quais Deus te deu debaixo do sol, todos os dias da tua vaidade; porque esta é a tua porção nesta vida e do teu trabalho que tu fizeste debaixo do sol.
-Mas eles disseram: É mentira; agora, faze-no-lo saber. E disse: Assim e assim me falou, dizendo: Assim diz o SENHOR: Ungi-te rei sobre Israel.
-Então, disse Sansão: Com uma queixada de jumento um montão, dois montões; com uma queixada de jumento feri a mil homens.
-E, partindo Jesus dali, foi para as partes de Tiro e de Sidom.
-E Arão, vendo isto, edificou um altar diante dele; e Arão apregoou e disse: Amanhã será festa ao SENHOR.
-Estes alçarão a sua voz e cantarão com alegria; por causa da glória do SENHOR clamarão desde o mar.
-E saiu outro cavalo, vermelho; e ao que estava assentado sobre ele foi dado que tirasse a paz da terra e que se matassem uns aos outros; e foi-lhe dada uma grande espada.
-Então, o SENHOR falou pelo ministério de seus servos, os profetas, dizendo:
-E o que restar será para o príncipe; desta e da outra banda da santa oferta e da possessão da cidade, diante das vinte e cinco mil canas da oferta, na direção do termo do oriente e do ocidente, diante das vinte e cinco mil, na direção do termo do ocidente, correspondente às porções, será a parte do príncipe; e a oferta santa e o santuário da casa estarão no meio. E, desde a possessão dos levitas e desde a possessão da cidade, no meio do que pertencer ao príncipe, entre o termo de Judá e o termo de Benjamim, será isso para o príncipe.
-E o sumo sacerdote e os principais dos judeus compareceram perante ele contra Paulo e lhe rogaram,
-E sentiram um grande temor e diziam uns aos outros: Mas quem é este que até o vento e o mar lhe obedecem?
-E foi e falou com os principais dos sacerdotes e com os capitães de como lho entregaria,
-Como o rebanho santificado, como o rebanho de Jerusalém nas suas solenidades, assim as cidades desertas se encherão de famílias; e saberão que eu sou o SENHOR.
-E os que aquilo tinham visto contaram-lhes o que acontecera ao endemoninhado e acerca dos porcos.
-peregrina nesta terra, e serei contigo e te abençoarei; porque a ti e à tua semente darei todas estas terras e confirmarei o juramento que tenho jurado a Abraão, teu pai.
-Quando eu ocupar o lugar determinado, julgarei retamente.
-Como também aquele que entrar com o seu próximo no bosque, para cortar lenha, e, pondo força na sua mão com o machado para cortar a árvore, o ferro saltar do cabo e ferir o seu próximo, e morrer, o tal se acolherá a uma dessas cidades e viverá;
-Muitos são os meus perseguidores e os meus inimigos; mas não me desvio dos teus testemunhos.
-E disse o rei Davi: Chamai-me Zadoque, o sacerdote, e Natã, o profeta, e Benaia, filho de Joiada. E entraram à presença do rei.
-E porá a sua mão sobre a cabeça da oferta pela expiação do pecado e a degolará por expiação do pecado, no lugar onde se degola o holocausto.
-Louva, ó Jerusalém, ao SENHOR; louva, ó Sião, ao teu Deus.
-Os seus adversários a dominaram, os seus inimigos prosperam; porque o SENHOR a entristeceu, por causa da multidão das suas prevaricações; os seus filhinhos vão em cativeiro na frente do adversário.
-Visto como se não executa logo o juízo sobre a má obra, por isso o coração dos filhos dos homens está inteiramente disposto para praticar o mal.
-e Neri, de Melqui, e Melqui, de Adi, e Adi, de Cosã, e Cosã, de Elmadã, e Elmadã, de Er,
-E em toda matéria de sabedoria e de inteligência, sobre que o rei lhes fez perguntas, os achou dez vezes mais doutos do que todos os magos ou astrólogos que havia em todo o seu reino.
-E Moisés falou isso a Arão, e a seus filhos, e a todos os filhos de Israel.
-Josué, filho de Num, que está em pé diante de ti, ali entrará; esforça-o, porque ele a fará herdar a Israel.
-nem entrar pela porta do meu povo, no dia da sua calamidade; sim, tu não devias olhar, satisfeito, para o seu mal, no dia da sua calamidade; nem estender as tuas mãos contra o seu exército, no dia da sua calamidade;
-Rogo a Evódia e rogo a Síntique que sintam o mesmo no Senhor.
-E farás chegar os levitas perante a tenda da congregação; e farás ajuntar toda a congregação dos filhos de Israel.
-E vós sabereis que eu sou o SENHOR, vosso Deus, que habito em Sião, o monte da minha santidade; e Jerusalém será santidade; estranhos não passarão mais por ela.
-Mandou o rei e o fez soltar; o dominador dos povos o soltou.
-Disse-lhe Jesus: Estou há tanto tempo convosco, e não me tendes conhecido, Filipe? Quem me vê a mim vê o Pai; e como dizes tu: Mostra-nos o Pai?
-E, ouvindo Zebul, o maioral da cidade, as palavras de Gaal, filho de Ebede, se acendeu a sua ira.
-Depois, foi visto por Tiago, depois, por todos os apóstolos
-Falou mais o SENHOR a Moisés, dizendo:
-Também farás para o peitoral cadeiazinhas de igual medida da obra de trança de ouro puro.
-E comeram todos e saciaram-se; e levantaram, do que lhes sobejou, doze cestos de pedaços.
-E, tomando-as nos seus braços e impondo-lhes as mãos, as abençoou.
-E os filhos de Noé, que da arca saíram, foram Sem, e Cam, e Jafé; e Cam é o pai de Canaã.
-Então, enviou cartas a todas as províncias do rei, a cada província segundo a sua escritura e a cada povo segundo a sua língua: Que cada homem fosse senhor em sua casa; e que isso se publicasse em todos os povos conforme a língua de cada um.
-E, indo os que haviam sido mandados, acharam como lhes dissera.
-Por isso, vos digo: não andeis cuidadosos quanto à vossa vida, pelo que haveis de comer ou pelo que haveis de beber; nem quanto ao vosso corpo, pelo que haveis de vestir. Não é a vida mais do que o mantimento, e o corpo, mais do que a vestimenta?
-E ele lhe disse: Também eu sou profeta como tu, e um anjo me falou pela palavra do SENHOR, dizendo: Faze-o voltar contigo à tua casa, para que coma pão e beba água (porém mentiu-lhe).
-Porque, como a mulher provém do varão, assim também o varão provém da mulher, mas tudo vem de Deus.
-Então, disse o rei aos seus servos: Não sabeis que, hoje, caiu em Israel um príncipe e um grande?
-Mas assim diz o Senhor JEOVÁ: Ao cabo de quarenta anos, ajuntarei os egípcios dentre os povos entre os quais foram espalhados.
-E outro anjo saiu do templo, clamando com grande voz ao que estava assentado sobre a nuvem: Lança a tua foice e sega! É já vinda a hora de segar, porque já a seara da terra está madura!
-Porque eu quero misericórdia e não sacrifício; e o conhecimento de Deus, mais do que holocaustos.
-De noite chamei à lembrança o meu cântico; meditei em meu coração, e o meu espírito investigou:
-Não saiais ao campo, nem andeis pelo caminho; porque espada do inimigo e espanto há em redor.
-Andarão dois juntos, se não estiverem de acordo?
-Portanto, guardareis o sábado, porque santo é para vós; aquele que o profanar certamente morrerá; porque qualquer que nele fizer alguma obra, aquela alma será extirpada do meio do seu povo.
-E o príncipe entrará pelo caminho do vestíbulo da porta, por fora, e permanecerá junto da ombreira da porta; e os sacerdotes prepararão o seu holocausto e os seus sacrifícios pacíficos, e ele se prostrará no umbral da porta e sairá; mas a porta não se fechará até à tarde.
-O SENHOR guardará a tua entrada e a tua saída, desde agora e para sempre.
-Porém Abraão lhe disse: Se não ouvem a Moisés e aos Profetas, tampouco acreditarão, ainda que algum dos mortos ressuscite.
-(porque desde a minha mocidade cresceu comigo como com seu pai, e o guiei desde o ventre da minha mãe);
-Quanto aos filhos de Uziel, Mica, o chefe, e Issias, o segundo.
-e a terra esteja subjugada perante o SENHOR, então, voltareis depois e ficareis desculpados perante o SENHOR e perante Israel; e esta terra vos será por possessão perante o SENHOR;
-esta é a interpretação, ó rei; e este é o decreto do Altíssimo, que virá sobre o rei, meu senhor:
-despede-os, para que vão aos campos e aldeias circunvizinhas e comprem pão para si, porque não têm o que comer.
-As tuas filhas, no campo ele as matará à espada, e fará um baluarte contra ti, e fundará uma tranqueira contra ti, e levantará rodelas contra ti.
-O Espírito do SENHOR falou por mim, e a sua palavra esteve em minha boca.
-Assim, Jefté passou aos filhos de Amom, a combater contra eles; e o SENHOR os deu na sua mão.
-pelo qual também temos entrada pela fé a esta graça, na qual estamos firmes; e nos gloriamos na esperança da glória de Deus.
-E todos os anciãos da mesma cidade, mais chegados ao morto, lavarão as suas mãos sobre a bezerra degolada no vale,
-E disse o servo: Senhor, feito está como mandaste, e ainda há lugar.
-Não abandones o teu amigo, nem o amigo de teu pai, nem entres na casa de teu irmão no dia da tua adversidade; melhor é o vizinho perto do que o irmão longe.
-Porém, como se come o corço e o veado, assim comerás; o imundo e o limpo juntamente comerão delas.
-Depois, tornará o sacerdote ao sétimo dia e examinará; e, se vir que a praga nas paredes da casa se tem estendido,
-E disse Abraão: Deus proverá para si o cordeiro para o holocausto, meu filho. Assim, caminharam ambos juntos.
-Quão suaves são sobre os montes os pés do que anuncia as boas-novas, que faz ouvir a paz, que anuncia o bem, que faz ouvir a salvação, que diz a Sião: O teu Deus reina!
-Ou cuidais vós que em vão diz a Escritura: O Espírito que em nós habita tem ciúmes?
-Disse mais o SENHOR a Moisés e a Arão: Esta é a ordenança da Páscoa; nenhum filho de estrangeiro comerá dela.
-E disse-lhes: Ide-vos ao monte, para que, porventura, vos não encontrem os perseguidores; e escondei-vos lá três dias, até que voltem os perseguidores, e, depois, ide pelo vosso caminho.
-E fez o que era mal aos olhos do SENHOR, como a casa de Acabe, porque eles eram seus conselheiros depois da morte de seu pai, para a sua perdição.
-Então,  levantou-se, e toda a gente de guerra, para subir contra Ai; e escolheu  trinta mil homens valentes e valorosos e enviou-os de noite.
-Veio sobre mim a mão do SENHOR; e o SENHOR me levou em espírito, e me pôs no meio de um vale que estava cheio de ossos,
-És tu maior do que Jacó, o nosso pai, que nos deu o poço, bebendo ele próprio dele, e os seus filhos, e o seu gado?
-Assim diz o SENHOR: Reprime a voz de choro, e as lágrimas de teus olhos, porque há galardão para o teu trabalho, diz o SENHOR; pois eles voltarão da terra do inimigo.
-Aquietai-vos e sabei que eu sou Deus; serei exaltado entre as nações; serei exaltado sobre a terra.
-E foram todos os dias de Noé novecentos e cinquenta anos, e morreu.
-Por isso, lhes falo por parábolas, porque eles, vendo, não veem; e, ouvindo, não ouvem, nem compreendem.
-Assombram-no a angústia e a tribulação; prevalecem contra ele, como o rei preparado para a peleja.
-E o quarto anjo derramou a sua taça sobre o sol, e foi-lhe permitido que abrasasse os homens com fogo.
-E porfiou com eles muito, e vieram com ele e entraram em sua casa; e fez-lhes banquete e cozeu bolos sem levedura, e comeram.
-E as loucas disseram às prudentes: Dai-nos do vosso azeite, porque as nossas lâmpadas se apagam.
-Pois assim como o Pai ressuscita os mortos e os vivifica, assim também o Filho vivifica aqueles que quer.
-E, partindo eles, começou Jesus a dizer às turbas a respeito de João: Que fostes ver no deserto? Uma cana agitada pelo vento?
-O coração do sábio instrui a sua boca e acrescenta doutrina aos seus lábios.
-E os filhos de Israel fugiram de diante de Judá, e Deus os entregou nas mãos de Judá.
-E eles, espantados e atemorizados, pensavam que viam algum espírito.
-Ajunta da terra a tua mercadoria, ó habitante da fortaleza.
-Qual é, de todos os deuses daquelas nações que meus pais destruíram, que pôde livrar o seu povo das minhas mãos, para que vosso Deus vos possa livrar das minhas mãos?
-E Pilatos escreveu também um título e pô-lo em cima da cruz; e nele estava escrito: JESUS NAZARENO, REI DOS JUDEUS. E muitos dos judeus leram este título, porque o lugar onde Jesus estava crucificado era próximo da cidade; e estava escrito em hebraico, grego e latim.
-o que não vejo, ensina-mo tu; se fiz alguma maldade, nunca mais a hei de fazer?
-Ah! Senhor JEOVÁ! Eis que tu fizeste os céus e a terra com o teu grande poder e com o teu braço estendido; não te é maravilhosa demais coisa alguma.
-E, se ninguém vos receber, nem escutar as vossas palavras, saindo daquela casa ou cidade, sacudi o pó dos vossos pés.
-ao seu lado, reparou Ezer, filho de Jesua, maioral de Mispa, outra porção, defronte da subida para a casa das armas, à esquina.
-Da tribo de Judá, havia doze mil assinalados; da tribo de Rúben, doze mil; da tribo de Gade, doze mil; da tribo de Aser, doze mil; da tribo de Naftali, doze mil; da tribo de Manassés, doze mil; da tribo de Simeão, doze mil; da tribo de Levi, doze mil; da tribo de Issacar, doze mil; da tribo de Zebulom, doze mil; da tribo de José, doze mil; da tribo de Benjamim, doze mil.
-E teve Davi conselho com os capitães dos milhares, e dos centos, e com todos os príncipes;
-E dizia: A que assemelharemos o Reino de Deus? Ou com que parábola o representaremos?
-Se santificar o seu campo desde o Ano do Jubileu, conforme a tua avaliação ficará.
-A minha força se secou como um caco, e a língua se me pega ao paladar; e me puseste no pó da morte.
-Porquanto é a alma de toda a carne; o seu sangue é pela sua alma; por isso, tenho dito aos filhos de Israel: Não comereis o sangue de nenhuma carne, porque a alma de toda a carne é o seu sangue; qualquer que o comer será extirpado.
-Decerto, tu o sabes, porque já então eras nascido, e porque é grande o número dos teus dias!
-e também Ira, o jairita, era o oficial-mor de Davi.
-se fores puro e reto, certamente, logo despertará por ti e restaurará a morada da tua justiça.
-E tomou um par de bois, e cortou-os em pedaços, e os enviou a todos os termos de Israel pelas mãos dos mensageiros, dizendo: Qualquer que não sair atrás de Saul e atrás de Samuel, assim se fará aos seus bois. Então, caiu o temor do SENHOR sobre o povo, e saíram como um só homem.
-A graça de nosso Senhor Jesus Cristo seja com todos vós. Amém!
-e o rico, em seu abatimento, porque ele passará como a flor da erva.
-Jeú achou os irmãos de Acazias, rei de Judá, e disse: Quem sois vós? E eles disseram: Os irmãos de Acazias somos; e descemos a saudar os filhos do rei e os filhos da rainha.
-Então, veio a mim a palavra do SENHOR, dizendo:
-A luz se escurecerá nas suas tendas, e sua lâmpada sobre ele se apagará.
-Naquele mesmo dia, deu o rei Assuero à rainha  a casa de Hamã, inimigo dos judeus; e Mardoqueu veio perante o rei, porque  tinha declarado o que lhe era.
-E achou-se escrito que Mardoqueu tinha dado notícia de Bigtã e de Teres, dois eunucos do rei, dos da guarda da porta, de que procuraram pôr as mãos sobre o rei Assuero.
-Tinha Manassés a terra de Tapua; porém Tapua, no termo de Manassés, a tinham os filhos de Efraim.
-E, estando reunidos os fariseus, interrogou-os Jesus,
-Guarda-te diante dele, e ouve a sua voz, e não o provoques à ira; porque não perdoará a vossa rebelião; porque o meu nome está nele.
-E trouxeram-nos, segundo a boa mão de Deus sobre nós, um homem sábio, dos filhos de Mali, filho de Levi, filho de Israel, a saber, Serebias, com os seus filhos e irmãos, dezoito;
-Ide, pois, e diligenciai ainda mais, e sabei, e notai o lugar que frequenta e quem o tenha visto ali; porque me foi dito que é astutíssimo.
-E a multidão se levantou unida contra eles, e os magistrados, rasgando-lhes as vestes, mandaram açoitá-los com varas.
-Então, veio a  a palavra do SENHOR, depois que o rei queimara o rolo, com as palavras que Baruque escrevera da boca de Jeremias, dizendo:
-Sejam agradáveis as palavras da minha boca e a meditação do meu coração perante a tua face, SENHOR, rocha minha e libertador meu!
-aos quais também, depois de ter padecido, se apresentou vivo, com muitas e infalíveis provas, sendo visto por eles por espaço de quarenta dias e falando do que respeita ao Reino de Deus.
-Pelo que também na Escritura se contém: Eis que ponho em Sião a pedra principal da esquina, eleita e preciosa; e quem nela crer não será confundido.
-Enfeites de ouro te faremos, com pregos de prata.
-Este é o primeiro e grande mandamento.
-E Balaão disse à jumenta: Porque zombaste de mim; tomara que tivera eu uma espada na mão, porque agora te mataria.
-Sede, pois, irmãos, pacientes até a vinda do Senhor. Eis que o lavrador espera o precioso fruto da terra, aguardando-o com paciência, até que receba a chuva temporã e serôdia.
-Não detenhas dos seus donos o bem, estando na tua mão poder fazê-lo.
-Mas ele, pegando-lhe na mão, clamou, dizendo: Levanta-te, menina!
-Tu nos fazes o opróbrio dos nossos vizinhos, o escárnio e a zombaria daqueles que estão à roda de nós.
-E a meu povo ensinarão a distinguir entre o santo e o profano e o farão discernir entre o impuro e o puro.
-E que também traríamos as primeiras novidades da nossa terra e todos os primeiros frutos de todas as árvores, de ano em ano, à Casa do SENHOR;
-e me disse: Que vês? E eu disse: Olho, e eis um castiçal todo de ouro, e um vaso de azeite no cimo, com as suas sete lâmpadas; e cada lâmpada posta no cimo tinha sete canudos.
-E, navegando de Trôade, fomos correndo em caminho direito para a Samotrácia e, no dia seguinte, para Neápolis;
-porque o nosso Deus é um fogo consumidor.
-Então, lhe disse Moisés: Em saindo da cidade, estenderei as mãos ao SENHOR; os trovões cessarão, e não haverá mais saraiva; para que saibas que a terra é do SENHOR.
-Porque qualquer que quiser salvar a sua vida perdê-la-á, mas qualquer que perder a sua vida por amor de mim e do evangelho, esse a salvará.
-Pedra preciosa é o presente aos olhos dos que o recebem; para onde quer que se volte, servirá de proveito.
-Disse eu aos loucos: não enlouqueçais; e aos ímpios: não levanteis a fronte;
-as grandes provas que os teus olhos têm visto, aqueles sinais e grandes maravilhas;
-Então, disse Saul: Lançai a sorte entre mim e Jônatas, meu filho. E foi tomado Jônatas.
-E levantaram-se todos os seus filhos e todas as suas filhas, para o consolarem; recusou, porém, ser consolado e disse: Na verdade, com choro hei de descer ao meu filho até à sepultura. Assim, o chorou seu pai.
-No ano segundo de Peca, filho de Remalias, rei de Israel, começou a reinar Jotão, filho de Uzias, rei de Judá.
-Então, disse o SENHOR a Moisés: Estende a mão para o céu, e haverá saraiva em toda a terra do Egito, sobre os homens, e sobre o gado, e sobre toda a erva do campo na terra do Egito.
-não endureçais o vosso coração, como na provocação, no dia da tentação no deserto,
-Eis que o SENHOR esvazia a terra, e a desola, e transtorna a sua superfície, e dispersa os seus moradores.
-E Ispã, e Éber, e Eliel,
-E, levantando ele os olhos para os seus discípulos, dizia: Bem-aventurados vós, os pobres, porque vosso é o Reino de Deus.
-E transfigurou-se diante deles; e o seu rosto resplandeceu como o sol, e as suas vestes se tornaram brancas como a luz.
-Mas, desviando-se o justo da sua justiça, e cometendo a iniquidade, e fazendo conforme todas as abominações que faz o ímpio, porventura viverá? De todas as suas justiças que tiver feito não se fará memória; na sua transgressão com que transgrediu, e no seu pecado com que pecou, neles morrerá.
-E disse Agripa a Paulo: Por pouco me queres persuadir a que me faça cristão!
-E eles lhe falaram, dizendo: Se hoje fores servo deste povo, e o servires, e, respondendo-lhe, lhe falares boas palavras, todos os dias serão teus servos.
-E tinha Mefibosete um filho pequeno, cujo nome era Mica; e todos quantos moravam em casa de Ziba eram servos de Mefibosete.
-Pois se porá à direita do pobre, para o livrar dos que condenam a sua alma.
-Viste, SENHOR, a injustiça que me fizeram; julga a minha causa.
-Hoje, declaraste ao SENHOR que te será por Deus, e que andarás nos seus caminhos, e guardarás os seus estatutos, e os seus mandamentos, e os seus juízos, e darás ouvidos à sua voz.
-E como vós quereis que os homens vos façam, da mesma maneira fazei-lhes vós também.
-Os teus coroados são como os gafanhotos, e os teus chefes, como os gafanhotos grandes, que se acampam nas sebes nos dias de frio; em subindo o sol, voam, e não se conhece o lugar onde estão.
-Ao estrondo da tomada da Babilônia, estremeceu a terra, e o grito se ouviu entre as nações.
-Cercas o meu andar e o meu deitar; e conheces todos os meus caminhos.
-Também os vossos criados, e as vossas criadas, e os vossos melhores jovens, e os vossos jumentos tomará e os empregará no seu trabalho.
-Lembra-te do dia do sábado, para o santificar.
-E, se Satanás expulsa a Satanás, está dividido contra si mesmo; como subsistirá, pois, o seu reino?
-então, seu primeiro marido, que a despediu, não poderá tornar a tomá-la para que seja sua mulher, depois que foi contaminada, pois é abominação perante o SENHOR; assim não farás pecar a terra que o SENHOR, teu Deus, te dá por herança.
-No primeiro mês, no dia catorze do mês, tereis a Páscoa, uma festa de sete dias; pão asmo se comerá.
-E, no dia oitavo, se circuncidará ao menino a carne do seu prepúcio.
-E Moisés, ouvindo isto, Arão foi aceito aos seus olhos.
-Porque Israel e Judá não foram abandonados pelo seu Deus, pelo SENHOR dos Exércitos, ainda que a sua terra esteja cheia de culpas perante o Santo de Israel.
-E disse-lhes Josué: Se tão grande povo és, sobe ao bosque e corta para ti ali lugar na terra dos ferezeus e dos refains, pois que as montanhas de Efraim te são tão estreitas.
-E os oferecerás perante a face do SENHOR; e os sacerdotes deitarão sal sobre eles e os oferecerão em holocausto ao SENHOR.
-e também, se vos perguntar, não me respondereis, nem me soltareis.
-A calvície veio sobre Gaza, e foi desarraigada Asquelom, com o resto do seu vale; até quando te retalharás?
-Ou ordenarás aos raios que saiam e te digam: Eis-nos aqui?
-dos filhos de Reabias: Issias era o chefe;
-E os filhos de Arão, os sacerdotes, porão fogo sobre o altar, pondo em ordem a lenha sobre o fogo.
-Porque por tuas palavras serás justificado e por tuas palavras serás condenado.
-E estas foram para Isaque e Rebeca uma amargura de espírito.
-Abre, ó Líbano, as tuas portas para que o fogo consuma os cedros.
-Porque a carne cobiça contra o Espírito, e o Espírito, contra a carne; e estes opõem-se um ao outro; para que não façais o que quereis.
-Portanto, Hebrom foi de Calebe, filho de Jefoné, o quenezeu, em herança até ao dia de hoje, porquanto perseverara em seguir o SENHOR, Deus de Israel.
-Não há quem defenda a tua causa; para que possas ser curado, não tens remédios nem emplasto.
-Louvai-o, todos os seus anjos; louvai-o, todos os seus exércitos.
-Também os sacerdotes e os levitas que havia em todo o Israel deixaram o seu território, para se ajuntarem a ele.
-As minhas ovelhas andam desgarradas por todos os montes e por todo o alto outeiro; sim, as minhas ovelhas andam espalhadas por toda a face da terra, sem haver quem as procure, nem quem as busque.
-pois, passando por ela o vento, logo se vai, e o seu lugar não conhece mais.
-vem a tua sentença, ó habitante da terra. Vem o tempo; chegado é o dia da turbação, e não da alegria, sobre os montes.
-E sucedeu que, vendo-o o rei de Ai, se apressaram, e se levantaram de madrugada, e os homens da cidade saíram ao encontro de Israel ao combate, ele e todo o seu povo, ao tempo assinalado, perante as campinas, porque ele não sabia que se lhe houvesse posto emboscada atrás da cidade.
-Porém, agora que é morta, por que jejuaria eu agora? Poderei eu fazê-la mais voltar? Eu irei a ela, porém ela não voltará para mim.
-O Senhor JEOVÁ me abriu os ouvidos, e eu não fui rebelde; não me retiro para trás.
-O que fiz, porém, foi por amor do meu nome, para que não fosse profanado diante dos olhos das nações, no meio das quais eles estavam, a cujos olhos eu me dei a conhecer a eles, para os tirar da terra do Egito.
-Quem é, pois, o servo fiel e prudente, que o Senhor constituiu sobre a sua casa, para dar o sustento a seu tempo?
-E até da santa cidade tomam o nome e se firmam sobre o Deus de Israel; o SENHOR dos Exércitos é o seu nome.
-E saíram a ver o que tinha acontecido e vieram ter com Jesus. Acharam, então, o homem de quem haviam saído os demônios, vestido e em seu juízo, assentado aos pés de Jesus; e temeram.
-Então, Saul atirou-lhe com a lança, para o ferir; assim, entendeu Jônatas que já seu pai tinha determinado matar a Davi.
-E o templo e o santuário, ambos tinham duas portas.
-Respondeu, porém,  e disse:
-Por causa da Casa do SENHOR, nosso Deus, buscarei o teu bem.
-Então, tomarás do sangue que estará sobre o altar e do azeite da unção e os espargirás sobre Arão e sobre as suas vestes, e sobre seus filhos, e sobre as vestes de seus filhos com ele; para que ele seja santificado, e as suas vestes, e também seus filhos, e as vestes de seus filhos com ele.
-E tu o disseste: Certamente te farei bem e farei a tua semente como a areia do mar, que, pela multidão, não se pode contar.
-Descansa no SENHOR e espera nele; não te indignes por causa daquele que prospera em seu caminho, por causa do homem que executa astutos intentos.
-E os servos do pai de família, indo ter com ele, disseram-lhe: Senhor, não semeaste tu no teu campo boa semente? Por que tem, então, joio?
-Pelo que os ímpios não subsistirão no juízo, nem os pecadores na congregação dos justos.
-Portanto, qualquer que comer este pão ou beber o cálice do Senhor, indignamente, será culpado do corpo e do sangue do Senhor.
-Ó SENHOR, quem é como tu entre os deuses? Quem é como tu, glorificado em santidade, terrível em louvores, operando maravilhas?
-Mas alguns andam inchados, como se eu não houvesse de ir ter convosco.
-E aconteceu que Jesus, concluindo essas parábolas, se retirou dali.
-Se eu cerrar os céus, e não houver chuva, ou se ordenar aos gafanhotos que consumam a terra, ou se enviar a peste entre o meu povo;
-Verdadeiramente, bom é Deus para com Israel, para com os limpos de coração.
-quando todo o Israel vier a comparecer perante o SENHOR, teu Deus, no lugar que ele escolher, lerás esta Lei diante de todo o Israel aos seus ouvidos.
-Seus filhos estão longe da salvação; e são despedaçados às portas, e não há quem os livre.
-Não desampares a sabedoria, e ela te guardará; ama-a, e ela te conservará.
-quem diz à profundeza: Seca-te, e eu secarei os teus rios;
-E, depois, vieram os levitas, para exercerem o seu ministério na tenda da congregação, perante Arão e perante os seus filhos; como o SENHOR ordenara a Moisés acerca dos levitas, assim lhes fizeram.
-(porque o fruto do Espírito está em toda bondade, e justiça, e verdade),
-E José fez habitar a seu pai e seus irmãos e deu-lhes possessão na terra do Egito, no melhor da terra, na terra de Ramessés, como Faraó ordenara.
-Depois dele, repararam seus irmãos: Bavai, filho de Henadade, maioral da outra meia parte de Queila;
-para que ninguém possa comprar ou vender, senão aquele que tiver o sinal, ou o nome da besta, ou o número do seu nome.
-Assim se desligaram os israelitas da casa de Davi até ao dia de hoje.
-E não temais os que matam o corpo e não podem matar a alma; temei, antes, aquele que pode fazer perecer no inferno a alma e o corpo.
-Visto que entristecestes o coração do justo com falsidade, não o havendo eu entristecido, e esforçastes as mãos do ímpio, para que não se desviasse do seu mau caminho e vivesse,
-Porém ao rei de Ai tomaram vivo e o trouxeram a Josué.
-Então, te agradarás de sacrifícios de justiça, dos holocaustos e das ofertas queimadas; então, se oferecerão novilhos sobre o teu altar.
-dizendo: Pai, se queres, passa de mim este cálice; todavia, não se faça a minha vontade, mas a tua.
-mas não prevaleceram; nem mais o seu lugar se achou nos céus.
-E os guardas, com medo dele, ficaram muito assombrados e como mortos.
-E em nada vos espanteis dos que resistem, o que para eles, na verdade, é indício de perdição, mas, para vós, de salvação, e isto de Deus.
-Não confieis na opressão, nem vos desvaneçais na rapina; se as vossas riquezas aumentam, não ponhais nelas o coração.
-Então, por holocausto, em cheiro suave ao SENHOR, oferecereis um bezerro, um carneiro e sete cordeiros de um ano, sem mancha.
-E são também sete reis: cinco já caíram, e um existe; outro ainda não é vindo; e, quando vier, convém que dure um pouco de tempo.
-E, contudo, eu levantei a mão para eles no deserto, para os não deixar entrar na terra que lhes tinha dado, a qual mana leite e mel e é a glória de todas as terras.
-Todavia, o que era da escrava nasceu segundo a carne, mas o que era da livre, por promessa,
-antes que se descobrisse a tua maldade? Agora, te tornaste, como ela, objeto do desprezo das filhas da Síria e de todos os que estavam ao redor dela, as filhas dos filisteus que te desprezavam em redor.
-E tinha varas fortes para cetros de dominadores e elevou-se a sua estatura entre os espessos ramos, e foi vista na sua altura com a multidão dos seus ramos.
-As que estão perto e as que estão longe de ti escarnecerão de ti, infamada, cheia de inquietação.
-Num momento, caiu a Babilônia e ficou arruinada; gemei sobre ela, tomai bálsamo para a sua dor; porventura, sarará.
-Além do holocausto contínuo e a sua oferta de manjares, os oferecereis (ser-vos-ão eles sem mancha) com as suas libações.
-Subiu a fumaça de seus narizes, e, da sua boca, um fogo devorador; carvões se incenderam dele.
-Palavras do pregador, filho de Davi, rei em Jerusalém:
-Ainda que venham a criar seus filhos, eu os privarei deles, para que não fique nenhum homem; porque também ai deles, quando deles me apartar!
-Mas os levitas assentarão as suas tendas ao redor do tabernáculo do Testemunho, para que não haja indignação sobre a congregação dos filhos de Israel; pelo que os levitas terão o cuidado da guarda do tabernáculo do Testemunho.
-Em verdade vos digo que sobre todos os seus bens o porá.
-Da luz o lançarão nas trevas e afugentá-lo-ão do mundo.
-e estando prontos para vingar toda desobediência, quando for cumprida a vossa obediência.
-Nisto sereis provados: pela vida de Faraó, não saireis daqui senão quando vosso irmão mais novo vier aqui.
-E o siclo será de vinte geras; vinte siclos, mais vinte e cinco siclos, mais quinze siclos vos servirão de um arrátel.
-E disseram a Jefté: Vem e sê-nos por cabeça, para que combatamos contra os filhos de Amom.
-Mas as árvores que souberes que não são árvores de comer destruí-las-ás e cortá-las-ás; e contra a cidade que guerrear contra ti edificarás baluartes, até que esta seja derribada.
-E estes estarão, para amaldiçoar, sobre o monte Ebal: Rúben, e Gade, e Aser, e Zebulom, e Dã, e Naftali.
-e fizera-lhe uma câmara grande, onde dantes se metiam as ofertas de manjares, o incenso, os utensílios e os dízimos do grão, do mosto e do azeite, que se ordenaram para os levitas, e cantores, e porteiros, como também a oferta alçada para os sacerdotes.
-Porque, onde há inveja e espírito faccioso, aí há perturbação e toda obra perversa.
-Filho do homem, levanta uma lamentação sobre o rei de Tiro e dize-lhe: Assim diz o Senhor JEOVÁ: Tu és o aferidor da medida, cheio de sabedoria e perfeito em formosura.
-Mas ai de vós, escribas e fariseus, hipócritas! Pois que fechais aos homens o Reino dos céus; e nem vós entrais, nem deixais entrar aos que estão entrando.
-Então, despediram Rebeca, sua irmã, e a sua ama, e o servo de Abraão, e os seus varões.
-Então, ele se apressou, e tirou a cinza de sobre os seus olhos; e o rei de Israel reconheceu que era um dos profetas.
-E disse o rei à rainha Ester: Na fortaleza de Susã, mataram e destruíram os judeus quinhentos homens e os dez filhos de Hamã; nas mais províncias do rei, que fariam? Qual é, pois, a tua petição? E dar-se-te-á. Ou qual é ainda o teu requerimento? E far-se-á.
-Com eles não te reunirás na sepultura, porque destruíste a tua terra e mataste o teu povo; a descendência dos malignos não será nomeada para sempre.
-Regozija-te e alegra-te, ó filha de Edom, que habitas na terra de Uz; o cálice chegará também para ti; embebedar-te-ás e te descobrirás.
-Contudo, ouvi a voz das suas palavras; e, ouvindo a voz das suas palavras, eu caí com o meu rosto em terra, profundamente adormecido.
-Bem-aventurado o povo que conhece o som festivo; andará, ó SENHOR, na luz da tua face.
-E disse: Eis agora, meus senhores, entrai, peço-vos, em casa de vosso servo, e passai nela a noite, e lavai os vossos pés; e de madrugada vos levantareis e ireis vosso caminho. E eles disseram: Não! Antes, na rua passaremos a noite.
-Porque, então, te deleitarás no Todo-Poderoso e levantarás o teu rosto para Deus.
-E os que foram deles contados foram vinte e três mil, todo o varão da idade de um mês para cima; porque estes não foram contados entre os filhos de Israel, porquanto lhes não foi dada herança entre os filhos de Israel.
-Disse mais o SENHOR a Moisés: Levanta-te pela manhã cedo, e põe-te diante de Faraó; eis que ele sairá às águas, e dize-lhe: Assim diz o SENHOR: Deixa ir o meu povo, para que me sirva.
-A justiça exalta as nações, mas o pecado é o opróbrio dos povos.
-Fez também Davi subir os homens que estavam com ele, cada um com a sua família; e habitaram nas cidades de Hebrom.
-E arrependeram-se os filhos de Israel acerca de Benjamim, seu irmão, e disseram: Cortada é hoje de Israel uma tribo.
-lembrando-nos, sem cessar, da obra da vossa fé, do trabalho do amor e da paciência da esperança em nosso Senhor Jesus Cristo, diante de nosso Deus e Pai,
-Estes, pois, ficaram, para por eles o SENHOR provar a Israel, para saber se dariam ouvidos aos seus mandamentos que tinha ordenado a seus pais pelo ministério de Moisés.
-As palavras do maldizente são como deliciosos bocados, que descem ao íntimo do ventre.
-E cada um será como a corça que foge e como a ovelha que ninguém recolhe; cada um voltará para o seu povo e cada um fugirá para a sua terra.
-Aos quais foi revelado que, não para si mesmos, mas para nós, eles ministravam estas coisas que, agora, vos foram anunciadas por aqueles que, pelo Espírito Santo enviado do céu, vos pregaram o evangelho, para as quais coisas os anjos desejam bem atentar.
-O SENHOR te ferirá com as úlceras do Egito, e com hemorroidas, e com sarna, e com coceira, de que não possas curar-te.
-E também o SENHOR a deu na mão de Israel, a ela e a seu rei, e a feriu a fio de espada, a ela e a toda alma que nela havia; nada deixou de resto; e fez ao seu rei como fizera ao rei de Jericó.
-E trouxe-o a sua casa e deu pasto aos jumentos; e, lavando-se os pés, comeram e beberam.
-seja entregue a Satanás para destruição da carne, para que o espírito seja salvo no Dia do Senhor Jesus.
-E os filhos de Eliabe: Nemuel, e Datã, e Abirão; estes, Datã e Abirão, foram os chamados da congregação, que moveram a contenda contra Moisés e contra Arão na congregação de Corá, quando moveram a contenda contra o SENHOR;
-Então, lhe disse o rei: Vai em paz. Levantou-se, pois, e foi para Hebrom.
-Importa, porém, que eu seja batizado com um certo batismo, e como me angustio até que venha a cumprir-se!
-Pois tenho comido cinza como pão e misturado com lágrimas a minha bebida, por causa da tua ira e da tua indignação, pois tu me levantaste e me arremessaste.
-Mas Jesus disse-lhe: Deixa primeiro saciar os filhos, porque não convém tomar o pão dos filhos e lançá-lo aos cachorrinhos.
-Pelo que amo os teus mandamentos mais do que o ouro, e ainda mais do que o ouro fino.
-Deixai crescer ambos juntos até à ceifa; e, por ocasião da ceifa, direi aos ceifeiros: colhei primeiro o joio e atai-o em molhos para o queimar; mas o trigo, ajuntai-o no meu celeiro.
-Como um pedaço de romã, assim são as tuas faces entre as tuas tranças.
-Se ela, pois, saindo da sua casa, for e se casar com outro homem,
-Mas aquele cuja genealogia não é contada entre eles tomou dízimos de Abraão e abençoou o que tinha as promessas.
-Porque a mão do SENHOR descansará neste monte; mas Moabe será trilhado debaixo dele, como se trilha a palha no monturo.
-E tornou Davi a ajuntar todos os escolhidos de Israel, em número de trinta mil.
-E de Benjamim disse: O amado do SENHOR habitará seguro com ele; todo o dia o SENHOR o protegerá, e ele morará entre os seus ombros.
-Disso me recordarei no meu coração; por isso, tenho esperança.
-então, abre os ouvidos dos homens, e lhes sela a sua instrução,
-E o segundo, semelhante a este, é: Amarás o teu próximo como a ti mesmo.
-Sobre os ombros o tomam, o levam e o põem no seu lugar; ali está, do seu lugar não se move; e, se recorrem a ele, resposta nenhuma dá, nem livra ninguém da sua tribulação.
-Porém, se disser ao moço assim: Olha que as flechas estão para lá de ti. Vai-te embora, porque o SENHOR te deixa ir.
-Ó SENHOR, Deus dos Exércitos, até quando te indignarás contra a oração do teu povo?
-Não oferecereis sobre ele incenso estranho, nem holocausto, nem oferta; nem tampouco derramareis sobre ele libações.
-o qual convém que o céu contenha até aos tempos da restauração de tudo, dos quais Deus falou pela boca de todos os seus santos profetas, desde o princípio.
-E, crescendo o filho, sucedeu que, um dia, saiu para seu pai, que estava com os segadores.
-pois que os espíritos imundos saíam de muitos que os tinham, clamando em alta voz; e muitos paralíticos e coxos eram curados.
-E visitarei a Bel na Babilônia e tirarei da sua boca o que ele tragou, e nunca mais concorrerão a ele as nações; também o muro de Babilônia caiu.
-Mas os olhos dos ímpios desfalecerão, e perecerá o seu refúgio; e a sua esperança será o expirar da alma.
-Não és tu desde sempre, ó SENHOR, meu Deus, meu Santo? Nós não morreremos. Ó SENHOR, para juízo o puseste, e tu, ó Rocha, o fundaste para castigar.
-E eu não cria naquelas palavras, até que vim, e os meus olhos o viram; eis que me não disseram metade; sobrepujaste em sabedoria e bens a fama que ouvi.
-Terá duas ombreiras que se unam às suas duas pontas, e assim se unirá.
-Desviou os meus caminhos e fez-me em pedaços; deixou-me assolado.
-E os dez, tendo ouvido isso, começaram a indignar-se contra  e João.
-Então, o SENHOR respondeu a  desde a tempestade e disse:
-Então, falou Natã a Bate-Seba, mãe de Salomão, dizendo: Não ouviste que Adonias, filho de Hagite, reina e que nosso senhor, Davi, não o sabe?
-Disse, então, Davi ao jovem que lhe trouxera a nova: De onde és tu? E disse ele: Sou filho de um homem estrangeiro, amalequita.
-Disse mais o SENHOR: Eis aqui um lugar junto a mim; ali te porás sobre a penha.
-Em verdade vos digo que não beberei mais do fruto da vide, até àquele Dia em que o beber novo, no Reino de Deus.
-Também o SENHOR fará vir sobre ti toda enfermidade e toda praga, que não está escrita no livro desta lei, até que sejas destruído.
-Saíram também Joabe, filho de Zeruia, e os servos de Davi, e se encontraram uns com os outros perto do tanque de Gibeão, e pararam estes desta banda do tanque e os outros daquela banda do tanque.
-E ajuntou consigo os filhos de Amom e os amalequitas, e foi, e feriu a Israel, e tomaram a cidade das Palmeiras.
-Depois, para vós contareis desde o dia seguinte ao sábado, desde o dia em que trouxerdes o molho da oferta movida; sete semanas inteiras serão.
-Mas, se ele está contra alguém, quem, então, o desviará? O que a sua alma quiser, isso fará.
-Deus guarda a sua violência para os filhos deles, e aos ímpios dá o pago, para que o conheçam.
-Clama outra vez, dizendo: Assim diz o SENHOR dos Exércitos: As minhas cidades ainda aumentarão e prosperarão; porque o SENHOR ainda consolará a Sião e ainda escolherá a Jerusalém.
-E, falando ele comigo essas palavras, abaixei o meu rosto e emudeci.
-Antes, subjugo o meu corpo e o reduzo à servidão, para que, pregando aos outros, eu mesmo não venha de alguma maneira a ficar reprovado.
-Agora, pois, meu filho, o SENHOR seja contigo, e prospera e edifica a Casa do SENHOR, teu Deus, como ele disse de ti.
-para inventar invenções, e trabalhar em ouro, e em prata, e em cobre,
-E ele, assentando-se, chamou os doze e disse-lhes: Se alguém quiser ser o primeiro, será o derradeiro de todos e o servo de todos.
-E como ele nos interpretou, assim mesmo foi feito: a mim me fez tornar ao meu estado, e a ele fez enforcar.
-quando ouvires a voz do SENHOR, teu Deus, para guardares todos os seus mandamentos, que hoje te ordeno, para fazeres o que for reto aos olhos do SENHOR, teu Deus.
-E nenhum dos que estavam assentados à mesa compreendeu a que propósito lhe dissera isso,
-Então, todo o Israel ouviu dizer: Saul feriu a guarnição dos filisteus, e também Israel se fez abominável aos filisteus. Então, o povo foi convocado após Saul em Gilgal.
-E aconteceu que, indo nós à oração, nos saiu ao encontro uma jovem que tinha espírito de adivinhação, a qual, adivinhando, dava grande lucro aos seus senhores.
-e Naassom, de Aminadabe, e Aminadabe, de Admim, e Admim, de Arni, e Arni, de Esrom, e Esrom, de Perez, e Perez, de Judá,
-E Ezequias e todo o povo se alegraram por causa daquilo que Deus tinha preparado para o povo; porque apressuradamente se fez esta obra.
-E Moisés levou a sua causa perante o SENHOR.
-Nem me permite respirar; antes, me farta de amarguras.
-Como está escrito: Deus lhes deu espírito de profundo sono: olhos para não verem e ouvidos para não ouvirem, até ao dia de hoje.
-Teus são os céus e tua é a terra; o mundo e a sua plenitude, tu os fundaste.
-E os fariseus, que eram avarentos, ouviam todas essas coisas e zombavam dele.
-Eis que, como os olhos dos servos atentam para as mãos do seu senhor, e os olhos da serva, para as mãos de sua senhora, assim os nossos olhos atentam para o SENHOR, nosso Deus, até que tenha piedade de nós.
-Porém Asa se indignou contra o vidente e lançou-o na casa do tronco, porque disso grandemente se alterou contra ele; também Asa, no mesmo tempo, oprimiu alguns do povo.
-Ouvi isto, vós, anciãos, e escutai, todos os moradores da terra: Aconteceu isto em vossos dias? Ou também nos dias de vossos pais?
-Ouvi a palavra que o SENHOR vos fala a vós, ó casa de Israel.
-dos anramitas, dos izaritas, dos hebronitas, dos ozielitas,
-Mas assentar-se-á cada um debaixo da sua videira e debaixo da sua figueira, e não haverá quem os espante, porque a boca do SENHOR dos Exércitos o disse.
-se olhei para o sol, quando resplandecia, ou para a lua, caminhando gloriosa;
-e era Isaque da idade de quarenta anos, quando tomou a Rebeca, filha de Betuel, arameu de Padã-Arã, irmã de Labão, arameu, por sua mulher.
-E fui ao anjo, dizendo-lhe: Dá-me o livrinho. E ele disse-me: Toma-o e come-o, e ele fará amargo o teu ventre, mas na tua boca será doce como mel.
-Dizia-lhes também: Em verdade vos digo que, dos que aqui estão, alguns há que não provarão a morte sem que vejam chegado o Reino de Deus com poder.
-E uma mulher das mulheres dos filhos dos profetas, clamou a Eliseu dizendo: Meu marido, teu servo, morreu; e tu sabes que o teu servo temia ao SENHOR; e veio o credor a levar-me os meus dois filhos para serem servos.
-Porque nós não somos, como muitos, falsificadores da palavra de Deus; antes, falamos de Cristo com sinceridade, como de Deus na presença de Deus.
-Mas, agora, Deus colocou os membros no corpo, cada um deles como quis.
-E Pilatos, quando ouviu essa palavra, mais atemorizado ficou.
-Porque não pode louvar-te a sepultura, nem a morte glorificar-te; nem esperarão em tua verdade os que descem à cova.
-Uma é a glória do sol, e outra, a glória da lua, e outra, a glória das estrelas; porque uma estrela difere em glória de outra estrela.
-pelas quais coisas pereceu o mundo de então, coberto com as águas do dilúvio.
-Os teus olhos olhem direitos, e as tuas pálpebras olhem diretamente diante de ti.
-Eles terão uma herança; eu serei a sua herança; não lhes dareis, portanto, possessão em Israel; eu sou a sua possessão.
-Então, te lavei com água, e te enxuguei do teu sangue, e te ungi com óleo.
-Baruque, filho de Nerias, é que te incita contra nós, para nos entregar nas mãos dos caldeus, para eles nos matarem ou para nos transportarem para a Babilônia.
-Então, o SENHOR me disse: Bem falaram naquilo que disseram.
-Disse-lhes Jesus: Trazei dos peixes que agora apanhastes.
-os quais foram destruídos em En-Dor; vieram a servir de estrume para a terra.
-Com o hálito de Deus perecem; e com o assopro da sua ira se consomem.
-Bom e reto é o SENHOR; pelo que ensinará o caminho aos pecadores.
-e Aitube gerou a Zadoque, e Zadoque gerou a Salum;
-E aconteceu que, passados três dias, o acharam no templo, assentado no meio dos doutores, ouvindo-os e interrogando-os.
-Mas vós, frutificai e multiplicai-vos; povoai abundantemente a terra e multiplicai-vos nela.
-Os filhos de Ladã; Jeiel, o chefe, e Zetã, e Joel, três.
-Então, tinha o rei Davi saudades de Absalão, porque já se tinha consolado acerca de Amnom, que era morto.
-porque, havendo Moisés anunciado a todo o povo todos os mandamentos segundo a lei, tomou o sangue dos bezerros e dos bodes, com água, lã purpúrea e hissopo, e aspergiu tanto o mesmo livro como todo o povo,
-De maneira que, se um membro padece, todos os membros padecem com ele; e, se um membro é honrado, todos os membros se regozijam com ele.
-E eis que, assim como foi a tua vida hoje de tanta estima aos meus olhos, de outra tanta estima seja a minha vida aos olhos do SENHOR, e ele me livre de toda tribulação.
-Então, se levantaram os levitas Maate, filho de Amasai, e Joel, filho de Azarias, dos filhos dos coatitas; e, dos filhos de Merari, Quis, filho de Abdi, e Azarias, filho de Jealelel; e, dos gersonitas, Joá, filho de Zima, e Éden, filho de Joá; e, dentre os filhos de Elisafã, Sinri e Jeiel; e, dentre os filhos de Asafe,  e Matanias; e, dentre os filhos de Hemã, Jeiel e Simei; e, dentre os filhos de Jedutum, Semaías e Uziel.
-E, chamando a si a multidão, com os seus discípulos, disse-lhes: Se alguém quiser vir após mim, negue-se a si mesmo, e tome a sua cruz, e siga-me.
-Seu fruto destruirás da terra e a sua descendência, dentre os filhos dos homens.
-Então, falando, ordenou aos que estavam diante dele, dizendo: Tirai-lhe estas vestes sujas. E a ele lhe disse: Eis que tenho feito com que passe de ti a tua iniquidade e te vestirei de vestes novas.
-E foi-se Davi dali a Mispa dos moabitas e disse ao rei dos moabitas: Deixa estar meu pai e minha mãe convosco, até que saiba o que Deus há de fazer de mim.
-Ouvindo, pois, que estava enfermo, ficou ainda dois dias no lugar onde estava.
-Sede unânimes entre vós; não ambicioneis coisas altas, mas acomodai-vos às humildes; não sejais sábios em vós mesmos.
+Como o louco que lança de si faíscas, flechas e mortandades, assim é o homem que engana o seu próximo e diz: Fiz isso por brincadeira.
+As mãos de Zorobabel têm fundado esta casa, também as suas mãos a acabarão, para que saibais que o SENHOR dos Exércitos me enviou a vós.
+Então, separei doze dos maiorais dos sacerdotes: Serebias, Hasabias e com eles dez dos seus irmãos.
+para por elas provar a Israel, se hão de guardar o caminho do SENHOR, como seus pais o guardaram, para por ele andarem ou não.
+E disse: Nunca meu Deus permita que faça tal! Beberia eu o sangue destes varões com as suas vidas? Pois, com perigo das suas vidas, a trouxeram. E ele não a quis beber. Isto fizeram aqueles três valentes.
+Então, o SENHOR desceu na nuvem e lhe falou; e, tirando do Espírito que estava sobre ele, o pôs sobre aqueles setenta anciãos; e aconteceu que, quando o Espírito repousou sobre eles, profetizaram; mas, depois, nunca mais.
+Na verdade, não serão confundidos os que esperam em ti; confundidos serão os que transgridem sem causa.
+Recompensais, assim, ao SENHOR, povo louco e ignorante? Não é ele teu Pai, que te adquiriu, te fez e te estabeleceu?
+Jesus, porém, lhes disse: Não é mister que vão; dai-lhes vós de comer.
+Eis que é a liteira de Salomão; sessenta valentes estão ao redor dela, dos valentes de Israel.
+Deleito-me em fazer a tua vontade, ó Deus meu; sim, a tua lei está dentro do meu coração.
+E, chegando o rei Davi a Baurim, eis que dali saiu um homem da linhagem da casa de Saul, cujo nome era Simei, filho de Gera; e, saindo, ia amaldiçoando.
+Em verdade vos digo que, no Dia do Juízo, haverá menos rigor para o país de Sodoma e Gomorra do que para aquela cidade.
+Vós, porém, sois inventores de mentiras e vós todos, médicos que não valem nada.
+Beera, o qual Tiglate-Pileser, rei da Assíria, levou preso; este foi príncipe dos rubenitas.
+Então, lhes dirás: Eu lancei a minha súplica diante do rei, para que não me fizesse tornar à casa de Jônatas, para morrer ali.
+e disseram-lhe: Ouves o que estes dizem? E Jesus lhes disse: Sim; nunca lestes: Pela boca dos meninos e das criancinhas de peito tiraste o perfeito louvor?
+Porquanto chamastes estranhos, incircuncisos de coração e incircuncisos de carne, para estarem no meu santuário, para o profanarem em minha casa, quando oferecereis o meu pão, a gordura e o sangue; e eles invalidaram o meu concerto, por causa de todas as vossas abominações.
+E, naquelas tábuas, escreverei as palavras que estavam nas primeiras tábuas que quebraste, e as porás na arca.
+Maldito aquele que tomar suborno para matar a alguma pessoa inocente! E todo o povo dirá: Amém!
+E saiu Caim de diante da face do SENHOR e habitou na terra de Node, da banda do oriente do Éden.
+mas, ao sétimo, a soltarás e deixarás descansar, para que possam comer os pobres do teu povo, e do sobejo comam os animais do campo. Assim farás com a tua vinha e com o teu olival.
+Quando nascer o boi, ou cordeiro, ou cabra, sete dias estará debaixo de sua mãe; depois, desde o dia oitavo em diante, será aceito por oferta queimada ao SENHOR.
+A fazenda que procede da vaidade diminuirá, mas quem a ajunta pelo trabalho terá aumento.
+Mas tudo o que não tem barbatanas nem escamas, nos mares e nos rios, todo réptil das águas e toda alma vivente que há nas águas, estes serão para vós abominação.
+E enviara Hirão ao rei cento e vinte talentos de ouro.
+Então, Saul disse ao seu moço: Eis, porém, se lá formos, que levaremos, então, àquele homem? Porque o pão de nossos alforjes se acabou, e presente nenhum temos que levar ao homem de Deus; que temos?
+E disse o senhor ao servo: Sai pelos caminhos e atalhos e força-os a entrar, para que a minha casa se encha.
+Bendito seja o SENHOR, porque ouviu a voz das minhas súplicas.
+nan
+E a palavra desses roerá como gangrena; entre os quais são Himeneu e Fileto;
+Porque não precisa considerar muito no homem para o fazer ir a juízo diante de Deus.
+Então, Moisés levantou-se e foi a Datã e a Abirão; e após ele foram os anciãos de Israel.
+Deus o tirou do Egito; as suas forças são como as do unicórnio; consumirá as nações, seus inimigos, e quebrará seus ossos, e com as suas setas os atravessará.
+E dividiu-se contra eles de noite, ele e os seus criados, e os feriu, e os perseguiu até Hobá, que fica à esquerda de Damasco.
+E disse-lhe Deus: O teu nome é Jacó; não se chamará mais o teu nome Jacó, mas Israel será o teu nome. E chamou o seu nome Israel.
+Havia também um certo mendigo, chamado Lázaro, que jazia cheio de chagas à porta daquele.
+E arrancou os olhos a Zedequias e o atou com duas cadeias de bronze, para levá-lo à Babilônia.
+E desci à casa do oleiro, e eis que ele estava fazendo a sua obra sobre as rodas.
+Disse, pois, o rei a Itai, o geteu: Por que irias tu também conosco? Volta, e fica-te com o rei, porque estranho és, e também te tornarás a teu lugar.
+E todos os príncipes do mar descerão dos seus tronos, e tirarão de si os seus mantos, e despirão as suas vestes bordadas; de tremores se vestirão, sobre a terra se assentarão e estremecerão a cada momento; e, por tua causa, pasmarão.
+os quais temos ouvido e sabido, e nossos pais no-los têm contado.
+E eu era como um manso cordeiro, que levam à matança; porque não sabia que imaginavam projetos contra mim, dizendo: Destruamos a árvore com o seu fruto e cortemo-lo da terra dos viventes, e não haja mais memória do seu nome.
+E da tribo de Naftali, Quedes, cidade de refúgio do homicida, na Galileia, e os seus arrabaldes, e Hamote-Dor e os seus arrabaldes; e Cartã e os seus arrabaldes: três cidades.
+Não sejas testemunha sem causa contra o teu próximo; por que enganarias com os teus lábios?
+Mas seu pai o recusou e disse: Eu o sei, filho meu, eu o sei; também ele será um povo e também ele será grande; contudo, o seu irmão menor será maior que ele, e a sua semente será uma multidão de nações.
+Então, José recolheu todo o dinheiro que se achou na terra do Egito e na terra de Canaã, pelo trigo que compravam; e José trouxe o dinheiro à casa de Faraó.
+Então, o senhor daquele servo, movido de íntima compaixão, soltou-o e perdoou-lhe a dívida.
+A qual, não tendo superior, nem oficial, nem dominador,
+E Jesus lhes disse: Por causa da vossa pequena fé; porque em verdade vos digo que, se tiverdes fé como um grão de mostarda, direis a este monte: Passa daqui para acolá — e há de passar; e nada vos será impossível.
+E o que ainda ficar da carne do sacrifício ao terceiro dia será queimado no fogo.
+Depois, o sacerdote com o seu dedo tomará do seu sangue e o porá sobre as pontas do altar do holocausto; e todo o resto do seu sangue derramará à base do altar.
+Certamente, que não entrarei na tenda em que habito, nem subirei ao leito em que durmo;
+Sete dias habitareis debaixo de tendas; todos os naturais em Israel habitarão em tendas;
+pois o SENHOR, vosso Deus, é o que vai convosco, a pelejar contra os vossos inimigos, para salvar-vos.
+Pelo que o SENHOR os ouviu e se indignou; e acendeu um fogo contra Jacó, e furor também subiu contra Israel,
+Porque a tua benignidade se eleva acima dos céus, e a tua verdade ultrapassa as mais altas nuvens.
+E também Judá pelejará em Jerusalém, e se ajuntarão em redor as riquezas de todas as nações, ouro, e prata, e vestes em grande abundância.
+E vi outro anjo forte, que descia do céu, vestido de uma nuvem; e por cima da sua cabeça estava o arco celeste, e o rosto era como o sol, e os pés, como colunas de fogo;
+O temor do SENHOR é uma fonte de vida para preservar dos laços da morte.
+E porei o rosto contra o tal homem, e o farei um espanto, um sinal, e um provérbio, e arrancá-lo-ei do meio do meu povo; e sabereis que eu sou o SENHOR.
 Porque os filhos de José foram duas tribos, Manassés e Efraim; e aos levitas não deram herança na terra, senão cidades em que habitassem e os seus arrabaldes para seu gado e para sua possessão.
-E Jesus, vendo que a multidão concorria, repreendeu o espírito imundo, dizendo-lhe: Espírito mudo e surdo, eu te ordeno: sai dele e não entres mais nele.
-E partiu o rei de Israel, e o rei de Judá, e o rei de Edom; e andaram rodeando com uma marcha de sete dias, e o exército e o gado que os seguia não tinham água.
-Uma coisa pedi ao SENHOR e a buscarei: que possa morar na Casa do SENHOR todos os dias da minha vida, para contemplar a formosura do SENHOR e aprender no seu templo.
-Pisar debaixo dos pés todos os presos da terra,
-Quanto a estas coisas que vedes, dias virão em que se não deixará pedra sobre pedra que não seja derribada.
-os quais em outro tempo foram rebeldes, quando a longanimidade de Deus esperava nos dias de Noé, enquanto se preparava a arca; na qual poucas (isto é, oito) almas se salvaram pela água,
-e disse-lhe: Não temas, que não te achará a mão de Saul, meu pai; porém tu reinarás sobre Israel, e eu serei contigo o segundo; o que também Saul, meu pai, bem sabe.
-Qualquer que é nascido de Deus não vive na prática do pecado; porque a sua semente permanece nele; e não pode viver pecando, porque é nascido de Deus.
-Esperei, pois, mas não falais; porque já parastes, e não respondeis mais.
-Quando o SENHOR trouxe do cativeiro os que voltaram a Sião, estávamos como os que sonham.
-segundo o que está escrito no livro das palavras do profeta Isaías, que diz: Voz do que clama no deserto: Preparai o caminho do Senhor; endireitai as suas veredas.
-Vêm contra mim como por uma grande brecha e revolvem-se entre a assolação.
-E disse Davi a Aimeleque: Não tens aqui à mão lança ou espada alguma? Porque não trouxe à mão nem a minha espada nem as minhas armas, porque o negócio do rei era apressado.
-se achei graça aos olhos do rei, e se bem parecer ao rei conceder-me a minha petição e outorgar-me o meu requerimento, venha o rei com Hamã ao banquete que lhes hei de preparar, e amanhã farei conforme o mandado do rei.
-Virará, então, o seu rosto para as fortalezas da sua própria terra, mas tropeçará, e cairá, e não será achado.
-E disse Joabe a Amasa: Vai contigo bem, meu irmão? E Joabe, com a mão direita, pegou da barba de Amasa, para o beijar.
-Se, pois, estais mortos com Cristo quanto aos rudimentos do mundo, por que vos carregam ainda de ordenanças, como se vivêsseis no mundo,
-Também vi eu que todo trabalho e toda destreza em obras trazem ao homem a inveja do seu próximo. Também isso é vaidade e aflição de espírito.
-E de uma vez tomou  todos esses reis e as suas terras, porquanto o SENHOR, Deus de Israel, pelejava por Israel.
-Porém a mão do SENHOR se agravou sobre os de Asdode, e os assolou, e os feriu com hemorroidas, a Asdode e aos seus termos.
-E por eles me santifico a mim mesmo, para que também eles sejam santificados na verdade.
-os lábios dos que se levantam contra mim e as suas imaginações contra mim todo o dia.
-Eles, porém, disseram-lhes como Jesus lhes tinha mandado; e os deixaram ir.
-Também preparará uma oferta de manjares: um efa para cada bezerro, e um efa para cada carneiro, e um him de azeite para cada efa.
-Então, subiu Moisés das campinas de Moabe ao monte Nebo, ao cume de Pisga, que está defronte de Jericó; e o SENHOR mostrou-lhe toda a terra, desde Gileade até Dã;
-Porém, Joás, rei de Judá, tomou todas as coisas santas que Josafá, e Jeorão, e Acazias, seus pais, reis de Judá, consagraram, como também todo o ouro que se achou nos tesouros da Casa do SENHOR e na casa do rei; e os mandou a Hazael, rei da Síria; e este, então, se retirou de Jerusalém.
-No segundo mês, no dia catorze, de tarde, a celebrarão: Com pães asmos e ervas amargas a comerão.
-Sacrificam sobre os cumes dos montes e queimam incenso sobre os outeiros, debaixo do carvalho, e do álamo, e do olmeiro, porque é boa a sua sombra; por isso, vossas filhas se prostituem, e as vossas noras adulteram.
-Então, Moisés deu ordem acerca deles a Eleazar, o sacerdote, e a Josué, filho de Num, e aos cabeças das casas dos pais das tribos dos filhos de Israel;
-Porém os siros fugiram de diante de Israel, e feriu Davi, dos siros, sete mil cavalos de carros e quarenta mil homens de pé; e a Sofaque, capitão do exército, matou.
-E o SENHOR deu um salvador a Israel, e os filhos de Israel saíram de debaixo das mãos dos siros e habitaram nas suas tendas, como dantes.
-E disse o sacerdote: A espada de Golias, o filisteu, a quem tu feriste no vale do Carvalho, eis que ela aqui está, envolta num pano detrás do éfode; se tu a queres tomar, toma-a, porque nenhuma outra há aqui, senão aquela. E disse Davi: Não há outra semelhante; dá-ma.
-SENHOR, tu tens sido o nosso refúgio, de geração em geração.
-As mulheres receberam, pela ressurreição, os seus mortos; uns foram torturados, não aceitando o seu livramento, para alcançarem uma melhor ressurreição;
-Tens visto um homem precipitado nas suas palavras? Maior esperança há de um tolo do que dele.
-Não admitirás falso rumor e não porás a tua mão com o ímpio, para seres testemunha falsa.
-Este será o ministério dos filhos de Coate na tenda da congregação, nas coisas santíssimas.
-Naquele dia, diz o SENHOR, congregarei a que coxeava e recolherei a que eu tinha expulsado e a que eu tinha maltratado.
-Vós me profanastes entre o meu povo, por punhados de cevada e por pedaços de pão, para matardes as almas que não haviam de morrer e para guardardes vivas as almas que não haviam de viver, mentindo, assim, ao meu povo que escuta a mentira.
-Mas um só e o mesmo Espírito opera todas essas coisas, repartindo particularmente a cada um como quer.
-Estes combaterão contra o Cordeiro, e o Cordeiro os vencerá, porque é o Senhor dos senhores e o Rei dos reis; vencerão os que estão com ele, chamados, eleitos e fiéis.
-E Moisés escreveu todas as palavras do SENHOR, e levantou-se pela manhã de madrugada, e edificou um altar ao pé do monte e doze monumentos, segundo as doze tribos de Israel;
-Ah! SENHOR, Deus de Israel, justo és, pois ficamos escapos, como hoje se vê; eis que estamos diante de ti no nosso delito, porque ninguém há que possa estar na tua presença por causa disso.
-Eles correm e se preparam, sem culpa minha; desperta para me ajudares e olha.
-No entanto, bem quiséramos ouvir de ti o que sentes; porque, quanto a esta seita, notório nos é que em toda parte se fala contra ela.
-que anuncio o fim desde o princípio e, desde a antiguidade, as coisas que ainda não sucederam; que digo: o meu conselho será firme, e farei toda a minha vontade;
-Deus subiu com júbilo, o SENHOR subiu ao som da trombeta.
-Ouvindo, então, isso os moradores de Jabes-Gileade, o que os filisteus fizeram a Saul,
-E Deus não fará justiça aos seus escolhidos, que clamam a ele de dia e de noite, ainda que tardio para com eles?
-E disse o SENHOR a Samuel: Eis aqui vou eu a fazer uma coisa em Israel, a qual todo o que ouvir lhe tinirão ambas as orelhas.
-Espera no SENHOR, anima-te, e ele fortalecerá o teu coração; espera, pois, no SENHOR.
-Alongaste de mim os meus conhecidos e fizeste-me em extremo abominável para eles; estou fechado e não posso sair.
-E fora-lhe revelado pelo Espírito Santo que ele não morreria antes de ter visto o Cristo do Senhor.
-Certamente, em vão se confia nos outeiros e na multidão das montanhas; deveras, no SENHOR, nosso Deus, está a salvação de Israel.
-E será para os sacerdotes santificados dentre os filhos de Zadoque, que guardaram a minha ordenança, que não andaram errados, quando os filhos de Israel se extraviaram, como se extraviaram os outros levitas.
-e fará tornar sobre ti todos os males do Egito, de que tu tiveste temor; e se apegarão a ti.
-e tomarás o azeite da unção e o derramarás sobre a sua cabeça; assim, o ungirás.
-Aquele, porém, que atenta bem para a lei perfeita da liberdade e nisso persevera, não sendo ouvinte esquecido, mas fazedor da obra, este tal será bem-aventurado no seu feito.
-Assim, restituiu as mil e cem moedas de prata à sua mãe; porém sua mãe disse: Inteiramente tenho dedicado este dinheiro da minha mão ao SENHOR para meu filho, para fazer uma imagem de escultura e de fundição; de sorte que agora to tornarei a dar.
-Falou mais o SENHOR a Moisés, dizendo:
-Se não fora o SENHOR, que esteve ao nosso lado, quando os homens se levantaram contra nós,
-Eis que os trarei da terra do Norte e os congregarei das extremidades da terra; e, com eles, os cegos, os aleijados, as mulheres grávidas e as de parto juntamente; em grande congregação, voltarão para aqui.
-E as águas tornaram de sobre a terra continuamente e, ao cabo de cento e cinquenta dias, as águas minguaram.
-e aos reis que estavam ao norte, nas montanhas, na campina para o sul de Quinerete, nas planícies e em Nafote-Dor, da banda do mar;
-Amaldiçoem eles, mas abençoa tu; levantem-se, mas fiquem confundidos; e alegre-se o teu servo.
-Mas o tronco, com as suas raízes, deixai na terra e, com cadeias de ferro e de bronze, na erva do campo; e seja molhado do orvalho do céu, e a sua porção seja com os animais na grama da terra.
-e pedras sardônicas, e pedras de engaste para o éfode e para o peitoral.
-E acontecerá que, quando eu trouxer nuvens sobre a terra, aparecerá o arco nas nuvens.
-Mas ele se indignou e não queria entrar. E, saindo o pai, instava com ele.
-E sucedeu que, no dia seguinte, o povo pela manhã se levantou, e edificou ali um altar, e ofereceu holocaustos e ofertas pacíficas.
-assim servirás aos teus inimigos, que o SENHOR enviará contra ti, com fome, e com sede, e com nudez, e com falta de tudo; e sobre o teu pescoço porá um jugo de ferro, até que te tenha destruído.
-E, tardando o esposo, tosquenejaram todas e adormeceram.
-E a tua vida como suspensa estará diante de ti; e estremecerás de noite e de dia e não crerás na tua própria vida.
-E crucificaram com ele dois salteadores, um à sua direita, e outro à esquerda.
-Gemei, faias, porque os cedros caíram, porque os mais excelentes são destruídos; gemei, ó carvalhos de Basã, porque o bosque forte é derribado.
-Também a mulher, quando manar o fluxo do seu sangue, por muitos dias fora do tempo da sua separação ou quando tiver fluxo de sangue por mais tempo do que a sua separação, todos os dias do fluxo da sua imundícia será imunda, como nos dias da sua separação.
-E infamaram a terra, que tinham espiado, perante os filhos de Israel, dizendo: A terra, pelo meio da qual passamos a espiar, é terra que consome os seus moradores; e todo o povo que vimos no meio dela são homens de grande estatura.
-E, descendo ele logo, saíram-lhe ao encontro os seus servos e lhe anunciaram, dizendo: O teu filho vive.
-E os nossos aprendam também a aplicar-se às boas obras, nas coisas necessárias, para que não sejam infrutuosos.
-Porque o SENHOR, vosso Deus, fez secar as águas do Jordão diante de vós, até que passásseis, como o SENHOR, vosso Deus, fez ao mar Vermelho, que fez secar perante nós, até que passamos.
-E os soldados o levaram para dentro do palácio, à sala da audiência, e convocaram toda a coorte.
-E te alegrarás por todo o bem que o SENHOR, teu Deus, te tem dado a ti e a tua casa, tu, e o levita, e o estrangeiro que está no meio de ti.
-e para o nosso Deus os fizeste reis e sacerdotes; e eles reinarão sobre a terra.
-Pois quê? Pecaremos porque não estamos debaixo da lei, mas debaixo da graça? De modo nenhum!
-Debaixo de si tem conchas pontiagudas; estende-se sobre coisas pontiagudas como na lama.
-Arvorai a bandeira para Sião, fugi para salvação vossa, não pareis; porque eu trago um mal do Norte, uma grande destruição.
-Então, disse a Abrão: Saibas, decerto, que peregrina será a tua semente em terra que não é sua; e servi-los-á e afligi-la-ão quatrocentos anos.
-Quão amáveis são os teus tabernáculos, SENHOR dos Exércitos!
-E ninguém, acendendo uma candeia, a põe em oculto, nem debaixo do alqueire, mas no velador, para que os que entram vejam a luz.
-desde Aroer, que está à borda do ribeiro de Arnom, e a cidade que está no meio do vale, e toda a campina de Medeba até Dibom;
-Toda cama sobre que se deitar todos os dias do seu fluxo ser-lhe-á como a cama da sua separação; e toda coisa sobre que se assentar será imunda, conforme a imundícia da sua separação.
-Os príncipes de Judá são como os que traspassam os limites; derramarei, pois, o meu furor sobre eles como água.
-Chamar-me-ias, e eu te responderia; afeiçoa-te à obra de tuas mãos.
-E Davi diz: Torne-se-lhes a sua mesa em laço, e em armadilha, e em tropeço, por sua retribuição;
-Mas se ajuntarão a ti e farão a guarda da tenda da congregação em todo o ministério da tenda; e o estranho não se chegará a vós.
-O SENHOR desnudou o seu santo braço perante os olhos de todas as nações; e todos os confins da terra verão a salvação do nosso Deus.
-E levou-me à entrada da porta da Casa do SENHOR, que está da banda do norte, e eis que estavam ali mulheres assentadas chorando por Tamuz.
-Então, virou o rei o rosto e abençoou toda a congregação de Israel; e toda a congregação de Israel estava em pé.
-Então, a terra se abalou e tremeu; e os fundamentos dos montes também se moveram e se abalaram, porquanto se indignou.
-e Joana, mulher de Cuza, procurador de Herodes, e Suzana, e muitas outras que o serviam com suas fazendas.
-E há de ser que, usando o SENHOR com o meu senhor conforme todo o bem que já tem dito de ti e te tiver estabelecido chefe sobre Israel,
-Então, faleceu Ibsã e foi sepultado em Belém.
-E, no dia de levantar o tabernáculo, a nuvem cobriu o tabernáculo sobre a tenda do Testemunho; e, à tarde, estava sobre o tabernáculo como uma aparência de fogo até à manhã.
-Oh! Se eu pudesse consolar-me na minha tristeza! O meu coração desfalece em mim.
-Mas Paulo replicou: Açoitaram-nos publicamente, e, sem sermos condenados, sendo homens romanos, nos lançaram na prisão, e agora, encobertamente, nos lançam fora? Não será assim; mas venham eles mesmos e tirem-nos para fora.
-E, vendo Gaal aquele povo, disse a Zebul: Eis que desce gente dos cumes dos montes. Zebul, ao contrário, lhe disse: As sombras dos montes vês por homens.
-E os filhos de Israel que se acharam em Jerusalém celebraram a Festa dos Pães Asmos sete dias, com grande alegria; e os levitas e os sacerdotes louvaram bem alto ao SENHOR, dia após dia.
-Os filhos de Merari: Mali e Musi; estas são as famílias dos levitas, segundo seus pais.
-Vendo, então, Jacó que havia mantimento no Egito, disse Jacó a seus filhos: Por que estais olhando uns para os outros?
-E perguntaram a Baruque, dizendo: Declara-nos, agora, como escreveste da sua boca todas estas palavras.
-apagaram a força do fogo, escaparam do fio da espada, da fraqueza tiraram forças, na batalha se esforçaram, puseram em fugida os exércitos dos estranhos.
-Ele sela as mãos de todo homem, para que conheçam todos os homens a sua obra.
-Pelo que também de um, e esse já amortecido, descenderam tantos, em multidão, como as estrelas do céu, e como a areia inumerável que está na praia do mar.
-então, aquele que oferecer a sua oferta ao SENHOR, por oferta de manjares, oferecerá uma décima de flor de farinha misturada com a quarta parte de um him de azeite. E de vinho para libação preparareis a quarta parte de um him, para holocausto ou para sacrifício por cordeiro;
-Não te desamparem a benignidade e a fidelidade; ata-as ao teu pescoço; escreve-as na tábua do teu coração
-Então, tomou Moisés aquele sangue, e o espargiu sobre o povo, e disse: Eis aqui o sangue do concerto que o SENHOR tem feito convosco sobre todas estas palavras.
-Portanto, num dia virão as suas pragas: a morte, e o pranto, e a fome; e será queimada no fogo, porque é forte o Senhor Deus, que a julga.
-E tudo isso provém de Deus, que nos reconciliou consigo mesmo por Jesus Cristo e nos deu o ministério da reconciliação,
-Depois, levará o novilho fora do arraial e o queimará como queimou o primeiro novilho; é expiação do pecado da congregação.
-Responder antes de ouvir é estultícia e vergonha.
-Pelo que disse: Eis que voltou tua cunhada ao seu povo e aos seus deuses; volta tu também após a tua cunhada.
-Havendo-te, pois, o SENHOR, teu Deus, introduzido na terra que jurou a teus pais, Abraão, Isaque e Jacó, te daria, onde há grandes e boas cidades, que tu não edificaste,
-Desde a antiguidade fundaste a terra; e os céus são obra das tuas mãos.
-Porém, havendo nele algum defeito, se for coxo, ou cego, ou tiver qualquer defeito, não sacrificarás ao SENHOR, teu Deus.
-E, quanto à semelhança dos animais, o seu parecer era como brasas de fogo ardentes, como uma aparência de tochas; o fogo corria por entre os animais, e o fogo resplandecia, e do fogo saíam relâmpagos.
-Barrabás fora lançado na prisão por causa de uma sedição feita na cidade e de um homicídio.
-Houve, então, uma questão entre os discípulos de  e um judeu, acerca da purificação.
-Melhor é o pobre que anda na sua sinceridade do que o perverso de lábios e tolo.
-parecem-se com o leão que deseja arrebatar a sua presa e com o leãozinho que se põe em esconderijos.
-Então, Josué, e todo o Israel com ele, se tornou ao arraial em Gilgal.
-Partidos, pois, os filhos de Israel de Ramessés, acamparam-se em Sucote.
-A minha alma tem observado os teus testemunhos; amo-os extremamente.
-Então, o Anjo do SENHOR lhe disse: Por que já três vezes espancaste a tua jumenta? Eis que eu saí para ser teu adversário, porquanto o teu caminho é perverso diante de mim;
-Só por um pouco de tempo, foi possuída pelo teu santo povo; nossos adversários pisaram o teu santuário.
-Então, aqueles homens responderam-lhe: A nossa vida responderá pela vossa até ao ponto de morrer, se não denunciardes este nosso negócio; e será, pois, que, dando-nos o SENHOR esta terra, usaremos contigo de beneficência e de fidelidade.
-Todos os dias que se separar para o SENHOR, não se chegará a corpo de um morto. Por seu pai, ou por sua mãe, ou por seu irmão, ou por sua irmã, por eles se não contaminará, quando forem mortos; porquanto o nazireado do seu Deus está sobre a sua cabeça.
-Eis que fugiria para longe e pernoitaria no deserto. (Selá)
-Então, todo o povo tomou a Uzias, que era da idade de dezesseis anos, e o fez rei em lugar de Amazias, seu pai.
-Assim diz o Senhor JEOVÁ: Visto como vos dizem: Tu és uma terra que devora os homens e és uma terra que desfilha os seus povos;
-Nós, pois, jejuamos e pedimos isso ao nosso Deus, e moveu-se pelas nossas orações.
-Mas faço-vos saber, irmãos, que o evangelho que por mim foi anunciado não é segundo os homens,
-Nós o amamos porque ele nos amou primeiro.
-E sucedeu que todo um ano se reuniram naquela igreja e ensinaram muita gente. Em Antioquia, foram os discípulos, pela primeira vez, chamados cristãos.
-Chegai-vos a Deus, e ele se chegará a vós. Limpai as mãos, pecadores; e, vós de duplo ânimo, purificai o coração.
-Então, veio a mim a palavra do SENHOR, dizendo:
-de Mali, Eleazar; este não teve filhos; dos filhos de Quis, Jerameel;
-a qual dizia ao sexto anjo, que tinha a trombeta: Solta os quatro anjos que estão presos junto ao grande rio Eufrates.
-Pequeno sou e desprezado, mas não me esqueço dos teus mandamentos.
-Porventura, não vos espantará a sua alteza? E não cairá sobre vós o seu temor?
-E, entrando eles a fazerem sacrifícios e holocaustos, Jeú preparou da parte de fora oitenta homens e disse-lhes: Se escapar algum dos homens que eu entregar em vossas mãos, a vossa vida será pela vida dele.
-Mas a Paulo parecia razoável que não tomassem consigo aquele que desde a Panfília se tinha apartado deles e não os acompanhou naquela obra.
-a qual deixa o guia da sua mocidade e se esquece do concerto do seu Deus;
-com todas as suas aldeias que estavam em redor destas cidades, até Baal. Estas foram as suas habitações e suas genealogias.
-E responderam os filhos de Gade e os filhos de Rúben, dizendo: O que o SENHOR falou a teus servos, isso faremos.
-E saíram ao campo, e vindimaram as suas vinhas, e pisaram as uvas, e fizeram canções de louvor; e foram à casa de seu Deus, e comeram, e beberam, e amaldiçoaram a Abimeleque.
-E Mizraim gerou a Ludim, e a Anamim, e a Leabim, e a Naftuim,
-Disse, pois, Jesus: Deixai-a; para o dia da minha sepultura guardou isto.
-Ensina-me a fazer a tua vontade, pois és o meu Deus; guie-me o teu bom Espírito por terra plana.
-E disse-lhes: Está escrito: A minha casa será chamada casa de oração. Mas vós a tendes convertido em covil de ladrões.
-Então, Moisés disse a Deus: Quem sou eu, que vá a Faraó e tire do Egito os filhos de Israel?
-Se quiser contender com ele, nem a uma de mil coisas lhe poderá responder.
+E, saindo dos sepulcros, depois da ressurreição dele, entraram na Cidade Santa e apareceram a muitos.
+E escolher-se-á antes a morte do que a vida de todo o resto dos que restarem desta raça maligna que ficar nos lugares onde os lancei, diz o SENHOR dos Exércitos.
+E, subindo Moisés o monte, a nuvem cobriu o monte.
+E tomou a mulher a tampa, e a estendeu sobre a boca do poço, e espalhou grão descascado sobre ela; assim, nada se soube.
+Sonhou também José um sonho, que contou a seus irmãos; por isso, o aborreciam ainda mais.
+Nas tuas portas, o comerás; o imundo e o limpo o comerão juntamente, como da corça ou do veado.
+Então, lhe disseram seus irmãos: Tu, pois, deveras reinarás sobre nós? Tu deveras terás domínio sobre nós? Por isso, tanto mais o aborreciam por seus sonhos e por suas palavras.
+E Jeú dormiu com seus pais, e o sepultaram em Samaria; e Jeoacaz, seu filho, reinou em seu lugar.
+Então, veio a Jeremias, o profeta, a palavra do SENHOR, dizendo: Assim diz o SENHOR, Deus de Israel: Assim direis ao rei de Judá, que vos enviou a mim, para se informar: Eis que o exército de Faraó, que saiu em vosso socorro, voltará para a sua terra no Egito.
+E, entrando no sepulcro, viram um jovem assentado à direita, vestido de uma roupa comprida e branca; e ficaram espantadas.
+A terra do Egito está diante da tua face; no melhor da terra faze habitar teu pai e teus irmãos; habitem na terra de Gósen; e, se sabes que entre eles há homens valentes, os porás por maiorais do gado, sobre o que eu tenho.
+Mas tu, ó Deus, os farás descer ao poço da perdição; homens de sangue e de fraude não viverão metade dos seus dias; mas eu em ti confiarei.
+Por que como poderei ver o mal que sobrevirá ao meu povo? E como poderei ver a perdição da minha geração?
+E, havendo tomado o livro, os quatro animais e os vinte e quatro anciãos prostraram-se diante do Cordeiro, tendo todos eles harpas e salvas de ouro cheias de incenso, que são as orações dos santos.
+E para mim tomarás os levitas (eu sou o SENHOR) em lugar de todo primogênito dos filhos de Israel e os animais dos levitas em lugar de todo primogênito entre os animais dos filhos de Israel.
+E disse o povo a Josué: Serviremos ao SENHOR, nosso Deus, e obedeceremos à sua voz.
+Mas graças a Deus, que nos dá a vitória por nosso Senhor Jesus Cristo.
+porquanto ele recebeu de Deus Pai honra e glória, quando da magnífica glória lhe foi dirigida a seguinte voz: Este é o meu Filho amado, em quem me tenho comprazido.
+nan
+E, à hora nona, Jesus exclamou com grande voz, dizendo: Eloí, Eloí, lemá sabactâni? Isso, traduzido, é: Deus meu, Deus meu, por que me desamparaste?
+e para que sejamos livres de homens dissolutos e maus; porque a fé não é de todos.
+Sabei, pois, agora que, da palavra do SENHOR, que o SENHOR falou contra a casa de Acabe, nada cairá em terra, porque o SENHOR tem feito o que falou pelo ministério de seu servo Elias.
+Vós tendes por pai ao diabo e quereis satisfazer os desejos de vosso pai; ele foi homicida desde o princípio e não se firmou na verdade, porque não há verdade nele; quando ele profere mentira, fala do que lhe é próprio, porque é mentiroso e pai da mentira.
+Não voltará para a terra do Egito, mas a Assíria será seu rei, porque recusam converter-se.
+Isto será mais agradável ao SENHOR do que o boi ou bezerro que tem pontas e unhas.
+SENHOR, ouve a minha oração, e chegue a ti o meu clamor.
+Uma coisa disse Deus, duas vezes a ouvi: que o poder pertence a Deus.
+Então, veio Amaleque e pelejou contra Israel em Refidim.
+Porque já o mistério da injustiça opera; somente há um que, agora, resiste até que do meio seja tirado;
+Fendeu as penhas no deserto e deu-lhes de beber como de grandes abismos.
+E deixaram o SENHOR, Deus de seus pais, que os tirara da terra do Egito, e foram-se após outros deuses, dentre os deuses das gentes que havia ao redor deles, e encurvaram-se a eles, e provocaram o SENHOR à ira.
+Como tu não deste ouvidos à voz do SENHOR e não executaste o fervor da sua ira contra Amaleque, por isso, o SENHOR te fez hoje isso.
+Ao anoitecer, eis que há pavor; e, antes que amanheça, eles não serão. Esta é a parte daqueles que nos despojam e a sorte daqueles que nos saqueiam.
+E foi também Jacó o seu caminho, e encontraram-no os anjos de Deus.
+e mandai-lhes, dizendo: Tomai daqui, do meio do Jordão, do lugar do assento dos pés dos sacerdotes, doze pedras; e levai-as convosco à outra banda e depositai-as no alojamento em que haveis de passar esta noite.
+Porventura, condena a nossa lei um homem sem primeiro o ouvir e ter conhecimento do que faz?
+A minha alma se gloriará no SENHOR; os mansos o ouvirão e se alegrarão.
+E brotarão entre a erva, como salgueiros junto aos ribeiros das águas.
+A multidão respondeu e disse: Tens demônio; quem procura matar-te?
+E disseram-me: Os restantes, que não foram levados para o cativeiro, lá na província estão em grande miséria e desprezo, e o muro de Jerusalém, fendido, e as suas portas, queimadas a fogo.
+O SENHOR abençoou muito o meu senhor, de maneira que foi engrandecido; e deu-lhe ovelhas e vacas, e prata e ouro, e servos e servas, e camelos e jumentos.
+A tua vergonha se descobrirá, e ver-se-á o teu opróbrio; tomarei vingança e não farei acepção de homem algum.
 Louvai ao SENHOR, porque ele é bom, porque a sua benignidade é para sempre.
-Então, tomei comigo fiéis testemunhas, a Urias, sacerdote, e a Zacarias, filho de Jeberequias.
-e que o sacerdote, filho de Arão, estaria com os levitas quando os levitas recebessem os dízimos, e que os levitas trariam os dízimos dos dízimos à Casa do nosso Deus, às câmaras da casa do tesouro.
-e tirou o servo vasos de prata, e vasos de ouro, e vestes e deu-os a Rebeca; também deu coisas preciosas a seu irmão e a sua mãe.
-Porque vós, irmãos, haveis sido feitos imitadores das igrejas de Deus que, na Judeia, estão em Jesus Cristo; porquanto também padecestes de vossos próprios concidadãos o mesmo que os judeus lhes fizeram a eles,
-Mas os seus altares transtornareis, e as suas estátuas quebrareis, e os seus bosques cortareis.
-Acabando, pois, de repartir a terra em herança segundo os seus termos, deram os filhos de Israel a Josué, filho de Num, herança no meio deles.
-Porque assim diz o SENHOR à casa de Israel: Buscai-me e vivei.
-Então, peguei das duas tábuas, e as arrojei de ambas as minhas mãos, e as quebrei aos vossos olhos.
-Toma os deles, e serão para servir no ministério da tenda da congregação; e os darás aos levitas, a cada qual segundo o seu ministério.
-Mas, se, vendo-a o sacerdote, a praga se não estendeu na veste, ou no fio urdido, ou no tecido, ou em qualquer obra de peles,
-Se retive o que os pobres desejavam ou fiz desfalecer os olhos da viúva;
-Mudastes, porém, e profanastes o meu nome, e fizestes voltar cada um ao seu servo, e cada um, à sua serva, os quais já tínheis despedido forros, conforme a sua vontade; e os sujeitastes, para que se vos fizessem servos e servas.
-Depois, fez chegar a oferta do povo, e tomou o bode da expiação do pecado, que era pelo povo, e o degolou, e o preparou por expiação do pecado, como o primeiro.
-Então, disse Davi a Abner: Porventura, não és varão? E quem há em Israel como tu? Por que, pois, não guardaste tu o rei, teu senhor? Porque um do povo veio para destruir o rei, teu senhor.
-maravilhas na terra de Cam, coisas tremendas no mar Vermelho.
-E sacrificou todos os sacerdotes dos altos, que havia ali, sobre os altares, e queimou ossos de homens sobre eles; depois, voltou a Jerusalém.
-Veio, porém, a lei para que a ofensa abundasse; mas, onde o pecado abundou, superabundou a graça;
-Josué, porém, disse aos dois homens que tinham espiado a terra: Entrai na casa da mulher prostituta e tirai de lá a mulher com tudo quanto tiver, como lhe tendes jurado.
-estava nu, e vestistes-me; adoeci, e visitastes-me; estive na prisão, e fostes ver-me.
-Dos filhos de Issacar, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos para cima, todos os que podiam sair à guerra, foram contados deles, da tribo de Issacar, cinquenta e quatro mil e quatrocentos.
-Asael, irmão de Joabe, estava entre os trinta, que eram: Elanã, filho de Dodô, de Belém; Sama, harodita; Elica, harodita; Heles, paltita; Ira, filho de Iques, tecoíta; Abiezer, anatotita; Mebunai, husatita; Zalmom, aoíta; Maarai, netofatita; Helebe, filho de Baaná, netofatita; Itai, filho de Ribai, de Gibeá, dos filhos de Benjamim; Benaia, piratonita; Hidai, do ribeiro de Gaás; Abi-Albom, arbatita; Azmavete, barumita; Eliaba, saalbonita; os filhos de Jasém; e Jônatas; Sama, hararita; Aião, filho de Sarar, ararita; Elifelete, filho de Aasbai, filho de um maacatita; Eliã, filho de Aitofel, gilonita; Hezrai, carmelita; Paarai, arbita; Igal, filho de Natã, de Zobá; Bani, gadita; Zeleque, amonita; Naarai, beerotita, o que trazia as armas de Joabe, filho de Zeruia; Ira, jetrita; Garebe, jetrita; Urias, heteu; trinta e sete por todos.
-Foi este que os conduziu para fora, fazendo prodígios e sinais na terra do Egito, no mar Vermelho e no deserto, por quarenta anos.
-dizendo: Estes derradeiros trabalharam só uma hora, e tu os igualaste conosco, que suportamos a fadiga e a calma do dia.
-mas oferecereis oferta queimada em holocausto ao SENHOR, dois bezerros e um carneiro, e sete cordeiros de um ano; ser-vos-ão eles sem mancha.
-Toma a soma dos filhos de Coate, do meio dos filhos de Levi, pelas suas gerações, segundo a casa de seus pais;
-Então, as vacas se encaminharam direitamente pelo caminho de Bete-Semes e seguiam um mesmo caminho, andando e berrando, sem se desviarem nem para a direita nem para a esquerda; e os príncipes dos filisteus foram atrás delas, até ao termo de Bete-Semes.
-Fogem os ímpios, sem que ninguém os persiga; mas qualquer justo está confiado como o filho do leão.
-Depois disso, Ezequias enviou mensageiros por todo o Israel e Judá e escreveu também cartas a Efraim e a Manassés que viessem à Casa do SENHOR, a Jerusalém, para celebrarem a Páscoa ao SENHOR, Deus de Israel.
-Porque povo rebelde é este, filhos mentirosos, filhos que não querem ouvir a lei do SENHOR;
-E pôs-se o rei Davi em pé e disse: Ouvi-me, irmãos meus e povo meu: Em meu coração, propus eu edificar uma casa de repouso para a arca do concerto do SENHOR e para o escabelo dos pés do nosso Deus, e eu tinha feito o preparo para a edificar.
-A qual dos profetas não perseguiram vossos pais? Até mataram os que anteriormente anunciaram a vinda do Justo, do qual vós agora fostes traidores e homicidas;
-Ora, se teu irmão pecar contra ti, vai e repreende-o entre ti e ele só; se te ouvir, ganhaste a teu irmão.
-E cumpriram-se-lhe quarenta dias, porque assim se cumprem os dias daqueles que se embalsamam; e os egípcios o choraram setenta dias.
-Assim direis a José: Perdoa, rogo-te, a transgressão de teus irmãos e o seu pecado, porque te fizeram mal; agora, pois, rogamos-te que perdoes a transgressão dos servos do Deus de teu pai. E José chorou quando eles lhe falavam.
-É para vós tempo de habitardes nas vossas casas estucadas, e esta casa há de ficar deserta?
-Voltando, pois, Gideão, filho de Joás, da peleja, antes do nascer do sol,
-E também disse o rei assim: Bendito o SENHOR, Deus de Israel, que hoje tem dado quem se assente no meu trono e que os meus olhos o vissem.
-E riam-se dele, sabendo que estava morta.
-Ora, o Deus de paciência e consolação vos conceda o mesmo sentimento uns para com os outros, segundo Cristo Jesus,
-Então, Hirão, rei de Tiro, mandou mensageiros a Davi, e madeira de cedro, e pedreiros, e carpinteiros, para lhe edificar uma casa.
-Tinha vinte e cinco anos de idade quando começou a reinar e dezesseis anos reinou em Jerusalém.
-Esta é a coisa que haveis de fazer: uma terça parte de vós, sacerdotes e levitas que entram de sábado, será formada de porteiros;
-Também falarás aos levitas e dir-lhes-ás: Quando receberdes os dízimos dos filhos de Israel, que eu deles vos tenho dado em vossa herança, deles oferecereis uma oferta alçada ao SENHOR: o dízimo dos dízimos.
-Ao oriente estavam seis levitas; ao norte, quatro por dia; ao sul, quatro por dia; porém às tesourarias, de dois em dois.
-Porque os olhos do Senhor estão sobre os justos, e os seus ouvidos, atentos às suas orações; mas o rosto do Senhor é contra os que fazem males.
-E, desde a dianteira da porta da entrada até à dianteira do vestíbulo da porta interior, havia cinquenta côvados.
-Faço chegar a minha justiça, e não estará ao longe, e a minha salvação não tardará; mas estabelecerei em Sião a salvação e em Israel, a minha glória.
-Até quando verei a bandeira e ouvirei a voz da trombeta?
-lepra envelhecida é na pele da sua carne; portanto, o sacerdote o declarará imundo; não o encerrará, porque imundo é.
-a fim de que, pela vontade de Deus, chegue a vós com alegria e possa recrear-me convosco.
-E alguns dos filósofos epicureus e estoicos contendiam com ele. Uns diziam: Que quer dizer este paroleiro? E outros: Parece que é pregador de deuses estranhos. Porque lhes anunciava a Jesus e a ressurreição.
-Também lhe entregaram o holocausto nos seus pedaços, com a cabeça; e queimou-o sobre o altar.
-Órfãos somos sem pai, nossas mães são como viúvas.
-Porquanto se, depois de terem escapado das corrupções do mundo, pelo conhecimento do Senhor e Salvador Jesus Cristo, forem outra vez envolvidos nelas e vencidos, tornou-se-lhes o último estado pior do que o primeiro.
-E saiu do altar outro anjo, que tinha poder sobre o fogo, e clamou com grande voz ao que tinha a foice aguda, dizendo: Lança a tua foice aguda e vindima os cachos da vinha da terra, porque já as suas uvas estão maduras!
-Diziam, pois: Que quer dizer isto: um pouco? Não sabemos o que diz.
-E dizia-lhes: Bem invalidais o mandamento de Deus para guardardes a vossa tradição.
-e que, havendo por ele feito a paz pelo sangue da sua cruz, por meio dele reconciliasse consigo mesmo todas as coisas, tanto as que estão na terra como as que estão nos céus.
-Vós que dilatais o dia mau e vos chegais ao lugar de violência;
-Irmãos, não sejais meninos no entendimento, mas sede meninos na malícia e adultos no entendimento.
-E o rei Herodes, ouvindo isso, perturbou-se, e toda a Jerusalém, com ele.
-Todavia, alguns de Aser, e de Manassés, e de Zebulom se humilharam e vieram a Jerusalém.
-E, ajuntando-se uma grande multidão, e vindo ter com ele gente de todas as cidades, disse por parábolas:
-Assim diz o SENHOR: Eis que trarei mal sobre este lugar e sobre os seus habitantes, a saber, todas as maldições que estão escritas no livro que se leu perante o rei de Judá.
-e para cada oferecimento dos holocaustos do SENHOR, nos sábados, e nas luas novas, e nas solenidades, por conta, segundo o seu costume, continuamente perante o SENHOR;
-E aconteceu que, num daqueles dias, entrou num barco com seus discípulos e disse-lhes: Passemos para a outra banda do lago. E partiram.
-Ouvindo isto, encheram-se de ira e clamaram, dizendo: Grande é a Diana dos efésios!
-O justo se alegrará no SENHOR e confiará nele; e todos os retos de coração se regozijarão.
-Farás também cinquenta colchetes de cobre e meterás os colchetes nas laçadas; e, assim, ajuntarás a tenda para que seja uma.
-Pelo que, não podendo esperar mais, de boa mente quisemos deixar-nos ficar sós em Atenas;
-Mas Davi tinha feito subir a arca de Deus de Quiriate-Jearim ao lugar que Davi lhe tinha preparado; porque lhe tinha armado uma tenda em Jerusalém.
-E tu, ó menino, serás chamado profeta do Altíssimo, porque hás de ir ante a face do Senhor, a preparar os seus caminhos,
-Ah! SENHOR Deus, não faças virar o rosto do teu ungido; lembra-te das misericórdias de Davi, teu servo.
-Todavia, o homem que está em honra não permanece; antes, é como os animais, que perecem.
-E, perto do sacrifício da tarde, me levantei da minha aflição, havendo já rasgado a minha veste e o meu manto, e me pus de joelhos, e estendi as minhas mãos para o SENHOR, meu Deus.
-O campo e a cova que está nele foram comprados aos filhos de Hete.
-graça a vós e paz, da parte de Deus, nosso Pai, e da do Senhor Jesus Cristo.
-E eles lhe disseram: Temos sonhado um sonho, e ninguém há que o interprete. E José disse-lhes: Não são de Deus as interpretações? Contai-mo, peço-vos.
-Quando, pois, o que tem o fluxo estiver limpo do seu fluxo, contar-se-ão sete dias para a sua purificação; e lavará as suas vestes, e banhará a sua carne em águas vivas, e será limpo.
-Em toda a angústia deles foi ele angustiado, e o Anjo da sua presença os salvou; pelo seu amor e pela sua compaixão, ele os remiu, e os tomou, e os conduziu todos os dias da antiguidade.
-Bem-aventurado o homem que fizer isso, e o filho do homem que lançar mão disso, que se guarda de profanar o sábado e guarda a sua mão de perpetrar algum mal.
-Salva-nos, SENHOR! Ouça-nos o Rei quando clamarmos.
-Que darei eu ao SENHOR por todos os benefícios que me tem feito?
-e beberam todos de uma mesma bebida espiritual, porque bebiam da pedra espiritual que os seguia; e a pedra era Cristo.
-E, chegando à eira de Quidom, estendeu Uzá a mão, para segurar a arca, porque os bois tropeçavam.
-E, pela manhã cedo, se levantou e foi com pressa à cova dos leões.
-Judá passou ao cativeiro por causa da aflição e por causa da grandeza da sua servidão; habita entre as nações, não acha descanso; todos os seus perseguidores a surpreenderam nas suas angústias.
-E tomarão do sangue e pô-lo-ão em ambas as ombreiras e na verga da porta, nas casas em que o comerem.
-Para que me perguntas a mim? Pergunta aos que ouviram o que é que lhes ensinei; eis que eles sabem o que eu lhes tenho dito.
-e que é manifesta, agora, pela aparição de nosso Salvador Jesus Cristo, o qual aboliu a morte e trouxe à luz a vida e a incorrupção, pelo evangelho,
-Esta noite se guardará ao SENHOR, porque nela os tirou da terra do Egito; esta é a noite do SENHOR, que devem guardar todos os filhos de Israel nas suas gerações.
-Então, Esaú correu-lhe ao encontro e abraçou-o; e lançou-se sobre o seu pescoço e beijou-o; e choraram.
-Assim se acabou toda a obra que fez o rei Salomão para a Casa do SENHOR. Então, trouxe Salomão as coisas santas de seu pai Davi; a prata, e o ouro, e os utensílios pôs entre os tesouros da Casa do SENHOR.
-Do seu nariz procede fumaça, como de uma panela fervente, ou de uma grande caldeira.
-Tu dizes: Eis que tenho ferido os edomitas, e elevou-se o teu coração, para te gloriares; agora, pois, fica em tua casa; por que te meterias no mal, para caíres tu e Judá contigo?
-Se o que te aborrece tiver fome, dá-lhe pão para comer; e, se tiver sede, dá-lhe água para beber,
-no qual também foi e pregou aos espíritos em prisão,
-que a ninguém infamem, nem sejam contenciosos, mas modestos, mostrando toda mansidão para com todos os homens.
-Porque o juízo será sem misericórdia sobre aquele que não fez misericórdia; e a misericórdia triunfa sobre o juízo.
-A formosa e delicada, a filha de Sião, eu deixarei desolada.
-sabendo que brevemente hei de deixar este meu tabernáculo, como também nosso Senhor Jesus Cristo já mo tem revelado.
-E, vendo os que estavam com ele o que ia suceder, disseram-lhe: Senhor, feriremos à espada?
-Portanto, assim diz o SENHOR: Se tu voltares, então, te trarei, e estarás diante da minha face; e, se apartares o precioso do vil, serás como a minha boca; tornem-se eles para ti, mas não voltes tu para eles.
-Tu os escutaste, SENHOR, nosso Deus; tu foste um Deus que lhes perdoaste, posto que vingador dos seus feitos.
-para que eu veja o bem de teus escolhidos, para que eu me alegre com a alegria do teu povo, para que me regozije com a tua herança.
-Senhor JEOVÁ, já começaste a mostrar ao teu servo a tua grandeza e a tua forte mão; porque, que deus há nos céus e na terra, que possa fazer segundo as tuas obras e segundo a tua fortaleza?
-Irmãos, não vos queixeis uns contra os outros, para que não sejais condenados. Eis que o juiz está à porta.
-E, no dia seguinte, quando saíram de Betânia, teve fome.
-Porquanto há furor, guarda-te de que, porventura, não sejas levado pela tua suficiência, nem te desvie a grandeza do resgate.
-E, tomando consigo os doze, disse-lhes: Eis que subimos a Jerusalém, e se cumprirá no Filho do Homem tudo o que pelos profetas foi escrito.
-Eis que os príncipes de Israel, cada um conforme o seu poder, tiveram domínio sobre ti, para derramarem o sangue.
-E comeram e beberam, naquele dia, perante o SENHOR, com grande gozo; e, segunda vez, fizeram rei a Salomão, filho de Davi, e o ungiram ao SENHOR por guia, e a Zadoque, por sacerdote.
-mas, dormindo os homens, veio o seu inimigo, e semeou o joio no meio do trigo, e retirou-se.
-Pelo que sucedeu, no ano quinto do rei Roboão, que Sisaque, rei do Egito, subiu contra Jerusalém (porque tinham transgredido contra o SENHOR)
-Mas não ouviram, nem inclinaram os ouvidos; antes, andaram cada um conforme o propósito do seu coração malvado; pelo que trouxe sobre eles todas as palavras deste concerto que lhes mandei que cumprissem, mas não cumpriram.
-Antes, elegeu a tribo de Judá, o monte Sião, que ele amava.
-E todo o seu corpo, e as suas costas, e as suas mãos, e as suas asas, e as rodas, as rodas que os quatro tinham, estavam cheias de olhos em redor.
-E ele confirmou a sua palavra, que falou contra nós e contra os nossos juízes que nos julgavam, trazendo sobre nós um grande mal; porquanto nunca debaixo de todo o céu aconteceu como em Jerusalém.
-Eis que as nações são consideradas por ele como a gota de um balde e como o pó miúdo das balanças; eis que lança por aí as ilhas como a uma coisa pequeníssima.
-Todos esperam de ti que lhes dês o seu sustento em tempo oportuno.
-O coração do justo medita o que há de responder, mas a boca dos ímpios derrama em abundância coisas más.
-E Davi reinou sobre todo o Israel; fazia juízo e justiça a todo o seu povo.
-Porém eu enviei a dizer-lhe: De tudo o que dizes coisa nenhuma sucedeu; mas tu, do teu coração, o inventas.
-E a pomba voltou a ele sobre a tarde; e eis, arrancada, uma folha de oliveira no seu bico; e conheceu Noé que as águas tinham minguado sobre a terra.
-E vieram ao lugar que Deus lhes dissera, e edificou Abraão ali um altar, e pôs em ordem a lenha, e amarrou a Isaque, seu filho, e deitou-o sobre o altar em cima da lenha.
-Então, disse Elias ao povo: Só eu fiquei por profeta do SENHOR, e os profetas de Baal são quatrocentos e cinquenta homens.
-E lançou-se ao pescoço de Benjamim, seu irmão, e chorou; e Benjamim chorou também ao seu pescoço.
-Então, disse Balaque a Balaão: Que me fizeste? Chamei-te para amaldiçoar os meus inimigos, mas eis que inteiramente os abençoaste.
-Mas quem suportará o dia da sua vinda? E quem subsistirá, quando ele aparecer? Porque ele será como o fogo do ourives e como o sabão dos lavandeiros.
-Nem presta para a terra, nem para o monturo; lançam-no fora. Quem tem ouvidos para ouvir, que ouça.
-De dia os guiou com uma nuvem, e toda a noite, com um clarão de fogo.
-E ninguém, tendo bebido o velho, quer logo o novo, porque diz: Melhor é o velho.
-Perversidade há no seu coração; todo o tempo maquina mal; anda semeando contendas.
-E, onde quer que entrar, dizei ao senhor da casa: O Mestre diz: Onde está o aposento em que hei de comer a Páscoa com os meus discípulos?
-Levou-me à sala do banquete, e o seu estandarte em mim era o amor.
-E isto te será da parte do SENHOR como sinal de que o SENHOR cumprirá esta palavra que falou:
-Voltou, pois, Rabsaqué e achou o rei da Assíria pelejando contra Libna; porque ouvira que já se havia retirado de Laquis.
-E Jacó disse, quando os viu: Este é o exército de Deus. E chamou o nome daquele lugar Maanaim.
-porque melhor é que te digam: Sobe para aqui, do que seres humilhado diante do príncipe a quem já os teus olhos viram.
-tendo uma boa consciência, para que, naquilo em que falam mal de vós, como de malfeitores, fiquem confundidos os que blasfemam do vosso bom procedimento em Cristo,
-E tinha este trinta filhos, que cavalgavam sobre trinta jumentos; e tinham trinta cidades, a que chamaram Havote-Jair até ao dia de hoje; as quais estão na terra de Gileade.
-Foram, pois, os correios com as cartas das mãos do rei e dos seus príncipes por todo o Israel e Judá e segundo o mandado do rei, dizendo: Filhos de Israel, convertei-vos ao SENHOR, Deus de Abraão, de Isaque e de Israel, para que ele se volte para aqueles de vós que escaparam e escaparam das mãos dos reis da Assíria.
-Na verdade, que só vós sois o povo, e convosco morrerá a sabedoria.
-Depois disso, me trouxe pela entrada que estava ao lado da porta, às câmaras santas dos sacerdotes, as quais olhavam para o norte; e eis que ali havia um lugar em ambos os lados, para a banda do ocidente.
-E, estando Pedro embaixo, no átrio, chegou uma das criadas do sumo sacerdote;
-Pelo que o Senhor, o SENHOR dos Exércitos, fará definhar os que entre eles são gordos e, debaixo da sua glória, ateará um incêndio, como incêndio de fogo.
-E este termo sairá até Zifrom, e as suas saídas serão em Hazar-Enã; este vos será o termo do norte.
-Receio de vós que haja eu trabalhado em vão para convosco.
-Eu olhava, e eis que essa ponta fazia guerra contra os santos e os vencia.
-Nem tampouco Ezequias vos faça confiar no SENHOR, dizendo: Infalivelmente, nos livrará o SENHOR, e esta cidade não será entregue nas mãos do rei da Assíria.
-E sairão e verão os corpos mortos dos homens que prevaricaram contra mim; porque o seu verme nunca morrerá, nem o seu fogo se apagará; e serão um horror para toda a carne.
-E contou-nos como vira em pé um anjo em sua casa, e lhe dissera: Envia varões a Jope e manda chamar a Simão, que tem por sobrenome Pedro,
-e atentardes para o que traz a veste preciosa e lhe disserdes: Assenta-te tu aqui, num lugar de honra, e disserdes ao pobre: Tu, fica aí em pé ou assenta-te abaixo do meu estrado,
-E, conhecendo a voz de Pedro, de alegria não abriu a porta, mas, correndo para dentro, anunciou que Pedro estava à porta.
-Então, lhes disse: Do comedor saiu comida, e doçura saiu do forte. E em três dias não puderam declarar o enigma.
-E eles tiraram a Urias do Egito e o trouxeram ao rei Jeoaquim, que o feriu à espada e lançou o seu cadáver nas sepulturas dos filhos do povo.
-A coroa de soberba dos bêbados de Efraim será pisada aos pés.
-Depois, disse Moisés aos filhos de Israel: Eis que o SENHOR tem chamado por nome a Bezalel, filho de Uri, filho de Hur, da tribo de Judá.
-Por isso, o SENHOR esperará para ter misericórdia de vós; e, por isso, será exalçado para se compadecer de vós, porque o SENHOR é um Deus de equidade. Bem-aventurados todos os que nele esperam.
-Nenhum dos homens desta maligna geração verá esta boa terra que jurei dar a vossos pais,
-Fizeram entre eles os seus sinais e prodígios na terra de Cam.
-E Amazias ajuntou a Judá e o pôs segundo as casas dos pais, por chefes de milhares e por chefes de centenas, por todo o Judá e Benjamim; e os numerou de vinte anos e daí para cima e achou deles trezentos mil escolhidos que saíam ao exército e levavam lança e escudo.
-O SENHOR é exalçado, pois habita nas alturas; encheu a Sião de retidão e de justiça.
-E aconteceu que, ao oitavo dia, vieram circuncidar o menino e lhe chamavam Zacarias, o nome de seu pai.
-Aquele que os guiou pelos abismos, como o cavalo, no deserto, de modo que nunca tropeçaram?
-Depois, deu Zilpa, serva de Leia, um segundo filho a Jacó.
-Mas, se não saíres aos príncipes do rei da Babilônia, então, será entregue esta cidade nas mãos dos caldeus, e eles a queimarão, e tu não escaparás das mãos deles.
-Porque sete vezes cairá o justo e se levantará; mas os ímpios tropeçarão no mal.
-A seta o não fará fugir; as pedras das fundas se lhe tornam em restolho.
-vi entre os simples, descobri entre os jovens, um jovem falto de juízo,
-Então, Josué, e todo o Israel com ele, passou de Maquedá a Libna e pelejou contra Libna.
-Os seus príncipes são leões rugidores no meio dela; os seus juízes são lobos da tarde, que não deixam os ossos para o outro dia.
-e vede que terra é, e o povo que nela habita; se é forte ou fraco; se pouco ou muito;
-E o SENHOR, Deus de Israel, escolheu-me de toda a casa de meu pai, para que eternamente fosse rei sobre Israel; porque a Judá escolheu por príncipe, e a casa de meu pai, na casa de Judá; e entre os filhos de meu pai se agradou de mim para me fazer rei sobre todo o Israel.
-Mas os egípcios nos maltrataram, e nos afligiram, e sobre nós puseram uma dura servidão.
-Então, tropeçará o soberbo e cairá, e ninguém haverá que o levante; e porei fogo às suas cidades, o qual consumirá todos os seus contornos.
-Então, o sacerdote lhe deu o pão sagrado, porquanto não havia ali outro pão, senão os pães da proposição, que se tiraram de diante do SENHOR, para se pôr ali pão quente, no dia em que aquele se tirasse.
-Depois, a tribo de Zebulom; e Eliabe, filho de Helom, será príncipe dos filhos de Zebulom. E o seu exército e os que foram contados deles foram cinquenta e sete mil e quatrocentos.
-Jesus, porém, respondendo, disse: Não sabeis o que pedis; podeis vós beber o cálice que eu hei de beber e ser batizados com o batismo com que eu sou batizado? Dizem-lhe eles: Podemos.
-E disse-lhe: Assim diz Ben-Hadade: A tua prata e o teu ouro são meus; e tuas mulheres e os melhores de teus filhos são meus.
-Então, Saul mandou dizer a Jessé: Deixa estar Davi perante mim, pois achou graça a meus olhos.
-Então, José se lançou sobre o rosto de seu pai, e chorou sobre ele, e o beijou.
-Não mudes o marco do teu próximo, que colocaram os antigos na tua herança, que possuíres na terra, que te dá o SENHOR, teu Deus, para a possuíres.
-E levantei os meus olhos e olhei, e eis que duas mulheres saíram, agitando o ar com as suas asas, pois tinham asas como as da cegonha; e levantaram o efa entre a terra e o céu.
-E viraram as costas diante dos homens de Israel, para o caminho do deserto; porém a peleja os apertou, e os das cidades os desfizeram no meio deles.
-Mas olhai por vós mesmos, porque vos entregarão aos concílios e às sinagogas; sereis açoitados e sereis apresentados ante governadores e reis, por amor de mim, para lhes servir de testemunho.
-Por que me receberam os joelhos? E por que os peitos, para que mamasse?
+Depois, perguntaram-lhe os fariseus e os escribas: Por que não andam os teus discípulos conforme a tradição dos antigos, mas comem com as mãos por lavar?
+E, depois dele, se levantou Jair, gileadita, e julgou a Israel vinte e dois anos.
+E conheci que eis que não era Deus quem o enviara; mas essa profecia falou contra mim, porquanto  e Sambalate o subornaram.
+O que anda na sua sinceridade teme ao SENHOR, mas o que se desvia de seus caminhos despreza-o.
+Considerava os dias da antiguidade, os anos dos tempos passados.
+E os filisteus pelejaram com Israel; e os homens de Israel fugiram de diante dos filisteus e caíram feridos nas montanhas de Gilboa.
+Muitas são, ó SENHOR, as tuas misericórdias; vivifica-me, segundo os teus juízos.
+Porém a mão do SENHOR se agravou sobre os de Asdode, e os assolou, e os feriu com hemorroidas, a Asdode e aos seus termos.
+e a comida da sua mesa, e o assentar de seus servos, e o estar de seus criados, e as vestes deles, e os seus copeiros, e a sua subida pela qual subia à Casa do SENHOR, não houve mais espírito nela.
+Mas nunca mais vos lembrareis do peso do SENHOR, porque a cada um lhe servirá de peso a sua própria palavra. Vós torceis as palavras do Deus vivo, do SENHOR dos Exércitos, o nosso Deus.
+Porém, no sétimo ano, Joiada se esforçou e tomou consigo em aliança os chefes das centenas: Azarias, filho de Jeroão, e Ismael, filho de Joanã, e Azarias, filho de Obede, e Maaseias, filho de Adaías, e Elisafate, filho de Zicri.
+nan
+Dei-te um rei na minha ira e to tirei no meu furor.
+E foram os filhos de Ulão varões heróis, valentes, e flecheiros destros; e tiveram muitos filhos, e filhos de filhos, cento e cinquenta; todos estes foram dos filhos de Benjamim.
+o príncipe Magdiel e o príncipe Irão; estes foram os príncipes de Edom.
+E tu, Pasur, e todos os moradores da tua casa ireis para o cativeiro; e irás a Babilônia, e ali morrerás, e ali serás sepultado, tu e todos os teus amigos, aos quais profetizaste falsamente.
+A tua misericórdia, SENHOR, está nos céus, e a tua fidelidade chega até às mais excelsas nuvens.
+Então, se humilharam os príncipes de Israel e o rei e disseram: O SENHOR é justo.
+Então, o rei se afeiçoará à tua formosura, pois ele é teu senhor; obedece-lhe.
+Eis que vem o dia do SENHOR, em que os teus despojos se repartirão no meio de ti.
+Porém o espírito mau, da parte do SENHOR, se tornou sobre Saul, estando ele assentado em sua casa e tendo na mão a sua lança, e tangendo Davi com a mão o instrumento de música.
+Fez também cinquenta colchetes de metal para ajuntar a tenda, para que fosse uma.
+Este, fixando os olhos nele e muito atemorizado, disse: Que é, Senhor? E o anjo lhe disse: As tuas orações e as tuas esmolas têm subido para memória diante de Deus.
+Disse-lhes Jesus: Se fôsseis cegos, não teríeis pecado; mas como agora dizeis: Vemos, por isso, o vosso pecado permanece.
+Murmuravam, pois, dele os judeus, porque dissera: Eu sou o pão que desceu do céu.
+Eis que o salário dos trabalhadores que ceifaram as vossas terras e que por vós foi diminuído clama; e os clamores dos que ceifaram entraram nos ouvidos do Senhor dos Exércitos.
+ele deixa os seus ovos na terra e os aquenta no pó.
+por causa dos pecados de Jeroboão, o qual pecou e fez pecar a Israel, e por causa da provocação com que provocara ao SENHOR, Deus de Israel.
+mas: Vive o SENHOR que fez subir e que trouxe a geração da casa de Israel da terra do Norte e de todas as terras para onde os tinha arrojado. E habitarão na sua terra.
+Vai e dize a meu servo, a Davi: Assim diz o SENHOR: Edificar-me-ias tu casa para minha habitação?
+Eu abri ao meu amado, mas já o meu amado se tinha retirado e se tinha ido; a minha alma tinha-se derretido quando ele falara; busquei-o e não o achei; chamei-o, e não me respondeu.
+Busca seu próprio desejo aquele que se separa; ele insurge-se contra a verdadeira sabedoria.
+A nossa santa e gloriosa casa, em que te louvavam nossos pais, foi queimada; e todas as nossas coisas mais aprazíveis se tornaram em assolação.
+E pareceu bem a Dario constituir sobre o reino a cento e vinte presidentes, que estivessem sobre todo o reino;
+E disparou flechas e os dissipou; raios, e os perturbou.
+Então, respondeu Eli e disse: Vai em paz, e o Deus de Israel te conceda a tua petição que lhe pediste.
+E esta cidade me servirá de nome de alegria, de louvor e de glória, entre todas as nações da terra que ouvirem todo o bem que eu lhe faço; e espantar-se-ão e perturbar-se-ão por causa de todo o bem e por causa de toda a paz que eu lhe dou.
+E Salomão contou todos os homens estrangeiros que havia na terra de Israel, conforme a conta com que os contara Davi, seu pai; e acharam-se cento e cinquenta e três mil e seiscentos.
+E este tinha duas mulheres: o nome de uma era Ana, e o nome da outra, Penina; Penina tinha filhos, porém Ana não tinha filhos.
+Então, foram para lá, e vieram à casa do jovem, o levita, em casa de Mica, e o saudaram.
+À cova te farão descer, e morrerás da morte dos traspassados no meio dos mares.
+E tomaram todo o despojo e toda presa de homens e de animais.
+se ele tornar a levantar-se e andar fora sobre o seu bordão, então, aquele que o feriu será absolvido; somente lhe pagará o tempo que perdera e o fará curar totalmente.
 Falou mais o SENHOR a Moisés, dizendo:
-Comprareis deles, por dinheiro, comida para comerdes; e também água para beber deles comprareis por dinheiro.
-Apartai-vos de mim todos os que praticais a iniquidade; porque o SENHOR já ouviu a voz do meu lamento.
-tendo o mesmo combate que já em mim tendes visto e, agora, ouvis estar em mim.
-E disse Husai a Zadoque e a Abiatar, sacerdotes: Assim e assim aconselhou Aitofel a Absalão e aos anciãos de Israel; porém assim e assim aconselhei eu.
-Todos estes estavam ao lado de seu pai para o canto da Casa do SENHOR, com saltérios, e alaúdes e harpas, para o ministério da Casa de Deus; e, ao lado do rei, Asafe, e Jedutum, e Hemã.
-Hesbom e todas as suas cidades, que estão na campina; Dibom, e Bamote-Baal, e Bete-Baal-Meom;
-E falou  a todos os príncipes e a todo o povo, dizendo: O SENHOR me enviou a profetizar contra esta casa e contra esta cidade todas as palavras que ouvistes.
-E todas as obras do seu poder e do seu valor e a declaração da grandeza de Mardoqueu, a quem o rei engrandeceu, porventura, não estão escritas no livro das crônicas dos reis da Média e da Pérsia?
-Não fuja o ligeiro, e não escape o herói; para a banda do Norte, junto à borda do rio Eufrates, tropeçaram e caíram.
-Todavia, o fundamento de Deus fica firme, tendo este selo: O Senhor conhece os que são seus, e qualquer que profere o nome de Cristo aparte-se da iniquidade.
-Por isso, a maldição consome a terra, e os que habitam nela serão desolados; por isso, serão queimados os moradores da terra, e poucos homens restarão.
-E já vos esquecestes da exortação que argumenta convosco como filhos: Filho meu, não desprezes a correção do Senhor e não desmaies quando, por ele, fores repreendido;
-Mas em todas estas coisas somos mais do que vencedores, por aquele que nos amou.
-Moisés, pois, e Arão e os príncipes da congregação contaram os filhos dos coatitas, segundo as suas gerações e segundo a casa de seus pais; da idade de trinta anos para cima, até aos cinquenta, todo aquele que entrou neste serviço, para o ministério da tenda da congregação. Os que deles foram contados, pois, segundo as suas gerações, foram dois mil e setecentos e cinquenta. Estes são os que foram contados das gerações dos coatitas, de todo aquele que ministrava na tenda da congregação, os quais contaram Moisés e Arão, conforme o mandado do SENHOR pela mão de Moisés. Semelhantemente os que foram contados dos filhos de Gérson, segundo as suas gerações e segundo a casa de seus pais, da idade de trinta anos para cima, até aos cinquenta, todo aquele que entrou neste serviço, para o ministério na tenda da congregação, os que deles foram contados, segundo as suas gerações e segundo a casa de seus pais, foram dois mil e seiscentos e trinta. Estes são os contados das gerações dos filhos de Gérson, de todo aquele que ministrava na tenda da congregação; os quais contaram Moisés e Arão, conforme o mandado do SENHOR. E os que foram contados das gerações dos filhos de Merari, segundo as suas gerações e segundo a casa de seus pais, da idade de trinta anos para cima, até aos cinquenta, todo aquele que entrou neste serviço, para o ministério na tenda da congregação, foram, pois, os que foram deles contados, segundo as suas gerações, três mil e duzentos. Estes são os contados das gerações dos filhos de Merari; os quais contaram Moisés e Arão, conforme o mandado do SENHOR, pela mão de Moisés. Todos os que deles foram contados, que contaram Moisés e Arão, e os príncipes de Israel, dos levitas, segundo as suas gerações e segundo a casa de seus pais, da idade de trinta anos para cima, até aos cinquenta, todo aquele que entrava a executar o ministério da administração e o ministério da carga na tenda da congregação, os que deles foram contados foram oito mil quinhentos e oitenta.
-segundo a palavra que concertei convosco, quando saístes do Egito, e o meu Espírito habitava no meio de vós; não temais.
-e para que tivessem o poder de curar as enfermidades e expulsar os demônios:
-Todos aqueles, pois, que são das obras da lei estão debaixo da maldição; porque escrito está: Maldito todo aquele que não permanecer em todas as coisas que estão escritas no livro da lei, para fazê-las.
-Tem misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias.
-E Jesus, respondendo, disse-lhe: Bem-aventurado és tu, Simão Barjonas, porque não foi carne e sangue quem to revelou, mas meu Pai, que está nos céus.
-Então, lhes dirás: Porquanto vossos pais me deixaram, diz o SENHOR, e se foram após deuses alheios, e os serviram, e se inclinaram diante deles, e a mim me deixaram, e a minha lei não guardaram,
-Quando o Altíssimo distribuía as heranças às nações, quando dividia os filhos de Adão uns dos outros, pôs os termos dos povos, conforme o número dos filhos de Israel.
-Davi subiu conforme a palavra de Gade, como o SENHOR lhe tinha ordenado.
-Vivo eu, diz o SENHOR, que, ainda que Jeconias, filho de Jeoaquim, rei de Judá, fosse o selo do anel da minha mão direita, eu dali te arrancaria.
-E eram as cidades-fortes: Zidim, e Zer, e Hamate, e Racate, e Quinerete,
-O rico não aumentará, e o pobre não diminuirá da metade do siclo, quando derem a oferta ao SENHOR, para fazer expiação por vossas almas.
+E nenhum dos que estavam assentados à mesa compreendeu a que propósito lhe dissera isso,
+Tu usas de benignidade com milhares e tornas a maldade dos pais ao seio dos filhos depois deles; tu és o grande e poderoso Deus cujo nome é SENHOR dos Exércitos,
+E outra vez levantei os meus olhos, e olhei, e vi quatro carros que saíram dentre dois montes, e estes montes eram montes de metal.
+o qual convém que o céu contenha até aos tempos da restauração de tudo, dos quais Deus falou pela boca de todos os seus santos profetas, desde o princípio.
+dentro ainda de três dias, Faraó levantará a tua cabeça sobre ti e te pendurará num madeiro, e as aves comerão a tua carne de sobre ti.
+desaparecendo ele do seu lugar, negá-lo-á este, dizendo: Nunca te vi;
+Também todo réptil que voa vos será imundo; não se comerá.
+Quem morrer a Jeroboão na cidade, os cães o comerão, e o que morrer no campo, as aves do céu o comerão, porque o SENHOR o disse.
+Então, respondeu Bildade, o suíta, e disse:
+E disse Jeremias, o profeta, a Hananias, o profeta: Ouve, agora, Hananias: não te enviou o SENHOR, mas tu fizeste que este povo confiasse em mentiras.
+A glória do Líbano virá a ti; a faia, o pinheiro e o buxo conjuntamente, para ornarem o lugar do meu santuário, e glorificarei o lugar em que assentam os meus pés.
+Se a cobra morder antes de estar encantada, então, remédio nenhum haverá no mais hábil encantador.
+E herdá-la-á a semente de seus servos, e os que amam o seu nome habitarão nela.
+E o SENHOR, nosso Deus, no-lo deu diante de nós, e o ferimos, a ele, e a seus filhos, e a todo o seu povo.
+nan
+Abraão, porém, repreendeu a Abimeleque por causa de um poço de água que os servos de Abimeleque haviam tomado por força.
+Um dia faz declaração a outro dia, e uma noite mostra sabedoria a outra noite.
+Filho meu, se o teu coração for sábio, alegrar-se-á o meu coração, sim, o meu próprio.
+Se, porém, disser assim: Não tenho prazer em ti; eis-me aqui, faça de mim como parecer bem aos seus olhos.
+homens que já expuseram a vida pelo nome de nosso Senhor Jesus Cristo.
+Porém as tuas coisas santas que tiveres e os teus votos tomarás e virás ao lugar que o SENHOR escolher.
+nan
+Não temas, ó terra; regozija-te e alegra-te; porque o SENHOR fez grandes coisas.
+E a voz que eu do céu tinha ouvido tornou a falar comigo e disse: Vai e toma o livrinho aberto da mão do anjo que está em pé sobre o mar e sobre a terra.
+Varões irmãos e pais, ouvi agora a minha defesa perante vós.
+Porque, como o jovem se casa com a donzela, assim teus filhos se casarão contigo; e, como o noivo se alegra com a noiva, assim se alegrará contigo o teu Deus.
+E queimaram ali incenso em todos os altos, como as nações que o SENHOR transportara de diante deles; e fizeram coisas ruins, para provocarem à ira o SENHOR.
+Então, disse Davi a Abner: Porventura, não és varão? E quem há em Israel como tu? Por que, pois, não guardaste tu o rei, teu senhor? Porque um do povo veio para destruir o rei, teu senhor.
+nan
+Agora, pois, se tenho achado graça aos teus olhos, rogo-te que agora me faças saber o teu caminho, e conhecer-te-ei, para que ache graça aos teus olhos; e atenta que esta nação é o teu povo.
+Então,  lhes disse: Assim direis a Zedequias.
+E vi a besta, e os reis da terra, e os seus exércitos reunidos, para fazerem guerra àquele que estava assentado sobre o cavalo e ao seu exército.
+e seu segundo, Quileabe, de Abigail, mulher de Nabal, o carmelita; e o terceiro, Absalão, filho de Maaca, filha de Talmai, rei de Gesur;
+Depois, a partirá nos seus pedaços, como também a sua cabeça e o seu redenho; e o sacerdote os porá em ordem sobre a lenha que está no fogo sobre o altar.
+E tudo o que pedirdes na oração, crendo, o recebereis.
+Ele julgará o teu povo com justiça e os teus pobres com juízo.
+Pelo Senhor vos conjuro que esta epístola seja lida a todos os santos irmãos.
+Mas Nadabe e Abiú morreram perante o SENHOR, quando ofereceram fogo estranho perante o SENHOR no deserto do Sinai, e não tiveram filhos; porém Eleazar e Itamar administraram o sacerdócio diante de Arão, seu pai.
+Velo e sou como o pardal solitário no telhado.
+E deitar-te-ás, e ninguém te espantará; muitos acariciarão o teu rosto.
+E era Abraão da idade de cem anos, quando lhe nasceu Isaque, seu filho.
+e ele os tomou das suas mãos, e formou o ouro com um buril, e fez dele um bezerro de fundição. Então, disseram: Estes são teus deuses, ó Israel, que te tiraram da terra do Egito.
+Agora, pois, eis que bem sei que certamente hás de reinar e que o reino de Israel há de ser firme na tua mão.
+As suas mãos fazem diligentemente o mal; o príncipe inquire, e o juiz se apressa à recompensa, e o grande fala da corrupção da sua alma, e assim todos eles são perturbadores.
+Oferece a Deus sacrifício de louvor e paga ao Altíssimo os teus votos.
+Mataram também a fio de espada a Hamor, e a seu filho Siquém; e tomaram Diná da casa de Siquém e saíram.
+Doutra maneira, necessário lhe fora padecer muitas vezes desde a fundação do mundo; mas, agora, na consumação dos séculos, uma vez se manifestou, para aniquilar o pecado pelo sacrifício de si mesmo.
+nan
+Importa, porém, caminhar hoje, amanhã e no dia seguinte, para que não suceda que morra um profeta fora de Jerusalém.
+Exorta semelhantemente os jovens a que sejam moderados.
+Portanto, quer comais, quer bebais ou façais outra qualquer coisa, fazei tudo para a glória de Deus.
+Portanto, nada julgueis antes de tempo, até que o Senhor venha, o qual também trará à luz as coisas ocultas das trevas e manifestará os desígnios dos corações; e, então, cada um receberá de Deus o louvor.
+Mas o SENHOR está no seu santo templo; cale-se diante dele toda a terra.
+e Nibsã, e a Cidade do Sal, e En-Gedi: seis cidades e as suas aldeias.
+Então, virou o rei o rosto e abençoou toda a congregação de Israel; e toda a congregação de Israel estava em pé.
+nan
+Os teus olhos olhem direitos, e as tuas pálpebras olhem diretamente diante de ti.
+E ofereceram os príncipes para a consagração do altar, no dia em que foi ungido; ofereceram, pois, os príncipes a sua oferta perante o altar.
+Então, os judeus disseram àquele que tinha sido curado: É sábado, não te é lícito levar a cama.
+E desposar-te-ei comigo em fidelidade, e conhecerás o SENHOR.
+E mediu a parede do templo: seis côvados, e a largura das câmaras laterais, quatro côvados, por todo o redor do templo.
+E disse Davi a Aquis: Se eu tenho achado graça aos teus olhos, dá-me lugar numa das cidades da terra, para que ali habite; pois por que razão habitaria o teu servo contigo na cidade real?
+E Acaz gerou a Jaerá, e Jaerá gerou a Alemete, e a Azmavete, e a Zinri; e Zinri gerou a Mosa.
+Bem-aventurado o varão que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores.
+tudo sofre, tudo crê, tudo espera, tudo suporta.
+A minha alma está quebrantada de desejar os teus juízos em todo o tempo.
+donde, indo costeando, viemos a Régio; e, soprando, um dia depois, um vento do sul, chegamos no segundo dia a Putéoli,
+Vinde, dizem eles, traremos vinho e beberemos bebida forte; e o dia de amanhã será como este e ainda maior e mais famoso.
+Todos os reis da terra te louvarão, ó SENHOR, quando ouvirem as palavras da tua boca;
+Digo, porém, isso como que por permissão e não por mandamento.
+e Eli, de Matate, e Matate, de Levi, e Levi, de Melqui, e Melqui, de Janai, e Janai, de José,
+Então,  falou à casa de José, a Efraim e a Manassés, dizendo: Grande povo és e grande força tens; uma só sorte não terás;
+Também farás um propiciatório de ouro puro; o seu comprimento será de dois côvados e meio, e a sua largura, de um côvado e meio.
+Então, chamou Abimeleque a Abraão e disse-lhe: Que nos fizeste? E em que pequei contra ti, para trazeres sobre mim e meu reino tamanho pecado? Tu me fizeste aquilo que não deverias ter feito.
+E foi o seu termo desde Helefe e desde Alom em Zaananim, e Adami-Nequebe, e Jabneel, até Lacum, e estavam as suas saídas no Jordão.
+E, quando semeava, uma parte da semente caiu ao pé do caminho, e vieram as aves e comeram-na;
+E disse o SENHOR: Conforme a tua palavra, lhe perdoei.
+Os filhos de Merari: Mali e Musi; estas são as famílias dos levitas, segundo seus pais.
+Porque assim diz o SENHOR a respeito dos eunucos que guardam os meus sábados, e escolhem aquilo que me agrada, e abraçam o meu concerto:
+Depois, partiram os filhos de Israel e acamparam-se nas campinas de Moabe, desta banda do Jordão, de Jericó.
+não darei sono aos meus olhos, nem repouso às minhas pálpebras,
+Tu nos entregaste como ovelhas para comer e nos espalhaste entre as nações.
+Torna-nos a trazer, ó Deus da nossa salvação, e retira de sobre nós a tua ira.
+Porque a cólera do homem redundará em teu louvor, e o restante da cólera, tu o restringirás.
+daquém do Jordão, no vale defronte de Bete-Peor, na terra de Seom, rei dos amorreus, que habitava em Hesbom, a quem Moisés e os filhos de Israel feriram, havendo eles saído do Egito.
+A espada do SENHOR está cheia de sangue, está cheia da gordura de sangue de cordeiros e de bodes, da gordura dos rins de carneiros; porque o SENHOR tem sacrifício em Bozra e grande matança na terra de Edom.
+O homem de bem deixa uma herança aos filhos de seus filhos, mas a riqueza do pecador é depositada para o justo.
+Maldito serás ao entrares e maldito serás ao saíres.
+Assim, lhe deu a Bila, sua serva, por mulher; e Jacó entrou a ela.
+Tiraram, pois, a pedra. E Jesus, levantando os olhos para o céu, disse: Pai, graças te dou, por me haveres ouvido.
+E o anjo respondeu e me disse: Estes são os quatro ventos do céu, saindo donde estavam perante o Senhor de toda a terra.
+Então, os príncipes dos filisteus lhe trouxeram sete vergas de vimes frescos, que ainda não estavam secos; e amarrou-o com elas.
+E, respondendo o anjo, disse-lhe: Eu sou Gabriel, que assisto diante de Deus, e fui enviado a falar-te e dar-te estas alegres novas.
+A terra geme e pranteia, o Líbano se envergonha e se murcha, Sarom se tornou como um deserto, Basã e Carmelo foram sacudidos.
+E os varais sobressaíram tanto, que as pontas dos varais se viam desde o santuário diante do oráculo; porém de fora não se viam; e ficaram ali até ao dia de hoje.
+Portanto, ó rei, aceita o meu conselho e desfaze os teus pecados pela justiça e as tuas iniquidades, usando de misericórdia para com os pobres, e talvez se prolongue a tua tranquilidade.
+e, na lei, nos mandou Moisés que as tais sejam apedrejadas. Tu, pois, que dizes?
+E tomou todo o ouro, e a prata, e todos os utensílios que se acharam na Casa do SENHOR e nos tesouros da casa do rei, como também os reféns; e voltou para Samaria.
+E eis que endurecerei o coração dos egípcios para que entrem nele atrás deles; e eu serei glorificado em Faraó, e em todo o seu exército, e nos seus carros, e nos cavaleiros,
+Então, disse o rei que assim se fizesse; e publicou-se um edito em Susã, e enforcaram os dez filhos de Hamã.
+E, havendo aberto o segundo selo, ouvi o segundo animal, dizendo: Vem e vê!
+e semeiam campos, e plantam vinhas, que produzem fruto abundante.
+E deu o rei ordem, e fizeram uma arca e a puseram fora, à porta da Casa do SENHOR.
+Então,  e todo o Israel com ele, tornou a Debir e pelejou contra ela;
+(os sidônios a Hermom chamam Siriom; porém os amorreus lhe chamam Senir),
+Defendei o pobre e o órfão; fazei justiça ao aflito e necessitado.
+Aconteceu, pois, no ano quarto do rei Dario, que a palavra do SENHOR veio a Zacarias, no dia quarto do nono mês, em quisleu.
+Então, chamou logo ao moço que levava as suas armas e disse-lhe: Desembainha a tua espada e mata-me; para que se não diga de mim: Uma mulher o matou. E seu moço o atravessou, e ele morreu.
+Porque Elão tomou a aljava, com carros de homens e cavaleiros; e Quir descobre os escudos.
+Ó insensatos gálatas! Quem vos fascinou para não obedecerdes à verdade, a vós, perante os olhos de quem Jesus Cristo foi já representado como crucificado?
+E Samuel ficou deitado até pela manhã e, então, abriu as portas da Casa do SENHOR; porém temia Samuel relatar esta visão a Eli.
+Esquadrinhemos os nossos caminhos, experimentemo-los e voltemos para o SENHOR.
+Porque a terra é do Senhor e toda a sua plenitude.
+Ora, há diversidade de dons, mas o Espírito é o mesmo.
+E, ao seu lado, reparou Refaías, filho de Hur, maioral da metade de Jerusalém.
+As tuas mãos me fizeram e me afeiçoaram; dá-me inteligência para que aprenda os teus mandamentos.
+Assim diz o SENHOR dos Exércitos: Pergunta, agora, aos sacerdotes, acerca da lei, dizendo:
+E aos filhos de Gérson caíram por sorte, das famílias da tribo de Issacar, e da tribo de Aser, e da tribo de Naftali, e da meia tribo de Manassés, em Basã, treze cidades.
+Porventura, não sabeis? Porventura, não ouvis? Ou desde o princípio se vos não notificou isso mesmo? Ou não atentastes para os fundamentos da terra?
+O Deus que fez o mundo e tudo que nele há, sendo Senhor do céu e da terra, não habita em templos feitos por mãos de homens.
+Mas onde se achará a sabedoria? E onde está o lugar da inteligência?
+e converterá o coração dos pais aos filhos e o coração dos filhos a seus pais; para que eu não venha e fira a terra com maldição.
+Assim, enviou Isaque a Jacó, o qual se foi a Padã-Arã, a Labão, filho de Betuel, arameu, irmão de Rebeca, mãe de Jacó e de Esaú.
+E não ousavam perguntar-lhe mais coisa alguma.
+E levanta-te pela manhã, ao sair o sol, e dá de golpe sobre a cidade; e eis que, saindo ele e o povo que tiver com ele contra ti, faze-lhe como alcançar a tua mão.
+vemos, porém, coroado de glória e de honra aquele Jesus que fora feito um pouco menor do que os anjos, por causa da paixão da morte, para que, pela graça de Deus, provasse a morte por todos.
+Porque assim diz Amós: Jeroboão morrerá à espada, e Israel certamente será levado para fora da sua terra em cativeiro.
+Mas todas essas coisas são o princípio das dores.
+E quatro animais grandes, diferentes uns dos outros, subiam do mar.
+e qual é a terra em que habita, se boa ou má; e quais são as cidades em que habita, se em arraiais, se em fortalezas.
+Mas tu, ó JEOVÁ Senhor, sê comigo por amor do teu nome; porque a tua misericórdia é boa, livra-me.
+De ti saiu um que pensa mal contra o SENHOR, um conselheiro de Belial.
+Então, o rei Roboão enviou a Adorão, que estava sobre os tributos; e todo o Israel o apedrejou com pedras e morreu; mas o rei Roboão se animou a subir ao seu carro para fugir para Jerusalém.
+Todas as cidades para as famílias dos demais filhos de Coate foram dez e os seus arrabaldes.
+disse em voz alta: Levanta-te direito sobre teus pés. E ele saltou e andou.
+aos quais, nem ainda por uma hora, cedemos com sujeição, para que a verdade do evangelho permanecesse entre vós.
+nan
+E o exército lhe foi entregue, com o sacrifício contínuo, por causa das transgressões; e lançou a verdade por terra; fez isso e prosperou.
+Desde o dia em que vossos pais saíram da terra do Egito até hoje, enviei-vos todos os meus servos, os profetas, todos os dias madrugando e enviando-os.
+Com arco e flechas se entrará nele, porque as sarças e os espinheiros cobrirão toda a terra.
+Ouvi a palavra do SENHOR, vós que tremeis diante da sua palavra. Vossos irmãos, que vos aborrecem e que para longe vos lançam por amor do meu nome, dizem: O SENHOR seja glorificado, para que vejamos a vossa alegria! Mas eles serão confundidos.
+No dia da minha angústia, clamarei a ti, porquanto me respondes.
+Pela fé, Abraão, sendo chamado, obedeceu, indo para um lugar que havia de receber por herança; e saiu, sem saber para onde ia.
+Ninguém me assistiu na minha primeira defesa; antes, todos me desampararam. Que isto lhes não seja imputado.
+Também Safã, o escrivão, fez saber ao rei dizendo: O sacerdote Hilquias me deu um livro. E Safã o leu diante do rei.
+Faze bem, ó SENHOR, aos bons e aos que são retos de coração.
+Porque disse Davi: O SENHOR, Deus de Israel, deu repouso ao seu povo e habitará em Jerusalém para sempre.
+jovens em quem não houvesse defeito algum, formosos de aparência, e instruídos em toda a sabedoria, e sábios em ciência, e entendidos no conhecimento, e que tivessem habilidade para viver no palácio do rei, a fim de que fossem ensinados nas letras e na língua dos caldeus.
+Mas dizeis: Por que não levará o filho a maldade do pai? Porque o filho fez juízo e justiça, e guardou todos os meus estatutos, e os praticou, por isso, certamente viverá.
+subverter o homem no seu pleito, não o veria o Senhor?
+Mas Jesus, chamando-as para si, disse: Deixai vir a mim os pequeninos e não os impeçais, porque dos tais é o Reino de Deus.
+E sucedeu que, ao sétimo dia, disseram à mulher de Sansão: Persuade a teu marido que nos declare o enigma, para que, porventura, não queimemos a fogo a ti e à casa de teu pai; chamastes-nos vós aqui para possuir o que é nosso, não é assim?
+E disse Micaías: Se é que tornares em paz, o SENHOR não tem falado por mim. Disse mais: Ouvi, povos todos!
+nan
+E o galo cantou segunda vez. E Pedro lembrou-se da palavra que Jesus lhe tinha dito: Antes que o galo cante duas vezes, três vezes me negarás tu. E, retirando-se dali, chorou.
+Qualquer que confessar que Jesus é o Filho de Deus, Deus está nele e ele em Deus.
+Antes, anunciei primeiramente aos que estão em Damasco e em Jerusalém, e por toda a terra da Judeia, e aos gentios, que se emendassem e se convertessem a Deus, fazendo obras dignas de arrependimento.
+Tornai, filhas minhas, ide-vos embora, que já mui velha sou para ter marido; ainda quando eu dissesse: Tenho esperança, ou ainda que esta noite tivesse marido, e ainda tivesse filhos,
+Homens caluniadores se acharam em ti, para derramarem o sangue; e em ti sobre os montes comeram e perversidade cometeram no meio de ti.
+E eles, deixando a multidão, o levaram consigo, assim como estava, no barco; e havia também com ele outros barquinhos.
+Disse, pois, Jesus: Deixai-a; para o dia da minha sepultura guardou isto.
+Ora, pois, trazei-me um tangedor. E sucedeu que, tangendo o tangedor, veio sobre ele a mão do SENHOR.
+Retiraram-se, pois, da presença do conselho, regozijando-se de terem sido julgados dignos de padecer afronta pelo nome de Jesus.
+E houve uma longa guerra entre a casa de Saul e a casa de Davi; porém Davi se ia fortalecendo, mas os da casa de Saul se iam enfraquecendo.
+Também o SENHOR se indignou contra mim por causa de vós, dizendo: Também tu lá não entrarás.
+E dize aos rebeldes, à casa de Israel: Assim diz o Senhor JEOVÁ: Bastem-vos todas as vossas abominações, ó casa de Israel!
+Mas Israel o feriu a fio de espada e tomou a sua terra em possessão, desde Arnom até Jaboque, até aos filhos de Amom; porquanto o termo dos filhos de Amom era firme.
+A vergonha do pai descobriram em ti e a que estava impura, na sua separação, humilharam no meio de ti.
+Perguntou-lhes, então: Em que sois batizados, então? E eles disseram: No batismo de João.
+No amor, não há temor; antes, o perfeito amor lança fora o temor; porque o temor tem consigo a pena, e o que teme não é perfeito em amor.
+Porque, sendo Atalia ímpia, seus filhos arruinaram a Casa de Deus e até todas as coisas sagradas da Casa do SENHOR empregaram em baalins.
+nan
+E foram ter com ele ao templo cegos e coxos, e curou-os.
+Mas eu não me apressei em ser o pastor, após ti; nem tampouco desejei o dia de aflição, tu o sabes; o que saiu dos meus lábios está diante de tua face.
+E Onri dormiu com seus pais e foi sepultado em Samaria; e Acabe, seu filho, reinou em seu lugar.
+Então, disseram aos mensageiros que vieram: Assim direis aos homens de Jabes-Gileade: Amanhã, em aquecendo o sol, vos virá livramento. Vindo, pois, os mensageiros, e, anunciando-o aos homens de Jabes, se alegraram.
+Naquele tempo, respondendo Jesus, disse: Graças te dou, ó Pai, Senhor do céu e da terra, que ocultaste estas coisas aos sábios e instruídos e as revelaste aos pequeninos.
+causa que a minha alma ainda busca, mas não a achei; um homem entre mil achei eu, mas uma mulher entre todas estas não achei.
+Disse-lhes, pois: Mas, agora, aquele que tiver bolsa, tome-a, como também o alforje; e o que não tem espada, venda a sua veste e compre-a;
+Dize-lhes, pois: Qualquer homem da casa de Israel ou dos estrangeiros que peregrinam entre vós que oferecer holocausto ou sacrifício
+Fala a Zorobabel, príncipe de Judá, dizendo: Farei tremer os céus e a terra;
+Toda mulher sábia edifica a sua casa, mas a tola derriba-a com as suas mãos.
+prometendo-lhes liberdade, sendo eles mesmos servos da corrupção. Porque de quem alguém é vencido, do tal faz-se também servo.
+E a terra produziu nos sete anos de fartura a mãos-cheias.
+Irmãos, não vos queixeis uns contra os outros, para que não sejais condenados. Eis que o juiz está à porta.
+a mim, que, dantes, fui blasfemo, e perseguidor, e opressor; mas alcancei misericórdia, porque o fiz ignorantemente, na incredulidade.
+A mão dos diligentes dominará, mas os enganadores serão tributários.
+E ouvi outro do altar, que dizia: Na verdade, ó Senhor, Deus Todo-Poderoso, verdadeiros e justos são os teus juízos.
+Porque, se  lhes houvesse dado repouso, não falaria, depois disso, de outro dia.
+Como o espinho que entra na mão do ébrio, assim é o provérbio na boca dos tolos.
+Disse ele: Sim. E, entrando em casa, Jesus se lhe antecipou, dizendo: Que te parece, Simão? De quem cobram os reis da terra os tributos ou os impostos? Dos seus filhos ou dos alheios?
+E tu, Belém Efrata, posto que pequena entre milhares de Judá, de ti me sairá o que será Senhor em Israel, e cujas origens são desde os tempos antigos, desde os dias da eternidade.
+A minha alma anseia pelo Senhor mais do que os guardas pelo romper da manhã; sim, mais do que aqueles que esperam pela manhã.
+E aconteceu que, como todo o povo se batizava, sendo batizado também Jesus, orando ele, o céu se abriu,
+Mas desejamos que cada um de vós mostre o mesmo cuidado até ao fim, para completa certeza da esperança;
+Apego-me aos teus testemunhos; ó SENHOR, não me confundas.
+Depois, Jesus encontrou-o no templo e disse-lhe: Eis que já estás são; não peques mais, para que te não suceda alguma coisa pior.
+E foi precipitado o grande dragão, a antiga serpente, chamada o diabo e Satanás, que engana todo o mundo; ele foi precipitado na terra, e os seus anjos foram lançados com ele.
+Também tomou Davi todas as ovelhas e vacas, e levavam-nas diante do outro gado e diziam: Este é o despojo de Davi.
+Todo o seu povo anda suspirando, buscando o pão; deram as suas coisas mais preciosas a troco de mantimento para refrescarem a alma; vê, SENHOR, e contempla, pois me tornei desprezível.
+Naquele tempo, adoeceu Abias, filho de Jeroboão.
+Do seu nariz procede fumaça, como de uma panela fervente, ou de uma grande caldeira.
+E ao lado do tabernáculo para o ocidente fez seis tábuas.
+E, tendo anunciado a palavra em Perge, desceram a Atália.
+Todos quantos vieram antes de mim são ladrões e salteadores, mas as ovelhas não os ouviram.
+Não bebas mais água só, mas usa de um pouco de vinho, por causa do teu estômago e das tuas frequentes enfermidades.
+E subi eu, agora, sem o SENHOR contra esta terra, para destruí-la? O SENHOR mesmo me disse: Sobe contra esta terra e destrói-a.
+Se o boi de alguém ferir de morte o boi do seu próximo, então, se venderá o boi vivo, e o dinheiro dele se repartirá igualmente, e também o morto se repartirá igualmente.
+Na verdade, não há homem justo sobre a terra, que faça bem e nunca peque.
+E Asa dormiu com seus pais e morreu no ano quarenta e um do seu reinado.
+E percorria Jesus toda a Galileia, ensinando nas suas sinagogas, e pregando o evangelho do Reino, e curando todas as enfermidades e moléstias entre o povo.
+Porque o Egito os ajudará em vão e para nenhum fim; pelo que clamei acerca disto: No estarem quietos, estará a sua força.
+Nunca tal nos aconteça, que nos rebelássemos contra o SENHOR ou que hoje nós abandonássemos ao SENHOR, edificando altar para holocausto, oferta de manjares ou sacrifício, fora do altar do SENHOR, nosso Deus, que está perante o seu tabernáculo.
+Buscai ao SENHOR enquanto se pode achar, invocai-o enquanto está perto.
+Cantarei ao SENHOR, porquanto me tem feito muito bem.
+Ela, pois, com amargura de alma, orou ao SENHOR e chorou abundantemente.
+Porque nem mesmo seus irmãos criam nele.
+Decerto, tu o sabes, porque já então eras nascido, e porque é grande o número dos teus dias!
+Agora, pois, eis que os filhos de Amom e de Moabe e os das montanhas de Seir, pelos quais não permitiste que passasse Israel, quando vinham da terra do Egito, mas deles se desviaram e não o destruíram,
+Eis que a sua força está nos seus lombos, e o seu poder, nos músculos do seu ventre.
+SENHOR, que é o homem, para que o conheças, e o filho do homem, para que o estimes?
+Ungirás também o altar do holocausto e a todos os seus utensílios e santificarás o altar; e o altar será uma coisa santíssima.
+No terceiro mês, começaram a fazer os primeiros montões e no sétimo mês acabaram.
+Assim diz o SENHOR: Do mesmo modo farei apodrecer a soberba de Judá e a muita soberba de Jerusalém.
+Desvia os meus olhos de contemplarem a vaidade e vivifica-me no teu caminho.
+E habitaram em Gileade, em Basã e nos lugares da sua jurisdição, como também em todos os arrabaldes de Sarom, até às suas saídas.
+E, entrando eles a fazerem sacrifícios e holocaustos, Jeú preparou da parte de fora oitenta homens e disse-lhes: Se escapar algum dos homens que eu entregar em vossas mãos, a vossa vida será pela vida dele.
+Depois, para vós contareis desde o dia seguinte ao sábado, desde o dia em que trouxerdes o molho da oferta movida; sete semanas inteiras serão.
+Sendo-lhe dito: Em Isaque será chamada a tua descendência, considerou que Deus era poderoso para até dos mortos o ressuscitar.
+Os seus pés correm para o mal e se apressam para derramarem o sangue inocente; os seus pensamentos são pensamentos de iniquidade; destruição e quebrantamento há nas suas estradas.
+Armou o seu arco como inimigo, firmou a sua destra como adversário e matou tudo o que era formoso à vista; derramou a sua indignação, como fogo na tenda da filha de Sião.
+E, levantando-se ela a colher, Boaz deu ordem aos seus moços, dizendo: Até entre as gavelas deixai-a colher e não lhe embaraceis.
+E, voltando Davi para abençoar a sua casa, Mical, filha de Saul, saiu a encontrar-se com Davi e disse: Quão honrado foi o rei de Israel, descobrindo-se hoje aos olhos das servas de seus servos, como sem vergonha se descobre qualquer dos vadios.
+A testemunha de Belial escarnece do juízo, e a boca dos ímpios engole a iniquidade.
+Porque Deus enviou o seu Filho ao mundo não para que condenasse o mundo, mas para que o mundo fosse salvo por ele.
+Porém, quanto a vós, o vosso cadáver cairá neste deserto.
+Disse também o SENHOR a Moisés: Vai ao povo e santifica-os hoje e amanhã, e lavem eles as suas vestes
+Meus irmãos, tomai por exemplo de aflição e paciência os profetas que falaram em nome do Senhor.
+Canta alegremente, ó filha de Sião; rejubila, ó Israel; regozija-te e exulta de todo o coração, ó filha de Jerusalém.
+E comprar-se-ão campos nesta terra, da qual vós dizeis: Está deserta, sem homens nem animais; está dada nas mãos dos caldeus.
+E fez o que era reto aos olhos do SENHOR, fez conforme tudo quanto fizera Uzias, seu pai.
+E seguiu-se, naquele dia, uma crua peleja; porém Abner e os homens de Israel foram feridos diante dos servos de Davi.
+Qualquer que pratica o pecado também pratica iniquidade, porque o pecado é iniquidade.
+Então, fora como se nunca houvera sido; e desde o ventre seria levado à sepultura!
+Se o Deus de meu pai, o Deus de Abraão e o Temor de Isaque, não fora comigo, por certo me enviarias agora vazio. Deus atendeu à minha aflição e ao trabalho das minhas mãos e repreendeu-te ontem à noite.
+Para onde foi o teu amado, ó mais formosa entre as mulheres? Para onde virou a vista o teu amado, e o buscaremos contigo?
+E vieram todos os anciãos de Israel, e os sacerdotes alçaram a arca.
+Assim, todo sábio de coração, entre os que faziam a obra, fez o tabernáculo de dez cortinas, de linho fino torcido, e de pano azul, e de púrpura, e de carmesim, com querubins; da obra mais esmerada, as fez.
+E Noemi tomou o filho, e o pôs no seu regaço, e foi sua ama.
+e, por isso, nem ainda me julguei digno de ir ter contigo; dize, porém, uma palavra, e o meu criado sarará.
+Mas tu, SENHOR, és um escudo para mim, a minha glória e o que exalta a minha cabeça.
+E do outro fará holocausto conforme o costume; assim, o sacerdote por ela fará expiação do seu pecado que pecou, e lhe será perdoado.
+O que, ouvindo todos os cidadãos da torre de Siquém, entraram na fortaleza, em casa do deus Berite.
+E Jesus, respondendo-lhes, começou a dizer: Olhai que ninguém vos engane,
+Por que morreremos diante dos teus olhos, tanto nós como a nossa terra? Compra-nos a nós e à nossa terra por pão, e nós e a nossa terra seremos servos de Faraó; dá semente para que vivamos e não morramos, e a terra não se desole.
+Agora, pois, se parece bem ao rei, busque-se lá na casa dos tesouros do rei, que está em Babilônia, se é verdade haver uma ordem do rei Ciro para edificar esta Casa de Deus em Jerusalém; e sobre isso nos faça o rei saber a sua vontade.
+Quando vos disserem: Consultai os que têm espíritos familiares e os adivinhos, que chilreiam e murmuram entre dentes; — não recorrerá um povo ao seu Deus? A favor dos vivos interrogar-se-ão os mortos?
+E os habitantes das cidades de Israel sairão, e totalmente queimarão as armas, e os escudos, e as rodelas, com os arcos, e com as flechas, e com os bastões de mão, e com as lanças; e farão fogo com tudo isso por sete anos.
+À meia-noite, me levantarei para te louvar pelos teus justos juízos.
+Então, aqueles três romperam pelo arraial dos filisteus e tiraram água do poço de Belém que estava à porta; e tomaram dela e a trouxeram a Davi, porém Davi não a quis beber, mas a derramou perante o SENHOR.
+E há de ser que o que escapar da espada de Hazael, matá-lo-á Jeú; e o que escapar da espada de Jeú, matá-lo-á Eliseu.
+nan
+Porém, em tendo repouso, tornavam a fazer o mal diante de ti; e tu os deixavas na mão dos seus inimigos, para que dominassem sobre eles; e, convertendo-se eles e clamando a ti, tu os ouviste desde os céus e, segundo a tua misericórdia, os livraste muitas vezes.
+Hipócritas, sabeis discernir a face da terra e do céu; como não sabeis, então, discernir este tempo?
+E os discípulos determinaram mandar, cada um conforme o que pudesse, socorro aos irmãos que habitavam na Judeia.
+Então, disse ele: Que se há de fazer, pois, por ela? E Geazi disse: Ora, ela não tem filho, e seu marido é velho.
+Então, estes homens disseram: Nunca acharemos ocasião alguma contra este Daniel, se não a procurarmos contra ele na lei do seu Deus.
+Assim se fortificou Jotão, porque dirigiu os seus caminhos na presença do SENHOR, seu Deus.
+E ele lhes disse: Na verdade vos digo que ninguém há, que tenha deixado casa, ou pais, ou irmãos, ou mulher, ou filhos pelo Reino de Deus
+Então, disse Samuel a Saul: Enviou-me o SENHOR a ungir-te rei sobre o seu povo, sobre Israel; ouve, pois, agora a voz das palavras do SENHOR.
+Mas o exército dos caldeus os perseguiu; e alcançaram Zedequias nas campinas de Jericó, e o prenderam, e o fizeram ir a Nabucodonosor, rei da Babilônia, a Ribla, na terra de Hamate, e ali o rei da Babilônia o sentenciou.
+E diziam: Salve, rei dos judeus! E davam-lhe bofetadas.
+e disse: Até aqui virás, e não mais adiante, e aqui se quebrarão as tuas ondas empoladas?
+O arco dos fortes foi quebrado, e os que tropeçavam foram cingidos de força.
+Não me escolhestes vós a mim, mas eu vos escolhi a vós, e vos nomeei, para que vades e deis fruto, e o vosso fruto permaneça, a fim de que tudo quanto em meu nome pedirdes ao Pai ele vos conceda.
+E concebia o rebanho diante das varas, e as ovelhas davam crias listradas, salpicadas e malhadas.
+E disse Esaú: De que te serve todo este bando que tenho encontrado? E ele disse: Para achar graça aos olhos de meu senhor.
+Eis que o meu ventre é como o mosto, sem respiradouro, e virá a arrebentar como odres novos.
+Mas, se vós não perdoardes, também vosso Pai, que está nos céus, vos não perdoará as vossas ofensas.
+Ai da terra que ensombra com as suas asas, que está além dos rios da Etiópia!
+Porquanto, ainda que a figueira não floresça, nem haja fruto na vide; o produto da oliveira minta, e os campos não produzam mantimento; as ovelhas da malhada sejam arrebatadas, e nos currais não haja vacas,
+Pois não falam de paz; antes, projetam enganar os quietos da terra.
+E chamou o SENHOR Deus a Adão e disse-lhe: Onde estás?
+Pois  dizia a Herodes: Não te é lícito possuir a mulher de teu irmão.
+nan
+Porque a vós vos foi concedido, em relação a Cristo, não somente crer nele, como também padecer por ele,
+Tirou-se, pois, o folguedo e a alegria do campo fértil e da terra de Moabe; porque fiz que o vinho acabasse nos lagares; já não pisarão uvas com júbilo; o júbilo não será júbilo.
+Eis que estes são ímpios; e, todavia, estão sempre em segurança, e se lhes aumentam as riquezas.
+Pois todos os nossos dias vão passando na tua indignação; acabam-se os nossos anos como um conto ligeiro.
+Mas, estando plantada, prosperará? Porventura, tocando-lhe vento oriental, de todo não se secará? Desde as auréolas do seu plantio se secará.
+Quando desfalecia em mim a minha alma, eu me lembrei do SENHOR; e entrou a ti a minha oração, no templo da tua santidade.
+Esqueceu-se Deus de ter misericórdia? Ou encerrou ele as suas misericórdias na sua ira? (Selá)
+Porque muito me alegrei quando os irmãos vieram e testificaram da tua verdade, como tu andas na verdade.
+E eu lhes disse: Veio a mim a palavra do SENHOR, dizendo:
+Sua carne se reverdecerá mais do que na sua infância e tornará aos dias da sua juventude.
+Assim Hesbom, como Eleale, anda gritando; até Jaza se ouve a sua voz; por isso, os armados de Moabe clamam; a sua alma treme dentro deles.
+Portanto, assim diz o Senhor JEOVÁ: Eis que eu assentei em Sião uma pedra, uma pedra já provada, pedra preciosa de esquina, que está bem firme e fundada; aquele que crer não se apresse.
+Levou-o também a Jerusalém, e pô-lo sobre o pináculo do templo, e disse-lhe: Se tu és o Filho de Deus, lança-te daqui abaixo,
+Apresentemo-nos ante a sua face com louvores e celebremo-lo com salmos.
+E serão separados homens que incessantemente passarão pela terra, para que sepultem os que tiverem ficado sobre a face da terra, para a purificarem; durará sete meses este trabalho.
+E tu serás profanada em ti mesma, aos olhos das nações, e saberás que eu sou o SENHOR.
+E pela manhã: Hoje haverá tempestade, porque o céu está de um vermelho sombrio. Hipócritas, sabeis diferençar a face do céu e não conheceis os sinais dos tempos?
+O SENHOR, nosso Deus, nos falou em Horebe, dizendo: Tempo bastante haveis estado neste monte.
+Porque o pouco que tinhas antes de mim é aumentado até uma multidão; e o SENHOR te tem abençoado por meu trabalho. Agora, pois, quando hei de trabalhar também por minha casa?
+E a palavra de Deus crescia e se multiplicava.
+Tenho, porém, contra ti que deixaste o teu primeiro amor.
+E à Casa do SENHOR trouxe as coisas consagradas de seu pai e as coisas que ele mesmo consagrara: prata, e ouro, e utensílios.
+Chorei, e castiguei com jejum a minha alma, mas até isto se me tornou em afrontas.
+Antes, andou nos caminhos dos reis de Israel e, demais disso, fez imagens fundidas a baalins.
+Dezoito mil medidas em redor; e o nome da cidade desde aquele dia será: O SENHOR Está Ali.
+E, sobre tudo isto, revesti-vos de amor, que é o vínculo da perfeição.
+Irmão me fiz dos dragões, e companheiro dos avestruzes.
+Pelo que o SENHOR trouxe sobre eles os príncipes do exército do rei da Assíria, os quais prenderam Manassés entre os espinhais, e o amarraram com cadeias, e o levaram à Babilônia.
+E assim direis àquele próspero: Paz tenhas, e que a tua casa tenha paz, e tudo o que tens tenha paz!
+Mas os egípcios nos maltrataram, e nos afligiram, e sobre nós puseram uma dura servidão.
+E percorria Jesus todas as cidades e aldeias, ensinando nas sinagogas deles, e pregando o evangelho do Reino, e curando todas as enfermidades e moléstias entre o povo.
+Ou estendeste com ele os céus, que estão firmes como espelho fundido?
+Eles entraram a pelejar contra os caldeus, mas para que os encha de cadáveres de homens, que feri na minha ira e no meu furor, porquanto escondi o rosto desta cidade, por causa de toda a sua maldade.
+Também a tua justiça, ó Deus, está muito alta, pois fizeste grandes coisas; ó Deus, quem é semelhante a ti?
+porque tirou os altares dos deuses estranhos e os altos, e quebrou as estátuas, e cortou os bosques.
+E tomaram toda a fazenda de Sodoma e de Gomorra e todo o seu mantimento e foram-se.
+já perfumei o meu leito com mirra, aloés e canela.
+Também te prostituíste com os filhos do Egito, teus vizinhos de grandes membros, e multiplicaste a tua prostituição, para me provocares à ira.
+E digo-vos que mais tolerância haverá naquele dia para Sodoma do que para aquela cidade.
+A sua terra produziu rãs em abundância, até nas câmaras dos seus reis.
+Ai do pastor inútil, que abandona o rebanho; a espada cairá sobre o seu braço e sobre o seu olho direito; o seu braço completamente se secará, e o seu olho direito completamente se escurecerá.
+E os filhos de Eseque, seu irmão: Ulão, seu primogênito, Jeús, o segundo, e Elifelete, o terceiro.
+Clamaram, mas não houve quem os livrasse; até ao SENHOR, mas ele não lhes respondeu.
+Não creiais no amigo, nem confieis no vosso guia; daquela que repousa no teu seio guarda as portas da tua boca.
+E tomei o livrinho da mão do anjo e comi-o; e na minha boca era doce como mel; e, havendo-o comido, o meu ventre ficou amargo.
+Porque toda a armadura daqueles que pelejavam com ruído e as vestes que rolavam no sangue serão queimadas, servirão de pasto ao fogo.
+Contudo, tu não me invocaste a mim, ó Jacó, mas te cansaste de mim, ó Israel.
+nan
+De palavras de falsidade te afastarás e não matarás o inocente e o justo; porque não justificarei o ímpio.
+E estavam sempre no templo, louvando e bendizendo a Deus. Amém!
+Tu o fizeste um pouco menor do que os anjos, de glória e de honra o coroaste e o constituíste sobre as obras de tuas mãos.
+Fala aos filhos de Israel, dizendo: Quando uma alma pecar por erro contra alguns dos mandamentos do SENHOR, acerca do que se não deve fazer, e fazer contra algum deles;
+Depois, disse Moisés aos filhos de Israel: Eis que o SENHOR tem chamado por nome a Bezalel, filho de Uri, filho de Hur, da tribo de Judá.
+Confessa, pois, no teu coração que, como um homem castiga a seu filho, assim te castiga o SENHOR, teu Deus.
+Porque contigo passo pelo meio de um esquadrão, pelo meu Deus salto um muro.
+Em paz morrerás, e, conforme as incinerações de teus pais, os reis precedentes, que foram antes de ti, assim te queimarão a ti e prantear-te-ão, dizendo: Ah! Senhor! Porque sou eu que digo a palavra, diz o SENHOR.
+Tendo, pois,  recebido a coorte e oficiais dos principais sacerdotes e fariseus, veio para ali com lanternas, e archotes, e armas.
+Eu sou a porta; se alguém entrar por mim, salvar-se-á, e entrará, e sairá, e achará pastagens.
+Ai dos que puxam pela iniquidade com cordas de vaidade e pelo pecado, como se fosse com cordas de carros!
+Os filhos de estranhos se me sujeitaram; ouvindo a minha voz, me obedeceram.
+E os vinte e quatro anciãos, que estão assentados em seu trono, diante de Deus, prostraram-se sobre seu rosto e adoraram a Deus,
+E levantarão uma lamentação sobre ti no seu pranto e lamentarão sobre ti, dizendo: Quem foi como Tiro, como a que está reduzida ao silêncio no meio do mar?
+E, assim, Jeú destruiu a Baal de Israel.
+E logo Jesus, conhecendo que a virtude de si mesmo saíra, voltou-se para a multidão e disse: Quem tocou nas minhas vestes?
+E nem ainda uma palavra podia responder a Abner, porque o temia.
+Assim, virão muitos povos e poderosas nações buscar, em Jerusalém, o SENHOR dos Exércitos e suplicar a bênção do SENHOR.
+Não digo isso como quem manda, mas para provar, pela diligência dos outros, a sinceridade do vosso amor;
+Pelo que eu os entreguei aos desejos do seu coração, e andaram segundo os seus próprios conselhos.
+Vós que assistis na Casa do SENHOR, nos átrios da Casa do nosso Deus.
+Assim, Deus tirou o gado de vosso pai e mo deu a mim.
+E logo caiu aos seus pés e expirou. E, entrando os jovens, acharam-na morta e a sepultaram junto de seu marido.
+Assim diz o SENHOR dos Exércitos: Diligentemente, respigarão os resíduos de Israel como uma vinha; torna a tua mão, como o vindimador, aos cestos.
+Responderam, pois, os judeus e disseram-lhe: Que sinal nos mostras para fazeres isso?
+E um cordeiro do rebanho, de cada duzentos, da mais regada terra de Israel, para oferta de manjares, e para holocausto, e para sacrifício pacífico; para que façam expiação por eles, diz o Senhor JEOVÁ.
+Porque assim diz o SENHOR acerca de Salum, filho de Josias, rei de Judá, que reinou em lugar de Josias, seu pai, e que saiu deste lugar: Nunca ali tornará mais.
+E o rei mandou chamar os magos, e os astrólogos, e os encantadores, e os caldeus, para que declarassem ao rei qual tinha sido o seu sonho; e eles vieram e se apresentaram diante do rei.
+Peso de Moabe. Certamente, em uma noite, foi destruída Ar de Moabe e foi desfeita; certamente, em uma noite, foi destruída Quir de Moabe e foi desfeita.
+E ele me disse: Para lhe edificarem uma casa na terra de Sinar, e, estando ela acabada, ele será posto ali em seu próprio lugar.
+Então, disse o SENHOR: Não contenderá o meu Espírito para sempre com o homem, porque ele também é carne; porém os seus dias serão cento e vinte anos.
+Ela, então, os fez descer por uma corda pela janela, porquanto a sua casa estava sobre o muro da cidade, e ela morava sobre o muro.
+E saiu da presença de Faraó e orou ao SENHOR.
+O meu escudo está com Deus, que salva os retos de coração.
+Então, o profeta levantou o cadáver do homem de Deus, e pô-lo em cima do jumento, e o tornou a levar; assim veio o profeta velho à cidade, para o chorar e enterrar.
+E eu disse ao anjo que falava comigo: Que é isto? E ele me disse: Estes são os poderes que dispersaram Judá, Israel e Jerusalém.
+E aconteceu, no ano quinto de Jeoaquim, filho de Josias, rei de Judá, no mês nono, que apregoaram jejum diante do SENHOR a todo o povo em Jerusalém, como também a todo o povo que vinha das cidades de Judá a Jerusalém.
+Porém Zelofeade, filho de Héfer, não tinha filhos, senão filhas; e os nomes das filhas de Zelofeade foram: Macla, Noa, Hogla, Milca e Tirza.
+como também as taças; e os apagadores; e as bacias; e os perfumadores e os braseiros, de ouro finíssimo; e as coiceiras para as portas da casa interior para o lugar santíssimo; e as das portas da casa do templo, também de ouro.
+Quando os céus se cerrarem, e não houver chuva, por terem pecado contra ti, e orarem neste lugar, e confessarem teu nome, e se converterem dos seus pecados, quando tu os afligires,
+E disse-lhe: Respondeste bem; faze isso e viverás.
+A câmara de baixo era de cinco côvados de largura, e a do meio, de seis côvados de largura, e a terceira, de sete côvados de largura, porque, pela parte de fora da casa ao redor, fizera encostos, para não travarem as paredes da casa.
+e os que sobre os telhados se curvam ao exército do céu; e os que se inclinam jurando ao SENHOR e juram por Malcã;
+E, assentados, o guardavam ali.
+Já vim para o meu jardim, irmã minha, minha esposa; colhi a minha mirra com a minha especiaria, comi o meu favo com o meu mel, bebi o meu vinho com o meu leite. Comei, amigos, bebei abundantemente, ó amados.
+Pereceria sem dúvida, se não cresse que veria os bens do SENHOR na terra dos viventes.
+E acordou Salomão, e eis que era sonho. E veio a Jerusalém, e pôs-se perante a arca do concerto do SENHOR, e sacrificou holocaustos, e preparou sacrifícios pacíficos, e fez um banquete a todos os seus servos.
+Vós, os que cavalgais sobre jumentas brancas, que vos assentais em juízo e que andais pelo caminho, falai disto.
+O homem que o tocar será imundo até à tarde e não comerá das coisas santas, mas banhará a sua carne em água.
+O filho sábio alegrará a seu pai, mas o homem insensato despreza a sua mãe.
+livra-te, como a gazela, da mão do caçador e, como a ave, da mão do passarinheiro.
+E Salomão ofereceu ali sacrifícios perante o SENHOR, sobre o altar de cobre que estava na tenda da congregação, e ofereceu sobre ele mil holocaustos.
+Por baixo, se secarão as suas raízes, e, por cima, serão cortados os seus ramos.
+Assim, o sacerdote queimará o seu memorial do seu grão trilhado e do seu azeite, com todo o seu incenso; oferta queimada é ao SENHOR.
+Assim, foram abatidos os midianitas diante dos filhos de Israel e nunca mais levantaram a sua cabeça; e sossegou a terra quarenta anos nos dias de Gideão.
+Tu os pões em medo, SENHOR, para que saibam as nações que são constituídas por meros homens. (Selá)
+E ouvi como que a voz de uma grande multidão, e como que a voz de muitas águas, e como que a voz de grandes trovões, que dizia: Aleluia! Pois já o Senhor, Deus Todo-Poderoso, reina.
+E, por causa da grandeza que lhe deu, todos os povos, nações e línguas tremiam e temiam diante dele; a quem queria matava e a quem queria dava a vida; e a quem queria engrandecia e a quem queria abatia.
+Os quais disseram: Se enviardes a arca do Deus de Israel, não a envieis vazia, porém sem falta lhe enviareis uma oferta para a expiação da culpa; então, sereis curados, e se vos fará saber por que a sua mão se não tira de vós.
+E disse-lhe: Na verdade, na verdade vos digo que, daqui em diante, vereis o céu aberto e os anjos de Deus subirem e descerem sobre o Filho do Homem.
+E eis que também Isabel, tua prima, concebeu um filho em sua velhice; e é este o sexto mês para aquela que era chamada estéril.
+Por que te conservas longe, SENHOR? Por que te escondes nos tempos de angústia?
+E, depois disto,  os feriu, e os matou, e os pendurou em cinco madeiros; e ficaram enforcados nos madeiros até à tarde.
+Porque esperava a cidade que tem fundamentos, da qual o artífice e construtor é Deus.
+E, abaixando-se, viu no chão os lençóis; todavia, não entrou.
+Vistam-se os meus adversários de vergonha, e cubra-os a sua própria confusão como uma capa.
+No tocante a todos os utensílios do tabernáculo em todo o seu serviço, até todos os seus pregos e todos os pregos do pátio, serão de cobre.
+E eles disseram-lhe: Por que diz meu senhor tais palavras? Longe estejam teus servos de fazerem semelhante coisa.
+deu ordem Moisés aos levitas que levavam a arca do concerto do SENHOR, dizendo:
+Ora, o medianeiro não o é de um só, mas Deus é um.
+Sacode o pó, levanta-te e assenta-te, ó Jerusalém; solta-te das ataduras de teu pescoço, ó cativa filha de Sião.
+para dar ao seu povo conhecimento da salvação, na remissão dos seus pecados,
+Dizei à filha de Sião: Eis que o teu Rei aí te vem, humilde e assentado sobre uma jumenta e sobre um jumentinho, filho de animal de carga.
+Assim, o SENHOR salvou Israel naquele dia da mão dos egípcios; e Israel viu os egípcios mortos na praia do mar.
+eu o entregarei na mão da mais poderosa das nações, que lhe dará o tratamento merecido pela sua impiedade; o lançarei fora.
+E, vendo aquilo os cinco príncipes dos filisteus, voltaram para Ecrom no mesmo dia.
+E disse-lhe o SENHOR: Quem fez a boca do homem? Ou quem fez o mudo, ou o surdo, ou o que vê, ou o cego? Não sou eu, o SENHOR?
+E o SENHOR me disse: Eis aqui, tenho começado a dar-te Seom e a sua terra diante de ti; começa, pois, a possuí-la, para que herdes a sua terra.
+ou seu tio ou o filho de seu tio o resgatará; ou um dos seus parentes, da sua família, o resgatará; ou, se a sua mão alcançar riqueza, se resgatará a si mesmo.
+Porque nos convinha tal sumo sacerdote, santo, inocente, imaculado, separado dos pecadores e feito mais sublime do que os céus,
+Eis aí, pois, agora, contra ti a mão do Senhor, e ficarás cego, sem ver o sol por algum tempo. No mesmo instante, a escuridão e as trevas caíram sobre ele, e, andando à roda, buscava a quem o guiasse pela mão.
+E os príncipes dos sacerdotes, tomando as moedas de prata, disseram: Não é lícito metê-las no cofre das ofertas, porque são preço de sangue.
+Assim, o SENHOR deixou ficar aquelas nações e não as desterrou logo, nem as entregou na mão de Josué.
+Porém Absalão não falou com Amnom, nem mal nem bem; porque Absalão aborrecia a Amnom, por ter forçado a Tamar, sua irmã.
+porque pelo seu Nome saíram, nada tomando dos gentios.
+Vendo isso sua irmã Oolibá, corrompeu o seu amor mais do que ela, e as suas devassidões foram maiores do que as de sua irmã.
+Louvarei o nome de Deus com cântico e engrandecê-lo-ei com ação de graças.
+e disse aos que vendiam pombos: Tirai daqui estes e não façais da casa de meu Pai casa de vendas.
+Perfeito eras nos teus caminhos, desde o dia em que foste criado, até que se achou iniquidade em ti.
+Ai dos que justificam o ímpio por presentes e ao justo negam justiça!
+assim diz o SENHOR dos Exércitos, o Deus de Israel: Toma estes autos, este auto de compra, tanto o selado como o aberto, e mete-os num vaso de barro, para que se possam conservar muitos dias;
+E havia quatro ombros aos quatro cantos de cada base; seus ombros saíam da base.
+Faze resplandecer o teu rosto sobre o teu servo e ensina-me os teus estatutos.
+Acabam de ser introduzidos à minha presença os sábios e os astrólogos, para lerem esta escritura, e me fazerem saber a sua interpretação; mas não puderam dar a interpretação destas palavras.
+E ele disse-lhes: A vós vos é dado saber os mistérios do Reino de Deus, mas aos que estão de fora todas essas coisas se dizem por parábolas,
+Buscai o SENHOR e a sua força; buscai a sua face continuamente.
+Indo, pois, ter com ele os samaritanos, rogaram-lhe que ficasse com eles; e ficou ali dois dias.
+Comecei, porventura, hoje a consultar por ele a Deus? Longe de mim tal! Não impute o rei coisa nenhuma a seu servo, nem a toda a casa de meu pai, pois o teu servo não soube nada de tudo isso, nem muito nem pouco.
+E vi que a mulher estava embriagada do sangue dos santos e do sangue das testemunhas de Jesus. E, vendo-a eu, maravilhei-me com grande admiração.
+Sendo, pois, anunciado ao rei do Egito que o povo fugia, mudou-se o coração de Faraó e dos seus servos contra o povo, e disseram: Por que fizemos isso, havendo deixado ir a Israel, para que nos não sirva?
+E chamou Moisés a todo o Israel e disse-lhe: Tendes visto tudo quanto o SENHOR fez na terra do Egito, perante vossos olhos, a Faraó, e a todos os seus servos, e a toda a sua terra;
+E, na verdade, tenho também por perda todas as coisas, pela excelência do conhecimento de Cristo Jesus, meu Senhor; pelo qual sofri a perda de todas estas coisas e as considero como esterco, para que possa ganhar a Cristo
+Nenhum bastardo entrará na congregação do SENHOR; nem ainda a sua décima geração entrará na congregação do SENHOR.
+E Joás, rei de Israel, prendeu a Amazias, rei de Judá, filho de Joás, o filho de Jeoacaz, em Bete-Semes, e o trouxe a Jerusalém; e derribou o muro de Jerusalém, desde a Porta de Efraim até à Porta da Esquina, um trecho de quatrocentos côvados.
+Eu te fiz multiplicar como o renovo do campo, e cresceste, e te engrandeceste, e alcançaste grande formosura; avultaram os seios, e cresceu o teu cabelo; mas estavas nua e descoberta.
+e vistes as suas abominações e os seus ídolos, a madeira e a pedra, a prata e o ouro que havia entre eles;
+E tomou Davi os escudos de ouro que tinham os servos de Hadadezer e os trouxe a Jerusalém.
+E seus irmãos, os filhos de Merari, estavam à esquerda, a saber: Etã, filho de Quisi, filho de Abdi, filho de Maluque,
+Tendo, porém, sustento e com que nos cobrirmos, estejamos com isso contentes.
+Ora, em Jerusalém há, próximo à Porta das Ovelhas, um tanque, chamado em hebreu Betesda, o qual tem cinco alpendres.
+Dizei aos turbados de coração: Esforçai-vos e não temais; eis que o vosso Deus virá com vingança, com recompensa de Deus; ele virá, e vos salvará.
+Ó Deus, não te alongues de mim; meu Deus, apressa-te em ajudar-me.
 A ele veio a palavra do SENHOR, nos dias de Josias, filho de Amom, rei de Judá, no décimo terceiro ano do seu reinado.
-Assim, pois, farás a Arão e a seus filhos, conforme tudo o que eu tenho ordenado; por sete dias os sagrarás.
-SENHOR, fizeste subir a minha alma da sepultura; conservaste-me a vida para que não descesse ao abismo.
-Respondeu mais o SENHOR a  e disse:
-Ide e consultai ao SENHOR por mim, e pelo povo, e por todo o Judá, acerca das palavras deste livro que se achou; porque grande é o furor do SENHOR que se acendeu contra nós, porquanto nossos pais não deram ouvidos às palavras deste livro, para fazerem conforme tudo quanto de nós está escrito.
-Às éguas dos carros de Faraó te comparo, ó amiga minha.
-SENHOR, o meu coração não se elevou, nem os meus olhos se levantaram; não me exercito em grandes assuntos, nem em coisas muito elevadas para mim.
-Fê-lo senhor da sua casa e governador de toda a sua fazenda
-E deu, naquele mesmo dia, um sinal, dizendo: Este é o sinal de que o SENHOR falou: Eis que o altar se fenderá, e a cinza que nele está se derramará.
-Os mortos tremem debaixo das águas com os seus moradores.
-Ao terceiro mês da saída dos filhos de Israel da terra do Egito, no mesmo dia, vieram ao deserto do Sinai. Tendo partido de Refidim, vieram ao deserto do Sinai e acamparam-se no deserto; Israel, pois, ali acampou-se defronte do monte.
-E estendeu o SENHOR a mão, tocou-me na boca e disse-me o SENHOR: Eis que ponho as minhas palavras na tua boca.
-aos homens, e às mulheres, e aos meninos, e às filhas do rei, e a toda alma que deixara Nebuzaradã, capitão da guarda, com Gedalias, filho de Aicão, filho de Safã; como também a Jeremias, o profeta, e a Baruque, filho de Nerias.
-Seis dias se trabalhará, mas o sétimo dia vos será santo, o sábado do repouso ao SENHOR; todo aquele que fizer obra nele morrerá.
-E porá a sua mão sobre a cabeça da sua oferta e a degolará diante da tenda da congregação; e os filhos de Arão espargirão o seu sangue sobre o altar, em redor.
-Porém sua mulher lhe disse: Se o SENHOR nos quisera matar, não aceitaria da nossa mão o holocausto e a oferta de manjares, nem nos mostraria tudo isto, nem nos deixaria ouvir tais coisas neste tempo.
-E que, desde a tua meninice, sabes as sagradas letras, que podem fazer-te sábio para a salvação, pela fé que há em Cristo Jesus.
-Então, farão subir contra ti um ajuntamento, e te apedrejarão com pedra, e te traspassarão com as suas espadas.
-E levaram vivo o jovem, e ficaram não pouco consolados.
-E logo se lhe abriram os ouvidos, e a prisão da língua se desfez, e falava perfeitamente.
-Dos confins da terra ouvimos cantar: glória ao Justo; mas eu digo: emagreço, emagreço, ai de mim! Os pérfidos tratam perfidamente; sim, os pérfidos tratam perfidamente.
-E ela disse: Eu sou filha de Betuel, filho de Milca, o qual ela deu a Naor.
-Qualquer, pois, que violar um destes menores mandamentos e assim ensinar aos homens será chamado o menor no Reino dos céus; aquele, porém, que os cumprir e ensinar será chamado grande no Reino dos céus.
-Depois disso, eu continuei olhando, e eis aqui outro, semelhante a um leopardo, e tinha quatro asas de ave nas suas costas; tinha também esse animal quatro cabeças, e foi-lhe dado domínio.
-Mas devemos sempre dar graças a Deus, por vós, irmãos amados do Senhor, por vos ter Deus elegido desde o princípio para a salvação, em santificação do Espírito e fé da verdade,
-E disse Moisés ao SENHOR: Assim, os egípcios o ouvirão; porquanto com a tua força fizeste subir este povo do meio deles.
-E viu Saul e notou que o SENHOR era com Davi; e Mical, filha de Saul, o amava.
-Cansaste-te na multidão dos teus conselhos; levantem-se, pois, agora, os agoureiros dos céus, os que contemplavam os astros, os prognosticadores das luas novas, e salvem-te do que há de vir sobre ti.
-Depois, repararam os tecoítas outra porção, defronte da torre grande e alta e até ao Muro de Ofel.
-E não te chegarás à mulher durante a separação da sua imundícia, para descobrir a sua nudez,
-Jesus ouviu que o tinham expulsado e, encontrando-o, disse-lhe: Crês tu no Filho de Deus?
-Que diremos, pois? Que há injustiça da parte de Deus? De maneira nenhuma!
-Muitos, pois, dentre os judeus que tinham vindo a Maria e que tinham visto o que Jesus fizera creram nele.
-E, querendo Paulo abrir a boca, disse Gálio aos judeus: Se houvesse, ó judeus, algum agravo ou crime enorme, com razão vos sofreria;
-Mas desgostou-se  extremamente disso e ficou todo ressentido.
-Todos os que querem mostrar boa aparência na carne, esses vos obrigam a circuncidar-vos, somente para não serem perseguidos por causa da cruz de Cristo.
-e o enchi do Espírito de Deus, de sabedoria, e de entendimento, e de ciência em todo artifício,
-E se ajuntaram os filhos dos cantores, tanto da campina dos arredores de Jerusalém como das aldeias de Netofa,
-E Jesus disse-lhes: Podem, porventura, os filhos das bodas jejuar, enquanto está com eles o esposo? Enquanto têm consigo o esposo, não podem jejuar.
-Eu conheço, diz o SENHOR, a sua indignação, mas isso nada é; as suas mentiras nada farão.
-E começou a edificar no segundo mês, no dia segundo, no ano quarto do seu reinado.
-porque, agora, vivemos, se estais firmes no Senhor.
-Aumento de dias há na sua mão direita; na sua esquerda, riquezas e honra.
+Porque não sei usar de lisonjas; em breve me levaria o meu Criador.
+e dizeis: Se existíssemos no tempo de nossos pais, nunca nos associaríamos com eles para derramar o sangue dos profetas.
+E a sua concubina, cujo nome era Reumá, lhe deu também Teba, e Gaã, e Taás, e Maaca.
+O que vendo todo o povo, caiu sobre os seus rostos e disse: Só o SENHOR é Deus! Só o SENHOR é Deus!
+E será que a vara do homem que eu tiver escolhido florescerá; assim, farei cessar as murmurações dos filhos de Israel contra mim, com que murmuram contra vós.
+E mostrou-me o rio puro da água da vida, claro como cristal, que procedia do trono de Deus e do Cordeiro.
+nan
+E os que escaparam da espada levou para a Babilônia; e fizeram-se servos dele e de seus filhos, até ao tempo do reino da Pérsia,
+Sucedeu, pois, que, ouvindo eles esta lei, apartaram de Israel toda mistura.
+Então, chamou Abimeleque a Isaque e disse: Eis que, na verdade, é tua mulher; como, pois, disseste: É minha irmã? E disse-lhe Isaque: Porque eu dizia: Para que eu porventura não morra por causa dela.
+Guarda o teu pé, quando entrares na Casa de Deus; e inclina-te mais a ouvir do que a oferecer sacrifícios de tolos, pois não sabem que fazem mal.
+E dos filhos de Bebai: Jeoanã, Hananias, Zabai e Atlai.
+Mas tu és lançado da tua sepultura, como um renovo abominável, como uma veste de mortos atravessados à espada, como os que descem ao covil de pedras, como corpo morto e pisado.
+Assim, pois, todos os anciãos de Israel vieram ao rei, a Hebrom; e o rei Davi fez com eles aliança em Hebrom, perante o SENHOR; e ungiram Davi rei sobre Israel.
+Seus filhos enrijam, crescem com o trigo, saem, e nunca mais tornam para elas.
+(Cercava, porém, então, o exército do rei da Babilônia a Jerusalém; e Jeremias, o profeta, estava encerrado no pátio da guarda que estava na casa do rei de Judá;
+E deixaram todos os mandamentos do SENHOR, seu Deus, e fizeram imagens de fundição, dois bezerros; e fizeram um ídolo do bosque, e se prostraram perante todo o exército do céu, e serviram a Baal.
 Ouvindo, pois, os filisteus que haviam ungido Davi rei sobre Israel, todos os filisteus subiram em busca de Davi; o que ouvindo Davi, desceu à fortaleza.
-Não ames o sono, para que não empobreças; abre os teus olhos e te fartarás de pão.
+para guardares os mandamentos do SENHOR e os seus estatutos, que hoje te ordeno, para o teu bem?
+Porque não nos chamou Deus para a imundícia, mas para a santificação.
+Peso de Dumá. Gritam-me de Seir: Guarda, que houve de noite? Guarda, que houve de noite?
+Louvem ao SENHOR pela sua bondade e pelas suas maravilhas para com os filhos dos homens!
+E, como estava apartado do caminho, todos os homens seguiram a Joabe, para perseguirem a Seba, filho de Bicri.
+Então, disse Saul: Chegai-vos para cá, todos os chefes do povo, e informai-vos, e vede em que se cometeu hoje este pecado.
+Então, se cumpriu o que foi dito pelo profeta Jeremias, que diz:
+E os trará ao sacerdote, o qual primeiro oferecerá aquele que é para expiação do pecado; e, com a sua unha, lhe fenderá a cabeça junto ao pescoço, mas não o partirá.
+Assim, subiram e espiaram a terra desde o deserto de Zim até Reobe, à entrada de Hamate.
+Fazendo ele ouvir a sua voz, grande estrondo de águas há nos céus, e sobem os vapores desde o fim da terra; faz os relâmpagos com a chuva e tira o vento dos seus tesouros.
+Portanto, entrega seus filhos à fome e entrega-os ao poder da espada; e sejam suas mulheres roubadas dos filhos e fiquem viúvas; e seus maridos sejam feridos de morte, e os seus jovens, feridos à espada na peleja.
+e Belá, filho de Azaz, filho de Sema, filho de Joel, que habitaram em Aroer, até Nebo e Baal-Meom;
+Plantarás vinhas e cultivarás; porém não beberás vinho, nem colherás as uvas, porque o bicho as colherá.
+salvo por seu parente mais chegado: por sua mãe, e por seu pai, e por seu filho, e por sua filha, e por seu irmão,
+Bem-aventurados os que observam o direito, o que pratica a justiça em todos os tempos.
+Tal é o caminho da mulher adúltera: ela come, e limpa a sua boca, e diz: Não cometi maldade.
+Pois disse eu: a tua benignidade será edificada para sempre; tu confirmarás a tua fidelidade até nos céus, dizendo:
+Que mais te dirá Davi, acerca da honra feita a teu servo? Porém tu bem conheces o teu servo.
+Ó Deus, tu nos rejeitaste, tu nos espalhaste, tu tens estado indignado; oh! Volta-te para nós!
+Provaste o meu coração; visitaste-me de noite; examinaste-me e nada achaste; o que pensei, a minha boca não transgredirá.
+e eu em paz tornar à casa de meu pai, o SENHOR será o meu Deus;
+Então, Satanás respondeu ao SENHOR e disse: Pele por pele, e tudo quanto o homem tem dará pela sua vida.
+Não deis aos cães as coisas santas, nem deiteis aos porcos as vossas pérolas; para que não as pisem e, voltando-se, vos despedacem.
+Respondeu mais o SENHOR a  e disse:
+Muita, em toda maneira, porque, primeiramente, as palavras de Deus lhe foram confiadas.
+Era, porém,  já velho, entrado em dias; e disse-lhe o SENHOR: Já estás velho, entrado em dias; e ainda muitíssima terra ficou para possuir.
+E tornou a trazer toda a fazenda e tornou a trazer também a Ló, seu irmão, e a sua fazenda, e também as mulheres, e o povo.
+Eis que a mão do SENHOR não está encolhida, para que não possa salvar; nem o seu ouvido, agravado, para não poder ouvir.
+Mas, se por causa da comida se contrista teu irmão, já não andas conforme o amor. Não destruas por causa da tua comida aquele por quem Cristo morreu.
+Não conforme o concerto que fiz com seus pais, no dia em que os tomei pela mão, para os tirar da terra do Egito, porquanto eles invalidaram o meu concerto, apesar de eu os haver desposado, diz o SENHOR.
+e te derribarão, a ti e a teus filhos que dentro de ti estiverem, e não deixarão em ti pedra sobre pedra, pois que não conheceste o tempo da tua visitação.
+e Uzi gerou a Zeraías, e Zeraías gerou a Meraiote;
+E estabeleceu juízes na terra, em todas as cidades fortes, de cidade em cidade.
+Então, acabaram-se os sete anos de fartura que havia na terra do Egito,
+E houve grande fome em Samaria, porque eis que a cercaram, até que se vendeu uma cabeça de um jumento por oitenta peças de prata, e a quarta parte de um cabo de esterco de pombas, por cinco peças de prata.
+Vindo vós, pois, a este lugar, Seom, rei de Hesbom, e Ogue, rei de Basã, nos saíram ao encontro, à peleja, e nós os ferimos;
+Os fariseus ouviram que a multidão murmurava dele essas coisas; e os fariseus e os principais dos sacerdotes mandaram servidores para o prenderem.
+E a cidade não necessita de sol nem de lua, para que nela resplandeçam, porque a glória de Deus a tem alumiado, e o Cordeiro é a sua lâmpada.
+Não obstante eu ter destruído o amorreu diante deles, a altura do qual era como a altura dos cedros, e cuja força era como a dos carvalhos; mas destruí o seu fruto por cima e as suas raízes por baixo.
+Mas a gordura, e os rins, e o redenho do fígado de expiação do pecado queimou sobre o altar, como o SENHOR ordenara a Moisés.
+Espere Israel no SENHOR, porque no SENHOR há misericórdia, e nele há abundante redenção,
+E foram os filhos de Israel e fizeram isso; como o SENHOR ordenara a Moisés e a Arão, assim fizeram.
+E o céu retirou-se como um livro que se enrola; e todos os montes e ilhas foram removidos do seu lugar.
+E derramarei sobre ti a minha indignação, assoprarei contra ti o fogo do meu furor, entregar-te-ei nas mãos dos homens brutais, inventores de destruição.
+Na qual vontade temos sido santificados pela oblação do corpo de Jesus Cristo, feita uma vez.
+O SENHOR levantará contra ti uma nação de longe, da extremidade da terra, que voa como a águia, nação cuja língua não entenderás;
+E Davi deu ordem a todos os príncipes de Israel que ajudassem a Salomão, seu filho, dizendo:
+E Ada teve de Esaú a Elifaz; e Basemate teve a Reuel;
+para que os nossos bois sejam fortes para o trabalho; para que não haja nem assaltos, nem saídas, nem clamores em nossas ruas.
+Jesus ouviu que o tinham expulsado e, encontrando-o, disse-lhe: Crês tu no Filho de Deus?
+E, estando Jesus assentado defronte da arca do tesouro, observava a maneira como a multidão lançava o dinheiro na arca do tesouro; e muitos ricos depositavam muito.
+Ó tu que ouves as orações! A ti virá toda a carne.
+Então, a nuvem cobriu a tenda da congregação, e a glória do SENHOR encheu o tabernáculo,
+E disse-lhes Moisés: Esperai, e ouvirei o que o SENHOR vos ordenará.
+E eis que agora eu trouxe as primícias dos frutos da terra que tu, ó SENHOR, me deste. Então, as porás perante o SENHOR, teu Deus, e te inclinarás perante o SENHOR, teu Deus.
+Vindo também o Ano do Jubileu dos filhos de Israel, a sua herança se acrescentaria à herança da tribo daqueles com quem se casarem; assim, a sua herança será tirada da herança da tribo de nossos pais.
+Tendes já rodeado bastante esta montanha; virai-vos para o norte.
+E, sobre o altar de ouro, estenderão um pano azul, e com a coberta de peles de texugos o cobrirão, e lhe porão os seus varais.
+E eles lhe falaram, dizendo: Não, mas fortemente te amarraremos e te entregaremos na sua mão; porém, de maneira nenhuma, te mataremos. E amarraram-no com duas cordas novas e fizeram-no subir da rocha.
+E também tenho ouvido o gemido dos filhos de Israel, aos quais os egípcios escravizam, e me lembrei do meu concerto.
+Também pôs uma imagem de escultura, do bosque que tinha feito, na casa de que o SENHOR dissera a Davi e a Salomão, seu filho: Nesta casa e em Jerusalém, que escolhi de todas as tribos de Israel, porei o meu nome para sempre.
+Disse-lhe Jesus: Se queres ser perfeito, vai, vende tudo o que tens, dá-o aos pobres e terás um tesouro no céu; e vem e segue-me.
+Porque, havendo-a alguns ouvido, o provocaram; mas não todos os que saíram do Egito por meio de Moisés.
+O SENHOR se levanta para pleitear e sai a julgar os povos.
+E o nome do israelita morto, que foi morto com a midianita, era Zinri, filho de Salu, maioral da casa paterna dos simeonitas.
+E Davi tomou a cabeça do filisteu e a trouxe a Jerusalém; porém pôs as armas dele na sua tenda.
+Então, disseram uns para os outros: Não fazemos bem; este dia é dia de boas-novas, e nos calamos; se esperarmos até à luz da manhã, algum mal nos sobrevirá; pelo que agora vamos e o anunciemos à casa do rei.
+E disse-me: Viste, filho do homem? Verás ainda abominações maiores do que estas.
+Todo aquele que prevarica e não persevera na doutrina de Cristo não tem a Deus; quem persevera na doutrina de Cristo, esse tem tanto o Pai como o Filho.
+Mas ter a mulher cabelo crescido lhe é honroso, porque o cabelo lhe foi dado em lugar de véu.
+E o testemunho é este: que Deus nos deu a vida eterna; e esta vida está em seu Filho.
+E até o Todo-Poderoso te será por ouro e por prata amontoada.
+Quando pensava em compreender isto, fiquei sobremodo perturbado;
+Porque me fez grandes coisas o Poderoso; e Santo é o seu nome.
+Não lhe darás teu dinheiro com usura, nem darás o teu manjar por interesse.
+nan
+Lamenta como a virgem que está cingida de pano de saco pelo marido da sua mocidade.
+E puseram os sacerdotes nas suas turmas e os levitas nas suas divisões, para o ministério de Deus, que está em Jerusalém, conforme o escrito do livro de Moisés.
+Então, disse o rei: Vai bem com o jovem, com Absalão? E disse Aimaás: Vi um grande alvoroço, quando Joabe mandou o servo do rei, e a mim, teu servo; porém não sei o que era.
+nan
+Isto, pois, é o que oferecereis sobre o altar: dois cordeiros de um ano cada dia continuamente.
+Eis que dias vêm, diz o SENHOR, em que semearei a casa de Israel e a casa de Judá com a semente de homens e com a semente de animais.
+Como ordenara o SENHOR a Moisés, seu servo, assim Moisés ordenou a Josué; e assim  o fez; nem uma só palavra tirou de tudo o que o SENHOR ordenara a Moisés.
+E os umbrais das portas se moveram com a voz do que clamava, e a casa se encheu de fumaça.
+Tendo Jesus dito isso, turbou-se em espírito e afirmou, dizendo: Na verdade, na verdade vos digo que um de vós me há de trair.
+Mas os primeiros governadores, que foram antes de mim, oprimiram o povo e tomaram-lhe pão e vinho e, além disso, quarenta siclos de prata; ainda também os seus moços dominavam sobre o povo; porém eu assim não fiz, por causa do temor de Deus.
+E, havendo aberto o terceiro selo, ouvi o terceiro animal, dizendo: Vem e vê! E olhei, e eis um cavalo preto; e o que sobre ele estava assentado tinha uma balança na mão.
+Depois, disse a Moisés: Sobe ao SENHOR, tu e Arão, Nadabe e Abiú, e setenta dos anciãos de Israel; e inclinai-vos de longe.
+Então, o sumo sacerdote Azarias olhou para ele, como também todos os sacerdotes, e eis que já estava leproso na sua testa, e apressuradamente o lançaram fora; e até ele mesmo se deu pressa a sair, visto que o SENHOR o ferira.
+Ouve o conselho e recebe a correção, para que sejas sábio nos teus últimos dias.
+E foi o filho de Calebe, irmão de Jerameel, Messa, seu primogênito (este foi o pai de Zife); e Maressa foi pai de Hebrom.
+Mas os homens e os animais estarão cobertos de panos de saco, e clamarão fortemente a Deus, e se converterão, cada um do seu mau caminho e da violência que há nas suas mãos.
+E aconteceu que, num sábado, passou pelas searas, e os seus discípulos iam arrancando espigas e, esfregando-as com as mãos, as comiam.
+E disse-lhes: Contaminai a casa, e enchei os átrios de mortos, e saí. E saíram e feriram na cidade.
+Disse Deus mais a Abraão: a Sarai, tua mulher, não chamarás mais pelo nome de Sarai, mas Sara será o seu nome.
+E habitareis na terra que eu dei a vossos pais, e vós me sereis por povo, e eu vos serei por Deus.
+nan
+Mas tu és o que me tiraste do ventre; o que me preservaste estando ainda aos seios de minha mãe.
+Eu vejo os seus caminhos e os sararei; também os guiarei e lhes tornarei a dar consolações e aos seus pranteadores.
+Depois, tomarão outras pedras e as porão no lugar das primeiras pedras; e outro barro se tomará, e a casa se rebocará.
+Clamai cantando, exultai juntamente, desertos de Jerusalém! Porque o SENHOR consolou o seu povo, remiu a Jerusalém.
+Ou dir-se-á a um rei: Oh! Belial? Ou, aos príncipes: Oh! Ímpios?
+A voz do teu trovão repercutiu-se nos ares; os relâmpagos alumiaram o mundo; a terra se abalou e tremeu.
+Ora, ninguém subiu ao céu, senão o que desceu do céu, o Filho do Homem, que está no céu.
+As suas faces são como um canteiro de bálsamo, como colinas de ervas aromáticas; os seus lábios são como lírios que gotejam mirra.
+Todos os dias em que a praga estiver nele, será imundo; imundo está, habitará só; a sua habitação será fora do arraial.
+Então, se alguém vos disser: Eis que o Cristo está aqui ou ali, não lhe deis crédito,
+E Zadoque, o sacerdote, com Natã, o profeta, ali o ungirão rei sobre Israel; então, tocareis a trombeta e direis: Viva o rei Salomão!
+E havia um chamado Barrabás, que, preso com outros amotinadores, tinha num motim cometido uma morte.
+E iam falando entre si de tudo aquilo que havia sucedido.
+Qual o terreno, tais são também os terrenos; e, qual o celestial, tais também os celestiais.
+Então, lhes declarei como a mão do meu Deus me fora favorável, como também as palavras do rei, que ele me tinha dito. Então, disseram: Levantemo-nos e edifiquemos. E esforçaram as suas mãos para o bem.
+Então, disse o SENHOR a Isaías: Agora, tu e teu filho Sear-Jasube, saí ao encontro de Acaz, ao fim do canal do viveiro superior, ao caminho do campo do lavandeiro.
+Ele me levou e me fez andar em trevas e não na luz.
+Mas, se, vendo-a o sacerdote, a praga se não estendeu na veste, ou no fio urdido, ou no tecido, ou em qualquer obra de peles,
+Vindo, pois, eu de Padã, me morreu Raquel na terra de Canaã, no caminho, quando ainda ficava um pequeno espaço de terra para vir a Efrata; e eu a sepultei ali, no caminho de Efrata, que é Belém.
+E dizia isso significando de que morte havia de morrer.
+E saberão todos os moradores do Egito que eu sou o SENHOR, porque se tornaram um bordão de cana para a casa de Israel.
+Os altos, porém, não se tiraram de Israel; contudo, o coração de Asa foi perfeito todos os seus dias.
+Ouvi com atenção as minhas razões; e com os vossos ouvidos, a minha demonstração.
+E os egípcios puseram sobre eles maiorais de tributos, para os afligirem com suas cargas. E edificaram a Faraó cidades de tesouros, Pitom e Ramessés.
+desde o Jordão para o nascente do sol, e toda a terra de Gileade, e os gaditas, e os rubenitas, e os manassitas, desde Aroer, que está junto ao ribeiro de Arnom, a saber, Gileade e Basã.
+Mas o fruto do Espírito é: amor, gozo, paz, longanimidade, benignidade, bondade, fé, mansidão, temperança.
+E falaram contra Deus e disseram: Poderá Deus, porventura, preparar-nos uma mesa no deserto?
+Porque não nos recomendamos outra vez a vós; mas damo-vos ocasião de vos gloriardes de nós, para que tenhais que responder aos que se gloriam na aparência e não no coração.
+Mas eu despi a Esaú, descobri os seus esconderijos, e não se poderá esconder; é destruída a sua descendência, como também seus irmãos e seus vizinhos, e ele já não existe.
+também habitaram da banda do oriente, até à entrada do deserto, desde o rio Eufrates, porque seu gado se tinha multiplicado na terra de Gileade.
+Tomei, pois, os cabeças de vossas tribos, homens sábios e experimentados, e os tenho posto por cabeças sobre vós, e por capitães de milhares, e por capitães de cem, e por capitães de cinquenta, e por capitães de dez, e por governadores das vossas tribos.
+Estas são as palavras do concerto que o SENHOR ordenou a Moisés, na terra de Moabe, que fizesse com os filhos de Israel, além do concerto que fizera com eles em Horebe.
+E jurou-lhe, dizendo: Tudo o que me pedires te darei, até metade do meu reino.
+Serviu, pois, Israel ao SENHOR todos os dias de  e todos os dias dos anciãos que ainda viveram muito depois de  e que sabiam toda a obra que o SENHOR tinha feito a Israel.
+Porém com eles se não fez conta do dinheiro que se lhes entregara nas suas mãos, porquanto procediam com fidelidade.
+Entrega o teu caminho ao SENHOR; confia nele, e ele tudo fará.
+E aos filhos dos estrangeiros que se chegarem ao SENHOR, para o servirem e para amarem o nome do SENHOR, sendo deste modo servos seus, todos os que guardarem o sábado, não o profanando, e os que abraçarem o meu concerto,
+e Naassom, de Aminadabe, e Aminadabe, de Admim, e Admim, de Arni, e Arni, de Esrom, e Esrom, de Perez, e Perez, de Judá,
+E foram ter com o rei ao átrio; mas depositaram o rolo na câmara de Elisama, o escriba, e anunciaram aos ouvidos do rei todas aquelas palavras.
 e a sua oferta de manjares e a suas libações para os bezerros, para os carneiros e para os cordeiros, conforme o número, segundo o estatuto; e um bode, para expiação do pecado, além do holocausto contínuo, e a sua oferta de manjares e a sua libação.
-Ó Deus, tu és o meu Deus; de madrugada te buscarei; a minha alma tem sede de ti; a minha carne te deseja muito em uma terra seca e cansada, onde não há água,
-Quem come a minha carne e bebe o meu sangue tem a vida eterna, e eu o ressuscitarei no último Dia.
-E lhe mudou as vestes da prisão, e de contínuo Joaquim comia pão na sua presença todos os dias da sua vida.
-Não cuideis que vim destruir a lei ou os profetas; não vim ab-rogar, mas cumprir.
-E o sonho foi duplicado duas vezes a Faraó é porque esta coisa é determinada de Deus, e Deus se apressa a fazê-la.
-Por que não entendeis a minha linguagem? Por não poderdes ouvir a minha palavra.
-arraigados e edificados nele e confirmados na fé, assim como fostes ensinados, crescendo em ação de graças.
-Porque viu o SENHOR que a miséria de Israel era mui amarga e que nem havia encerrado, nem livre, nem quem ajudasse a Israel.
-Livrou-me do meu possante inimigo e daqueles que me tinham ódio, porque eram mais fortes do que eu.
-Quanto à palavra que nos anunciaste em nome do SENHOR, não te obedeceremos a ti;
-E o povo creu; e ouviram que o SENHOR visitava aos filhos de Israel e que via a sua aflição; e inclinaram-se e adoraram.
-Convertei-vos, pois, àquele contra quem os filhos de Israel se rebelaram tão profundamente.
-E ele lhes disse: Assim e assim me tem feito Mica; pois me tem assalariado, e eu lhe sirvo de sacerdote.
-Disse mais a todo o Israel: Vós estareis de uma banda, e eu e meu filho Jônatas estaremos da outra banda. Então, disse o povo a Saul: Faze o que parecer bem aos teus olhos.
-E guardai os meus estatutos e cumpri-os. Eu sou o SENHOR que vos santifica.
-Desejaria eu, de qualquer maneira, a morte do ímpio? Diz o Senhor JEOVÁ; não desejo, antes, que se converta dos seus caminhos e viva?
-Porque eu, o SENHOR, não mudo; por isso, vós, ó filhos de Jacó, não sois consumidos.
-E fez Moisés como o SENHOR lhe ordenara; porque tomou a  e apresentou-o perante Eleazar, o sacerdote, e perante toda a congregação;
-Vós, mulheres, sujeitai-vos a vosso marido, como ao Senhor;
-Jônatas, tio de Davi, era do conselho, homem sábio e também escriba; e Jeiel, filho de Hacmoni, estava com os filhos do rei;
-E, antes que se deitassem, cercaram a casa os varões daquela cidade, os varões de Sodoma, desde o moço até ao velho; todo o povo de todos os bairros.
-Mas o que me der ouvidos habitará seguramente e estará descansado do temor do mal.
-E o sacerdote que faz a purificação apresentará o homem que houver de purificar-se com aquelas coisas perante o SENHOR, à porta da tenda da congregação.
-Eis que as primeiras coisas passaram, e novas coisas eu vos anuncio, e, antes que venham à luz, vo-las faço ouvir.
-E, esperando até se enfastiarem, eis que não abriu as portas do cenáculo; então, tomaram a chave e abriram, e eis seu senhor estendido morto em terra.
-sabendo que o que ressuscitou o Senhor Jesus nos ressuscitará também por Jesus e nos apresentará convosco.
-Porquanto ouço uma voz como de mulher que está de parto, uma angústia como da que está com dores do primeiro filho; a voz da filha de Sião, ofegante, que estende as mãos, dizendo: Oh! Ai de mim agora! Porque a minha alma desmaia diante dos assassinos.
-Porque eis que suscito os caldeus, nação amarga e apressada, que marcha sobre a largura da terra, para possuir moradas não suas.
-SENHOR, Deus de nossos pais Abraão, Isaque e Israel, conserva isso para sempre no intento dos pensamentos do coração de teu povo; e encaminha o seu coração para ti.
-Dos filhos de Hasum: Matenai, Matatá, Zabade, Elifelete, Jeremai, Manassés e Simei.
-E, acabados aqueles dias, fez o rei um convite a todo o povo que se achou na fortaleza de Susã, desde o maior até ao menor, por sete dias, no pátio do jardim do palácio real.
-Não fez assim a nenhuma outra nação; e, quanto aos seus juízos, nenhuma os conhece. Louvai ao SENHOR!
-Não vos deixarei órfãos; voltarei para vós.
-E mostraste sinais e prodígios a Faraó, e a todos os seus servos, e a todo o povo da sua terra, porque soubeste que soberbamente os trataram; e assim te adquiriste nome, como hoje se vê.
-O coração com saúde é a vida da carne, mas a inveja é a podridão dos ossos.
-Com quem achares os teus deuses, esse não viva; reconhece diante de nossos irmãos o que é teu do que está comigo e toma-o para ti. Pois Jacó não sabia que Raquel os tinha furtado.
-Dirás ainda diante daquele que te matar: Eu sou Deus? Mas tu és homem e não Deus na mão do que te traspassa.
-mas este, porque permanece eternamente, tem um sacerdócio perpétuo.
-Sobre o castiçal puro porá em ordem as lâmpadas perante o SENHOR continuamente.
-Porque, com alegria, saireis e, em paz, sereis guiados; os montes e os outeiros exclamarão de prazer perante a vossa face, e todas as árvores do campo baterão palmas.
-Da idade de quarenta anos era eu, quando Moisés, servo do SENHOR, me enviou de Cades-Barneia a espiar a terra; e eu lhe trouxe resposta, como sentia no meu coração.
-Assim diz o SENHOR dos Exércitos: Considerai e chamai carpideiras, para que venham; e mandai procurar mulheres sábias, para que venham também.
-E madrugou Samuel para encontrar a Saul pela manhã; e anunciou-se a Samuel, dizendo: Já chegou Saul ao Carmelo, e eis que levantou para si uma coluna. Então, fez volta, e passou, e desceu a Gilgal.
-Refrigera a minha alma; guia-me pelas veredas da justiça por amor do seu nome.
-Porque morando eu em Gesur, na Síria, votou o teu servo um voto, dizendo: Se o SENHOR outra vez me fizer tornar a Jerusalém, servirei ao SENHOR.
-E disse ele: Vivendo ainda a criança, jejuei e chorei, porque dizia: Quem sabe se o SENHOR se compadecerá de mim, e viva a criança?
+E a oferta de Judá e de Jerusalém será suave ao SENHOR, como nos dias antigos e como nos primeiros anos.
+E os quatro animais tinham, cada um, respectivamente, seis asas e, ao redor e por dentro, estavam cheios de olhos; e não descansam nem de dia nem de noite, dizendo: Santo, Santo, Santo é o Senhor Deus, o Todo-Poderoso, que era, e que é, e que há de vir.
+Pelo que, rejeitando toda imundícia e acúmulo de malícia, recebei com mansidão a palavra em vós enxertada, a qual pode salvar a vossa alma.
+Também a Jeú, filho de Ninsi, ungirás rei de Israel e também Eliseu, filho de Safate, de Abel-Meolá, ungirás profeta em teu lugar.
+Zelofeade, porém, filho de Héfer, o filho de Gileade, filho de Maquir, o filho de Manassés, não teve filhos, mas só filhas; e estes são os nomes de suas filhas: Macla, Noa, Hogla, Milca e Tirza.
+E a multidão, vendo isso, maravilhou-se e glorificou a Deus, que dera tal poder aos homens.
+Mas o que se ajunta com o Senhor é um mesmo espírito.
+A seu tempo se levanta ao alto; ri-se do cavalo e do que vai montado nele.
 Haveria coisa alguma difícil ao SENHOR? Ao tempo determinado, tornarei a ti por este tempo da vida, e Sara terá um filho.
-E não rejeitastes, nem desprezastes isso que era uma tentação na minha carne; antes, me recebestes como um anjo de Deus, como Jesus Cristo mesmo.
-pois vejo que estás em fel de amargura e em laço de iniquidade.
-E, se valer a pena que eu também vá, irão comigo.
-Os nossos olhos desfaleciam, esperando vão socorro; olhávamos atentamente para gente que não pode livrar.
-A ti, ó Deus, espera o louvor em Sião, e a ti se pagará o voto.
-Esta será a oferta que haveis de fazer: a sexta parte de um efa de cada ômer de trigo; também dareis a sexta parte de um efa de cada ômer de cevada. Quanto ao estatuto do azeite, de cada bato de azeite oferecereis a décima parte do bato tirado de um coro, que é um ômer de dez batos; porque dez batos fazem um ômer.
-E dizia também à multidão: Quando vedes a nuvem que vem do ocidente, logo dizeis: Lá vem chuva; e assim sucede.
-e fundirás para ela quatro argolas de ouro e as porás nos quatro cantos dela: duas argolas num lado dela e duas argolas no outro lado dela.
-Porque todo o povo que saíra estava circuncidado, mas a nenhum do povo que nascera no deserto, pelo caminho, depois de terem saído do Egito, haviam circuncidado.
-Porque, passados ainda sete dias, farei chover sobre a terra quarenta dias e quarenta noites; e desfarei de sobre a face da terra toda substância que fiz.
-Mas confesso-te que, conforme aquele Caminho, a que chamam seita, assim sirvo ao Deus de nossos pais, crendo tudo quanto está escrito na Lei e nos Profetas.
-Depois, estenderão, em cima deles, um pano carmesim, e, com a coberta de peles de texugos, o cobrirão, e lhe porão os seus varais.
-E Paulo, como tinha por costume, foi ter com eles e, por três sábados, disputou com eles sobre as Escrituras,
-E pôs os levitas na Casa do SENHOR com címbalos, com alaúdes e com harpas, conforme o mandado de Davi e de Gade, o vidente do rei, e do profeta Natã, porque este mandado veio do SENHOR, por mão de seus profetas.
-O coração do sábio está à sua mão direita, mas o coração do tolo está à sua esquerda.
-Também te vesti de bordadura, e te calcei com pele de texugo, e te cingi de linho fino, e te cobri de seda.
-à tarde, entrava e, pela manhã, tornava à segunda casa das mulheres, debaixo da mão de Saasgaz, eunuco do rei, guarda das concubinas; não tornava mais ao rei, salvo se o rei a desejasse e fosse chamada por nome.
-pelo qual também sois salvos, se o retiverdes tal como vo-lo tenho anunciado, se não é que crestes em vão.
-Sete dias se comerão pães asmos, e o levedado não se verá contigo, nem ainda fermento será visto em todos os teus termos.
-Estas coisas fez Benaia, filho de Joiada, pelo que teve nome entre aqueles três varões.
-Conforme a sua imundícia e conforme as suas prevaricações, usei com eles e escondi deles a minha face.
-Então, disse Ornã a Davi: Toma-a para ti, e faça o rei, meu senhor, dela o que parecer bem aos seus olhos; eis que dou os bois para holocaustos, e os trilhos para lenha, e o trigo para oferta de manjares; tudo dou.
-Fique-se sobre a cabeça de Joabe e sobre toda a casa de seu pai, e nunca da casa de Joabe falte quem tenha fluxo, nem quem seja leproso, nem quem se atenha a bordão, nem quem caia à espada, nem quem necessite de pão.
-Da tua casa não tirarei bezerro nem bodes dos teus currais.
-E, levantando-se toda a multidão deles, o levaram a Pilatos.
-E os soldados, tecendo uma coroa de espinhos, lha puseram sobre a cabeça e lhe vestiram uma veste de púrpura.
-Mas Deus assim cumpriu o que já dantes pela boca de todos os seus profetas havia anunciado: que o Cristo havia de padecer.
-Então, Moisés falou as palavras deste cântico aos ouvidos de toda a congregação de Israel, até se acabarem:
-Disse mais Abrão: Eis que me não tens dado semente, e eis que um nascido na minha casa será o meu herdeiro.
-Porquanto te levantei do pó e te pus por chefe sobre o meu povo Israel, e tu andaste no caminho de Jeroboão e fizeste pecar a meu povo Israel, irritando-me com os seus pecados,
-Nas suas pisadas os meus pés se afirmaram; guardei o seu caminho e não me desviei dele.
-Ainadabe, filho de Ido, em Maanaim;
-Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus.
-Porque se observam os estatutos de Onri e toda a obra da casa de Acabe, e vós andais nos conselhos deles; para que eu faça de ti uma desolação e dos seus habitantes um assobio; assim, trareis sobre vós o opróbrio do meu povo.
-No tempo determinado, tornará a vir contra o Sul; mas não será na última vez como foi na primeira.
-Depois, levantou os seus olhos, e viu as mulheres e os meninos, e disse: Quem são estes contigo? E ele disse: Os filhos que Deus graciosamente tem dado a teu servo.
-e Uzias gerou a Jotão, e Jotão gerou a Acaz, e Acaz gerou a Ezequias.
-Seja a tua misericórdia, SENHOR, sobre nós, como em ti esperamos.
-Esta é, pois, a lei que Moisés propôs aos filhos de Israel.
-Livra-me dos crimes de sangue, ó Deus, Deus da minha salvação, e a minha língua louvará altamente a tua justiça.
-Pelo que me retribuiu o SENHOR conforme a minha justiça, conforme a pureza de minhas mãos perante os seus olhos.
-Fabricaram todos os teus conveses de faias de Senir; trouxeram cedros do Líbano para fazerem mastros para ti.
-Os mortos à espada mais ditosos são do que os mortos à fome; porque estes se esgotam como traspassados, por falta dos frutos dos campos.
-E, respondendo, disseram-lhe: Onde, Senhor? E ele lhes disse: Onde estiver o corpo, aí se ajuntarão as águias.
-E a Porta do Peixe edificaram os filhos de Hassenaá, a qual emadeiraram, e levantaram as suas portas com as suas fechaduras e os seus ferrolhos.
-E serão amontoados como presos em uma masmorra, e serão encerrados em um cárcere, e serão visitados depois de muitos dias.
-Então, disse Faraó a José: Eis que em meu sonho estava eu em pé na praia do rio.
-Implorei deveras o teu favor de todo o meu coração; tem piedade de mim, segundo a tua palavra.
-E outra caiu sobre pedra e, nascida, secou-se, pois que não tinha umidade.
-Quem tem ouvidos ouça o que o Espírito diz às igrejas.
-por todos os pecados de Baasa, e os pecados de Elá, seu filho, com que pecaram e com que fizeram pecar a Israel, irritando ao SENHOR, Deus de Israel com as suas vaidades.
-Ora, o Senhor, depois de lhes ter falado, foi recebido no céu e assentou-se à direita de Deus.
-E chorou diante dele os sete dias em que celebravam as bodas; sucedeu, pois, que, ao sétimo dia, lho declarou, porquanto o importunava; então, ela declarou o enigma aos filhos do seu povo.
-Isso terão em recompensa da sua soberba, porque escarneceram e se engrandeceram contra o povo do SENHOR dos Exércitos.
-Então, olhei, e eis quatro rodas junto aos querubins, uma roda junto a cada querubim; e o aspecto das rodas era como cor de pedra de turquesa.
-Conjuro-vos, ó filhas de Jerusalém, que, se achardes o meu amado, lhe digais que estou enferma de amor.
-Depois, morreu Eliseu, e o sepultaram. Ora, as tropas dos moabitas invadiam a terra, à entrada do ano.
-E levou a arca ao tabernáculo, e pendurou o véu da cobertura, e cobriu a arca do Testemunho, como o SENHOR ordenara a Moisés.
-Os navios de Társis eram as tuas caravanas, por causa do teu negócio; e te encheste e te glorificaste muito no meio dos mares.
-Estava, porém, ali, naquele dia, um dos criados de Saul, detido perante o SENHOR; e era seu nome Doegue, edomita, o mais poderoso dos pastores de Saul.
-mas que irás à minha terra e à minha parentela e daí tomarás mulher para meu filho Isaque.
-Estendi as mãos todo o dia a um povo rebelde, que caminha por caminho que não é bom, após os seus pensamentos;
-Verdade é, ó SENHOR, que os reis da Assíria assolaram as nações e as suas terras.
-E te farei frutificar grandissimamente e de ti farei nações, e reis sairão de ti.
-e para ensinar aos filhos de Israel todos os estatutos que o SENHOR lhes tem falado pela mão de Moisés.
-O justo se alegrará quando vir a vingança; lavará os seus pés no sangue do ímpio.
-Assim, muito povo se ajuntou e tapou todas as fontes, como também o ribeiro que se estendia pelo meio da terra. E disseram: Por que viriam os reis da Assíria e achariam tantas águas?
-filho de Anzi, filho de Bani, filho de Semer,
-Viu, pois, Moisés toda a obra, e eis que a tinham feito; como o SENHOR ordenara, assim a fizeram; então, Moisés os abençoou.
-mas a que vive em deleites, vivendo, está morta.
-Purificando a vossa alma na obediência à verdade, para amor fraternal, não fingido, amai-vos ardentemente uns aos outros, com um coração puro;
-Tomaram, pois, de diante de Moisés toda oferta alçada que trouxeram os filhos de Israel para a obra do serviço do santuário, para fazê-la; e, ainda, eles lhe traziam cada manhã oferta voluntária.
-E os egípcios seguiram-nos, e entraram atrás deles todos os cavalos de Faraó, os seus carros e os seus cavaleiros, até ao meio do mar.
-Tenho posto o SENHOR continuamente diante de mim; por isso que ele está à minha mão direita, nunca vacilarei.
-Há alguma coisa de que se possa dizer: Vê, isto é novo? Já foi nos séculos passados, que foram antes de nós.
-E, logo que chegou, aproximou-se dele e disse-lhe: Rabi, Rabi. E beijou-o.
-Eu sei, porém, que o rei do Egito não vos deixará ir, nem ainda por uma mão forte.
-Havendo, pois, Arão e seus filhos, ao partir do arraial, acabado de cobrir o santuário e todos os instrumentos do santuário, então, os filhos de Coate virão para levá-lo; mas no santuário não tocarão para que não morram; este é o cargo dos filhos de Coate na tenda da congregação.
+Porque dizia eu: Ouve-me, para que se não alegrem de mim; quando escorrega o meu pé, eles se engrandecem contra mim.
+Pelo que os filhos de Israel não puderam subsistir perante os seus inimigos; viraram as costas diante dos seus inimigos, porquanto estão amaldiçoados; não serei mais convosco, se não desarraigardes o anátema do meio de vós.
+Os céus manifestarão a sua iniquidade; e a terra se levantará contra ele.
+Farás um querubim na extremidade de uma parte e o outro querubim na extremidade da outra parte; de uma só peça com o propiciatório fareis os querubins nas duas extremidades dele.
+E disse-lhe Eli: Até quando estarás tu embriagada? Aparta de ti o teu vinho.
+em esperança da vida eterna, a qual Deus, que não pode mentir, prometeu antes dos tempos dos séculos,
+(Este primeiro alistamento foi feito sendo Cirênio governador da Síria.)
+Até quando me não deixarás, nem me largarás, até que engula a minha saliva?
+Alguns dias depois, disse Paulo a Barnabé: Tornemos a visitar nossos irmãos por todas as cidades em que já anunciamos a palavra do Senhor, para ver como estão.
+Pega no melhor do rebanho e queima também os ossos debaixo dela; fá-la ferver bem, e cozam-se dentro dela os seus ossos.
+Mas o primogênito de um animal, por já ser do SENHOR, ninguém o santificará; seja boi ou gado miúdo, do SENHOR é.
+E, tendo feito um azorrague de cordéis, lançou todos fora do templo, bem como os bois e ovelhas; e espalhou o dinheiro dos cambiadores, e derribou as mesas,
+E andou em todos os pecados que seu pai tinha cometido antes dele; e seu coração não foi perfeito para com o SENHOR, seu Deus, como o coração de Davi, seu pai.
+E os anciãos dos judeus iam edificando e prosperando pela profecia do profeta  e de Zacarias, filho de Ido; e edificaram a casa e a aperfeiçoaram conforme o mandado do Deus de Israel, e conforme o mandado de Ciro, e de Dario, e de Artaxerxes, rei da Pérsia.
+Se ele destruir, e encerrar, ou juntar, quem o impedirá?
+Depois, tornou a pôr-lhe as mãos nos olhos, e ele, olhando firmemente, ficou restabelecido e já via ao longe e distintamente a todos.
+E eis que o SENHOR estava em cima dela e disse: Eu sou o SENHOR, o Deus de Abraão, teu pai, e o Deus de Isaque. Esta terra em que estás deitado ta darei a ti e à tua semente.
+E disseram os homens de Judá: Por que subistes contra nós? E eles disseram: Subimos para amarrar Sansão, para lhe fazer a ele como ele nos fez a nós.
+E, naquele tempo, feriram dos moabitas uns dez mil homens, todos corpulentos e todos homens valorosos; e não escapou nenhum.
+E, cuspindo nele, tiraram-lhe a cana e batiam-lhe com ela na cabeça.
+Então o diabo o transportou à Cidade Santa, e colocou-o sobre o pináculo do templo,
+Além do que, tivemos nossos pais segundo a carne, para nos corrigirem, e nós os reverenciamos; não nos sujeitaremos muito mais ao Pai dos espíritos, para vivermos?
+Haverá um punhado de trigo na terra sobre os cumes dos montes; o seu fruto se moverá como o Líbano, e os da cidade florescerão como a erva da terra.
+O que primeiro começa o seu pleito justo parece; mas vem o seu companheiro e o examina.
+Deus vos deu na vossa mão os príncipes dos midianitas, Orebe e Zeebe; que mais pude eu logo fazer do que vós? Então, a sua ira se abrandou para com ele, quando falou esta palavra.
+E trouxe a cabeça num prato e deu-a à jovem, e esta a deu à sua mãe.
+Até Jeroboão, filho de Nebate, efraimita de Zereda, servo de Salomão (cuja mãe era mulher viúva, por nome Zerua), também levantou a mão contra o rei.
+E aconteceu que, naqueles dias, subiu ao monte a orar e passou a noite em oração a Deus.
+Tornarão atrás e confundir-se-ão de vergonha os que confiam em imagens de escultura e dizem às imagens de fundição: Vós sois nossos deuses.
+E sucedeu que, falando o Anjo do SENHOR estas palavras a todos os filhos de Israel, o povo levantou a sua voz e chorou.
+Sujeitai-vos, pois, a toda ordenação humana por amor do Senhor; quer ao rei, como superior;
+Assim, deixou o SENHOR, Deus de seus pais, e não andou no caminho do SENHOR.
+E, estando ele ainda falando com eles, eis que vinha subindo do exército dos filisteus o homem guerreiro, cujo nome era Golias, o filisteu de Gate, e falou conforme aquelas palavras, e Davi as ouviu.
+Assim vos servirá  de sinal; conforme tudo quanto fez, fareis; e, quando isso suceder, então, sabereis que eu sou o Senhor JEOVÁ.
+Aos quais foi revelado que, não para si mesmos, mas para nós, eles ministravam estas coisas que, agora, vos foram anunciadas por aqueles que, pelo Espírito Santo enviado do céu, vos pregaram o evangelho, para as quais coisas os anjos desejam bem atentar.
+e deixareis o vosso nome aos meus eleitos por maldição; e o Senhor JEOVÁ vos matará; e a seus servos chamará por outro nome.
+Vinde, comei do meu pão e bebei do vinho que tenho misturado.
+E, sendo já tarde, saiu para fora da cidade.
+Todos os que foram contados dos levitas, que contou Moisés e Arão, por mandado do SENHOR, segundo as suas gerações, todo varão de um mês para cima foram vinte e dois mil.
+Ai de vós, escribas e fariseus, hipócritas! Pois que percorreis o mar e a terra para fazer um prosélito; e, depois de o terdes feito, o fazeis filho do inferno duas vezes mais do que vós.
+Quem anda em sinceridade anda seguro, mas o que perverte os seus caminhos será conhecido.
+Pelo que, como por um homem entrou o pecado no mundo, e pelo pecado, a morte, assim também a morte passou a todos os homens, por isso que todos pecaram.
+E deu ordem ao que estava sobre a sua casa, dizendo: Enche de mantimento os sacos destes varões, quanto puderem levar, e põe o dinheiro de cada varão na boca do seu saco.
+Eu, porém, endurecerei o coração de Faraó, e multiplicarei na terra do Egito os meus sinais e as minhas maravilhas.
+nan
+Também o capitão da guarda tomou os braseiros e as bacias e tudo mais que era de puro ouro ou de prata.
+Este é aquele de quem está escrito: Eis que envio o meu anjo diante da tua face, o qual preparará diante de ti o teu caminho.
+De todo nos corrompemos contra ti e não guardamos os mandamentos, nem os estatutos, nem os juízos que ordenaste a Moisés, teu servo.
+E serei achado de vós, diz o SENHOR, e farei voltar os vossos cativos, e congregar-vos-ei de todas as nações e de todos os lugares para onde vos lancei, diz o SENHOR, e tornarei a trazer-vos ao lugar de onde vos transportei.
+O termo, porém, para o oriente será o mar Salgado até à extremidade do Jordão; e o termo para o norte será da baía do mar, desde a extremidade do Jordão.
+Eis que eu estou contra ti, diz o SENHOR dos Exércitos, e queimarei na fumaça os teus carros, e a espada devorará os teus leõezinhos, e arrancarei da terra a tua presa, e não se ouvirá mais a voz dos teus embaixadores.
+Numa cana, estavam três copos a modo de amêndoas, uma maçã e uma flor; e noutra cana, três copos a modo de amêndoas, uma maçã e uma flor; assim para as seis canas que saíam do castiçal.
+E Ezequias falou benignamente a todos os levitas que tinham entendimento no bom conhecimento do SENHOR; e comeram as ofertas da solenidade por sete dias, oferecendo ofertas pacíficas e louvando ao SENHOR, Deus de seus pais.
+então, haverá juramento do SENHOR entre ambos, de que não meteu a sua mão na fazenda do seu próximo; e seu dono o aceitará, e o outro não o restituirá.
+E fez o que era mal aos olhos do SENHOR; nunca se apartou dos pecados de Jeroboão, filho de Nebate, que fez pecar a Israel.
+E diante das câmaras havia um passeio de dez côvados de largo, da banda de dentro, e um caminho de um côvado; e as suas entradas eram para o lado do norte.
+Ora, para que saibais que o Filho do Homem tem na terra autoridade para perdoar pecados — disse então ao paralítico: Levanta-te, toma a tua cama e vai para tua casa.
+Veem vaidade e adivinhação mentirosa os que dizem: O SENHOR disse; quando o SENHOR os não enviou; e fazem que se espere o cumprimento da palavra.
+Então, os servos do rei, que estavam à porta do rei, disseram a Mardoqueu: Por que traspassas o mandado do rei?
+Ó coríntios, a nossa boca está aberta para vós, o nosso coração está dilatado.
+Então, alçou a sua parábola e disse: Fala Balaão, filho de Beor, e fala o homem de olhos abertos;
+Então, respondeu a rainha  e disse: Se, ó rei, achei graça aos teus olhos, e se bem parecer ao rei, dê-se-me a minha vida como minha petição e o meu povo como meu requerimento.
+então, caia do ombro a minha espádua, e quebre-se o meu braço desde o osso.
+Na verdade, que devíeis dizer: Por que o perseguimos? Pois a raiz da acusação se acha em mim.
+Mas, se aquele servo disser em seu coração: O meu senhor tarda em vir, e começar a espancar os criados e criadas, e a comer, e a beber, e a embriagar-se,
+Disse mais Balaque a Balaão: Ora, vem, e te levarei a outro lugar; porventura, bem parecerá aos olhos de Deus que dali mo amaldiçoes.
+E os que ouviram isso disseram: Logo, quem pode salvar-se?
+Despedaça, Senhor, e divide a sua língua, pois tenho visto violência e contenda na cidade.
+Portanto, vos levarei cativos, para além de Damasco, diz o SENHOR, cujo nome é Deus dos Exércitos.
+E que, desde a tua meninice, sabes as sagradas letras, que podem fazer-te sábio para a salvação, pela fé que há em Cristo Jesus.
+E, se lhe não fizer estas três coisas, sairá de graça, sem dar dinheiro.
+Porque o Reino de Deus não consiste em palavras, mas em virtude.
+Não me desampares, SENHOR; meu Deus, não te alongues de mim.
+E tu, ó filho do homem, dirige o teu rosto contra as filhas do teu povo que profetizam de seu coração, e profetiza contra elas,
+E, visto como não é sem prestar juramento (porque certamente aqueles, sem juramento, foram feitos sacerdotes,
+Ainda plantarás vinhas nos montes de Samaria; os plantadores plantarão e comerão dos frutos.
+Se de boa mente ficardes nesta terra, então, vos edificarei e não vos derribarei; e vos plantarei e não vos arrancarei, porque estou arrependido do mal que vos tenho feito.
+E os filisteus estavam num monte da banda dalém, e os israelitas estavam no outro monte da banda daquém; e o vale estava entre eles.
+E da meia tribo de Manassés, Taanaque e os seus arrabaldes, e Gate-Rimom e os seus arrabaldes: duas cidades.
+E foi anunciado a Saul que Davi era vindo a Queila. E disse Saul: Deus o entregou nas minhas mãos, pois está encerrado, entrando numa cidade de portas e ferrolhos.
+Então, disse ela: Só uma pequena petição te faço; não ma rejeites. E o rei lhe disse: Pede, minha mãe, porque te não farei virar o rosto.
+Ou, se eu trouxer a espada sobre a tal terra, e disser: Espada, passa pela terra: e eu arrancar dela homens e animais;
+E os querubins se elevaram ao alto; estes são os mesmos animais que vi junto ao rio Quebar.
+É, porventura, a minha força a força da pedra? Ou é de cobre a minha carne?
+Porque muitos testificavam falsamente contra ele, mas os testemunhos não eram coerentes.
+E, naquele tempo, se levantará Miguel, o grande príncipe, que se levanta pelos filhos do teu povo, e haverá um tempo de angústia, qual nunca houve, desde que houve nação até àquele tempo; mas, naquele tempo, livrar-se-á o teu povo, todo aquele que se achar escrito no livro.
+Então, congregou Salomão os anciãos de Israel e todos os cabeças das tribos, os príncipes dos pais, dentre os filhos de Israel, diante de si em Jerusalém, para fazerem subir a arca do concerto do SENHOR da Cidade de Davi, que é Sião.
+Dai-nos, pois, agora, aqueles homens filhos de Belial, que estão em Gibeá, para que os matemos e tiremos de Israel o mal; porém os filhos de Benjamim não quiseram ouvir a voz de seus irmãos, os filhos de Israel.
+Quando, pois, te perguntar este povo, ou qualquer profeta, ou sacerdote, dizendo: Qual é o peso do SENHOR?, então, lhe dirás: Vós sois o peso, eu vos deixarei, diz o SENHOR.
+Eis que ele acha contra mim ocasiões e me considerou como seu inimigo.
+E aquele que tem de purificar-se lavará as suas vestes, e rapará todo o seu pelo, e se lavará com água; assim, será limpo; e, depois, entrará no arraial, porém ficará fora da sua tenda por sete dias.
+perdoa-nos os nossos pecados, pois também nós perdoamos a qualquer que nos deve; e não nos conduzas em tentação, mas livra-nos do mal.
+Se vós, porém, vos mordeis e devorais uns aos outros, vede não vos consumais também uns aos outros.
+Porque o davam aos que faziam a obra, e reparavam com ele a Casa do SENHOR.
+Perdoa, pois, a iniquidade deste povo, segundo a grandeza da tua benignidade e como também perdoaste a este povo desde a terra do Egito até aqui.
+E sucedeu que, acabando ele de oferecer o holocausto, eis que Samuel chegou; e Saul lhe saiu ao encontro, para o saudar.
+Então, os magos fizeram o mesmo com os seus encantamentos; e fizeram subir rãs sobre a terra do Egito.
+Assim vos digo que há alegria diante dos anjos de Deus por um pecador que se arrepende.
+E disse Davi a Aimeleque: Não tens aqui à mão lança ou espada alguma? Porque não trouxe à mão nem a minha espada nem as minhas armas, porque o negócio do rei era apressado.
+E abriu o poço do abismo, e subiu fumaça do poço como a fumaça de uma grande fornalha e, com a fumaça do poço, escureceu-se o sol e o ar.
+E eis, agora, vêm um bando de homens e cavaleiros aos pares. Então, respondeu e disse: Caída é Babilônia, caída é! E todas as imagens de escultura dos seus deuses se quebraram contra a terra.
+cujos pés apertaram com grilhões e a quem puseram em ferros,
+E dizem: O SENHOR não o verá; nem para isso atentará o Deus de Jacó.
+e o que me tira dentre os meus inimigos; e tu me exaltas sobre os que contra mim se levantam; do homem violento me livras.
+E chamou o seu nome Noé, dizendo: Este nos consolará acerca de nossas obras e do trabalho de nossas mãos, por causa da terra que o SENHOR amaldiçoou.
+e para o nosso Deus os fizeste reis e sacerdotes; e eles reinarão sobre a terra.
+E tomaram Absalão, e o lançaram no bosque, numa grande cova, e levantaram sobre ele um mui grande montão de pedras; e todo o Israel fugiu, cada um para a sua tenda.
+E foi com Jorão, filho de Acabe, a Ramote-Gileade, à peleja contra Hazael, rei da Síria; e os siros feriram Jorão.
+E quebrarei o ferrolho de Damasco e exterminarei o morador de Biqueate-Áven e ao que tem o cetro de Bete-Éden; e o povo da Síria será levado em cativeiro a Quir, diz o SENHOR.
+De sorte que, meus amados, assim como sempre obedecestes, não só na minha presença, mas muito mais agora na minha ausência, assim também operai a vossa salvação com temor e tremor;
+Seis dias trabalharás, mas, ao sétimo dia, descansarás; na aradura e na sega descansarás.
+para que não dês a outros a tua honra, nem os teus anos a cruéis.
+E abençoarei os que te abençoarem e amaldiçoarei os que te amaldiçoarem; e em ti serão benditas todas as famílias da terra.
+E glorificavam a Deus a respeito de mim.
+E foram todos os dias de Jarede novecentos e sessenta e dois anos; e morreu.
+Naqueles dias e naquele tempo, diz o SENHOR, os filhos de Israel virão, eles e os filhos de Judá juntamente; andando e chorando, virão e buscarão ao SENHOR, seu Deus.
+Disse-lhe, pois, a mulher samaritana: Como, sendo tu judeu, me pedes de beber a mim, que sou mulher samaritana (porque os judeus não se comunicam com os samaritanos)?
+Porque Davi disse naquele dia: Qualquer que ferir os jebuseus e chegar ao canal, e aos coxos, e aos cegos, que a alma de Davi aborrece, será cabeça e capitão. Por isso, se diz: Nem cego nem coxo entrará nesta casa.
+Também cento e cinquenta homens dos judeus e dos magistrados e os que vinham a nós, dentre as gentes que estão à roda de nós, se punham à minha mesa.
+Falou mais o SENHOR a Moisés, dizendo:
+Mas, se a empola na pele de sua carne for branca, e não parecer mais profunda do que a pele, e o pelo não se tornou branco, então, o sacerdote encerrará o que tem a praga por sete dias.
+Mas não admitas as viúvas mais novas, porque, quando se tornam levianas contra Cristo, querem casar-se;
+Em seus dias, Hiel, o betelita, edificou a Jericó; morrendo Abirão, seu primogênito, a fundou; e, morrendo Segube, seu último, pôs as suas portas; conforme a palavra do SENHOR, que falara pelo ministério de Josué, filho de Num.
+De Aser, o seu pão será abundante e ele dará delícias reais.
+Respondeu-lhes Jesus: Não está escrito na vossa lei: Eu disse: sois deuses?
+E não vos desvieis; pois seguiríeis as vaidades, que nada aproveitam e tampouco vos livrarão, porque vaidades são.
+E foram ter com  e disseram-lhe: Rabi, aquele que estava contigo além do Jordão, do qual tu deste testemunho, ei-lo batizando, e todos vão ter com ele.
+Pois será como a árvore plantada junto a ribeiros de águas, a qual dá o seu fruto na estação própria, e cujas folhas não caem, e tudo quanto fizer prosperará.
+Seja qualquer o que for, já o seu nome foi nomeado, e sabe-se que é homem e que não pode contender com o que é mais forte do que ele.
+Eram, porém, os sacerdotes mui poucos e não podiam esfolar a todos os holocaustos; pelo que seus irmãos, os levitas, os ajudaram, até a obra se acabar e até que os outros sacerdotes se santificaram; porque os levitas foram mais retos de coração para se santificarem do que os sacerdotes.
+Porque esta é a vontade de Deus, a vossa santificação: que vos abstenhais da prostituição,
+Assim diz o SENHOR contra os profetas que fazem errar o meu povo, que mordem com os seus dentes e clamam: Paz! Mas contra aquele que nada lhes mete na boca preparam guerra.
+Então Elias tomou a sua capa, e a dobrou, e feriu as águas, as quais se dividiram para as duas bandas; e passaram ambos em seco.
+E ao anjo da igreja que está em Pérgamo escreve: Isto diz aquele que tem a espada aguda de dois fios:
+Então, lhe veio um escrito da parte de Elias, o profeta, que dizia: Assim diz o SENHOR, Deus de Davi, teu pai: Visto que não andaste nos caminhos de Josafá, teu pai, e nos caminhos de Asa, rei de Judá,
+E veio a mim a palavra do SENHOR, dizendo:
+Lembra-te, SENHOR, dos filhos de Edom no dia de Jerusalém, porque diziam: Arrasai-a, arrasai-a, até aos seus alicerces.
+E o resto do povo que ficara na cidade, e os rebeldes que se tinham passado para ele, e o resto do povo que ficou levou Nebuzaradã, capitão da guarda, para Babilônia.
+Porque assim diz o SENHOR, Deus de Israel: A farinha da panela não se acabará, e o azeite da botija não faltará, até ao dia em que o SENHOR dê chuva sobre a terra.
+Quando o teu povo sair à guerra contra os seus inimigos, pelo caminho que os enviares, e orarem a ti para a banda desta cidade que escolheste, e desta casa que edifiquei ao teu nome,
+Pelo que, ainda que te laves com salitre e amontoes sabão, a tua iniquidade estará gravada diante de mim, diz o Senhor JEOVÁ.
+Assim, aquele bode levará sobre si todas as iniquidades deles à terra solitária; e o homem enviará o bode ao deserto.
+Agora, pois, ó reis, sede prudentes; deixai-vos instruir, juízes da terra.
+E, por isso, procuro sempre ter uma consciência sem ofensa, tanto para com Deus como para com os homens.
+Abre a tua boca, julga retamente e faze justiça aos pobres e aos necessitados.
+Então, se acendeu a ira de Saul contra Jônatas, e disse-lhe: Filho da perversa em rebeldia; não sei eu que tens elegido o filho de Jessé, para vergonha tua e para vergonha da nudez de tua mãe?
+E sucedeu que, ao terceiro dia depois do meu parto, também esta mulher teve um filho; estávamos juntas, estranho nenhum estava conosco na casa, senão nós ambas naquela casa.
+Quando o SENHOR trouxe do cativeiro os que voltaram a Sião, estávamos como os que sonham.
+e Remete, e En-Ganim, e En-Hada, e Bete-Pasês.
+No ano duodécimo de Acaz, rei de Judá, começou a reinar Oseias, filho de Elá, e reinou sobre Israel, em Samaria, nove anos.
+Depois dessas coisas, o rei Assuero engrandeceu a Hamã, filho de Hamedata, agagita, e o exaltou; e pôs o seu lugar acima de todos os príncipes que estavam com ele.
+Estes três foram os filhos de Noé; e destes se povoou toda a terra.
+O que assim foi desde aquele dia em diante, porquanto o pôs por estatuto e direito em Israel, até ao dia de hoje.
+Tens, porém, isto: que aborreces as obras dos nicolaítas, as quais eu também aborreço.
+As suas maçãs e as suas canas serão do mesmo; tudo será de uma só peça, obra batida de ouro puro.
+E houve um grande temor em toda a igreja e em todos os que ouviram estas coisas.
+e disse-lhe: Sai da tua terra e dentre a tua parentela e dirige-te à terra que eu te mostrar.
+Então, desarmaram o tabernáculo, e os filhos de Gérson e os filhos de Merari partiram, levando o tabernáculo.
+Então, veio à porta que olhava para o caminho do oriente, e subiu pelos seus degraus; mediu o umbral da porta: uma cana de largo; e o outro umbral: uma cana de largo.
+A tua cabeça sobre ti é como o monte Carmelo, e os cabelos da tua cabeça, como a púrpura; o rei está preso pelas suas tranças.
+Não tomarás o nome do SENHOR, teu Deus, em vão; porque o SENHOR não terá por inocente o que tomar o seu nome em vão.
+E eu vos tomarei por meu povo, e serei vosso Deus; e sabereis que eu sou o SENHOR, vosso Deus, que vos tiro de debaixo das cargas dos egípcios;
+E eis que os homens passaram, e viram o corpo lançado no caminho, como também o leão que estava junto ao corpo, e vieram, e o disseram na cidade onde o profeta velho habitava.
+Mas, se a desposar com seu filho, fará com ela conforme o direito das filhas.
+Como o ouvimos, assim o vimos na cidade do SENHOR dos Exércitos, na cidade do nosso Deus. Deus a confirmará para sempre. (Selá)
+Agora, pois, ó rei, meu senhor, caia a minha súplica diante de ti: não me deixes tornar à casa de Jônatas, o escriba, para que não venha a morrer ali.
+Assim, a palavra do Senhor crescia poderosamente e prevalecia.
+as aves dos céus, e os peixes do mar, e tudo o que passa pelas veredas dos mares.
+E, levantando Davi os seus olhos, viu o anjo do SENHOR, que estava entre a terra e o céu, com a espada desembainhada na sua mão estendida contra Jerusalém; então, Davi e os anciãos, cobertos de panos de saco, se prostraram sobre os seus rostos.
+E Joabe deu ao rei a soma do número do povo contado: havia em Israel oitocentos mil homens de guerra, que arrancavam espada; e os homens de Judá eram quinhentos mil homens.
+Quem jamais ouviu tal coisa? Quem viu coisas semelhantes? Poder-se-ia fazer nascer uma terra em um só dia? Nasceria uma nação de uma só vez? Mas Sião esteve de parto e já deu à luz seus filhos.
+Depois, levou o varão aqueles varões à casa de José e deu-lhes água, e lavaram os seus pés; também deu pasto aos seus jumentos.
+E pôs as servas e seus filhos na frente e a Leia e a seus filhos, atrás; porém a Raquel e José, os derradeiros.
+Porventura, dará o sábio, em resposta, ciência de vento? E encherá o seu ventre de vento oriental,
+Pois Deus é o Rei de toda a terra; cantai louvores com inteligência.
+Pois sois sofredores, se alguém vos põe em servidão, se alguém vos devora, se alguém vos apanha, se alguém se exalta, se alguém vos fere no rosto.
+E, após eles, ia Hosaías, e a metade dos príncipes de Judá,
+Porque nós somos cooperadores de Deus; vós sois lavoura de Deus e edifício de Deus.
+Disse-lhes, pois, Jesus: A luz ainda está convosco por um pouco de tempo; andai enquanto tendes luz, para que as trevas vos não apanhem, pois quem anda nas trevas não sabe para onde vai.
+Os meus olhos estão continuamente no SENHOR, pois ele tirará os meus pés da rede.
+Então, disse Ezequias a Isaías: Boa é a palavra do SENHOR que disseste. Disse mais: E não haverá, pois, em meus dias paz e verdade?
+E Jesus, respondendo, disse-lhes: Eu também vos perguntarei uma coisa; se ma disserdes, também eu vos direi com que autoridade faço isso.
+Pelo que te glorificará um povo poderoso, e a cidade das nações formidáveis te temerá.
+Ergue para ti marcos, levanta para ti pirâmides, aplica o coração à vereda, ao caminho em que andaste; regressa, ó virgem de Israel, regressa a estas tuas cidades.
+nan
+Àquele que guiou o seu povo pelo deserto; porque a sua benignidade é para sempre.
+Quebraram mais os caldeus as colunas de cobre que estavam na Casa do SENHOR, como também as bases e o mar de cobre que estavam na Casa do SENHOR; e levaram o seu bronze para Babilônia.
+Faraó, porém, não vos ouvirá; e eu porei a mão sobre o Egito e tirarei os meus exércitos, o meu povo, os filhos de Israel, da terra do Egito com grandes juízos.
+Na casa do justo há um grande tesouro, mas nos frutos do ímpio há perturbação.
+E os filhos de Israel fugiram de diante de Judá, e Deus os entregou nas mãos de Judá.
+A espada virá sobre os seus cavalos, e sobre os seus carros, e sobre todo o povo misto que está no meio dela; e eles serão como mulheres; a espada virá sobre os seus tesouros, e serão saqueados.
+a Timóteo, meu amado filho: graça, misericórdia e paz, da parte de Deus Pai, e da de Cristo Jesus, Senhor nosso.
+Até nas orlas das tuas vestes se achou o sangue da alma dos inocentes e necessitados; não cavei para o achar, pois se vê em todas estas coisas.
+E escreveu uma carta que continha isto:
+guarda-te e que te não esqueças do SENHOR, que te tirou da terra do Egito, da casa da servidão.
+Eu era o olho do cego e os pés do coxo;
+rodeará mais este termo de Azmom até ao rio do Egito; e as suas saídas serão para a banda do mar.
+E nada se lhes dará por dó, para consolá-los por causa de morte; nem lhes darão a beber do copo de consolação, pelo pai de alguém ou pela mãe de alguém.
+E prepararás um cordeiro de um ano, sem mancha, em holocausto ao SENHOR, cada dia; todas as manhãs o prepararás.
+E, levantando-se alguns, testificavam falsamente contra ele, dizendo:
+nem a muitos povos de estranha fala e de língua difícil, cujas palavras não possas entender; se eu aos tais te enviara, certamente te dariam ouvidos.
+O SENHOR tem estado em extremo desgostoso com vossos pais.
+Dissolve-se a terra e todos os seus moradores, mas eu fortaleci as suas colunas. (Selá)
+Teve também Salomão quatro mil estrebarias de cavalos e carros e doze mil cavaleiros e pô-los nas cidades dos carros e com o rei, em Jerusalém.
+Que proveito há no meu sangue, quando desço à cova? Porventura, te louvará o pó? Anunciará ele a tua verdade?
+Porque seríeis ainda castigados, se mais vos rebelaríeis? Toda a cabeça está enferma, e todo o coração, fraco.
+A Porta do Vale, reparou-a Hanum e os moradores de Zanoa; estes a edificaram e lhe levantaram as portas com fechaduras e os seus ferrolhos, como também mil côvados do muro, até à Porta do Monturo.
+Por isso, chegaram-se ao varão que estava sobre a casa de José, e falaram com ele à porta da casa.
+E quem cair sobre esta pedra despedaçar-se-á; e aquele sobre quem ela cair ficará reduzido a pó.
+E os filhos de Issacar: Tola, e Puva, e Jó, e Sinrom.
+e dir-lhe-á: Ouve, ó Israel, hoje vos achegais à peleja contra os vossos inimigos; que se não amoleça o vosso coração; não temais, nem tremais, nem vos aterrorizeis diante deles,
+E estava vestido de uma veste salpicada de sangue, e o nome pelo qual se chama é a Palavra de Deus.
+Aquele que aceitou o seu testemunho, esse confirmou que Deus é verdadeiro.
+(Ora, Betânia distava de Jerusalém quase quinze estádios.)
+Grande indignação se apoderou de mim, por causa dos ímpios que abandonam a tua lei.
+Não me tenho assentado com homens vãos, nem converso com os homens dissimulados.
+(Porque andamos por fé e não por vista.).
+Bem-aventurado aquele que tem o Deus de Jacó por seu auxílio e cuja esperança está posta no SENHOR, seu Deus,
+nem tampouco os que passam dizem: A bênção do SENHOR seja sobre vós! Nós vos abençoamos em nome do SENHOR!
+E, apartando-se dali, falavam uns com os outros, dizendo: Este homem nada fez digno de morte ou de prisões.
+Também este restabeleceu os termos de Israel, desde a entrada de Hamate até ao mar da Planície, conforme a palavra do SENHOR, Deus de Israel, a qual falara pelo ministério de seu servo Jonas, filho do profeta Amitai, o qual era de Gate-Hefer.
+Então, subiu Naás, amonita, e sitiou a Jabes-Gileade; e disseram todos os homens de Jabes a Naás: Faze aliança conosco, e te serviremos.
+nan
+E deram os filhos de Israel aos levitas estas cidades e os seus arrabaldes por sorte, como o SENHOR ordenara pelo ministério de Moisés.
+Assim diz o SENHOR: Eis que acabarei o cativeiro das tendas de Jacó e apiedar-me-ei das suas moradas; e a cidade será reedificada sobre o seu montão, e o palácio permanecerá como habitualmente.
+E sucedeu que, tendo Jeudi lido três ou quatro folhas, cortou-o o rei com um canivete de escrivão e lançou-o ao fogo que havia no braseiro, até que todo o rolo se consumiu no fogo que estava sobre o braseiro.
+E Gaal, filho de Ebede, saiu e pôs-se à entrada da porta da cidade; e Abimeleque e todo o povo que com ele havia se levantaram das emboscadas.
+E ninguém, acendendo uma candeia, a cobre com algum vaso ou a põe debaixo da cama; mas põe-na no velador, para que os que entram vejam a luz.
+Então, mandou aos seus discípulos que a ninguém dissessem que ele era o Cristo.
+E contenderei com ele por meio da peste e do sangue; e uma chuva inundante, e grandes pedras de saraiva, fogo e enxofre farei cair sobre ele, e sobre as suas tropas, e sobre os muitos povos que estiverem com ele.
+Porventura, fitarás os olhos naquilo que não é nada? Porque, certamente, isso se fará asas e voará ao céu como a águia.
+Tenho estado agora vinte anos na tua casa; catorze te servi por tuas duas filhas e seis anos por teu rebanho; mas o meu salário tens mudado dez vezes.
+o veado, a corça, o búfalo, a cabra montês, o texugo, o boi silvestre e o gamo.
+Depois, deu Zilpa, serva de Leia, um segundo filho a Jacó.
+Então, respondeu Jônatas a Saul, seu pai, e lhe disse: Por que há de ele morrer? Que tem feito?
+E a debulha se vos chegará à vindima, e a vindima se chegará à sementeira; e comereis o vosso pão a fartar e habitareis seguros na vossa terra.
+Nesse tempo, nasceu Moisés, e era mui formoso, e foi criado três meses em casa de seu pai.
+e perguntaram: Onde está aquele que é nascido rei dos judeus? Porque vimos a sua estrela no Oriente e viemos a adorá-lo.
+A ti, pois, ó filho do homem, te constituí por atalaia sobre a casa de Israel; tu, pois, ouvirás a palavra da minha boca e lha anunciarás da minha parte.
+Não sabeis vós que sois o templo de Deus e que o Espírito de Deus habita em vós?
+Mas bem sabeis qual a sua experiência, e que serviu comigo no evangelho, como filho ao pai.
+Clamei a Deus com a minha voz; a Deus levantei a minha voz, e ele inclinou para mim os ouvidos.
+Pela fé, deixou o Egito, não temendo a ira do rei; porque ficou firme, como vendo o invisível.
+Porque convinha que aquele, para quem são todas as coisas e mediante quem tudo existe, trazendo muitos filhos à glória, consagrasse, pelas aflições, o Príncipe da salvação deles.
+Vai, pois, agora, conduze este povo para onde te tenho dito; eis que o meu Anjo irá adiante de ti; porém, no dia da minha visitação, visitarei, neles, o seu pecado.
+e seu filho primogênito Abdom, depois Zur, e Quis, e Baal, e Nadabe,
+Ah! Espada do SENHOR! Até quando deixarás de repousar? Volta para a tua bainha, descansa e aquieta-te.
+Mas Esaú disse: Eu tenho bastante, meu irmão; seja para ti o que tens.
+Três anos reinou em Jerusalém; e era o nome de sua mãe Micaía, filha de Uriel, da cidade de Gibeá; e houve guerra entre Abias e Jeroboão.
+Então, Davi lhes disse: O que bem parecer aos vossos olhos, isso farei. E o rei se pôs da banda da porta, e todo o povo saiu em centenas e em milhares.
+Então, disse José ao povo: Eis que hoje vos tenho comprado a vós e a vossa terra para Faraó; eis aí tendes semente para vós, para que semeeis a terra.
+Assim,  tomou toda esta terra conforme tudo o que o SENHOR tinha dito a Moisés; e  a deu em herança aos filhos de Israel, conforme as suas divisões, conforme as suas tribos; e a terra repousou da guerra.
+Que belos são os teus amores, irmã minha! Ó esposa minha! Quanto melhores são os teus amores do que o vinho! E o aroma dos teus bálsamos do que o de todas as especiarias!
+E aconteceu que, ouvindo o seu senhor as palavras de sua mulher, que lhe falava, dizendo: Conforme estas mesmas palavras me fez teu servo, a sua ira se acendeu.
+E ele, vendo-os, disse-lhes: Ide e mostrai-vos aos sacerdotes. E aconteceu que, indo eles, ficaram limpos.
+Tão somente não queimaram os israelitas as cidades que estavam sobre os seus outeiros: salvo Hazor, a qual  queimou.
+E, se aquele que santificou o campo de alguma maneira o resgatar, então, acrescentará o quinto a mais do dinheiro da tua avaliação, e ficará seu.
+E falou o SENHOR a Moisés e a Arão na terra do Egito, dizendo:
+Todos nós andamos desgarrados como ovelhas; cada um se desviava pelo seu caminho, mas o SENHOR fez cair sobre ele a iniquidade de nós todos.
+Ora, àquele que faz qualquer obra, não lhe é imputado o galardão segundo a graça, mas segundo a dívida.
+E ajuntaram seus irmãos, e santificaram-se, e vieram conforme o mandado do rei, pelas palavras do SENHOR, para purificarem a Casa do SENHOR.
+Então, Saul se levantou e desceu ao deserto de Zife, e com ele três mil homens escolhidos de Israel, a buscar a Davi no deserto de Zife.
+Ou entraste tu até às origens do mar, ou passeaste no mais profundo do abismo?
+Mas, se a outro, que estiver assentado, for revelada alguma coisa, cale-se o primeiro.
+E, esperando até se enfastiarem, eis que não abriu as portas do cenáculo; então, tomaram a chave e abriram, e eis seu senhor estendido morto em terra.
+Disse-me mais o SENHOR: Não rogues por este povo para bem.
+E ele lhes disse: Passai aqui esta noite, e vos trarei a resposta, como o SENHOR me falar; então, os príncipes dos moabitas ficaram com Balaão.
+Então, invocai o nome do vosso deus, e eu invocarei o nome do SENHOR; e há de ser que o deus que responder por fogo esse será Deus. E todo o povo respondeu e disse: É boa esta palavra.
+até ao espaço em cima da porta, e até ao templo de dentro e de fora, e até toda a parede em redor, por dentro e por fora, tudo com medidas,
+E disse aquele homem a Eli: Eu sou o que venho da batalha, porque eu fugi, hoje, da batalha. E disse ele: Que coisa sucedeu, filho meu?
+Então, o SENHOR disse a Satanás: De onde vens? E Satanás respondeu ao SENHOR e disse: De rodear a terra e passear por ela.
+Portanto, enviaram a José, dizendo: Teu pai mandou, antes da sua morte, dizendo:
+Ora, o mais dos atos de Ezequias, e todo o seu poder, e como fez a piscina e o aqueduto, e como fez vir a água à cidade, porventura, não estão escritos no livro das Crônicas dos Reis de Judá?
+Rodeai Sião; cercai-a; contai as suas torres;
+Assim diz o SENHOR: Mantende o juízo e fazei justiça, porque a minha salvação está prestes a vir, e a minha justiça, a manifestar-se.
+Portanto, quem despreza isto não despreza ao homem, mas, sim, a Deus, que nos deu também o seu Espírito Santo.
+A terra, porém, estava corrompida diante da face de Deus; e encheu-se a terra de violência.
+E os fiéis que eram da circuncisão, todos quantos tinham vindo com Pedro, maravilharam-se de que o dom do Espírito Santo se derramasse também sobre os gentios.
+Espera-se a paz, e não há bem: o tempo da cura, e eis o terror.
+Ora, o que planta e o que rega são um; mas cada um receberá o seu galardão, segundo o seu trabalho.
+E veio a mim a palavra do SENHOR, dizendo:
+Porque a nação e o reino que te não servirem perecerão; sim, essas nações de todo serão assoladas.
+Eu continuei olhando, até que foram postos uns tronos, e um ancião de dias se assentou; a sua veste era branca como a neve, e o cabelo da sua cabeça, como a limpa lã; o seu trono, chamas de fogo, e as rodas dele, fogo ardente.
+Os teus dois peitos são como dois filhos gêmeos da gazela, que se apascentam entre os lírios.
+O pecado de Judá está escrito com um ponteiro de ferro, com ponta de diamante, gravado na tábua do seu coração e nos ângulos dos seus altares.
+E, no mesmo dia, entrou Noé, e Sem, e Cam, e Jafé, os filhos de Noé, como também a mulher de Noé, e as três mulheres de seus filhos, com ele na arca;
+Falou mais o SENHOR a Moisés, dizendo:
+E disse o Anjo do SENHOR a Balaão: Vai-te com estes homens, mas somente a palavra que eu falar a ti, esta falarás. Assim, Balaão foi-se com os príncipes de Balaque.
+E, enquanto Paulo os esperava em Atenas, o seu espírito se comovia em si mesmo, vendo a cidade tão entregue à idolatria.
+E não clamaram a mim com seu coração, mas davam uivos nas suas camas; para o trigo e para o vinho se ajuntam, mas contra mim se rebelam.
+Então, Isaías, filho de Amoz, mandou dizer a Ezequias: Assim diz o SENHOR, o Deus de Israel: Quanto ao que me pediste acerca de Senaqueribe, rei da Assíria,
+Deus falou no seu santuário: Eu me regozijarei; repartirei a Siquém e medirei o vale de Sucote.
+E os discípulos, vendo isso, maravilharam-se, dizendo: Como secou imediatamente a figueira?
+E praticava Abner com os anciãos de Israel, dizendo: Muito tempo há que procuráveis que Davi reinasse sobre vós.
+Os velhos já não têm assento à porta, os jovens já não cantam.
+Então, foi conduzido Jesus pelo Espírito ao deserto, para ser tentado pelo diabo.
+Não se vendem dois passarinhos por um ceitil? E nenhum deles cairá em terra sem a vontade de vosso Pai.
+Então, um homem entesou o arco, na sua simplicidade, e feriu o rei de Israel por entre as fivelas e as couraças; então, ele disse ao seu carreteiro: Vira a tua mão e tira-me do exército, porque estou gravemente ferido.
+E Jesus, falando, disse à figueira: Nunca mais coma alguém fruto de ti. E os seus discípulos ouviram isso.
+E veio a mim a palavra do SENHOR, dizendo:
+E, chegando-se a ele o tentador, disse: Se tu és o Filho de Deus, manda que estas pedras se tornem em pães.
+Quão suaves são sobre os montes os pés do que anuncia as boas-novas, que faz ouvir a paz, que anuncia o bem, que faz ouvir a salvação, que diz a Sião: O teu Deus reina!
+E eu porei a minha glória entre as nações, e todas as nações verão o meu juízo, que eu tiver executado, e a minha mão, que sobre elas tiver descarregado.
+E ajuntou-se em Jerusalém muito povo para celebrar a Festa dos Pães Asmos, no segundo mês; uma mui grande congregação.
+Assim faça Deus a Abner e outro tanto, que, como o SENHOR jurou a Davi, assim lhe hei de fazer, transferindo o reino da casa de Saul e levantando o trono de Davi sobre Israel e sobre Judá, desde Dã até Berseba.
+E foi o primeiro e derramou a sua taça sobre a terra, e fez-se uma chaga má e maligna nos homens que tinham o sinal da besta e que adoravam a sua imagem.
+Porque os meus lombos estão cheios de ardor, e não há coisa sã na minha carne.
+No seu fim, morderá como a cobra e, como o basilisco, picará.
+Com boi e com jumento juntamente não lavrarás.
+Tira a minha alma da prisão, para que louve o teu nome; os justos me rodearão, pois me fizeste bem.
+E peço-te também a ti, meu verdadeiro companheiro, que ajudes essas mulheres que trabalharam comigo no evangelho, e com Clemente, e com os outros cooperadores, cujos nomes estão no livro da vida.
+Derrama o teu furor sobre nações que te não conhecem e sobre os reinos que não invocam o teu nome.
+E disse-lhe Pedro: Ainda que todos se escandalizem, nunca, porém, eu.
+Porque também Cristo não agradou a si mesmo, mas, como está escrito: Sobre mim caíram as injúrias dos que te injuriavam.
+e me disse: Que vês? E eu disse: Olho, e eis um castiçal todo de ouro, e um vaso de azeite no cimo, com as suas sete lâmpadas; e cada lâmpada posta no cimo tinha sete canudos.
+E aquele dinheiro darás por tudo o que deseja a tua alma, por vacas, e por ovelhas, e por vinho, e por bebida forte, e por tudo o que te pedir a tua alma; come-o ali perante o SENHOR, teu Deus, e alegra-te, tu e a tua casa;
+E, com essa confiança, quis primeiro ir ter convosco, para que tivésseis uma segunda graça;
+E, desde então, buscava oportunidade para o entregar.
+E deu Moisés à tribo de Gade, aos filhos de Gade, segundo as suas famílias,
+E os teus valentes, ó Temã, estarão atemorizados, para que da montanha de Esaú seja cada um exterminado pela matança.
+Pôs longe de mim a meus irmãos, e os que me conhecem deveras me estranharam.
+Tragam e anunciem-nos as coisas que hão de acontecer; anunciai-nos as coisas passadas, para que atentemos para elas e saibamos o fim delas; ou fazei-nos ouvir as coisas futuras.
+A minha carne e o meu coração desfalecem; mas Deus é a fortaleza do meu coração e a minha porção para sempre.
+Pelo que disse ele: Chama-a. E, chamando-a ele, ela se pôs à porta.
+E, estando ele orando, transfigurou-se a aparência do seu rosto, e as suas vestes ficaram brancas e mui resplandecentes.
+nan
+Aos que pecarem, repreende-os na presença de todos, para que também os outros tenham temor.
+E, ouvindo isso um dos que estavam com ele à mesa, disse-lhe: Bem-aventurado o que comer pão no Reino de Deus!
+Porque os pastores se embruteceram e não buscaram ao SENHOR; por isso, não prosperaram, e todos os seus gados se espalharam.
+Diga, agora, a casa de Arão que a sua benignidade é para sempre.
+Assim não são mais dois, mas uma só carne. Portanto, o que Deus ajuntou não separe o homem.
+Depois dele, reparou Meremote, filho de Urias, filho de Coz, outra porção, desde a porta da casa de Eliasibe até à extremidade da casa de Eliasibe.
+Disseram-lhe, pois: Quem és, para que demos resposta àqueles que nos enviaram? Que dizes de ti mesmo?
+Mas, se deveras melhorardes os vossos caminhos e as vossas obras, se deveras fizerdes juízo entre um homem e entre o seu companheiro,
+e com o mais excelente da terra, e com a sua plenitude, e com a benevolência daquele que habitava na sarça, a bênção venha sobre a cabeça de José e sobre o alto da cabeça do que foi separado de seus irmãos.
+Então, Saul mandou dizer a Jessé: Deixa estar Davi perante mim, pois achou graça a meus olhos.
+Não tomarás o nome do SENHOR, teu Deus, em vão, porque o SENHOR não terá por inocente ao que tomar o seu nome em vão.
+sabendo-o eles, fugiram para Listra e Derbe, cidades da Licaônia, e para a província circunvizinha;
+Não há indignação em mim; quem me poria sarças e espinheiros diante de mim na guerra? Eu iria contra eles e juntamente os queimaria.
+E disse o rei a Aspenaz, chefe dos seus eunucos, que trouxesse alguns dos filhos de Israel, e da linhagem real, e dos nobres,
+respondeu  a todos, dizendo: Eu, na verdade, batizo-vos com água, mas eis que vem aquele que é mais poderoso do que eu, a quem eu não sou digno de desatar a correia das sandálias; este vos batizará com o Espírito Santo e com fogo.
+Mas, quanto a mim, exultarei para sempre; cantarei louvores ao Deus de Jacó.
+Então, ela lhe disse: Não há razão de me despedires assim; maior seria este mal do que o outro que já me tens feito. Porém não lhe quis dar ouvidos.
+Porque, comendo, cada um toma antecipadamente a sua própria ceia; e assim um tem fome, e outro embriaga-se.
+Disse-lhe Jesus: Aquele que está lavado não necessita de lavar senão os pés, pois no mais todo está limpo. Ora, vós estais limpos, mas não todos.
+para que todos honrem o Filho, como honram o Pai. Quem não honra o Filho não honra o Pai, que o enviou.
+Na arca, não havia senão somente as duas tábuas que Moisés tinha posto junto a Horebe, quando o SENHOR fez concerto com os filhos de Israel, saindo eles do Egito.
+Vindo, pois, Moisés e contando ao povo todas as palavras do SENHOR e todos os estatutos, então, o povo respondeu a uma voz. E disseram: Todas as palavras que o SENHOR tem falado faremos.
+Quando o escarnecedor é castigado, o simples torna-se sábio; e, quando o sábio é instruído, recebe o conhecimento.
+Em seis angústias, te livrará; e, na sétima, o mal te não tocará.
+Pedro, apóstolo de Jesus Cristo, aos estrangeiros dispersos no Ponto, Galácia, Capadócia, Ásia e Bitínia,
+E foi adversário de Israel por todos os dias de Salomão, e isso, além do mal que Hadade fazia, porque detestava a Israel e reinava sobre a Síria.
+Louvem o seu nome com flauta, cantem-lhe o seu louvor com adufe e harpa.
+E de fora da cidade, da banda do oriente, medireis dois mil côvados, e da banda do sul, dois mil côvados, e da banda do ocidente, dois mil côvados, e da banda do norte, dois mil côvados, e a cidade no meio; isto terão por arrabaldes das cidades.
+e, encontrando uma pérola de grande valor, foi, vendeu tudo quanto tinha e comprou-a.
+não dando nós escândalo em coisa alguma, para que o nosso ministério não seja censurado.
+Então, partiu a bandeira do arraial dos filhos de Dã, fechando todos os arraiais, segundo os seus exércitos; e sobre o seu exército estava Aiezer, filho de Amisadai.
+Depois, ficará ela trinta e três dias no sangue da sua purificação; nenhuma coisa santa tocará e não virá ao santuário até que se cumpram os dias da sua purificação.
+Porém Davi disse: Não fareis assim, irmãos meus, com o que nos deu o SENHOR, que nos guardou e entregou a tropa que contra nós vinha nas nossas mãos.
+Na verdade, que já os fundamentos se transtornam; que pode fazer o justo?
+Sucedeu, porém, que ao tempo que Merabe, filha de Saul, devia ser dada a Davi, ela foi dada por mulher a Adriel, meolatita.
+E a trará aos filhos de Arão, os sacerdotes, um dos quais tomará dela um punhado da flor de farinha e do seu azeite com todo o seu incenso; e o sacerdote queimará este memorial sobre o altar; oferta queimada é, de cheiro suave ao SENHOR.
+mandou seu filho Hadorão a Davi, para lhe perguntar como estava, e para o abençoar, por haver pelejado com Hadadezer e o destruir (porque Hadadezer fazia guerra a Toú), enviando-lhe juntamente toda sorte de vasos de ouro, e de prata, e de cobre,
+Envie-te socorro desde o seu santuário e te sustenha desde Sião.
+Portanto, assim como em tudo sois abundantes na fé, e na palavra, e na ciência, e em toda diligência, e em vosso amor para conosco, assim também abundeis nessa graça.
+por fim, depois de todos, morreu também a mulher.
+Porque tornou a edificar os altos que Ezequias, seu pai, tinha derribado, e levantou altares a baalins, e fez bosques, e prostrou-se diante de todo o exército dos céus, e o serviu.
+E expeliu Calebe dali os três filhos de Anaque: Sesai, e Aimã, e Talmai, gerados de Anaque.
+Então, disse Zedequias a Jeremias: Ninguém saiba estas palavras, e não morrerás.
+falando entre vós com salmos, e hinos, e cânticos espirituais, cantando e salmodiando ao Senhor no vosso coração,
+E, havendo o Cordeiro aberto um dos selos, olhei e ouvi um dos quatro animais, que dizia, como em voz de trovão: Vem e vê!
+Então, ela o fez dormir sobre os seus joelhos, e chamou a um homem, e rapou-lhe as sete tranças do cabelo de sua cabeça; e começou a afligi-lo, e retirou-se dele a sua força.
+Assim diz o SENHOR: Como quando se acha mosto em um cacho de uvas, dizem: Não o desperdices, pois há bênção nele, assim farei por amor de meus servos, para que os não destrua a todos.
+nan
+Fira-me o justo, será isso uma benignidade; e repreenda-me, será um excelente óleo, que a minha cabeça não rejeitará; porque continuarei a orar a despeito das maldades deles.
+Então, todos os homens da sua cidade o apedrejarão com pedras, até que morra; e tirarás o mal do meio de ti, para que todo o Israel o ouça e tema.
+E disse-lhes: Olhai para mim e fazei como eu fizer; e eis que, chegando eu ao extremo do arraial, será que, como eu fizer, assim fareis vós.
+Ouvi agora a minha defesa e escutai os argumentos dos meus lábios.
+E disse Israel: Por que me fizestes tal mal, fazendo saber àquele varão que tínheis ainda outro irmão?
+a arca e os seus varais, e o propiciatório, e o véu da coberta;
+E por que me chamais Senhor, Senhor, e não fazeis o que eu digo?
+E ela disse: Sim, Senhor, mas também os cachorrinhos comem das migalhas que caem da mesa dos seus senhores.
+Mas, agora, desejam uma melhor, isto é, a celestial. Pelo que também Deus não se envergonha deles, de se chamar seu Deus, porque já lhes preparou uma cidade.
+E disseram um para o outro: Porventura, não ardia em nós o nosso coração quando, pelo caminho, nos falava e quando nos abria as Escrituras?
+Porém uma mulher lançou um pedaço de uma mó sobre a cabeça de Abimeleque e quebrou-lhe o crânio.
+Então, feriu o SENHOR a Benjamim diante de Israel; e desfizeram os filhos de Israel, naquele dia, vinte e cinco mil e cem homens de Benjamim, todos dos que arrancavam espada.
+E, na dedicação dos muros de Jerusalém, buscaram os levitas de todos os seus lugares, para os trazerem, a fim de fazerem a dedicação com alegria, louvores, canto, saltérios, alaúdes e harpas.
+E aconselhou-se com o povo e ordenou cantores para o SENHOR, que louvassem a majestade santa, saindo diante dos armados e dizendo: Louvai o SENHOR, porque a sua benignidade dura para sempre.
+Então, disse Faraó: Deixar-vos-ei ir, para que sacrifiqueis ao SENHOR, vosso Deus, no deserto; somente que indo, não vades longe; orai também por mim.
+Depois, tomarás o outro carneiro, e Arão e seus filhos porão as mãos sobre a cabeça do carneiro;
+Nunca me esquecerei dos teus preceitos, pois por eles me tens vivificado.
+Depois, farás um véu de pano azul, e púrpura, e carmesim, e linho fino torcido; com querubins de obra prima se fará.
+tendo o mesmo combate que já em mim tendes visto e, agora, ouvis estar em mim.
+E disse ele: Rogo-te, pois, ó pai, que o mandes à casa de meu pai,
+E os porás em duas fileiras, seis em cada fileira, sobre a mesa pura, perante o SENHOR.
+E tinha este homem, Mica, uma casa de deuses, e fez um éfode e terafins, e consagrou a um de seus filhos, para que lhe fosse por sacerdote.
+De modo nenhum! Nós que estamos mortos para o pecado, como viveremos ainda nele?
+pelo qual recebemos a graça e o apostolado, para a obediência da fé entre todas as gentes pelo seu nome,
+Mas, para que te não detenha muito, rogo-te que, conforme a tua equidade, nos ouças por pouco tempo.
+E dominava sobre todos os reis, desde o rio até à terra dos filisteus e até ao termo do Egito.
+Tira-me da rede que para mim esconderam, pois tu és a minha força.
+Quem tem o Filho tem a vida; quem não tem o Filho de Deus não tem a vida.
+Então, a serpente disse à mulher: Certamente não morrereis.
+A nudez da filha da mulher de teu pai, gerada de teu pai (ela é tua irmã), a sua nudez não descobrirás.
+Orai pela paz de Jerusalém! Prosperarão aqueles que te amam.
+O temor do SENHOR é o princípio da ciência; os loucos desprezam a sabedoria e a instrução.
+Os meus olhos choram e não cessam, porque não há descanso,
+Porque, se, pela ofensa de um só, a morte reinou por esse, muito mais os que recebem a abundância da graça e do dom da justiça reinarão em vida por um só, Jesus Cristo.
+E se porá perante Eleazar, o sacerdote, o qual por ele consultará, segundo o juízo de Urim, perante o SENHOR; conforme o seu dito, sairão; e, conforme o seu dito, entrarão, ele, e todos os filhos de Israel com ele, e toda a congregação.
+E fez tornar o copeiro-mor ao seu ofício de copeiro, e este deu o copo na mão de Faraó. Mas ao padeiro-mor enforcou, como José havia interpretado.
+Pode uma mulher esquecer-se tanto do filho que cria, que se não compadeça dele, do filho do seu ventre? Mas, ainda que esta se esquecesse, eu, todavia, me não esquecerei de ti.
+Por isso, não desfalecemos; mas, ainda que o nosso homem exterior se corrompa, o interior, contudo, se renova de dia em dia.
+Os filhos de Berias foram: de Héber, a família dos heberitas; de Malquiel, a família dos malquielitas.
+Respondeu Jesus e disse-lhes: Fiz uma obra, e todos vos maravilhais.
+Estes vinte anos eu estive contigo, as tuas ovelhas e as tuas cabras nunca abortaram, e não comi os carneiros do teu rebanho.
+Então, temeram os marinheiros, e clamava cada um ao seu deus, e lançavam no mar as fazendas que estavam no navio, para o aliviarem do seu peso; Jonas, porém, desceu aos lugares do porão, e se deitou, e dormia um profundo sono.
+Porque as águas de Ninrim serão pura assolação; porque se secou o feno, definhou a erva, e não há verdura alguma.
+Mas, se a empola parar no seu lugar e na pele não se estender, mas se recolher, inchação da queimadura é; portanto, o sacerdote o declarará limpo, porque sinal é da queimadura.
+Então, saiu Noé, e seus filhos, e sua mulher, e as mulheres de seus filhos com ele;
+Disse mais Josué: Nisto conhecereis que o Deus vivo está no meio de vós e que de todo lançará de diante de vós os cananeus, e os heteus, e os heveus, e os ferezeus, e os girgaseus, e os amorreus, e os jebuseus.
+E Judas, que o traía, também conhecia aquele lugar, porque Jesus muitas vezes se ajuntava ali com os seus discípulos.
+Então, o Espírito do SENHOR veio sobre Jefté, e atravessou ele por Gileade e Manassés; porque passou até Mispa de Gileade e de Mispa de Gileade passou até aos filhos de Amom.
+e se uma casa se dividir contra si mesma, tal casa não pode subsistir.
+Mas todos nós, com cara descoberta, refletindo, como um espelho, a glória do Senhor, somos transformados de glória em glória, na mesma imagem, como pelo Espírito do Senhor.
+Amaldiçoai a Meroz, diz o Anjo do SENHOR; acremente amaldiçoai os seus moradores, porquanto não vieram em socorro do SENHOR, em socorro do SENHOR, com os valorosos.
+Quando também segardes a sega da vossa terra, o canto do teu campo não segarás totalmente, nem as espigas caídas colherás da tua sega.
+És tu, porventura, o primeiro homem que foi nascido? Ou foste gerado antes dos outeiros?
+então, destruirei Israel da terra que lhes dei; e a esta casa, que santifiquei a meu nome, lançarei longe da minha presença, e Israel será por ditado e motejo, entre todos os povos.
+Os filhos de Jafé foram: Gomer, e Magogue, e Madai, e Javã, e Tubal, e Meseque, e Tiras.
+Não temais o rei da Babilônia, a quem vós temeis; não o temais, diz o SENHOR, porque eu sou convosco, para vos salvar e para vos fazer livrar das suas mãos.
+dos filhos de Asafe, Zacur, e José, e Netanias, e Asarela, filhos de Asafe, a cargo de Asafe, que profetizava debaixo da direção do rei Davi;
+E eis que um homem por nome José, senador, homem de bem e justo (que não tinha consentido no conselho e nos atos dos outros), natural de Arimateia, cidade dos judeus, e que também esperava o Reino de Deus,
+Porque, deveras, protestei a vossos pais, no dia em que os tirei da terra do Egito, até ao dia de hoje, madrugando, e protestando, e dizendo: Dai ouvidos à minha voz.
+A justiça do sincero endireitará o seu caminho, mas o ímpio, pela sua impiedade, cairá.
+Condutores cegos! Coais um mosquito e engolis um camelo.
+Agora, pois, não vos entristeçais, nem vos pese aos vossos olhos por me haverdes vendido para cá; porque, para conservação da vida, Deus me enviou diante da vossa face.
+E, naquele dia, diz o SENHOR, far-se-á ouvir uma voz de clamor desde a Porta do Peixe, e um uivo desde a segunda parte, e grande quebranto desde os outeiros.
+Também a rainha Vasti fez um banquete para as mulheres da casa real do rei Assuero.
+E fez os varais de madeira de cetim e os cobriu de cobre.
+Se opera à mão esquerda, não o vejo; encobre-se à mão direita, e não o diviso.
+E dirão: Porquanto deixaram o SENHOR, Deus de seus pais, que os tirou da terra do Egito, e se deram a outros deuses, e se prostraram a eles, e os serviram; por isso, ele trouxe sobre eles todo este mal.
+para ver se, de alguma maneira, eu possa chegar à ressurreição dos mortos.
+Falou ele, e vieram gafanhotos e pulgão em quantidade inumerável,
+para que não haja divisão no corpo, mas, antes, tenham os membros igual cuidado uns dos outros.
+e, se alguém tirar quaisquer palavras do livro desta profecia, Deus tirará a sua parte da árvore da vida e da Cidade Santa, que estão escritas neste livro.
+Deus subiu com júbilo, o SENHOR subiu ao som da trombeta.
+E ele me respondeu, dizendo: Não sabes o que é isto? E eu disse: Não, Senhor meu.
+Então,  respondeu e disse:
+Vem o fim, o fim vem, despertou-se contra ti; eis que vem;
+nan
+Conforme tudo o que eu te mostrar para modelo do tabernáculo e para modelo de todos os seus móveis, assim mesmo o fareis.
+Na tua casa não terás duas sortes de efa, um grande e um pequeno.
+porquanto rebeldes fostes no deserto de Zim, na contenda da congregação, ao meu mandado de me santificardes nas águas diante dos seus olhos. (Estas são as águas de Meribá de Cades, no deserto de Zim.)
+JEOVÁ, o Senhor, é minha força, e fará os meus pés como os das cervas, e me fará andar sobre as minhas alturas. (Para o cantor-mor sobre os meus instrumentos de música.)
+Julgai entre vós mesmos: é decente que a mulher ore a Deus descoberta?
+E chegava este termo até Tabor, e Saazima, e Bete-Semes; e as saídas do seu termo estavam no Jordão: dezesseis cidades e as suas aldeias.
+E todos os servos do rei, que estavam à porta do rei, se inclinavam e se prostravam perante Hamã; porque assim tinha ordenado o rei acerca dele; porém Mardoqueu não se inclinava nem se prostrava.
+E subiu Ló de Zoar e habitou no monte, e as suas duas filhas com ele, porque temia habitar em Zoar; e habitou numa caverna, ele e as suas duas filhas.
+No dia seguinte, quis Jesus ir à Galileia, e achou a Filipe, e disse-lhe: Segue-me.
+Mas, se as faço, e não credes em mim, crede nas obras, para que conheçais e acrediteis que o Pai está em mim, e eu, nele.
+Também daquele sairás com as mãos sobre a tua cabeça; porque o SENHOR rejeitou as tuas confianças, e não prosperarás com elas.
+Tenho ouvido o que dizem aqueles profetas, profetizando mentiras em meu nome, dizendo: Sonhei! Sonhei!
+E removerei o cativeiro de Judá e o cativeiro de Israel e os edificarei como no princípio;
+No dia em que estiveste perante o SENHOR, teu Deus, em Horebe, o SENHOR me disse: Ajunta-me este povo, e os farei ouvir as minhas palavras, e aprendê-las-ão, para me temerem todos os dias que na terra viverem, e as ensinarão a seus filhos.
+para o que, pelo nosso evangelho, vos chamou, para alcançardes a glória de nosso Senhor Jesus Cristo.
+dizendo: Achamos realmente o cárcere fechado, com toda a segurança, e os guardas, que estavam fora, diante das portas; mas, quando abrimos, ninguém achamos dentro.
+Promete agora, e dá-me um fiador para contigo; quem há que me dê a mão?
+ele as aparelhará, mas o justo as vestirá, e o inocente repartirá a prata.
+todas as ovelhas e bois, assim como os animais do campo;
+E ouvi outra voz do céu, que dizia: Sai dela, povo meu, para que não sejas participante dos seus pecados e para que não incorras nas suas pragas.
+e o resto do povo entregou na mão de Abisai, seu irmão; e puseram-se em ordem de batalha contra os filhos de Amom.
+Então, disse Joabe ao rei: Ora, multiplique o SENHOR, teu Deus, a este povo cem vezes tanto quanto agora é, e os olhos do rei, meu senhor, o vejam; mas por que deseja o rei, meu senhor, este negócio?
+Seja, pois, que a donzela a quem eu disser: abaixa agora o teu cântaro para que eu beba; e ela disser: Bebe, e também darei de beber aos teus camelos, esta seja a quem designaste ao teu servo Isaque; e que eu conheça nisso que fizeste beneficência a meu senhor.
+E habitarão na terra que dei a meu servo Jacó, na qual habitaram vossos pais; e habitarão nela, eles, e seus filhos, e os filhos de seus filhos, para sempre; e Davi, meu servo, será seu príncipe eternamente.
+E, achando-o no outro lado do mar, disseram-lhe: Rabi, quando chegaste aqui?
+E disse-lhes Jacó: Meus irmãos, donde sois? E disseram: Somos de Harã.
+E todos comeram e se saciaram, e levantaram, do que sobejou, sete cestos cheios de pedaços.
+porque ainda sois carnais, pois, havendo entre vós inveja, contendas e dissensões, não sois, porventura, carnais e não andais segundo os homens?
+Disse mais o SENHOR: Porquanto o clamor de Sodoma e Gomorra se tem multiplicado, e porquanto o seu pecado se tem agravado muito,
+Dali, partiram e alojaram-se junto ao ribeiro de Zerede.
+Diz o SENHOR dos Exércitos, Deus de Israel: Eis que eu visitarei Amom de Nô, e a Faraó, e ao Egito, e aos seus deuses, e aos seus reis; ao próprio Faraó e aos que confiam nele.
+E, se alguém não tiver resgatador, porém a sua mão alcançar e achar o que basta para o seu resgate,
+e não será conhecida a abundância na terra, por causa daquela fome que haverá depois, porquanto será gravíssima.
+Dirás ainda diante daquele que te matar: Eu sou Deus? Mas tu és homem e não Deus na mão do que te traspassa.
+O meu coração está ferido e seco como a erva, pelo que até me esqueço de comer o meu pão.
+deram-lhe a beber vinho misturado com fel; mas ele, provando-o, não quis beber.
+E fez o que era reto aos olhos do SENHOR; e andou em todo o caminho de Davi, seu pai, e não se apartou dele nem para a direita nem para a esquerda.
+E o rei falou com eles; e entre todos eles não foram achados outros tais como Daniel, Hananias, Misael e Azarias; por isso, permaneceram diante do rei.
+E comeram todos e saciaram-se, e levantaram dos pedaços que sobejaram doze cestos cheios.
+E aconteceu que Jesus, concluindo essas parábolas, se retirou dali.
+mas julgará com justiça os pobres, e repreenderá com equidade os mansos da terra, e ferirá a terra com a vara de sua boca, e com o sopro dos seus lábios matará o ímpio.
+Então, me disse: Filho do homem, estes ossos são toda a casa de Israel; eis que dizem: Os nossos ossos se secaram, e pereceu a nossa esperança; nós estamos cortados.
+Glória e majestade há em sua obra, e a sua justiça permanece para sempre.
+Se disseres no teu coração: Estas nações são mais numerosas do que eu; como as poderei lançar fora?
+Porque a tua benignidade é melhor do que a vida; os meus lábios te louvarão.
+E, quanto ao teu nascimento, no dia em que nasceste, não te foi cortado o umbigo, nem foste lavada com água, para tua purificação, nem tampouco foste esfregada com sal, nem envolta em faixas.
+Sabendo de mim, desde o princípio (se o quiserem testificar), que, conforme a mais severa seita da nossa religião, vivi fariseu.
+Não temerás espanto noturno, nem seta que voe de dia,
+Todos os teus confederados te levaram para fora dos teus limites; os que gozam da tua paz te enganaram, prevaleceram contra ti; os que comem o teu pão puseram debaixo de ti uma armadilha; não há em Edom entendimento.
+E os homens de Jabes disseram: Amanhã, sairemos a vós; então, nos fareis conforme tudo o que parece bem aos vossos olhos.
+E ela disse: Ninguém, Senhor. E disse-lhe Jesus: Nem eu também te condeno; vai-te e não peques mais.
+sendo hospitaleiros uns para os outros, sem murmurações.
+De cada tribo escolhei vós três homens, para que eu os envie, e se levantem, e corram a terra, e a descrevam segundo as suas heranças, e tornem a mim.
+Porque o rei de Babilônia parará na encruzilhada, no cimo dos dois caminhos para fazer adivinhações; aguçará as suas flechas, consultará os terafins, atentando nas entranhas.
+E seus irmãos foram apascentar o rebanho de seu pai, junto de Siquém.
+E, olhando para a terra, eis que haverá angústia e escuridão, e serão entenebrecidos com ânsias e arrastados para a escuridão.
+E sucedeu que, ouvindo os nossos inimigos que já o sabíamos e que Deus tinha dissipado o conselho deles, todos voltamos ao muro, cada um à sua obra.
+E, no quinto dia, nove bezerros, dois carneiros e catorze cordeiros de um ano, sem mancha;
+E, respondendo o anjo, disse-lhe: Descerá sobre ti o Espírito Santo, e a virtude do Altíssimo te cobrirá com a sua sombra; pelo que também o Santo, que de ti há de nascer, será chamado Filho de Deus.
+E o menino crescia, e se robustecia em espírito, e esteve nos desertos até ao dia em que havia de mostrar-se a Israel.
+O temor do ímpio virá sobre ele, mas o desejo dos justos Deus o cumprirá.
+Ele é o SENHOR, nosso Deus; os seus juízos estão em toda a terra.
+Porque nem do Oriente, nem do Ocidente, nem do deserto vem a exaltação.
+Ele, porém, respondendo, disse-lhes: Não tendes lido que, no princípio, o Criador os fez macho e fêmea
+E Jônatas o anunciou a Davi, dizendo: Meu pai, Saul, procura matar-te; pelo que, agora, guarda-te, pela manhã, e fica-te num lugar oculto, e esconde-te.
+Estatuto perpétuo será nas vossas gerações, em todas as vossas habitações: nenhuma gordura, nem sangue algum comereis.
+tomou preso a um moço dos homens de Sucote e lhe fez perguntas; o qual descreveu os príncipes de Sucote e os seus anciãos, setenta e sete homens.
+Todavia, o que está firme em seu coração, não tendo necessidade, mas com poder sobre a sua própria vontade, se resolveu no seu coração guardar a sua virgem, faz bem.
+E Elias disse: Fica-te aqui, porque o SENHOR me enviou ao Jordão. Mas ele disse: Vive o SENHOR, e vive a tua alma, que te não deixarei. E assim ambos foram juntos.
+E as lavravam os edificadores de Salomão, e os de Hirão, e os gebalitas; e preparavam a madeira e as pedras para edificar a casa.
+Ora, tudo isso aconteceu para que se cumprisse o que foi dito pelo profeta, que diz:
+Essas coisas se te farão, porque te prostituíste após os gentios e te contaminaste com os seus ídolos.
+Era Joás da idade de sete anos quando o fizeram rei.
+A palavra de Cristo habite em vós abundantemente, em toda a sabedoria, ensinando-vos e admoestando-vos uns aos outros, com salmos, hinos e cânticos espirituais; cantando ao Senhor com graça em vosso coração.
+Abundância de mantimento há na lavoura do pobre, mas alguns há que se consomem por falta de juízo.
+Ouvi, filhos, a correção do pai e estai atentos para conhecerdes a prudência.
+e da banda do norte, cortinas de cem côvados; as suas vinte colunas e as suas vinte bases eram de cobre, e os colchetes das colunas e as suas molduras eram de prata.
+Então, chegaram-se a ele os seus servos, e lhe falaram, e disseram: Meu pai, se o profeta te dissera alguma grande coisa, porventura, não a farias? Quanto mais, dizendo-te ele: Lava-te e ficarás purificado.
+E eis que vêm sete anos, e haverá grande fartura em toda a terra do Egito.
+ao meio-dia, ó rei, vi no caminho uma luz do céu, que excedia o esplendor do sol, cuja claridade me envolveu a mim e aos que iam comigo.
+Agora, pois, te rogo, perdoa-me o meu pecado e volta comigo, para que adore o SENHOR.
+E dele temos este mandamento: que quem ama a Deus, ame também seu irmão.
+Por causa da grandeza da opressão eles clamam; eles clamam por causa do braço dos grandes.
+Será mui confundida vossa mãe, ficará envergonhada a que vos deu à luz; eis que ela será a última das nações, um deserto, uma terra seca e uma solidão.
+Também feriram as malhadas do gado, e levaram ovelhas em abundância e camelos, e voltaram para Jerusalém.
+E morreu Débora, a ama de Rebeca, e foi sepultada ao pé de Betel, debaixo do carvalho cujo nome chamou Alom-Bacute.
+O teu bezerro, ó Samaria, foi rejeitado; a minha ira se acendeu contra eles; até quando serão eles incapazes de alcançar a inocência?
+Assim, acabou Moisés de falar com eles e tinha posto um véu sobre o seu rosto.
+porque serão vida para a tua alma e graça, para o teu pescoço.
+Porque virá como um laço sobre todos os que habitam na face de toda a terra.
+Assim diz o SENHOR, o que preparou no mar um caminho e nas águas impetuosas, uma vereda;
+E disse Deus: Haja luminares na expansão dos céus, para haver separação entre o dia e a noite; e sejam eles para sinais e para tempos determinados e para dias e anos.
+Porque o pranto rodeará os limites de Moabe; até Eglaim chegará o seu clamor, e ainda até Beer-Elim chegará o seu rugido.
+E Balaque disse a Balaão: Porventura, não enviei diligentemente a chamar-te? Por que não vieste a mim? Não posso eu na verdade honrar-te?
+Falou mais o SENHOR a Moisés, dizendo:
+E fez inflamar contra mim a sua ira e me reputou para consigo como um de seus inimigos.
+E todo o exército dos caldeus, que estava com o capitão da guarda derribou os muros em redor de Jerusalém.
+Vendo Pedro a este, disse a Jesus: Senhor, e deste que será?
+Quando vi entre os despojos uma boa capa babilônica, e duzentos siclos de prata e, uma cunha de ouro do peso de cinquenta siclos, cobicei-os e tomei-os; e eis que estão escondidos na terra, no meio da minha tenda, e a prata, debaixo dela.
+Seria, porventura, o homem mais justo do que Deus? Seria, porventura, o varão mais puro do que o seu Criador?
+E chamou a casa de Israel o seu nome Maná; e era como semente de coentro; era branco, e o seu sabor, como bolos de mel.
+E, avistando uma figueira perto do caminho, dirigiu-se a ela e não achou nela senão folhas. E disse-lhe: Nunca mais nasça fruto de ti. E a figueira secou imediatamente.
+Porque há de ser que, no dia em que saíres e passares o ribeiro de Cedrom, saibas decerto que morrerás; o teu sangue será sobre a tua cabeça.
+E será que, quando vos achegardes à peleja, o sacerdote se adiantará, e falará ao povo,
+E, dito isso, ia caminhando adiante, subindo para Jerusalém.
+Ou como dirás a teu irmão: Deixa-me tirar o argueiro do teu olho, estando uma trave no teu?
+E tudo quanto pedirdes em meu nome, eu o farei, para que o Pai seja glorificado no Filho.
+Por isso, será saqueada a sua fazenda, e assoladas as suas casas; e edificarão casas, mas não habitarão nelas, e plantarão vinhas, mas não lhes beberão o vinho.
+para que os seus corações sejam consolados, e estejam unidos em amor e enriquecidos da plenitude da inteligência, para conhecimento do mistério de Deus — Cristo,
+Rejeitará o Senhor para sempre e não tornará a ser favorável?
+Disse-lhe Jesus: Porque me viste, Tomé, creste; bem-aventurados os que não viram e creram!
+É para vós tempo de habitardes nas vossas casas estucadas, e esta casa há de ficar deserta?
+Assim diz o SENHOR dos Exércitos: Ainda nas praças de Jerusalém habitarão velhos e velhas, levando cada um na mão o seu bordão, por causa da sua muita idade.
+E Moisés despiu a Arão as vestes e as vestiu a Eleazar, seu filho; e morreu Arão ali sobre o cume do monte; e desceram Moisés e Eleazar do monte.
+Pela fé, Raabe, a meretriz, não pereceu com os incrédulos, acolhendo em paz os espias.
+Então, um anjo do Senhor lhe apareceu, posto em pé, à direita do altar do incenso.
+E Peca, filho de Remalias, seu capitão, conspirou contra ele e o feriu em Samaria, no paço da casa do rei, juntamente com Argobe e com Arié; e com ele estavam cinquenta homens dos filhos dos gileaditas; e o matou e reinou em seu lugar.
+Daniel, pois, quando soube que a escritura estava assinada, entrou em sua casa (ora, havia no seu quarto janelas abertas da banda de Jerusalém), e três vezes no dia se punha de joelhos, e orava, e dava graças, diante do seu Deus, como também antes costumava fazer.
+E fizeram-lhe os seus filhos assim como ele lhes ordenara,
+Mas os ímpios não têm paz, diz o SENHOR.
+O vingador do sangue matará o homicida: encontrando-o, matá-lo-á.
+Chamaram, pois, pela segunda vez o homem que tinha sido cego e disseram-lhe: Dá glória a Deus; nós sabemos que esse homem é pecador.
+encheu de bens os famintos, despediu vazios os ricos,
+Pois assim sucedeu por causa da ira do SENHOR contra Jerusalém e contra Judá, até os rejeitar de diante da sua face; e Zedequias se revoltou contra o rei de Babilônia.
+Então, o procônsul, vendo o que havia acontecido, creu, maravilhado da doutrina do Senhor.
+Também estes com ele descerão ao inferno, a juntar-se aos que foram traspassados à espada; sim, aos que foram seu braço e que estavam assentados à sombra no meio das nações.
+também estes foram contados por gigantes, como os anaquins; e os moabitas lhes chamavam emins.
+Todo homem se embruteceu e não tem ciência; envergonha-se todo fundidor da sua imagem de escultura; porque sua imagem fundida mentira é, e não há espírito nela.
+e os cingirás com o cinto, a Arão e a seus filhos, e lhes atarás as tiaras, para que tenham o sacerdócio por estatuto perpétuo, e sagrarás a Arão e a seus filhos.
+Jesus, porém, ouvindo, disse-lhes: Não necessitam de médico os sãos, mas sim, os doentes.
+Então, disse eu: ai de mim, que vou perecendo! Porque eu sou um homem de lábios impuros e habito no meio de um povo de impuros lábios; e os meus olhos viram o rei, o SENHOR dos Exércitos!
+E estavam ali postas seis talhas de pedra, para as purificações dos judeus, e em cada uma cabiam duas ou três metretas.
+Porém o incenso que farás conforme a composição deste, não o fareis para vós mesmos; santo será para o SENHOR.
+E não buscamos glória dos homens, nem de vós, nem de outros, ainda que podíamos, como apóstolos de Cristo, ser-vos pesados;
+Ouvistes que foi dito aos antigos: Não cometerás adultério.
+por isso, se alegrou o meu coração, e a minha língua exultou; e ainda a minha carne há de repousar em esperança.
+Os loucos, por causa do seu caminho de transgressão e por causa das suas iniquidades, são afligidos.
+Eis que, na palma das minhas mãos, te tenho gravado; os teus muros estão continuamente perante mim.
+E Abiatar anunciou a Davi que Saul tinha matado os sacerdotes do SENHOR.
+E sepultaram-no no termo da sua herdade, em Timnate-Sera, que está no monte de Efraim, para o norte do monte de Gaás.
+E disse-lhe Jesus: Em verdade te digo que hoje estarás comigo no Paraíso.
+O SENHOR é exalçado, pois habita nas alturas; encheu a Sião de retidão e de justiça.
+e Hadade, e Tema, e Jetur, e Nafis, e Quedemá.
+O que rejeita a correção menospreza a sua alma, mas o que escuta a repreensão adquire entendimento.
+O ribeiro de Quisom os arrastou, aquele antigo ribeiro, o ribeiro de Quisom. Pisaste, ó minha alma, a força.
+E prosseguindo  em sua parábola, disse:
+E morreu a terça parte das criaturas que tinham vida no mar; e perdeu-se a terça parte das naus.
+Farás também dois querubins de ouro; de ouro batido os farás, nas duas extremidades do propiciatório.
+ensinando-nos que, renunciando à impiedade e às concupiscências mundanas, vivamos neste presente século sóbria, justa e piamente,
+E, então, Davi, com todo o Israel, subiu a Baalá e dali a Quiriate-Jearim, que está em Judá, para fazer subir dali a arca de Deus, o SENHOR que habita entre os querubins, sobre a qual é invocado o seu nome.
+ouve, então, desde os céus a sua oração e a sua súplica e executa o seu direito.
+e disse-lhe: Não temas, que não te achará a mão de Saul, meu pai; porém tu reinarás sobre Israel, e eu serei contigo o segundo; o que também Saul, meu pai, bem sabe.
+e será espírito de juízo para o que se assenta a julgar e por fortaleza para os que fazem recuar a peleja até à porta.
+Porém ele disse: Em que pequei, para que entregues teu servo na mão de Acabe, para que me mate?
+Porque são gente falta de conselhos, e neles não há entendimento.
+O que anda em justiça e que fala com retidão, que arremessa para longe de si o ganho de opressões, que sacode das suas mãos todo o presente; que tapa os ouvidos para não ouvir falar de sangue e fecha os olhos para não ver o mal,
+E, se o justo apenas se salva, onde aparecerá o ímpio e o pecador?
+Mas os seus charcos e os seus lamaceiros não sararão; serão deixados para sal.
+aos quais, havendo-os ajuntado com os oficiais de obras semelhantes, disse: Varões, vós bem sabeis que deste ofício temos a nossa prosperidade;
+Dize-lhes, pois: Assim diz o Senhor JEOVÁ: Eis que eu tomarei os filhos de Israel de entre as nações para onde eles foram, e os congregarei de todas as partes, e os levarei à sua terra.
+E chamou a seu marido e disse: Manda-me já um dos moços e uma das jumentas, para que eu corra ao homem de Deus e volte.
+Ó vós todos os que tendes sede, vinde às águas, e vós que não tendes dinheiro, vinde, comprai e comei; sim, vinde e comprai, sem dinheiro e sem preço, vinho e leite.
+Os meus servos os levarão desde o Líbano até ao mar, e eu os farei conduzir em jangadas pelo mar até ao lugar que me designares e ali os desamarrarei; e tu os tomarás; tu também farás a minha vontade, dando sustento à minha casa.
+Então, o SENHOR respondeu a  desde a tempestade e disse:
+Agora, pois, por que não repreendeste a Jeremias, o anatotita, que vos profetiza?
+Porque Deus não é injusto para se esquecer da vossa obra e do trabalho de amor que, para com o seu nome, mostrastes, enquanto servistes aos santos e ainda servis.
+A vossa terra está assolada, e as vossas cidades, abrasadas pelo fogo; a vossa região, os estranhos a devoram em vossa presença; e está devastada, como em uma subversão de estranhos.
+e converteu em sangue os seus rios e as suas correntes, para que não pudessem beber.
+Porque formou duas colunas de cobre; a altura de cada coluna era de dezoito côvados, e um fio de doze côvados cercava cada uma das colunas.
+Portanto, tomai toda a armadura de Deus, para que possais resistir no dia mau e, havendo feito tudo, ficar firmes.
+E, havendo-se o sol já posto, então, será limpo e depois comerá das coisas santas; porque este é o seu pão.
+Mais profundamente entra a repreensão no prudente do que cem açoites no tolo.
+Porventura, este não era o mais nobre dentre estes três? Pois era o primeiro deles; porém aos primeiros três não chegou.
+Foram, pois, os filhos de Moisés: Gérson e Eliézer.
+Ora, aquele que dá a semente ao que semeia e pão para comer também multiplicará a vossa sementeira e aumentará os frutos da vossa justiça;
+Disse-lhe Jesus: Vai, o teu filho vive. E o homem creu na palavra que Jesus lhe disse e foi-se.
+Então, vos hão de entregar para serdes atormentados e matar-vos-ão; e sereis odiados de todas as gentes por causa do meu nome.
+E a palavra do Senhor se divulgava por toda aquela província.
+E eis que, aproximando-se dele um jovem, disse-lhe: Bom Mestre, que bem farei, para conseguir a vida eterna?
+E porá trabucos em frente de ti contra os teus muros e derribará as tuas torres com os seus machados.
+Disse mais o SENHOR a Josué: Hoje, revolvi de sobre vós o opróbrio do Egito; pelo que o nome daquele lugar se chamou Gilgal, até ao dia de hoje.
+E a casa de Israel os enterrará por sete meses, para purificar a terra.
+E concebeu Leia, e teve um filho, e chamou o seu nome Rúben, dizendo: Porque o SENHOR atendeu à minha aflição. Por isso, agora me amará o meu marido.
+para que eu te faça jurar pelo SENHOR, Deus dos céus e Deus da terra, que não tomarás para meu filho mulher das filhas dos cananeus, no meio dos quais eu habito,
+Ora, muito me regozijei no Senhor por, finalmente, reviver a vossa lembrança de mim; pois já vos tínheis lembrado, mas não tínheis tido oportunidade.
+De um assim me gloriarei eu, mas de mim mesmo não me gloriarei, senão nas minhas fraquezas.
+A ti te foi mostrado para que soubesses que o SENHOR é Deus; nenhum outro há, senão ele.
+Portanto, eis que vêm dias, diz o SENHOR, em que farei ouvir em Rabá dos filhos de Amom o alarido de guerra, e tornar-se-á num montão de ruínas, e os lugares da sua jurisdição serão queimados; e Israel herdará aqueles que o herdaram, diz o SENHOR.
+Na terra do SENHOR, não permanecerão; mas Efraim tornará ao Egito, e na Assíria comerão comida imunda.
+E o sacerdote examinará a praga na pele da carne; se o pelo na praga se tornou branco, e a praga parecer mais profunda do que a pele da sua carne, praga da lepra é; o sacerdote, vendo-o, o declarará imundo.
+E chamar-lhes-ão povo santo, os remidos do SENHOR; e tu serás chamada Procurada, Cidade não desamparada.
+Esquecestes já as maldades de vossos pais, e as maldades dos reis de Judá, e as maldades das suas mulheres, e as vossas maldades, e as maldades das vossas mulheres, que cometeram na terra de Judá e nas ruas de Jerusalém?
+Fareis conforme os meus juízos e os meus estatutos guardareis, para andardes neles. Eu sou o SENHOR, vosso Deus.
+Depois, a tribo de Naftali; e Aira, filho de Enã, será príncipe dos filhos de Naftali. E o seu exército e os que foram contados deles foram cinquenta e três mil e quatrocentos.
+A soberba do teu coração te enganou, como o que habita nas fendas das rochas, na sua alta morada, que diz no seu coração: Quem me derribará em terra?
+Eu, eu mesmo, sou o que apaga as tuas transgressões por amor de mim e dos teus pecados me não lembro.
+Então, os gibeonitas lhe disseram: Não é por prata nem ouro que temos questão com Saul e com sua casa; nem tampouco pretendemos matar pessoa alguma em Israel. E disse ele: Que é, pois, que quereis que vos faça?
+E com pedras o apedrejarás, até que morra, pois te procurou apartar do SENHOR, teu Deus, que te tirou da terra do Egito, da casa da servidão.
+Porquanto deixaram ao SENHOR e serviram a Baal e a Astarote.
+nan
+E qualquer filha que herdar alguma herança das tribos dos filhos de Israel se casará com alguém da geração da tribo de seu pai; para que os filhos de Israel possuam cada um a herança de seus pais.
+E pagarei à Babilônia e a todos os moradores da Caldeia toda a maldade que fizeram em Sião, à vossa vista, diz o SENHOR.
+Porque a lei opera a ira; porque onde não há lei também não há transgressão.
+ou quando tocar a imundícia dum homem, seja qual for a sua imundícia, com que se faça imundo, e lhe for oculto, e o souber depois, será culpado;
+Mas aos filhos de Coate nada deu, porquanto a seu cargo estava o santuário, e o levavam aos ombros.
+a saber: Se, com a tua boca, confessares ao Senhor Jesus e, em teu coração, creres que Deus o ressuscitou dos mortos, serás salvo.
+Também vos digo que, se dois de vós concordarem na terra acerca de qualquer coisa que pedirem, isso lhes será feito por meu Pai, que está nos céus.
+nas quais também, em outro tempo, andastes, quando vivíeis nelas.
+Guarda a minha alma e livra-me; não me deixes confundido, porquanto confio em ti.
+Agora, depressa derramarei o meu furor sobre ti, e cumprirei a minha ira contra ti, e te julgarei conforme os teus caminhos, e porei sobre ti todas as tuas abominações.
+Porque a tristeza segundo Deus opera arrependimento para a salvação, da qual ninguém se arrepende; mas a tristeza do mundo opera a morte.
+E falou na presença de seus irmãos e do exército de Samaria e disse: Que fazem estes fracos judeus? Permitir-se-lhes-á isso? Sacrificarão? Acabá-lo-ão num só dia? Vivificarão dos montões do pó as pedras que foram queimadas?
+Pelo que assim diz o SENHOR: Eis que te lançarei de sobre a face da terra; este ano, morrerás, porque falaste em rebeldia contra o SENHOR.
+Quando houver contenda entre alguns, e vierem a juízo para que os juízes os julguem, ao justo justificarão e ao injusto condenarão.
+E viu José os filhos de Efraim, da terceira geração; também os filhos de Maquir, filho de Manassés, nasceram sobre os joelhos de José.
+nan
+A nenhuma viúva nem órfão afligireis.
+Uma coisa pedi ao SENHOR e a buscarei: que possa morar na Casa do SENHOR todos os dias da minha vida, para contemplar a formosura do SENHOR e aprender no seu templo.
+E o que a si mesmo se exaltar será humilhado; e o que a si mesmo se humilhar será exaltado.
+Porém eu enviei a dizer-lhe: De tudo o que dizes coisa nenhuma sucedeu; mas tu, do teu coração, o inventas.
+E ainda, de minha própria vontade para a Casa do meu Deus, o ouro e prata particular que tenho demais eu dou para a Casa do meu Deus, afora tudo quanto tenho preparado para a casa do santuário:
+Lançaram fogo ao teu santuário; profanaram, derribando-a até ao chão, a morada do teu nome.
+Espinhos e cardos também te produzirá; e comerás a erva do campo.
+E acharam a pedra do sepulcro removida.
+Da banda das portas da cidade, à entrada da cidade e à entrada das portas está clamando:
+Levanta-te, vai a Padã-Arã, à casa de Betuel, pai de tua mãe, e toma de lá uma mulher das filhas de Labão, irmão de tua mãe.
+(homens dos quais o mundo não era digno), errantes pelos desertos, e montes, e pelas covas e cavernas da terra.
+Agora, pois, eis que o rei vai diante de vós; e já envelheci e encaneci, e eis que meus filhos estão convosco; e eu tenho andado diante de vós desde a minha mocidade até ao dia de hoje.
+Tira da lança e obstrui o caminho aos que me perseguem; dize à minha alma: Eu sou a tua salvação.
+Não repreendas o escarnecedor, para que te não aborreça; repreende o sábio, e amar-te-á.
+E estas coroas serão de Helém, e de Tobias, e de Jedaías, e de Hem, filho de Sofonias, como um memorial no templo do SENHOR.
+Seria este o jejum que eu escolheria: que o homem um dia aflija a sua alma, que incline a cabeça como o junco e estenda debaixo de si pano de saco grosseiro e cinza? Chamarias tu a isso jejum e dia aprazível ao SENHOR?
+Assim diz o SENHOR: Esta cidade, infalivelmente, será entregue nas mãos do exército do rei da Babilônia, e ele a tomará.
+Pois que tão encarecidamente me amou, também eu o livrarei; pô-lo-ei num alto retiro, porque conheceu o meu nome.
+E disseram: Isto é sangue; certamente que os reis se destruíram à espada e se mataram um ao outro! Agora, pois, à presa, moabitas!
+Quando Jacó ouviu que fora contaminada Diná, sua filha, estavam os seus filhos no campo com o gado; e calou-se Jacó até que viessem.
+Respondeu, porém,  e disse:
+Então, tremerá a terra e doer-se-á, porque cada um dos desígnios do SENHOR está firme contra Babilônia, para fazer da terra de Babilônia uma assolação, sem habitantes.
+Em verdade te digo que, de maneira nenhuma, sairás dali, enquanto não pagares o último ceitil.
+Guardareis os meus sábados e o meu santuário reverenciareis. Eu sou o SENHOR.
+Livrai o pobre e o necessitado; tirai-os das mãos dos ímpios.
+Porque assim diz o SENHOR: Cantai sobre Jacó, com alegria; e exultai por causa do Chefe das nações; proclamai, cantai louvores e dizei: Salva, SENHOR, o teu povo, o resto de Israel.
+E disse Ebede-Meleque, o etíope, a Jeremias: Põe, agora, estes trapos velhos e rotos, já apodrecidos, nas covas dos teus braços, por debaixo das cordas. E  o fez assim.
+Descendo, pois, seu pai àquela mulher, fez Sansão ali um banquete, porque assim o costumavam fazer os jovens.
+E outro disse: Casei e, portanto, não posso ir.
+Seja ela boa ou seja má, à voz do SENHOR, nosso Deus, a quem te enviamos, obedeceremos, para que nos suceda bem, obedecendo à voz do SENHOR, nosso Deus.
+Então, chegando-se a ela, tomou-a pela mão e levantou-a; e a febre a deixou, e servia-os.
+Trabalhar por ajuntar tesouro com língua falsa é uma vaidade, e aqueles que a isso são impelidos buscam a morte.
+Mas os altos de Isaque serão assolados, e destruídos os santuários de Israel; e levantar-me-ei com a espada contra a casa de Jeroboão.
+Porque os magistrados não são terror para as boas obras, mas para as más. Queres tu, pois, não temer a autoridade? Faze o bem e terás louvor dela.
+Mas, quando vier isto (eis que está para vir), então, saberão que houve no meio deles um profeta.
+Buscai no livro do SENHOR e lede; nenhuma dessas coisas falhará, nem uma nem outra faltará; porque a sua própria boca o ordenou, e o seu espírito mesmo as ajuntará.
+E da que coxeava farei a parte restante, e da que tinha sido arrojada para longe, uma nação poderosa; e o SENHOR reinará sobre eles no monte Sião, desde agora e para sempre.
+Estes são os filhos de Esaú, e estes são seus príncipes; ele é Edom.
+E espalharei os egípcios entre as nações e os espalharei pelas terras; assim saberão que eu sou o SENHOR.
+E o tabernáculo farás de dez cortinas de linho fino torcido, e pano azul, e púrpura, e carmesim; com querubins as farás de obra esmerada.
+E Barnabé aconselhava que tomassem consigo a João, chamado Marcos.
+Então, disseram: Em nada nos defraudaste, nem nos oprimiste, nem tomaste coisa alguma da mão de ninguém.
+Então, Jesus, movido de íntima compaixão, tocou-lhes nos olhos, e logo viram; e eles o seguiram.
+Porquanto se, depois de terem escapado das corrupções do mundo, pelo conhecimento do Senhor e Salvador Jesus Cristo, forem outra vez envolvidos nelas e vencidos, tornou-se-lhes o último estado pior do que o primeiro.
+Bem-aventurado é o homem a quem tu repreendes, ó SENHOR, e a quem ensinas a tua lei,
+E se escreveu em nome do rei Assuero, e se selou com o anel do rei; e se enviaram as cartas pela mão de correios a cavalo e que cavalgavam sobre ginetes, que eram das cavalariças do rei.
+E tomai em vossas mãos dinheiro dobrado; e o dinheiro que tornou na boca dos vossos sacos tornai a levar em vossas mãos; bem pode ser que fosse erro.
+Porque a rebelião é como o pecado de feitiçaria, e o porfiar é como iniquidade e idolatria. Porquanto tu rejeitaste a palavra do SENHOR, ele também te rejeitou a ti, para que não sejas rei.
+Eu louvarei ao SENHOR segundo a sua justiça e cantarei louvores ao nome do SENHOR Altíssimo.
+Àquele que não conheceu pecado, o fez pecado por nós; para que, nele, fôssemos feitos justiça de Deus.
+Converta-se aquele dia em trevas; e Deus, lá de cima, não tenha cuidado dele, nem resplandeça sobre ele a luz!
+Mas tu, SENHOR, permanecerás para sempre, e a tua memória, de geração em geração.
+e virás aos sacerdotes levitas e ao juiz que houver naqueles dias e inquirirás, e te anunciarão a palavra que for do juízo.
+Também Deus te destruirá para sempre; arrebatar-te-á e arrancar-te-á da tua habitação; e desarraigar-te-á da terra dos viventes. (Selá)
+Os chefes do povo: Parós, Paate-Moabe, Elão, Zatu, Bani, Buni, Azgade, Bebai, Adonias, Bigvai, Adim, Ater, Ezequias, Azur, Hodias, Hasum, Besai, Harife, Anatote, Nebai, Magpias, Mesulão, Hezir, Mesezabel, Zadoque, Jadua, Pelatias, Hanã, Anaías, Oseias, Hananias, Hassube, Haloés, Pileá, Sobeque, Reum, Hasabna, Maaseias; Aías, Hanã, Anã, Maluque, Harim e Baaná.
+E houve uma forte guerra contra os filisteus, todos os dias de Saul; pelo que Saul, a todos os homens valentes e valorosos que via, os agregava a si.
+Temamos, pois, que, porventura, deixada a promessa de entrar no seu repouso, pareça que algum de vós fique para trás.
+Uma voz de grande rumor virá da cidade, uma voz do templo, a voz do SENHOR, que dá o pago aos seus inimigos.
+Mas o Anjo do SENHOR lhe bradou desde os céus e disse: Abraão, Abraão! E ele disse: Eis-me aqui.
+Nota o homem sincero e considera o que é reto, porque o futuro desse homem será de paz.
+Porventura, não foram os etíopes e os líbios um grande exército, com muitíssimos carros e cavaleiros? Confiando tu, porém, no SENHOR, ele os entregou nas tuas mãos.
+Demais disto, os utensílios de ouro e de prata da Casa de Deus, que Nabucodonosor transportou do templo que estava em Jerusalém e levou para Babilônia, se tornarão a dar, para que vão ao seu lugar, ao templo que está em Jerusalém, e os levarão à Casa de Deus.
+Porque brotará um rebento do tronco de Jessé, e das suas raízes um renovo frutificará.
+Ninguém se susterá diante de ti, todos os dias da tua vida; como fui com Moisés, assim serei contigo; não te deixarei nem te desampararei.
+E nos mandou pregar ao povo e testificar que ele é o que por Deus foi constituído juiz dos vivos e dos mortos.
+e direi à minha alma: alma, tens em depósito muitos bens, para muitos anos; descansa, come, bebe e folga.
+E aconteceu que, quando acabou de falar, os filhos do rei vieram, e levantaram a sua voz, e choraram; e também o rei e todos os seus servos choraram com mui grande choro.
+E, em todo lugar em que andei com todos os filhos de Israel, falei porventura alguma palavra com qualquer das tribos de Israel, a quem mandei apascentar o meu povo de Israel, dizendo: Por que me não edificais uma casa de cedros?
+E da mesma sorte os que recebem a semente sobre pedregais, que, ouvindo a palavra, logo com prazer a recebem;
+E Sema gerou a Raão, pai de Jorqueão; e Requém gerou a Samai.
+E entrou dentro e mediu o pilar da entrada: dois côvados; e a entrada: seis côvados, e a largura da entrada, sete côvados.
+Guarda a minha alma, pois sou santo; ó Deus meu, salva o teu servo, que em ti confia.
+E, chegando a Cesareia, subiu a Jerusalém e, saudando a igreja, desceu a Antioquia.
+para fartar a terra deserta e assolada e para fazer crescer os renovos da erva?
+Eis que meterei nele um espírito e ele ouvirá um ruído e voltará para a sua terra; à espada o farei cair na sua terra.
+Não seja, pois, blasfemado o vosso bem;
+Lavo as minhas mãos na inocência; e assim andarei, SENHOR, ao redor do teu altar,
+E aconteceu que, aparecendo o sol, Deus mandou um vento calmoso, oriental, e o sol feriu a cabeça de  e ele desmaiou, e desejou com toda a sua alma morrer, dizendo: Melhor me é morrer do que viver.
+Também o povo que estava nela levou e os fez serrar com a serra e cortar com talhadeiras de ferro e com machados; e assim fez Davi com todas as cidades dos filhos de Amom; então, voltou Davi, com todo o povo, para Jerusalém.
+Dize à Sabedoria: Tu és minha irmã; e à prudência chama tua parenta;
+O seu parecer é como o parecer de cavalos; e correrão como cavaleiros.
+E primeiramente retribuirei em dobro a sua maldade e o seu pecado, porque profanaram a minha terra com os cadáveres das suas coisas detestáveis e das suas abominações encheram a minha herança.
+Então, partiram do monte Hor, pelo caminho do mar Vermelho, a rodear a terra de Edom; porém a alma do povo angustiou-se neste caminho.
+Então, foi o profeta, e pôs-se perante o rei no caminho, e disfarçou-se com cinza sobre os seus olhos.
+Examine-se, pois, o homem a si mesmo, e assim coma deste pão, e beba deste cálice.
+Comei de tudo quanto se vende no açougue, sem perguntar nada, por causa da consciência.
+Da qual salvação inquiriram e trataram diligentemente os profetas que profetizaram da graça que vos foi dada,
+Exalta-te, SENHOR, na tua força; então, cantaremos e louvaremos o teu poder.
+Respondeu o rei e disse: Percebo muito bem que vós quereis ganhar tempo; porque vedes que o que eu sonhei me tem escapado.
+Podes pôr uma corda no seu nariz ou com um espinho furarás a sua queixada?
+Bendito o Senhor, Deus de Israel, porque visitou e remiu o seu povo!
+Porque grande é o SENHOR e digno de louvor, mais tremendo do que todos os deuses.
+Pelo assopro de Deus, se dá a geada, e as largas águas se endurecem.
+Ora, um de seus discípulos, aquele a quem Jesus amava, estava reclinado no seio de Jesus.
+Então, tomou Jessé um jumento carregado de pão, e um odre de vinho, e um cabrito e enviou-os a Saul pela mão de Davi, seu filho.
+porque não executaram os meus juízos, e rejeitaram os meus estatutos, e profanaram os meus sábados, e os seus olhos se iam após os ídolos de seus pais.
+Porque ao que tem, ser-lhe-á dado; e, ao que não tem, até o que tem lhe será tirado.
+Ora, Davi, filho de Jessé, reinou sobre todo o Israel.
+E as sete vacas magras e feias à vista, que subiam depois delas, são sete anos, como as sete espigas miúdas e queimadas do vento oriental; serão sete anos de fome.
+Não viste que Acabe se humilha perante mim? Porquanto, pois, se humilha perante mim, não trarei este mal nos seus dias, mas nos dias de seu filho trarei este mal sobre a sua casa.
+Como suportaria eu sozinho as vossas moléstias, e as vossas cargas, e as vossas diferenças?
+E Moisés os mandou à guerra, de cada tribo mil, a eles e a Fineias, filho de Eleazar, o sacerdote, à guerra com os utensílios santos e com as trombetas do alarido na mão.
+Porém, se em alguma maneira o resgatar, então, acrescentará o seu quinto além da tua avaliação.
+Eles morrem na mocidade, e a sua vida perece entre os sodomitas.
+E, acerca dos mortos que houverem de ressuscitar, não tendes lido no livro de Moisés como Deus lhe falou na sarça, dizendo: Eu sou o Deus de Abraão, e o Deus de Isaque, e o Deus de Jacó?
+Foi, pois, Jesus seis dias antes da Páscoa a Betânia, onde estava Lázaro, o que falecera e a quem ressuscitara dos mortos.
+Porque a nossa leve e momentânea tribulação produz para nós um peso eterno de glória mui excelente,
+E lhe disse: Como é a sua figura? E disse ela: Vem subindo um homem ancião e está envolto numa capa. Entendendo Saul que era Samuel, inclinou-se com o rosto em terra e se prostrou.
+Zebulom é um povo que expôs a sua vida à morte, como também Naftali, nas alturas do campo.
+Assim, tiraram de comer para os homens. E sucedeu que, comendo eles daquele caldo, clamaram e disseram: Homem de Deus, há morte na panela. Não puderam comer.
+Tens visto um homem precipitado nas suas palavras? Maior esperança há de um tolo do que dele.
+Chamei a meu criado, e ele me não respondeu; cheguei a suplicar com a minha boca.
+Atravessei-os, de sorte que não se puderam levantar; caíram debaixo dos meus pés.
+E há de ser que, usando o SENHOR com o meu senhor conforme todo o bem que já tem dito de ti e te tiver estabelecido chefe sobre Israel,
+E aconteceu que, passando ele num sábado pelas searas, os seus discípulos, caminhando, começaram a colher espigas.
+para fazerem tudo o que a tua mão e o teu conselho tinham anteriormente determinado que se havia de fazer.
+Mas o SENHOR Deus é a verdade; ele mesmo é o Deus vivo e o Rei eterno; do seu furor treme a terra, e as nações não podem suportar a sua indignação.
+nan
+E, naquele tempo,  os esconjurou, dizendo: Maldito diante do SENHOR seja o homem que se levantar e reedificar esta cidade de Jericó! Perdendo o seu primogênito, a fundará e sobre o seu filho mais novo lhe porá as portas.
+E foi e falou com os principais dos sacerdotes e com os capitães de como lho entregaria,
+Ainda tenho outras ovelhas que não são deste aprisco; também me convém agregar estas, e elas ouvirão a minha voz, e haverá um rebanho e um Pastor.
+Apartai-vos de mim todos os que praticais a iniquidade; porque o SENHOR já ouviu a voz do meu lamento.
+Bem-aventurados sereis quando os homens vos aborrecerem, e quando vos separarem, e vos injuriarem, e rejeitarem o vosso nome como mau, por causa do Filho do Homem.
+Porém o SENHOR não quis destruir a Judá por amor de Davi, seu servo, como lhe tinha dito que lhe daria para sempre uma lâmpada a seus filhos.
+E leram o livro, na Lei de Deus, e declarando e explicando o sentido, faziam que, lendo, se entendesse.
+Levantando as âncoras, deixaram-no ir ao mar, largando também as amarras do leme; e, alçando a vela maior ao vento, dirigiram-se para a praia.
+E aproximaram-se dele  e João, filhos de Zebedeu, dizendo: Mestre, queremos que nos faças o que pedirmos.
+E Davi feria aquela terra, e não dava vida nem a homem nem a mulher, e tomava ovelhas, e vacas, e jumentos, e camelos, e vestes; e voltava e vinha a Aquis.
+Então, disse o SENHOR a Moisés: Até quando recusareis guardar os meus mandamentos e as minhas leis?
+Vós, pois, todos os homens de guerra, rodeareis a cidade, cercando a cidade uma vez; assim fareis por seis dias.
+Então, Pilatos, querendo satisfazer a multidão, soltou-lhes Barrabás, e, açoitado Jesus, o entregou para que fosse crucificado.
+Anda com os sábios e serás sábio, mas o companheiro dos tolos será afligido.
+vindo, porém, os primeiros, cuidaram que haviam de receber mais; mas, do mesmo modo, receberam um dinheiro cada um.
+Então, correu um moço, e o anunciou a Moisés, e disse: Eldade e Medade profetizam no arraial.
+Porém tomou o rei os dois filhos de Rispa, filha de Aiá, que tinha tido de Saul, a saber, a Armoni e a Mefibosete, como também os cinco filhos da irmã de Mical, filha de Saul, que tivera de Adriel, filho de Barzilai, meolatita.
+Então, disse Saul: Lançai a sorte entre mim e Jônatas, meu filho. E foi tomado Jônatas.
+Então, disse a outra mulher: Não, mas o vivo é meu filho, e teu filho, o morto. Porém esta disse: Não, por certo, o morto é teu filho, e meu filho, o vivo. Assim falaram perante o rei.
+E, sepultando a Abner em Hebrom, o rei levantou a sua voz e chorou junto da sepultura de Abner; e chorou todo o povo.
+Mas, no tocante às cidades dos levitas, às casas das cidades da sua possessão, direito perpétuo de resgate terão os levitas.
+Subirei acima das mais altas nuvens e serei semelhante ao Altíssimo.
+Porventura, caçarás tu presa para a leoa ou satisfarás a fome dos filhos dos leões,
+Então, disse  ao despenseiro a quem o chefe dos eunucos havia constituído sobre Daniel, Hananias, Misael e Azarias:
+E Israel disse a José: Eu não cuidara ver o teu rosto; e eis que Deus me fez ver a tua semente também.
+E assentaram-se repartidos de cem em cem e de cinquenta em cinquenta.
+Depois, levantou-se um novo rei sobre o Egito, que não conhecera a José,
+e numera outro exército, como o exército que caiu de ti, e cavalos como aqueles cavalos, e carros como aqueles carros; e pelejemos com eles em campo raso e veremos se não somos mais fortes do que eles! E deu ouvidos à sua voz e assim fez.
+Porém Saul mandou mensageiros à casa de Davi, que o guardassem e o matassem pela manhã; do que Mical, sua mulher, avisou a Davi, dizendo: Se não salvares a tua vida esta noite, amanhã te matarão.
+Porque o que fala língua estranha não fala aos homens, senão a Deus; porque ninguém o entende, e em espírito fala de mistérios.
+Porque assim diz o Senhor JEOVÁ: Quanto mais, se eu enviar os meus quatro maus juízos, a espada, e a fome, e as nocivas alimárias, e a peste, contra Jerusalém para arrancar dela homens e animais?
+E eles não sabiam que José os entendia, porque havia intérprete entre eles.
+E Jesus, respondendo, disse-lhes: Dai, pois, a César o que é de César e a Deus, o que é de Deus. E maravilharam-se dele.
+E ele lhes disse: Levantai-me e lançai-me ao mar, e o mar se aquietará; porque eu sei que, por minha causa, vos sobreveio esta grande tempestade.
+Nisso, porém, consentiremos a vós: se fordes como nós, que se circuncide todo macho entre vós;
+o qual, noutro tempo, te foi inútil, mas, agora, a ti e a mim, muito útil; eu to tornei a enviar.
+E todos os filhos de Israel, vendo descer o fogo e a glória do SENHOR sobre a casa, encurvaram-se com o rosto em terra sobre o pavimento, e adoraram, e louvaram o SENHOR, porque é bom, porque a sua benignidade dura para sempre.
+Este Daniel, pois, prosperou no reinado de Dario e no reinado de Ciro, o persa.
+Mesmo vós sabeis para onde vou e conheceis o caminho.
+Então, respondeu Joabe e disse: Longe, longe de mim que eu tal faça, que eu devore ou arruíne!
+Disse mais Davi: Entregar-me-iam os cidadãos de Queila, a mim e aos meus homens, nas mãos de Saul? E disse o SENHOR: Entregariam.
+nan
+O SENHOR, pois, é aquele que vai adiante de ti; ele será contigo, não te deixará, nem te desamparará; não temas, nem te espantes.
+Mas o couro do novilho, e toda a sua carne, com a sua cabeça e as suas pernas, e as suas entranhas, e o seu esterco,
+E fez o que era reto aos olhos do SENHOR, porém não com coração inteiro.
+Ele é quem pacifica os teus termos e da flor da farinha te farta;
+Porque a circuncisão é, na verdade, proveitosa, se tu guardares a lei; mas, se tu és transgressor da lei, a tua circuncisão se torna em incircuncisão.
+E, abrindo um deles o seu saco, para dar pasto ao seu jumento na venda, viu o seu dinheiro; porque eis que estava na boca do seu saco.
+E, ouvindo-o eles, glorificaram ao Senhor e disseram-lhe: Bem vês, irmão, quantos milhares de judeus há que creem, e todos são zelosos da lei.
+E comereis fartamente, e ficareis satisfeitos, e louvareis o nome do SENHOR, vosso Deus, que procedeu para convosco maravilhosamente; e o meu povo não será mais envergonhado.
+e ouro puro para os garfos, e para as bacias, e para as escudelas, e para as taças de ouro, para cada taça seu peso, como também para as taças de prata, para cada taça seu peso;
+No ano nono de Zedequias, rei de Judá, no mês décimo, veio Nabucodonosor, rei da Babilônia, e todo o seu exército contra Jerusalém e a cercaram.
+Todos estes, escolhidos para serem porteiros dos umbrais, foram duzentos e doze; e foram estes, segundo as suas aldeias, postos em suas genealogias; e Davi e Samuel, o vidente, os constituíram no seu cargo.
+Os anciãos de Gebal e seus sábios foram em ti os que consertavam as tuas fendas; todos os navios do mar e os marinheiros se acharam em ti, para tratarem dos teus negócios.
+Assim fizeram os filhos de Israel; conforme tudo o que o SENHOR ordenara a Moisés, assim o fizeram.
+Os lábios dos sábios derramarão o conhecimento, mas o coração dos tolos não fará assim.
+E enviou Hirão a Salomão, dizendo: Ouvi o que me mandaste dizer. Eu farei toda a tua vontade acerca dos cedros e acerca das faias.
+E, depois, leu em alta voz todas as palavras da lei, a bênção e a maldição, conforme tudo o que está escrito no livro da Lei.
+E começou a falar-lhes por parábolas: Um homem plantou uma vinha, e cercou-a de um valado, e fundou nela um lagar, e edificou uma torre, e arrendou-a a uns lavradores, e partiu para fora da terra.
+porque nunca deixei de vos anunciar todo o conselho de Deus.
+Porém não ouviram; porque Manassés de tal modo os fez errar, que fizeram pior do que as nações que o SENHOR tinha destruído de diante dos filhos de Israel.
+E disse-lhe Noemi, sua sogra: Minha filha, não hei de eu buscar descanso, para que fiques bem?
+E um bastardo habitará em Asdode, e exterminarei a soberba dos filisteus.
+E não fez ali muitas maravilhas, por causa da incredulidade deles.
+Então, estremeceram e se levantaram todos os convidados que estavam com Adonias; e cada um se foi ao seu caminho.
+E aconteceu que, subindo nós a teu servo, meu pai, e contando-lhe as palavras de meu senhor,
+Pelo que assim diz o Senhor JEOVÁ: Eis que os meus servos comerão, mas vós padecereis fome; eis que os meus servos beberão, mas vós tereis sede; eis que os meus servos se alegrarão, mas vós vos envergonhareis;
+e assim lhes farás, para os purificar: Esparge sobre eles a água da expiação; e sobre toda a sua carne farão passar a navalha, e lavarão as suas vestes, e se purificarão.
+Por isso, me abomino e me arrependo no pó e na cinza.
+Todas as tuas vestes cheiram a mirra, a aloés e a cássia, desde os palácios de marfim de onde te alegram.
+E, junto a ele, edificaram os homens de Jericó; também, ao seu lado, edificou Zacur, filho de Inri.
+E deram-lhes, por sorte, estas cidades, da tribo dos filhos de Judá, da tribo dos filhos de Simeão, e da tribo dos filhos de Benjamim, às quais deram os seus nomes.
+E, enquanto o dia vinha, Paulo exortava a todos a que comessem alguma coisa, dizendo: É já hoje o décimo quarto dia que esperais e permaneceis sem comer, não havendo provado nada.
+A graça de nosso Senhor Jesus Cristo seja, irmãos, com o vosso espírito. Amém!
+e disse-lhes Moisés: Se os filhos de Gade e os filhos de Rúben passarem convosco o Jordão, armado cada um para a guerra perante o SENHOR, e a terra estiver subjugada diante de vós, em possessão lhes dareis a terra de Gileade;
+E, logo que se aproximaram de Jerusalém, de Betfagé e de Betânia, junto ao monte das Oliveiras, enviou dois dos seus discípulos
+Todos os servos que estão debaixo do jugo estimem a seus senhores por dignos de toda a honra, para que o nome de Deus e a doutrina não sejam blasfemados.
+Quanto à vossa obediência, é ela conhecida de todos. Comprazo-me, pois, em vós; e quero que sejais sábios no bem, mas símplices no mal.
+Este é o mal que há entre tudo quanto se faz debaixo do sol: que a todos sucede o mesmo; que também o coração dos filhos dos homens está cheio de maldade; que há desvarios no seu coração, na sua vida, e que depois se vão aos mortos.
+terra escuríssima, como a mesma escuridão, terra da sombra da morte e sem ordem alguma, e onde a luz é como a escuridão.
+Vós adorais o que não sabeis; nós adoramos o que sabemos porque a salvação vem dos judeus.
+Os teus olhos estarão atentos no campo que segarem, e irás após elas; não dei ordem aos moços, que te não toquem? Tendo tu sede, vai aos vasos e bebe do que os moços tirarem.
+E nós cortaremos tanta madeira no Líbano quanta houveres mister e ta traremos em jangadas pelo mar a Jope, e tu a farás subir a Jerusalém.
+E envie ele a Jesus Cristo, que já dantes vos foi pregado,
+Levantai os olhos para os céus e olhai para a terra de baixo, porque os céus desaparecerão como a fumaça, e a terra se envelhecerá como uma veste, e os seus moradores morrerão como mosquitos; mas a minha salvação durará para sempre, e a minha justiça não será quebrantada.
+E fez estar em pé a todos quantos se acharam em Jerusalém e em Benjamim; e os habitantes de Jerusalém fizeram conforme o concerto de Deus, do Deus de seus pais.
+E será a praga dos cavalos, dos mulos, dos camelos e dos jumentos e de todos os animais que estiverem naqueles exércitos, como foi a praga deles.
+Estando ainda na sua verdura, e ainda não cortada, todavia, antes de qualquer outra erva, se seca.
+Bendize, ó minha alma, ao SENHOR, e tudo o que há em mim bendiga o seu santo nome.
+E, caindo eles, serão ajudados com pequeno socorro; mas muitos se ajuntarão a eles com lisonjas.
+E clamou fortemente com grande voz, dizendo: Caiu! Caiu a grande Babilônia e se tornou morada de demônios, e abrigo de todo espírito imundo, e refúgio de toda ave imunda e aborrecível!
+E ainda mais do que isto me envilecerei e me humilharei aos meus olhos; e das servas, de quem falaste, delas serei honrado.
+E os caldeus queimaram a casa do rei e as casas do povo e derribaram os muros de Jerusalém.
+o qual, quando o injuriavam, não injuriava e, quando padecia, não ameaçava, mas entregava-se àquele que julga justamente,
+sendo justificados gratuitamente pela sua graça, pela redenção que há em Cristo Jesus,
+Joá, seu filho, Ido, seu filho, Zerá, seu filho, Jeaterai, seu filho.
+E não ensinará alguém mais a seu próximo, nem alguém, a seu irmão, dizendo: Conhecei ao SENHOR; porque todos me conhecerão, desde o menor deles até ao maior, diz o SENHOR; porque perdoarei a sua maldade e nunca mais me lembrarei dos seus pecados.
+Não julgueis, e não sereis julgados; não condeneis, e não sereis condenados; soltai, e soltar-vos-ão.
+Ao revés, ao revés, ao revés a porei, e ela não será mais, até que venha aquele a quem pertence de direito, e a ele a darei.
+Eis que toda a obra entalhada quebram com machados e martelos.
+Assim, separareis os filhos de Israel das suas imundícias, para que não morram nas suas imundícias, contaminando o meu tabernáculo, que está no meio deles.
+Também os filhos de Israel partiram, então, dali, cada um para a sua tribo e para a sua geração, e saíram dali, cada um para a sua herança.
+Porém, se de alguma maneira o homicida sair dos termos da cidade do seu refúgio, onde se tinha acolhido,
+Serão de refúgio estas seis cidades para os filhos de Israel, e para o estrangeiro, e para o que se hospedar no meio deles, para que ali se acolha aquele que ferir a alguma pessoa por erro.
+e há de ser que, ouvindo tu um ruído de andadura pelas copas das amoreiras, então, sai à peleja; porque Deus haverá saído diante de ti, a ferir o exército dos filisteus.
+Disse-lhes, pois, Pilatos: Levai-o vós e julgai-o segundo a vossa lei. Disseram-lhe, então, os judeus: A nós não nos é lícito matar pessoa alguma.
+Assim também vós considerai-vos como mortos para o pecado, mas vivos para Deus, em Cristo Jesus, nosso Senhor.
+portanto, profetiza e dize: Assim diz o Senhor JEOVÁ: Visto que vos assolaram e devoraram em redor, para que ficásseis feitos herança do resto das nações, e andais em lábios paroleiros e na infâmia do povo,
+E encherei os seus montes dos seus traspassados; nos teus outeiros, e nos teus vales, e em todas as tuas correntes, cairão os traspassados à espada.
+o mistério que esteve oculto desde todos os séculos e em todas as gerações e que, agora, foi manifesto aos seus santos;
+Exterminei as nações, as suas torres estão assoladas; fiz desertas as suas praças, a ponto de não ficar quem passe por elas; as suas cidades foram destruídas, até não ficar ninguém, até não haver quem as habite.
+Porque todos podereis profetizar, uns depois dos outros, para que todos aprendam e todos sejam consolados.
+E Arão sobre ele queimará o incenso das especiarias; cada manhã, quando põe em ordem as lâmpadas, o queimará.
+Estou aflito e prestes a morrer, desde a minha mocidade; quando sofro os teus terrores, fico perturbado.
+Mudastes, porém, e profanastes o meu nome, e fizestes voltar cada um ao seu servo, e cada um, à sua serva, os quais já tínheis despedido forros, conforme a sua vontade; e os sujeitastes, para que se vos fizessem servos e servas.
+por isso, tampouco viverá para sempre ou deixará de ver a corrupção;
+E, dizendo ele isso, todos os seus adversários ficaram envergonhados, e todo o povo se alegrava por todas as coisas gloriosas que eram feitas por ele.
+Ainda que ele me mate, nele esperarei; contudo, os meus caminhos defenderei diante dele.
+Agora, pois, minha filha, não temas; tudo quanto disseste te farei, pois toda a cidade do meu povo sabe que és mulher virtuosa.
+Também farás os seus pratos, e as suas colheres, e as suas cobertas, e as suas tigelas com que se hão de cobrir; de ouro puro os farás.
+nan
+Sabes tu o tempo em que as cabras monteses têm os filhos, ou consideraste as dores das cervas?
+Perante o SENHOR, teu Deus, os comerás de ano em ano, no lugar que o SENHOR escolher, tu e a tua casa.
+E os apóstolos davam, com grande poder, testemunho da ressurreição do Senhor Jesus, e em todos eles havia abundante graça.
+seu filho Simeia, seu filho Hagias, seu filho Asaías.
+todas as cidades da terra plana, e todo o Gileade, e todo o Basã até Salca, e Edrei, cidades do reino de Ogue, em Basã.
+E subiu um querubim, e voou; e foi visto sobre as asas do vento.
+e cobri-la-ás com ouro puro; também lhe farás uma coroa de ouro ao redor.
+E eu vos enviei todos os meus servos, os profetas, madrugando e enviando a dizer: Ora, não façais esta coisa abominável que aborreço.
+Tu és mais ilustre e glorioso do que os montes de presa.
+Então, enviaram a arca de Deus a Ecrom. Sucedeu, porém, que, vindo a arca de Deus a Ecrom, os de Ecrom exclamaram, dizendo: Transportaram para nós a arca do Deus de Israel, para nos matarem, a nós e ao nosso povo.
+Seis dias depois, tomou Jesus consigo a Pedro, e a Tiago, e a João, seu irmão, e os conduziu em particular a um alto monte.
+O SENHOR, porém, endureceu o coração de Faraó, e este não deixou ir os filhos de Israel.
+e a mesa com os seus utensílios, e o castiçal puro com todos os seus utensílios, e o altar do incenso;
+Tinha Acaz vinte anos de idade quando começou a reinar, e reinou dezesseis anos em Jerusalém, e não fez o que era reto aos olhos do SENHOR, seu Deus, como Davi, seu pai.
+Porque grande é o SENHOR, e mui digno de ser louvado, e mais tremendo é do que todos os deuses.
+E o quarto reino será forte como ferro; pois, como o ferro esmiúça e quebra tudo, como o ferro quebra todas as coisas, ele esmiuçará e quebrantará.
+E Jesus, voltando-se e vendo que eles o seguiam, disse-lhes: Que buscais? E eles disseram: Rabi (que, traduzido, quer dizer Mestre), onde moras?
+E uma vez no ano Arão fará expiação sobre as pontas do altar com o sangue do sacrifício das expiações; uma vez no ano fará expiação sobre ele pelas vossas gerações; santíssimo é ao SENHOR.
+Cantai-lhe um cântico novo; tocai bem e com júbilo.
+Portanto, assim diz o SENHOR dos Exércitos: Eis que eu os fundirei e os provarei; por que, de que outra maneira procederia com a filha do meu povo?
+Quem poderá dizer: Purifiquei o meu coração, limpo estou de meu pecado!
+Ester, porém, não declarou o seu povo e a sua parentela; porque Mardoqueu lhe tinha ordenado que o não declarasse.
+Mas os rumores do Oriente e do Norte o espantarão; e sairá com grande furor, para destruir e extirpar a muitos.
+para te guardarem da má mulher e das lisonjas da língua estranha.
+Não aproveitam as riquezas no dia da ira, mas a justiça livra da morte.
+E se congregaram contra Moisés e contra Arão e lhes disseram: Demais é já; pois que toda a congregação é santa, todos eles são santos, e o SENHOR está no meio deles; por que, pois, vos elevais sobre a congregação do SENHOR?
+eles, e todo animal conforme a sua espécie, e todo gado conforme a sua espécie, e todo réptil que se roja sobre a terra conforme a sua espécie, e toda ave conforme a sua espécie, todo pássaro de toda qualidade.
+Lembrai-vos das maravilhas que fez, dos seus prodígios e dos juízos da sua boca, vós, descendência de Abraão, seu servo, vós, filhos de Jacó, seus escolhidos.
+Pedro, porém, levantando-se, correu ao sepulcro e, abaixando-se, viu só os lenços ali postos; e retirou-se, admirando consigo aquele caso.
+Vigiai, estai firmes na fé, portai-vos varonilmente e fortalecei-vos.
+Todos os que me aborrecem murmuram à uma contra mim; contra mim imaginam o mal, dizendo:
+E os dez chifres que viste na besta são os que aborrecerão a prostituta, e a porão desolada e nua, e comerão a sua carne, e a queimarão no fogo.
+Depois, virará o seu rosto para as ilhas e tomará muitas; mas um príncipe fará cessar o seu opróbrio contra ele e ainda fará tornar sobre ele o seu opróbrio.
+Porque nada podemos contra a verdade, senão pela verdade.
+Bem sei eu, ó SENHOR, que os teus juízos são justos e que em tua fidelidade me afligiste.
+A palavra que do SENHOR veio a Jeremias, depois que o rei Zedequias fez concerto com todo o povo que havia em Jerusalém, para lhes apregoar a liberdade:
+Não se turbe o vosso coração; credes em Deus, crede também em mim.
+Se, pois, todo o teu corpo é luminoso, não tendo em trevas parte alguma, todo será luminoso, como quando a candeia te alumia com o seu resplendor.
+E, havendo grande dissensão, o tribuno, temendo que Paulo fosse despedaçado por eles, mandou descer a soldadesca, para que o tirassem do meio deles e o levassem para a fortaleza.
+para a santificar, purificando-a com a lavagem da água, pela palavra,
+e todo espírito que não confessa que Jesus Cristo veio em carne não é de Deus; mas este é o espírito do anticristo, do qual já ouvistes que há de vir, e eis que está já no mundo.
+Quanto menos àquele que não faz acepção da pessoa de príncipes, nem estima o rico mais do que o pobre; porque todos são obra de suas mãos.
+e uma terça parte estará na casa do rei, e a outra terça parte, à porta do fundamento; e todo o povo estará nos pátios da Casa do SENHOR.
+E curou muitos que se achavam enfermos de diversas enfermidades e expulsou muitos demônios, porém não deixava falar os demônios, porque o conheciam.
+E, assim como trouxemos a imagem do terreno, assim traremos também a imagem do celestial.
+Tu, pois, meu filho, fortifica-te na graça que há em Cristo Jesus.
+amando tu aos que te aborrecem e aborrecendo aos que te amam; porque, hoje, dás a entender que nada valem para contigo capitães e servos; porque entendo, hoje, que, se Absalão vivesse, e todos nós, hoje, fôssemos mortos, então, bem te parecera aos teus olhos.
+Não verás mais aquele povo cruel, povo de fala tão profunda, que não se pode perceber, e de língua tão estranha, que não se pode entender.
+Não comereis nenhum animal morto; ao estrangeiro, que está dentro das tuas portas, o darás a comer ou o venderás ao estranho, porquanto és povo santo ao SENHOR, teu Deus. Não cozerás o cabrito com o leite da sua mãe.
+orando também juntamente por nós, para que Deus nos abra a porta da palavra, a fim de falarmos do mistério de Cristo, pelo qual estou também preso;
+E Abias dormiu com seus pais, e o sepultaram na Cidade de Davi; e Asa, seu filho, reinou em seu lugar; nos seus dias, esteve a terra em paz dez anos.
+Eu, porém, vos digo que, de maneira nenhuma, jureis nem pelo céu, porque é o trono de Deus,
+Naquele dia, diz o SENHOR dos Exércitos, cada um de vós convidará o seu companheiro para debaixo da videira e para debaixo da figueira.
+E disse Abraão: Eu jurarei.
+E serão como valentes que pelo lodo das ruas entram na peleja, esmagando os inimigos; porque o SENHOR estará com eles, e eles envergonharão os que andam montados em cavalos.
+Então, me levou ao átrio interior pela porta do sul; e mediu a porta do sul, conforme estas medidas.
+E levantaram-se, e tiraram os altares que havia em Jerusalém, e também tiraram todos os vasos de incenso, e os lançaram no ribeiro de Cedrom.
+Porque os meus pensamentos não são os vossos pensamentos, nem os vossos caminhos, os meus caminhos, diz o SENHOR.
+Então, a ira do SENHOR se acendeu contra Amazias, e mandou-lhe um profeta, que lhe disse: Por que buscaste deuses do povo, que a seu povo não livraram das tuas mãos?
+E determinou Salomão edificar uma casa ao nome do SENHOR, como também uma casa para o seu reino.
+Então, o Espírito do SENHOR se apossou dele tão possantemente, que o fendeu de alto a baixo, como quem fende um cabrito, sem ter nada na sua mão; porém nem a seu pai nem a sua mãe deu a saber o que tinha feito.
+Eis que o povo se levantará como leoa e se exalçará como leão; não se deitará até que coma a presa e beba o sangue de mortos.
+Porque, quem sabe o que é bom nesta vida para o homem, por todos os dias da sua vaidade, os quais gasta como sombra? Porque, quem declarará ao homem o que será depois dele debaixo do sol?
+E disse Davi a Joabe e aos maiorais do povo: Ide, contai a Israel desde Berseba até Dã; e trazei-me a conta, para que saiba o número deles.
+Vi o ímpio com grande poder espalhar-se como a árvore verde na terra natal.
+Preparai a guerra contra ela, levantai-vos, e subamos ao pino do meio-dia; ai de nós, que já declina o dia, que já se vão estendendo as sombras da tarde!
+Todavia, falamos sabedoria entre os perfeitos; não, porém, a sabedoria deste mundo, nem dos príncipes deste mundo, que se aniquilam;
+O SENHOR ama as portas de Sião mais do que todas as habitações de Jacó.
+Ovelhas perdidas foram o meu povo, os seus pastores as fizeram errar, para os montes as deixaram desviar; de monte em outeiro andaram, esqueceram-se do lugar de seu repouso.
+E os dias que Jeú reinou sobre Israel em Samaria foram vinte e oito anos.
+E fez-lhe Levi um grande banquete em sua casa; e havia ali uma multidão de publicanos e outros que estavam com eles à mesa.
+O estrangeiro não afligirás, nem o oprimirás; pois estrangeiros fostes na terra do Egito.
+Converte-te, ó Israel, ao SENHOR, teu Deus; porque, pelos teus pecados, tens caído.
+E tomou o seu cajado na mão, e escolheu para si cinco seixos do ribeiro, e pô-los no alforje de pastor, que trazia, a saber, no surrão; e lançou mão da sua funda e foi-se chegando ao filisteu.
+Porque quero que saibais quão grande combate tenho por vós, e pelos que estão em Laodiceia, e por quantos não viram o meu rosto em carne;
+Se fores sábio, para ti sábio serás; e, se fores escarnecedor, tu só o suportarás.
+Então, ele disse: Ouvi, agora, ó casa de Davi! Pouco vos é afadigardes os homens, senão que ainda afadigareis também ao meu Deus?
+E, se nós não nos tivéssemos detido, certamente já estaríamos segunda vez de volta.
+Isto lhe dirás: Assim diz o SENHOR: Eis que o que edifiquei eu derribo e o que plantei eu arranco, e isso em toda esta terra.
+Assim, Salomão se assentou no trono do SENHOR, rei, em lugar de Davi, seu pai, e prosperou; e todo o Israel lhe deu ouvidos.
+Mas Deus não se agradou da maior parte deles, pelo que foram prostrados no deserto.
+Mudou o coração deles para que aborrecessem o seu povo, para que tratassem astutamente aos seus servos.
+Palavra que veio a  acerca de todos os judeus habitantes da terra do Egito, que habitavam em Migdol, e em Tafnes, e em Nofe, e na terra de Patros, dizendo:
+Porventura, começamos outra vez a louvar-nos a nós mesmos? Ou necessitamos, como alguns, de cartas de recomendação para vós ou de recomendação de vós?
+E tu, seu filho Belsazar, não humilhaste o teu coração, ainda que soubeste de tudo isso.
+E para vós olharei, e vos farei frutificar, e vos multiplicarei, e confirmarei o meu concerto convosco.
+tempo de buscar e tempo de perder; tempo de guardar e tempo de deitar fora;
+E ele, assentando-se, chamou os doze e disse-lhes: Se alguém quiser ser o primeiro, será o derradeiro de todos e o servo de todos.
+Que diremos, pois? É a lei pecado? De modo nenhum! Mas eu não conheci o pecado senão pela lei; porque eu não conheceria a concupiscência, se a lei não dissesse: Não cobiçarás.
+Falou mais o SENHOR a Moisés, dizendo:
+Farás também cinquenta colchetes de cobre e meterás os colchetes nas laçadas; e, assim, ajuntarás a tenda para que seja uma.
+E a listra, catorze côvados de comprimento e catorze de largura, nos seus quatro lados; e o contorno, ao redor dela, de meio côvado, e o fundo dela, de um côvado, ao redor; e os seus degraus olhavam para o oriente.
+Estes são os animais que comereis: o boi, o gado miúdo das ovelhas, o gado miúdo das cabras,
+Então, lhe perguntei e disse: De quem és filha? E ela disse: Filha de Betuel, filho de Naor, que lhe gerou Milca. Então, eu pus o pendente no seu rosto e as pulseiras sobre as suas mãos.
+O que ouvindo Davi, enviou Joabe e todo o exército dos homens valorosos.
+Então, Saul e todo o povo que havia com ele se ajuntaram e vieram à peleja; e eis que a espada de um era contra o outro, e houve mui grande tumulto.
+Mas os outros mortos não reviveram, até que os mil anos se acabaram. Esta é a primeira ressurreição.
+Porque Hamã, filho de Hamedata, o agagita, inimigo de todos os judeus, tinha intentado destruir os judeus; e tinha lançado Pur, isto é, a sorte para os assolar e destruir.
+Que dirás, quando puser os teus amigos sobre ti como cabeça, se foste tu mesmo que contra ti os ensinaste? Porventura, não te tomarão as dores, como à mulher que está de parto?
+E, dois dias depois, partiu dali e foi para a Galileia.
+Sucedeu, pois, que, ouvindo o rei as palavras da Lei, rasgou as suas vestes.
+Eis que amas a verdade no íntimo, e no oculto me fazes conhecer a sabedoria.
+E o centurião, vendo o que tinha acontecido, deu glória a Deus, dizendo: Na verdade, este homem era justo.
+para que, hoje, abandonais ao SENHOR? Será que, rebelando-vos hoje contra o SENHOR, amanhã se irará contra toda a congregação de Israel.
+E levantou um altar a Baal, na casa de Baal que edificara em Samaria.
+como nada, que útil seja, deixei de vos anunciar e ensinar publicamente e pelas casas,
+Mas, chegando também o que recebera um talento disse: Senhor, eu conhecia-te, que és um homem duro, que ceifas onde não semeaste e ajuntas onde não espalhaste;
+Ele respondeu-lhes: Aquele que me curou, ele próprio disse: Toma a tua cama e anda.
+Não fales aos ouvidos do tolo, porque desprezará a sabedoria das tuas palavras.
+Se o homem se não converter, Deus afiará a sua espada; já tem armado o seu arco e está aparelhado;
+Tornaste-te cruel contra mim; com a força da tua mão resistes violentamente.
+Por que não entendeis a minha linguagem? Por não poderdes ouvir a minha palavra.
+Antes, voarão sobre os ombros dos filisteus ao Ocidente; juntos, despojarão os filhos do Oriente; em Edom e Moabe lançarão as mãos, e os filhos de Amom lhes obedecerão.
+Quem acarretar pedras será maltratado por elas, e o que rachar lenha expõe-se ao perigo.
+E, logo depois da aflição daqueles dias, o sol escurecerá, e a lua não dará a sua luz, e as estrelas cairão do céu, e as potências dos céus serão abaladas.
+E disseram a Joabe: Eis que o rei anda chorando e lastima-se por Absalão.
+Também fez chegar os filhos de Arão; e Moisés pôs daquele sangue sobre a ponta da orelha direita deles, e sobre o polegar da sua mão direita, e sobre o polegar do seu pé direito; e Moisés espargiu o resto do sangue sobre o altar, em redor.
+Destruirás aqueles que proferem a mentira; o SENHOR aborrecerá o homem sanguinário e fraudulento.
+E, chegando Davi a Ziclague, enviou do despojo aos anciãos de Judá, seus amigos, dizendo: Eis aí para vós uma bênção do despojo dos inimigos do SENHOR:
+Olharam, porém, não houve libertador, sim, para o SENHOR, porém não lhes respondeu.
+Fala a Arão e a seus filhos, dizendo: Assim abençoareis os filhos de Israel, dizendo-lhes:
+E estenderei sobre Jerusalém o cordel de Samaria e o prumo da casa de Acabe; e limparei Jerusalém, como quem limpa a escudela a limpa e a vira sobre a sua face.
+Faze bem ao teu servo, para que viva e observe a tua palavra.
+Eis que dias vêm, diz o SENHOR, em que esta cidade será reedificada para o SENHOR, desde a torre de Hananel até à Porta da Esquina.
+Gloriai-vos no seu santo nome; alegre-se o coração dos que buscam o SENHOR.
+Achei Israel como uvas no deserto, vi a vossos pais como a fruta temporã da figueira no seu princípio; mas eles foram para Baal-Peor, e se consagraram a essa coisa vergonhosa, e se tornaram abomináveis como aquilo que amaram.
+E veio a mim a palavra do SENHOR, dizendo:
+até que se levantou outro rei, que não conhecia a José.
+E logo um deles, correndo, tomou uma esponja, e embebeu-a em vinagre, e, pondo-a numa cana, dava-lhe de beber.
+E respondeu toda a congregação e disse em altas vozes: Assim seja; conforme as tuas palavras, nos convém fazer.
+E trazia ela uma roupa de muitas cores (porque assim se vestiam as filhas virgens dos reis, com capas), e seu criado a deitou fora e fechou a porta após ela.
+E farei passar essa terceira parte pelo fogo, e a purificarei, como se purifica a prata, e a provarei, como se prova o ouro; ela invocará o meu nome, e eu a ouvirei; direi: É meu povo; e ela dirá: O SENHOR é meu Deus.
+E aconteceu que, tornando eu para Jerusalém, quando orava no templo, fui arrebatado para fora de mim.
+E Reaías, filho de Sobal, gerou a Jaate; e Jaate gerou a Aumai e a Laade; estas são as famílias dos zorateus.
+E, no segundo dia, oferecerás um bode sem mancha, para expiação do pecado; e purificarão o altar, como o purificaram com o bezerro.
+Foi este que os conduziu para fora, fazendo prodígios e sinais na terra do Egito, no mar Vermelho e no deserto, por quarenta anos.
+Assim, se acenderá a minha ira, naquele dia, contra ele, e desampará-lo-ei, e esconderei o meu rosto dele, para que seja devorado; e tantos males e angústias o alcançarão, que dirá, naquele dia: Não me alcançaram estes males por não estar o meu Deus no meio de mim?
+Estendeste a tua mão direita; a terra os tragou.
+olhai pelo melhor e mais reto dos filhos de vosso senhor, o qual ponde sobre o trono de seu pai, e pelejai pela casa de vosso senhor.
+Levá-la-ão ao rei com vestes bordadas; as virgens que a acompanham a trarão a ti.
+para que sobre vós caia todo o sangue justo, que foi derramado sobre a terra, desde o sangue de Abel, o justo, até ao sangue de Zacarias, filho de Baraquias, que matastes entre o santuário e o altar.
+Dizei entre as nações: O SENHOR reina! O mundo também se firmará para que se não abale. Ele julgará os povos com retidão.
+Pois, quanto a ter morrido, de uma vez morreu para o pecado; mas, quanto a viver, vive para Deus.
+Então, Jeú disse a Bidcar, seu capitão: Toma-o, lança-o no pedaço do campo de Nabote, o jezreelita; pois, lembra-te de que, indo eu e tu juntos a cavalo após Acabe, seu pai, o SENHOR pôs sobre ele esta carga, dizendo:
+nan
+Onde, pois, estão os teus deuses, que fizeste para ti? Que se levantem, se te podem livrar no tempo da tua tribulação; porque os teus deuses, ó Judá, são tão numerosos como as tuas cidades.
+Ninguém pode vir a mim, se o Pai, que me enviou, o não trouxer; e eu o ressuscitarei no último Dia.
+E Maaca, mulher de Maquir, teve um filho e chamou o seu nome Perez; e o nome de seu irmão foi Seres; e foram seus filhos Ulão e Requém.
+E os seus discípulos lembraram-se do que está escrito: O zelo da tua casa me devorará.
+Mas há pouco se levantou o meu povo como um inimigo; de sobre a vestidura tirastes a capa daqueles que passavam seguros, como homens que voltavam da guerra.
+Será, pois, perdoado a toda a congregação dos filhos de Israel, e mais ao estrangeiro que peregrina no meio deles, porquanto por erro sobreveio a todo o povo.
+Ele amarrará o seu jumentinho à vide e o filho da sua jumenta, à cepa mais excelente; ele lavará a sua veste no vinho e a sua capa, em sangue de uvas.
+Seis dias se trabalhará, mas o sétimo dia vos será santo, o sábado do repouso ao SENHOR; todo aquele que fizer obra nele morrerá.
+Porque assim diz o SENHOR dos Exércitos: Cortai árvores e levantai tranqueiras contra Jerusalém; esta é a cidade que há de ser visitada; só opressão há no meio dela.
+E havia um homem da montanha de Efraim cujo nome era Mica,
+O meu coração está dorido dentro de mim, e terrores de morte sobre mim caíram.
+Porventura, não estão zombadores comigo? E os meus olhos não contemplam as suas amarguras?
+Dá instrução ao sábio, e ele se fará mais sábio; ensina ao justo, e ele crescerá em entendimento.
+E, levantando os olhos ao céu, suspirou e disse: Efatá, isto é, abre-te.
+E a justiça será o cinto dos seus lombos, e a verdade, o cinto dos seus rins.
+Não mandei os profetas; todavia, eles foram correndo; não lhes falei a eles; todavia, eles profetizaram.
+E, na multidão, uns clamavam de uma maneira; outros, de outra; mas, como nada podia saber ao certo por causa do alvoroço, mandou conduzi-lo para a fortaleza.
+E, quando o viram, maravilharam-se, e disse-lhe sua mãe: Filho, por que fizeste assim para conosco? Eis que teu pai e eu, ansiosos, te procurávamos.
+Tomará também o incensário cheio de brasas de fogo do altar, de diante do SENHOR, e os seus punhos cheios de incenso aromático moído e o meterá dentro do véu.
+E ponho as minhas palavras na tua boca e te cubro com a sombra da minha mão, para plantar os céus, e para fundar a terra, e para dizer a Sião: Tu és o meu povo.
+Pelo que o SENHOR cortará de Israel a cabeça e a cauda, o ramo e o junco, em um mesmo dia.
+Falou, pois, outra vez Pilatos, querendo soltar a Jesus.
+Quão grandes são os seus sinais, e quão poderosas, as suas maravilhas! O seu reino é um reino sempiterno, e o seu domínio, de geração em geração.
+Está alguém entre vós aflito? Ore. Está alguém contente? Cante louvores.
+E disse Eleazar, o sacerdote, aos homens de guerra que partiram à peleja: Este é o estatuto da lei que o SENHOR ordenou a Moisés.
+E concebeu a mulher e deu à luz um filho, no tal tempo determinado, segundo o tempo da vida que Eliseu lhe dissera.
+mas o que é casado cuida das coisas do mundo, em como há de agradar à mulher.
+Pois eu não confiarei no meu arco, nem a minha espada me salvará.
+E  disse: Isso é falso; não fujo para os caldeus. Mas ele não lhe deu ouvidos; e assim Jerias prendeu a  e o levou aos príncipes.
+Estrépito de açoite há, e o estrondo do ruído das rodas; e os cavalos atropelam, e carros vão saltando.
+E tomou os anciãos daquela cidade, e espinhos do deserto, e abrolhos e com eles ensinou aos homens de Sucote.
+E, não o crendo eles ainda por causa da alegria e estando maravilhados, disse-lhes: Tendes aqui alguma coisa que comer?
+Todos os caminhos do homem são limpos aos seus olhos, mas o SENHOR pesa os espíritos.
+E Abimeleque pelejou contra a cidade todo aquele dia e tomou a cidade; e matou o povo que nela havia, e assolou a cidade, e a semeou de sal.
+Naqueles dias, começou o SENHOR a enviar contra Judá a Rezim, rei da Síria, e a Peca, filho de Remalias.
+E estes são os nomes dos que lhe nasceram em Jerusalém: Samua, e Sobabe, e Natã, e Salomão,
+Os montes saltaram como carneiros; e os outeiros, como cordeiros.
+Porque sai o sol com ardor, e a erva seca, e a sua flor cai, e a formosa aparência do seu aspecto perece; assim se murchará também o rico em seus caminhos.
+Assim diz o SENHOR dos Exércitos, Deus de Israel: Vós vistes todo o mal que fiz cair sobre Jerusalém e sobre todas as cidades de Judá; e eis que elas são, hoje, um deserto, e ninguém habita nelas;
+E a sorte da tribo dos filhos de Judá, segundo as suas famílias, caiu para o sul, até ao termo de Edom, até o deserto de Zim, até à extremidade da banda do sul.
+Atenta para os céus e vê; e contempla as mais altas nuvens, que estão mais altas do que tu.
+E será, naquele dia, que quebrarei o arco de Israel no vale de Jezreel.
+E chamaram o rei, e saiu a eles Eliaquim, filho de Hilquias, o mordomo, e Sebna, o escrivão, e Joá, filho de Asafe, o chanceler.
+Ri-se do arruído da cidade; não ouve os muitos gritos do exator.
+Então, foi também ele mesmo a Ramá e chegou ao poço grande que estava em Seco; e, perguntando, disse: Onde estão Samuel e Davi? E disseram-lhe: Eis que estão em Naiote, em Ramá.
+Feri os peitos sobre os campos desejáveis e sobre as vides frutuosas.
+Fala a todo o povo desta terra e aos sacerdotes, dizendo: Quando jejuastes e pranteastes, no quinto e no sétimo mês, durante estes setenta anos, jejuastes vós para mim, mesmo para mim?
+sabendo que, se o nosso coração nos condena, maior é Deus do que o nosso coração e conhece todas as coisas.
+E sucedeu que, vindo ele a Jerusalém a encontrar-se com o rei, disse-lhe o rei: Por que não foste comigo, Mefibosete?
+E estai no santuário segundo as divisões das casas paternas de vossos irmãos, os filhos do povo; e haja para cada um uma porção das casas paternas dos levitas.
+Eis que hoje eu ponho diante de vós a bênção e a maldição:
+Àquele que estendeu a terra sobre as águas; porque a sua benignidade é para sempre.
+que edificaste uma abóbada e fizeste lugares altos por todas as ruas.
+O SENHOR é justo; cortou as cordas dos ímpios.
+Então, a terra dará o seu fruto; e Deus, o nosso Deus, nos abençoará.
+Porque, ainda que ferísseis a todo o exército dos caldeus que peleja contra vós, e ficassem deles apenas homens traspassados, cada um se levantaria na sua tenda e queimaria a fogo esta cidade.
+Julguei, contudo, necessário mandar-vos Epafrodito, meu irmão, e cooperador, e companheiro nos combates, e vosso enviado para prover às minhas necessidades;
+Não temerá maus rumores; o seu coração está firme, confiando no SENHOR.
+(Mas lera Sofonias, o sacerdote, esta carta aos ouvidos de Jeremias, o profeta.)
 e Catate, e Naalal, e Sinrom, e Idala, e Belém: doze cidades e as suas aldeias.
-Ora, esta Agar é Sinai, um monte da Arábia, que corresponde à Jerusalém que agora existe, pois é escrava com seus filhos.
-Ficou-se, pois, deitada a seus pés até pela manhã e levantou-se antes que pudesse um conhecer a outro, porquanto disse: Não se saiba que alguma mulher veio à eira.
-a voz do qual moveu, então, a terra, mas, agora, anunciou, dizendo: Ainda uma vez comoverei, não só a terra, senão também o céu.
-Então, respondeu Labão e disse a Jacó: Estas filhas são minhas filhas, e estes filhos são meus filhos, e este rebanho é o meu rebanho, e tudo o que vês meu é; e que farei, hoje, a estas minhas filhas ou aos filhos que tiveram?
-Mas, nos últimos dias, acontecerá que o monte da Casa do SENHOR será estabelecido no cume dos montes e se elevará sobre os outeiros, e concorrerão a ele os povos.
+Naquele tempo, ouviu Herodes, o tetrarca, a fama de Jesus.
+Mas Jesus, tomando-o pela mão, o ergueu, e ele se levantou.
+Visto como, na sabedoria de Deus, o mundo não conheceu a Deus pela sua sabedoria, aprouve a Deus salvar os crentes pela loucura da pregação.
+E aconteceu que, à tarde, subiram codornizes e cobriram o arraial; e, pela manhã, jazia o orvalho ao redor do arraial.
+Porém o SENHOR disse a Samuel: Não atentes para a sua aparência, nem para a altura da sua estatura, porque o tenho rejeitado; porque o SENHOR não vê como vê o homem. Pois o homem vê o que está diante dos olhos, porém o SENHOR olha para o coração.
+E trouxeram-lho; e, quando ele o viu, logo o espírito o agitou com violência; e, caindo o endemoninhado por terra, revolvia-se, espumando.
+Os sinais do meu apostolado foram manifestados entre vós, com toda a paciência, por sinais, prodígios e maravilhas.
+E visitarei sobre ele, e sobre a sua semente, e sobre os seus servos a sua iniquidade; e trarei sobre ele, e sobre os moradores de Jerusalém, e sobre os homens de Judá todo aquele mal que lhes tenho falado sem que me ouvissem.
+e nos afadigamos, trabalhando com nossas próprias mãos; somos injuriados e bendizemos; somos perseguidos e sofremos;
+Dá-me, pois, agora, sabedoria e conhecimento, para que possa sair e entrar perante este povo; porque quem poderia julgar a este teu tão grande povo?
+E, quando Herodes estava para o fazer comparecer, nessa mesma noite, estava Pedro dormindo entre dois soldados, ligado com duas cadeias, e os guardas diante da porta guardavam a prisão.
+O homem, quando na pele da sua carne houver inchação, ou pústula, ou empola branca, que estiver na pele de sua carne como praga de lepra, então, será levado a Arão, o sacerdote, ou a um de seus filhos, os sacerdotes.
+E disse Jesus: Quem é que me tocou? E, negando todos, disse Pedro e os que estavam com ele: Mestre, a multidão te aperta e te oprime, e dizes: Quem é que me tocou?
+Do comprimento de cem côvados era a entrada do norte; e a largura era de cinquenta côvados.
+nem te deitarás com a mulher de teu próximo para cópula, para te contaminares com ela.
+Acerca dos teus testemunhos eu soube, desde a antiguidade, que tu os fundaste para sempre.
+Alegra-te muito, ó filha de Sião; exulta, ó filha de Jerusalém; eis que o teu rei virá a ti, justo e Salvador, pobre e montado sobre um jumento, sobre um asninho, filho de jumenta.
+Mas Deus enviou um bicho, no dia seguinte, ao subir da alva, o qual feriu a aboboreira, e esta se secou.
+e azeite para a luz, e especiarias para o óleo da unção, e especiarias para o incenso,
+Por que me receberam os joelhos? E por que os peitos, para que mamasse?
+Então, disse Ezequias: É fácil que a sombra decline dez graus; não aconteça isso, mas volte a sombra dez graus.
+O resgate do justo é o ímpio; o do reto, o iníquo.
+Sejam riscados do livro da vida e não sejam inscritos com os justos.
+E disse-lhe um da multidão: Mestre, dize a meu irmão que reparta comigo a herança.
+Como as gentes que o SENHOR destruiu diante de vós, assim vós perecereis; porquanto não quisestes obedecer à voz do SENHOR, vosso Deus.
+Mas a vós, que ouvis, digo: Amai a vossos inimigos, fazei bem aos que vos aborrecem,
+E aproximou-se dele um leproso, que, rogando-lhe e pondo-se de joelhos diante dele, lhe dizia: Se queres, bem podes limpar-me.
+E o meu pão que te dei, e a flor de farinha, e o óleo e o mel, com que eu te sustentava, também puseste diante delas em cheiro suave; e assim foi, diz o Senhor JEOVÁ.
+Os que estão plantados na Casa do SENHOR florescerão nos átrios do nosso Deus.
+Eu sou a rosa de Sarom, o lírio dos vales.
+E o oráculo no interior era de vinte côvados de comprimento, e de vinte côvados de largura, e de vinte côvados de altura; e o cobriu de ouro puro e também cobriu de cedro o altar.
+E veio Moisés e falou todas as palavras deste cântico aos ouvidos do povo, ele e Oseias, filho de Num.
+A terça parte queimarás no fogo, no meio da cidade, quando se cumprirem os dias do cerco; então, tomarás outra terça parte e feri-la-ás com uma espada ao redor dela; e a outra terça parte espalharás ao vento; porque desembainharei a espada atrás deles.
+E, depois das sessenta e duas semanas, será tirado o Messias e não será mais; e o povo do príncipe, que há de vir, destruirá a cidade e o santuário, e o seu fim será com uma inundação; e até ao fim haverá guerra; estão determinadas assolações.
+E disse Davi aos príncipes dos levitas que constituíssem a seus irmãos, os cantores, com instrumentos músicos, com alaúdes, harpas e címbalos, para que se fizessem ouvir, levantando a voz com alegria.
+Tenho escrito à igreja; mas Diótrefes, que procura ter entre eles o primado, não nos recebe.
+descerei agora e verei se, com efeito, têm praticado segundo este clamor que é vindo até mim; e, se não, sabê-lo-ei.
+Passando, pois, por nossos irmãos, os filhos de Esaú, que habitavam em Seir, desde o caminho da planície de Elate e de Eziom-Geber, nos viramos e passamos o caminho do deserto de Moabe.
+E fez as suas jornadas do Sul até Betel, até ao lugar onde, ao princípio, estivera a sua tenda, entre Betel e Ai;
+até que ponha os teus inimigos por escabelo de teus pés.
+E não atentará para os altares, obra das suas mãos, nem olhará para o que fizeram seus dedos, nem para os bosques, nem para as imagens do sol.
+E foram para a sepultar; porém não acharam dela senão somente a caveira, e os pés, e as palmas das mãos.
+E logo, falando ele ainda, veio Judas, que era um dos doze, da parte dos principais dos sacerdotes, e dos escribas, e dos anciãos, e, com ele, uma grande multidão com espadas e porretes.
+Eu, porém, eis que habito em Mispa, para estar às ordens dos caldeus que vierem a nós; e vós, recolhei o vinho, e as frutas de verão, e o azeite, e metei-os nas vossas vasilhas, e habitai nas cidades que tomastes.
+Porque pela graça sois salvos, por meio da fé; e isso não vem de vós; é dom de Deus.
+E o seu entranhável afeto para convosco é mais abundante, lembrando-se da obediência de vós todos e de como o recebestes com temor e tremor.
+E disse Amazias ao homem de Deus: Que se fará, pois, dos cem talentos de prata que dei às tropas de Israel? E disse o homem de Deus: Mais tem o SENHOR que te dar do que isso.
+Enviá-la-ei contra uma nação hipócrita e contra o povo do meu furor lhe darei ordem, para que lhe roube a presa, e lhe tome o despojo, e o ponha para ser pisado aos pés, como a lama das ruas,
+E Jesus lhe disse: Vê; a tua fé te salvou.
+Eu sou o SENHOR, vosso Deus, que vos tirei da terra do Egito, para vos dar a terra de Canaã, para ser vosso Deus.
+E achou-se que eram muitos mais os filhos de Eleazar entre os chefes de famílias do que os filhos de Itamar, quando os repartiram; dos filhos de Eleazar, dezesseis chefes das casas dos pais, mas dos filhos de Itamar, segundo as casas de seus pais, oito.
+Dando, porém, num lugar de dois mares, encalharam ali o navio; e, fixa a proa, ficou imóvel, mas a popa abria-se com a força das ondas.
+Como se um homem fugisse de diante do leão, e se encontrasse com ele o urso ou como se, entrando em uma casa, a sua mão encostasse à parede, e fosse mordido por uma cobra.
+Ouvi, vós os que estais longe, o que tenho feito; e vós que estais vizinhos, conhecei o meu poder.
+Estes são os filhos de Gileade: de Jezer, a família dos jezeritas; de Heleque, a família dos helequitas;
+Mas vós, amados, lembrai-vos das palavras que vos foram preditas pelos apóstolos de nosso Senhor Jesus Cristo,
+Faze-me ouvir júbilo e alegria, para que gozem os ossos que tu quebraste.
+Sucedeu, pois, que, ao terceiro dia,  se vestiu de suas vestes reais e se pôs no pátio interior da casa do rei, defronte do aposento do rei; e o rei estava assentado sobre o seu trono real, na casa real, defronte da porta do aposento.
+E desviou-se dele para outro e falou conforme aquela palavra; e o povo lhe tornou a responder conforme as primeiras palavras.
+Também tomou todo o ouro, e a prata, e todos os utensílios que se acharam na Casa de Deus com Obede-Edom, e os tesouros da casa do rei, e os reféns e voltou para Samaria.
+Porque assim como vós também, antigamente, fostes desobedientes a Deus, mas, agora, alcançastes misericórdia pela desobediência deles,
+E os bárbaros usaram conosco de não pouca humanidade; porque, acendendo uma grande fogueira, nos recolheram a todos por causa da chuva que caía e por causa do frio.
+Então, disse ao rei: Foi verdadeira a palavra que ouvi na minha terra acerca dos teus feitos e da tua sabedoria.
+A doutrina do sábio é uma fonte de vida para desviar dos laços da morte.
+E falou Deus a Noé e a seus filhos com ele, dizendo:
+a uma terra que mana leite e mel; porque eu não subirei no meio de ti, porquanto és povo obstinado, para que te não consuma eu no caminho.
+pois não tinham compreendido o milagre dos pães; antes, o seu coração estava endurecido.
+nan
+E o juízo habitará no deserto, e a justiça morará no campo fértil.
+E saiu Jesus e os seus discípulos para as aldeias de Cesareia de Filipe; e, no caminho, perguntou aos seus discípulos, dizendo: Quem dizem os homens que eu sou?
+Tira de sobre mim o opróbrio e o desprezo, pois guardei os teus testemunhos.
+para que sejam livres os teus amados; salva-nos com a tua destra e ouve-nos.
+Filho do homem, profetiza e dize: Assim diz o Senhor JEOVÁ: Gemei: Ah! Aquele dia!
+E os ossos dos sacerdotes queimou sobre os seus altares e purificou a Judá e a Jerusalém.
+Porque, se alguém me contristou, não me contristou a mim senão em parte, para vos não sobrecarregar a vós todos;
+de madrugada, cresce e floresce; à tarde, corta-se e seca.
+Também três dos trinta cabeças desceram e vieram no tempo da sega a Davi, à caverna de Adulão; e a multidão dos filisteus acampara no vale dos Refains.
+Então, diz: Voltarei para a minha casa, donde saí. E, voltando, acha-a desocupada, varrida e adornada.
+E, casando-se elas com algum dos filhos das outras tribos dos filhos de Israel, então, a sua herança seria diminuída da herança de nossos pais e acrescentada à herança da tribo de quem forem; assim, se tiraria da sorte da nossa herança.
+Assim, por ti mesmo te privarás da tua herança que te dei, e far-te-ei servir os teus inimigos, na terra que não conheces; porque o fogo que acendeste na minha ira arderá para sempre.
+Pelo que também na Escritura se contém: Eis que ponho em Sião a pedra principal da esquina, eleita e preciosa; e quem nela crer não será confundido.
+Tudo se modela como o barro sob o selo e se põe como vestes;
+Naquele dia, não te envergonharás de nenhuma das tuas obras, com que te rebelaste contra mim; porque então tirarei do meio de ti os que exultam na sua soberba, e tu nunca mais te ensoberbecerás no meu monte santo.
+Então, disse o SENHOR Deus: Eis que o homem é como um de nós, sabendo o bem e o mal; ora, pois, para que não estenda a sua mão, e tome também da árvore da vida, e coma, e viva eternamente,
+E tu, ó filho do homem, não os temas, nem temas as suas palavras; ainda que sejam sarças e espinhos para contigo, e tu habites com escorpiões, não temas as suas palavras, nem te assustes com o rosto deles, porque são casa rebelde.
+E esta terra será a sua possessão em Israel; e os meus príncipes nunca mais oprimirão o meu povo; antes, deixarão a terra à casa de Israel, conforme as suas tribos.
+E, ao tempo em que começaram com júbilo e louvor, o SENHOR pôs emboscadas contra os filhos de Amom e de Moabe e os das montanhas de Seir, que vieram contra Judá e foram desbaratados.
+Porque, antes que o menino saiba dizer meu pai ou minha mãe, se levarão as riquezas de Damasco e os despojos de Samaria, diante do rei da Assíria.
+Mas, quando vier aquele Espírito da verdade, ele vos guiará em toda a verdade, porque não falará de si mesmo, mas dirá tudo o que tiver ouvido e vos anunciará o que há de vir.
+e Azor gerou a Sadoque, e Sadoque gerou a Aquim, e Aquim gerou a Eliúde,
+E foram todos os dias de Enoque trezentos e sessenta e cinco anos.
+Coroa dos velhos são os filhos dos filhos; e a glória dos filhos são seus pais.
+Tomaram, pois, de diante de Moisés toda oferta alçada que trouxeram os filhos de Israel para a obra do serviço do santuário, para fazê-la; e, ainda, eles lhe traziam cada manhã oferta voluntária.
+E conheceu-os Judá e disse: Mais justa é ela do que eu, porquanto não a tenho dado a Selá, meu filho. E nunca mais a conheceu.
+Disseste: Ai de mim agora, porque me acrescentou o SENHOR tristeza à minha dor! Estou cansado do meu gemido e não acho descanso.
+Então, Moisés, quando viu isto, se maravilhou da visão; e, aproximando-se para observar, foi-lhe dirigida a voz do Senhor,
+A fazenda do rico é sua cidade forte e, como um muro alto, na sua imaginação.
+Eu sou o SENHOR, teu Deus, que te tirei da terra do Egito, da casa da servidão.
+a saber, a tenda da congregação, e a arca do Testemunho, e o propiciatório que estará sobre ela, e todos os móveis da tenda;
+e dizendo: Tu, que destróis o templo e, em três dias, o reedificas, salva-te a ti mesmo; se és o Filho de Deus, desce da cruz.
+Por que transgridem os teus discípulos a tradição dos anciãos? Pois não lavam as mãos quando comem pão.
+Portanto, ó meretriz, ouve a palavra do SENHOR.
+Mas prove cada um a sua própria obra e terá glória só em si mesmo e não noutro.
+E porá o incenso sobre o fogo, perante o SENHOR, e a nuvem do incenso cobrirá o propiciatório, que está sobre o Testemunho, para que não morra.
+Conjuro-vos, ó filhas de Jerusalém, que, se achardes o meu amado, lhe digais que estou enferma de amor.
+Fê-lo senhor da sua casa e governador de toda a sua fazenda
+O mal perseguirá aos pecadores, mas os justos serão galardoados com o bem.
+e todas as nações serão reunidas diante dele, e apartará uns dos outros, como o pastor aparta dos bodes as ovelhas.
+E todos os profetas profetizaram assim, dizendo: Sobe a Ramote-Gileade e prosperarás, porque o SENHOR a entregará na mão do rei.
+SENHOR, por que rejeitas a minha alma? Por que escondes de mim a tua face?
+trema eu perante uma grande multidão, e o desprezo das famílias me apavore, e eu me cale, e não saia da porta.
+Eu não vim chamar os justos, mas sim os pecadores, ao arrependimento.
+Porque, se no vosso ajuntamento entrar algum homem com anel de ouro no dedo, com vestes preciosas, e entrar também algum pobre com sórdida vestimenta,
+a quem constituiu herdeiro de tudo, por quem fez também o mundo.
+Porque, esta mesma noite, o anjo de Deus, de quem eu sou e a quem sirvo, esteve comigo,
+Acaso falais vós deveras, ó congregação, a justiça? Julgais retamente, ó filhos dos homens?
+A religião pura e imaculada para com Deus, o Pai, é esta: visitar os órfãos e as viúvas nas suas tribulações e guardar-se da corrupção do mundo.
+Não há santo como é o SENHOR; porque não há outro fora de ti; e rocha nenhuma há como o nosso Deus.
+Ou não tem o oleiro poder sobre o barro, para da mesma massa fazer um vaso para honra e outro para desonra?
+E estes eram os príncipes que tinha: Azarias, filho de Zadoque, sacerdote;
+E deixaram ali seus deuses; e ordenou Davi que se queimassem a fogo.
+E sucedeu, depois disso, que Davi feriu os filisteus e os sujeitou; e Davi tomou a Metegue-Amá das mãos dos filisteus.
+Abominaste o concerto do teu servo; profanaste a sua coroa, lançando-a por terra.
+Para que nossos filhos sejam, como plantas, bem-desenvolvidos na sua mocidade; para que as nossas filhas sejam como pedras de esquina lavradas, como colunas de um palácio;
+E todos os dias ensinava no templo; mas os principais dos sacerdotes, e os escribas, e os principais do povo procuravam matá-lo
+Ou irritaremos o Senhor? Somos nós mais fortes do que ele?
+De maneira nenhuma! Doutro modo, como julgará Deus o mundo?
+Ora, o mais dos atos de Peca e tudo quanto fez, eis que estão escritos no livro das Crônicas dos Reis de Israel.
+Aos justos nasce luz nas trevas; ele é piedoso, misericordioso e justo.
+Porventura, pouco para vós é que o Deus de Israel vos separou da congregação de Israel para vos fazer chegar a si, a administrar o ministério do tabernáculo do SENHOR e estar perante a congregação para ministrar-lhe;
+Porém ele o recusou e disse: Não comerei. Porém os seus criados e a mulher o constrangeram; e deu ouvidos à sua voz. E levantou-se do chão e se assentou sobre uma cama.
+E, se o ministério da morte, gravado com letras em pedras, veio em glória, de maneira que os filhos de Israel não podiam fitar os olhos na face de Moisés, por causa da glória do seu rosto, a qual era transitória,
+Então, todo o Israel ouviu dizer: Saul feriu a guarnição dos filisteus, e também Israel se fez abominável aos filisteus. Então, o povo foi convocado após Saul em Gilgal.
+Ou qual a mulher que, tendo dez dracmas, se perder uma dracma, não acende a candeia, e varre a casa, e busca com diligência até a achar?
+o SENHOR faça resplandecer o seu rosto sobre ti e tenha misericórdia de ti;
+Fiz-me, acaso, vosso inimigo, dizendo a verdade?
+Disse-lhe  (não o Iscariotes): Senhor, de onde vem que te hás de manifestar a nós e não ao mundo?
+Ousa algum de vós, tendo algum negócio contra outro, ir a juízo perante os injustos e não perante os santos?
+Pelo que os filhos de Israel deram aos levitas, da sua herança, conforme o dito do SENHOR, estas cidades e os seus arrabaldes.
+Porém a tua casa e o teu reino serão firmados para sempre diante de ti; teu trono será firme para sempre.
+O que gera um tolo, para sua tristeza o faz; e o pai do insensato não se alegrará.
+Tudo o que não tem barbatanas ou escamas, nas águas, será para vós abominação.
+Filhinhos, ninguém vos engane. Quem pratica justiça é justo, assim como ele é justo.
+E ele, estendendo a mão, tocou-lhe, dizendo: Quero; sê limpo. E logo a lepra desapareceu dele.
+Ficarei, porém, em Éfeso até ao Pentecostes;
+E buscaram por todos os termos de Israel uma moça formosa; e acharam a Abisague, sunamita, e a trouxeram ao rei.
+de maneira que os magos não podiam parar diante de Moisés, por causa da sarna; porque havia sarna nos magos e em todos os egípcios.
+E, quando alguém vender uma casa de moradia em cidade murada, então, a pode resgatar até que se cumpra o ano da sua venda; durante um ano inteiro, será lícito o seu resgate.
+E José disse a seu pai: Eles são meus filhos, que Deus me tem dado aqui. E ele disse: Peço-te, traze-mos aqui, para que os abençoe.
+Ele estende a sua mão contra o rochedo, e revolve os montes desde as suas raízes.
+Bendizei, povos, ao nosso Deus e fazei ouvir a voz do seu louvor;
+E ele lhes disse: Não; antes, viestes para ver a nudez da terra.
+nan
+Porque o dia da vingança estava no meu coração, e o ano dos meus redimidos é chegado.
+Eis que chega a hora, e já se aproxima, em que vós sereis dispersos, cada um para sua casa, e me deixareis só, mas não estou só, porque o Pai está comigo.
+E a minha fidelidade e a minha benignidade estarão com ele; e em meu nome será exaltado o seu poder.
+Assim se estabeleceu todo o serviço do SENHOR naquele dia, para celebrar a Páscoa e sacrificar holocaustos sobre o altar do SENHOR, segundo o mandado do rei Josias.
+E, de noite, saí pela Porta do Vale, para a banda da Fonte do Dragão e para a Porta do Monturo e contemplei os muros de Jerusalém, que estavam fendidos, e as suas portas, que tinham sido consumidas pelo fogo.
+Então, vieram alguns que deram aviso a Josafá, dizendo: Vem contra ti uma grande multidão dalém do mar e da Síria; e eis que já estão em Hazazom-Tamar, que é En-Gedi.
+e o SENHOR, teu Deus, as tiver dado diante de ti, para as ferir, totalmente as destruirás; não farás com elas concerto, nem terás piedade delas;
+Porque, quem é Deus senão o SENHOR? E quem é rochedo senão o nosso Deus?
+Eis que não vem do SENHOR dos Exércitos que os povos trabalhem para o fogo e os homens se cansem pela vaidade.
+Ora, o Deus de esperança vos encha de todo o gozo e paz em crença, para que abundeis em esperança pela virtude do Espírito Santo.
+que introduzissem na presença do rei a rainha Vasti, com a coroa real, para mostrar aos povos e aos príncipes a sua formosura, porque era formosa à vista.
+E, quando vier um levita de alguma das tuas portas, de todo o Israel, onde habitar, e vier com todo o desejo da sua alma ao lugar que o SENHOR escolheu,
+Então, pôs o servo a sua mão debaixo da coxa de Abraão, seu senhor, e jurou-lhe sobre este negócio.
+que vieram homens de Siquém, de Siló e de Samaria, oitenta homens, com a barba rapada, e as vestes rasgadas, e o corpo retalhado; e traziam nas suas mãos ofertas de manjares e incenso, para levarem à Casa do SENHOR.
+Disseram, porém, os nossos inimigos: Nada saberão disso, nem verão, até que entremos no meio deles e os matemos; assim, faremos cessar a obra.
+Os que deles foram contados pelo número de todo varão da idade de um mês para cima, os que deles foram contados foram sete mil e quinhentos.
+Mas, quando aprouve a Deus, que desde o ventre de minha mãe me separou e me chamou pela sua graça,
+E desviou-se dele. Então, ela disse: Esposo sanguinário, por causa da circuncisão.
+assim, só o SENHOR o guiou; e não havia com ele deus estranho.
+E Deus lançará isto sobre ele e não o poupará; irá fugindo da sua mão.
+nan
+Portanto, num dia virão as suas pragas: a morte, e o pranto, e a fome; e será queimada no fogo, porque é forte o Senhor Deus, que a julga.
+À vista deles, aos ombros os levarás, e, às escuras, os tirarás, e cobrirás a face, para que não vejas a terra; porque te dei por sinal maravilhoso à casa de Israel.
+Ali farei brotar a força de Davi; preparei uma lâmpada para o meu ungido.
+Respondeu-lhe Jesus: Não vos escolhi a vós os doze? E um de vós é um diabo.
+A minha alma espera somente em Deus; dele vem a minha salvação.
+Mas disse ao homem: Eis que o temor do Senhor é a sabedoria, e apartar-se do mal é a inteligência.
+Mas a alma que fizer alguma coisa à mão levantada, quer seja dos naturais quer dos estrangeiros, injúria ao SENHOR; e tal alma será extirpada do meio do seu povo,
+Já deu ordens às suas criadas, já anda convidando desde as alturas da cidade, dizendo:
+E Abias seguiu após Jeroboão e tomou a Betel com os lugares da sua jurisdição, e a Jesana com os lugares da sua jurisdição, e a Efrom com os lugares da sua jurisdição.
+e habitareis conosco; e a terra estará diante da vossa face; habitai, e negociai nela, e tomai possessão nela.
+E saiu-lhe o sol, quando passou a Peniel; e manquejava da sua coxa.
+Então, todo o povo veio fazer que Davi comesse pão, sendo ainda dia, porém Davi jurou, dizendo: Assim Deus me faça e outro tanto, se, antes que o sol se ponha, eu provar pão ou alguma coisa.
+E Moisés disse a Arão e a seus filhos Eleazar e Itamar: Não descobrireis as vossas cabeças, nem rasgareis vossas vestes, para que não morrais, nem venha grande indignação sobre toda a congregação; mas vossos irmãos, toda a casa de Israel, lamentem este incêndio que o SENHOR acendeu.
+Em Cristo digo a verdade, não minto (dando-me testemunho a minha consciência no Espírito Santo):
+Sustentaste os meus olhos vigilantes; estou tão perturbado, que não posso falar.
+Então, respondeu Satanás ao SENHOR e disse: Porventura, teme  a Deus debalde?
+E a largura da entrada, dez côvados; e os lados da entrada, cinco côvados de uma banda e cinco côvados da outra; também mediu o seu comprimento, de quarenta côvados, e a largura, de vinte côvados.
+E, navegando de Trôade, fomos correndo em caminho direito para a Samotrácia e, no dia seguinte, para Neápolis;
+e seus irmãos, Semaías, Azarel, Milalai, Gilalai, Maai, Netanel, Judá e Hanani, com os instrumentos músicos de Davi, homem de Deus; e Esdras, o escriba, ia adiante deles.
+E agora o SENHOR, vosso Deus, deu repouso a vossos irmãos, como lhes tinha prometido: voltai-vos, pois, agora, e ide-vos a vossas tendas, à terra da vossa possessão, que Moisés, o servo do SENHOR, vos deu dalém do Jordão.
+Mas, se vós soubésseis o que significa: Misericórdia quero e não sacrifício, não condenaríeis os inocentes.
+E, chegando Eliseu àquela casa, eis que o menino jazia morto sobre a sua cama.
+Os campos cobrem-se de rebanhos, e os vales vestem-se de trigo; por isso, eles se regozijam e cantam.
+e contra todos os navios de Társis e contra todas as pinturas desejáveis.
+A sua voz irá como a da serpente, porque marcharão com um exército e virão a ela com machados, como cortadores de lenha.
+O ímpio recebe um salário enganoso, mas, para o que semeia justiça, haverá galardão certo.
+Passava mais este termo até ao lado de Bete-Hogla para o norte, estando as saídas deste termo na língua do mar Salgado para o norte, na extremidade do Jordão para o sul; este era o termo do Sul.
+A mão, pois, de Aicão, filho de Safã, foi com Jeremias, para que o não entregassem nas mãos do povo, para ser morto.
+Todavia, chegando alguns varões a ele, creram: entre os quais estava Dionísio, o areopagita, e uma mulher por nome Dâmaris, e, com eles, outros.
+Então, partirá a tenda da congregação com o exército dos levitas no meio dos exércitos; como assentaram as suas tendas, assim marcharão, cada um no seu lugar, segundo as suas bandeiras.
+Porque tudo isso é por amor de vós, para que a graça, multiplicada por meio de muitos, torne abundante a ação de graças, para glória de Deus.
+Jesus chorou.
+E a sua expiação trará ao SENHOR um carneiro sem mancha do rebanho, conforme a tua estimação, para a expiação da culpa; trará ao sacerdote.
+E ele disse: Trazei-me uma salva nova e ponde nela sal. E lha trouxeram.
+Tais são as veredas de todo aquele que se entrega à cobiça; ela prenderá a alma dos que a possuem.
+Estes são os filhos de Israel: Rúben, Simeão, Levi, Judá, Issacar, Zebulom,
+Que te dará, ou que te acrescentará a língua enganadora?
+E Sarai foi estéril e não tinha filhos.
+Também qualquer homem dos filhos de Israel ou dos estrangeiros que peregrinam entre eles que caçar caça de animal ou de ave que se come derramará o seu sangue e o cobrirá com pó.
+Mas a mulher, quando tiver fluxo, e o seu fluxo de sangue estiver na sua carne, estará sete dias na sua separação, e qualquer que a tocar será imundo até à tarde.
+Então, Simão Pedro fez sinal a este, para que perguntasse quem era aquele de quem ele falava.
+É semelhante ao fermento que uma mulher, tomando-o, escondeu em três medidas de farinha, até que tudo levedou.
+Pelo que também Deus os entregou às concupiscências do seu coração, à imundícia, para desonrarem o seu corpo entre si;
+Ele respondeu e disse: Quem é ele, Senhor, para que nele creia?
+E, se a tua oferta for oferta de manjares da sertã, far-se-á da flor de farinha com azeite.
+Assim, se contaminaram com as suas obras e se corromperam com os seus feitos.
+E voltava este termo a Ramá e até à forte cidade de Tiro; então, tornava este termo a Hosa, e as suas saídas estavam para o mar, desde o quinhão da terra até Aczibe;
+E abençoou a José e disse: O Deus, em cuja presença andaram os meus pais Abraão e Isaque, o Deus que me sustentou, desde que eu nasci até este dia,
+Ainda que ele dê fruto entre os irmãos, virá o vento leste, vento do SENHOR, subindo do deserto, e secar-se-á a sua nascente, e secar-se-á a sua fonte; ele saqueará o tesouro de todos os vasos desejáveis.
+Tu não tens parte nem sorte nesta palavra, porque o teu coração não é reto diante de Deus.
+Então, saiu um espírito, e se apresentou diante do SENHOR, e disse: Eu o persuadirei. E o SENHOR lhe disse: Com quê?
+E disse-lhe: Vai, lava-te no tanque de Siloé (que significa o Enviado). Foi, pois, e lavou-se, e voltou vendo.
+Este é o ofício dos levitas: Da idade de vinte e cinco anos para cima entrarão, para fazerem o serviço no ministério da tenda da congregação;
+E guiarei os cegos por um caminho que nunca conheceram, fá-los-ei caminhar por veredas que não conheceram; tornarei as trevas em luz perante eles e as coisas tortas farei direitas. Essas coisas lhes farei e nunca os desampararei.
+Tu és a filha de tua mãe, que tinha nojo de seu marido e de seus filhos; e tu és a irmã de tuas irmãs, que tinham nojo de seus maridos e de seus filhos; vossa mãe foi heteia, e vosso pai, amorreu.
+Porque todos os seus juízes estavam diante de mim, e de seus estatutos me não desviei.
+Que se responderá, pois, aos mensageiros do povo? Que o SENHOR fundou a Sião, para que os opressos do seu povo nela encontrem abrigo.
+E há de ser que, ouvindo tu um estrondo de marcha pelas copas das amoreiras, então, te apressarás; porque o SENHOR saiu, então, diante de ti, a ferir o arraial dos filisteus.
+Eu sou o pão vivo que desceu do céu; se alguém comer desse pão, viverá para sempre; e o pão que eu der é a minha carne, que eu darei pela vida do mundo.
+Os filhos de Merari, segundo as suas famílias, da tribo de Rúben, e da tribo de Gade, e da tribo de Zebulom, por sorte, tiveram doze cidades.
+E será que aquele que for tomado com o anátema será queimado a fogo, ele e tudo quanto tiver, porquanto transgrediu o concerto do SENHOR e fez uma loucura em Israel.
+E disse o rei a Ziba: Que pretendes com isto? E disse Ziba: Os jumentos são para a casa do rei, para se montarem neles; e o pão e as frutas de verão, para os moços comerem; e o vinho, para beberem os cansados no deserto.
+E a seu filho darei uma tribo, para que Davi, meu servo, sempre tenha uma lâmpada diante de mim em Jerusalém, a cidade que elegi para pôr ali o meu nome.
+de Zerá, a família dos zeraítas; de Saul, a família dos saulitas.
+Ó Deus, tu és o meu Deus; de madrugada te buscarei; a minha alma tem sede de ti; a minha carne te deseja muito em uma terra seca e cansada, onde não há água,
+Agora, pois, ó Deus nosso, ouve a oração do teu servo e as suas súplicas e sobre o teu santuário assolado faze resplandecer o teu rosto, por amor do Senhor.
+E logo dele se apartaram os que o haviam de examinar; e até o tribuno teve temor, quando soube que era romano, visto que o tinha ligado.
+Por causa de todos os meus inimigos, fui o opróbrio dos meus vizinhos e um horror para os meus conhecidos; os que me viam na rua fugiam de mim.
+E veio a mim a palavra do SENHOR, dizendo:
+E por que atentas tu no argueiro que está no olho do teu irmão e não reparas na trave que está no teu próprio olho?
+Por que blasfema de Deus o ímpio, dizendo no seu coração que tu não inquirirás?
+Porque farei com que os egípcios se levantem contra os egípcios, e cada um pelejará contra o seu irmão e cada um, contra o seu próximo, cidade contra cidade, reino contra reino.
+E ordenou ao povo, moradores de Jerusalém, que desse a parte dos sacerdotes e levitas, para que se pudessem dedicar à Lei do SENHOR.
+E veio a palavra de Samuel a todo o Israel; e Israel saiu ao encontro, à peleja, aos filisteus e se acampou junto a Ebenézer; e os filisteus se acamparam junto a Afeca.
+Mas, quando a segunda vez, retinindo, as tocardes, então, partirão os arraiais que se alojam da banda do sul; retinindo, as tocarão para as suas partidas.
+Guarda a tua língua do mal e os teus lábios, de falarem enganosamente.
+Outrossim, o Reino dos céus é semelhante ao homem negociante que busca boas pérolas;
+E, acabando de profetizar, veio ao alto.
+Mas tu, ó Israel, servo meu, tu Jacó, a quem elegi, semente de Abraão, meu amigo,
+E o Senhor, o SENHOR dos Exércitos, vos convidará naquele dia ao choro, e ao pranto, e ao rapar da cabeça, e ao cingidouro do cilício.
+Edificai vós cidades para as vossas crianças e currais para as vossas ovelhas e fazei o que saiu da vossa boca.
+e que é manifesta, agora, pela aparição de nosso Salvador Jesus Cristo, o qual aboliu a morte e trouxe à luz a vida e a incorrupção, pelo evangelho,
+E suscitará a sua força e o seu coração contra o rei do Sul, com um grande exército, e o rei do Sul se envolverá na guerra com um grande e mui poderoso exército; mas não subsistirá, porque formarão projetos contra ele.
+Porém, no ano décimo quarto do rei Ezequias subiu Senaqueribe, rei da Assíria, contra todas as cidades fortes de Judá e as tomou.
+Mas o pai disse aos seus servos: Trazei depressa a melhor roupa, e vesti-lho, e ponde-lhe um anel na mão e sandálias nos pés,
+E, ouvindo  a voz do povo que jubilava, disse a Moisés: Alarido de guerra há no arraial.
+E madrugou Samuel para encontrar a Saul pela manhã; e anunciou-se a Samuel, dizendo: Já chegou Saul ao Carmelo, e eis que levantou para si uma coluna. Então, fez volta, e passou, e desceu a Gilgal.
+E ouvi uma grande voz do céu, que dizia: Eis aqui o tabernáculo de Deus com os homens, pois com eles habitará, e eles serão o seu povo, e o mesmo Deus estará com eles e será o seu Deus.
+E todos os profetas, desde Samuel, todos quantos depois falaram, também anunciaram estes dias.
+E ele lhe disse: Filha, a tua fé te salvou; vai em paz e sê curada deste teu mal.
+Buscá-los-ás, mas não os acharás; e os que pelejarem contigo tornar-se-ão nada, e como coisa que não é nada, os que guerrearem contigo.
+Assim diz o SENHOR: Por três transgressões dos filhos de Amom e por quatro, não retirarei o castigo, porque fenderam as grávidas de Gileade, para dilatarem os seus termos.
+Mas das mãos de seu filho tomarei o reino e to darei a ti, as dez tribos dele.
+As pedras atiradas são para ele como arestas, e ri-se do brandir da lança.
+Partindo Jesus dali, chegou ao pé do mar da Galileia e, subindo a um monte, assentou-se lá.
+E o rei pôs a Benaia, filho de Joiada, em seu lugar sobre o exército e a Zadoque, o sacerdote, pôs o rei em lugar de Abiatar.
+os filhos de Israel frutificaram, e aumentaram muito, e multiplicaram-se, e foram fortalecidos grandemente; de maneira que a terra se encheu deles.
+E ele começou a imprecar e a jurar: Não conheço esse homem de quem falais.
+Defronte da moldura estavam as argolas para os lugares dos varais, para levar a mesa.
+E todo o povo partiu para Gilgal, e levantaram ali rei a Saul perante o SENHOR, em Gilgal, e ofereceram ali ofertas pacíficas perante o SENHOR; e Saul se alegrou muito ali com todos os homens de Israel.
+O que ama a correção ama o conhecimento, mas o que aborrece a repreensão é um bruto.
+Estava eu de sorte que de dia me consumia o calor, e, de noite, a geada; e o meu sono foi-se dos meus olhos.
+O rei com juízo sustém a terra, mas o amigo de subornos a transtorna.
+mas dado à hospitalidade, amigo do bem, moderado, justo, santo, temperante,
+Fez entrar nos meus rins as flechas da sua aljava.
+Porque persuado eu agora a homens ou a Deus? Ou procuro agradar a homens? Se estivesse ainda agradando aos homens, não seria servo de Cristo.
+Agradar-se-á o SENHOR de milhares de carneiros? De dez mil ribeiros de azeite? Darei o meu primogênito pela minha transgressão? O fruto do meu ventre, pelo pecado da minha alma?
+E nisso dou o meu parecer; pois isso vos convém a vós, que desde o ano passado começastes; e não foi só praticar, mas também querer.
+Então, respondeu José e disse: Esta é a sua interpretação: os três cestos são três dias;
+para que não entreis a estas nações que ainda ficaram convosco; e dos nomes de seus deuses não façais menção, nem por eles façais jurar, nem os sirvais, nem a eles vos inclineis.
+E me lancei perante o SENHOR, como dantes; quarenta dias e quarenta noites, não comi pão e não bebi água, por causa de todo o vosso pecado que havíeis pecado, fazendo mal aos olhos do SENHOR, para o provocar à ira.
+Quanto aos filhos de Rúben, o primogênito de Israel (porque ele era o primogênito, mas, porque profanara a cama de seu pai, deu-se a sua primogenitura aos filhos de José, filho de Israel; para assim não ser contado na genealogia da primogenitura.
+Porventura, envergonham-se de cometer abominação? Pelo contrário, de maneira nenhuma se envergonham, nem tampouco sabem que coisa é envergonhar-se; portanto, cairão entre os que caem; no tempo em que eu os visitar, tropeçarão, diz o SENHOR.
+E, vindo um viajante ao homem rico, deixou este de tomar das suas ovelhas e das suas vacas para guisar para o viajante que viera a ele; e tomou a cordeira do homem pobre e a preparou para o homem que viera a ele.
+E estas cidades vos serão por refúgio do vingador do sangue; para que o homicida não morra, até que esteja perante a congregação no juízo.
+E José, despertando do sonho, fez como o anjo do Senhor lhe ordenara, e recebeu a sua mulher,
+Trouxeram-lhe, então, algumas crianças, para que lhes impusesse as mãos e orasse; mas os discípulos os repreendiam.
+E exultará o meu íntimo, quando os teus lábios falarem coisas retas.
+Desde o nascimento do sol até ao ocaso, seja louvado o nome do SENHOR.
+E saiu da nuvem uma voz que dizia: Este é o meu Filho amado; a ele ouvi.
+Um cometeu abominação com a mulher do seu próximo, outro contaminou abominavelmente a sua nora, e outro humilhou no meio de ti a sua irmã, filha de seu pai.
+Depois, o sacerdote o examinará ao sétimo dia; se grandemente se houver estendido na pele, o sacerdote o declarará imundo: praga de lepra é.
+E foram os dias que Jeroboão reinou vinte e dois anos, e dormiu com seus pais; e Nadabe, seu filho, reinou em seu lugar.
+Por isso que hei de exterminar do meio de ti o justo e o ímpio, a minha espada sairá da bainha contra toda carne, desde o Sul até ao Norte.
+E, no ano undécimo de Jorão, filho de Acabe, começou Acazias a reinar sobre Judá.
+E não entristeçais o Espírito Santo de Deus, no qual estais selados para o Dia da redenção.
+Portanto, ouvi o conselho que o SENHOR decretou contra Babilônia e os seus desígnios que intentou contra a terra dos caldeus; certamente, os menores do rebanho os arrastarão; certamente, será assolada a morada deles.
+não comer sobre os montes, e não levantar os olhos para os ídolos da casa de Israel, e não contaminar a mulher de seu próximo,
+E Davi deu a Ornã por aquele lugar o peso de seiscentos siclos de ouro.
+Mas o rei Salomão será abençoado, e o trono de Davi será confirmado perante o SENHOR, para sempre.
+Assim, também vós, se, com a língua, não pronunciardes palavras bem inteligíveis, como se entenderá o que se diz? Porque estareis como que falando ao ar.
+Então, tomou dez homens dos anciãos da cidade e disse: Assentai-vos aqui. E assentaram-se.
+E, tendo chegado a tarde, quando já estava se pondo o sol, trouxeram-lhe todos os que se achavam enfermos e os endemoninhados.
+E será que, ao sétimo dia, rapará todo o seu pelo, e a cabeça, e a barba, e as sobrancelhas dos seus olhos; e rapará todo o outro pelo, e lavará as suas vestes, e lavará a sua carne com água, e será limpo.
+E perguntaram-lhe: Então, quem és, pois? És tu Elias? E disse: Não sou. És tu o profeta? E respondeu: Não.
+O corpo morto e o dilacerado não comerá, para nele se não contaminar. Eu sou o SENHOR.
+E nós esperávamos que fosse ele o que remisse Israel; mas, agora, com tudo isso, é já hoje o terceiro dia desde que essas coisas aconteceram.
+O SENHOR se agradava dele por amor da sua justiça; engrandeceu-o pela lei e o fez glorioso.
+Ele mesmo julgará o mundo com justiça; julgará os povos com retidão.
+Acerca dos dons espirituais, não quero, irmãos, que sejais ignorantes.
+E aqueles que os guardavam, vendo o que acontecera, fugiram e foram anunciá-lo na cidade e nos campos.
+Assim, edificamos o muro, e todo o muro se cerrou até sua metade; porque o coração do povo se inclinava a trabalhar.
+Então, o rei se levantou e se assentou à porta, e fizeram saber a todo o povo, dizendo: Eis que o rei está assentado à porta. Então, todo o povo veio apresentar-se diante do rei; porém Israel fugiu cada um para as suas tendas.
+mas uma certa expectação horrível de juízo e ardor de fogo, que há de devorar os adversários.
+E, entrando ele no barco, rogava-lhe o que fora endemoninhado que o deixasse estar com ele.
+Preguei a justiça na grande congregação; eis que não retive os meus lábios, SENHOR, tu o sabes.
+que se alegram de mal fazer e folgam com as perversidades dos maus,
+Às tuas mentiras se hão de calar os homens? E zombarás tu sem que ninguém te envergonhe?
+Porque eu, pela lei, estou morto para a lei, para viver para Deus.
+SENHOR, guia-me na tua justiça, por causa dos meus inimigos; aplana diante de mim o teu caminho.
+Eu ouvi o escárnio de Moabe e as injuriosas palavras dos filhos de Amom, com que escarneceram do meu povo e se engrandeceram contra o seu termo.
+Tu os introduzirás e os plantarás no monte da tua herança, no lugar que tu, ó SENHOR, aparelhaste para a tua habitação; no santuário, ó Senhor, que as tuas mãos estabeleceram.
+Os seus cavalos são mais ligeiros do que os leopardos e mais perspicazes do que os lobos à tarde; os seus cavaleiros espalham-se por toda parte; sim, os seus cavaleiros virão de longe, voarão como águias que se apressam à comida.
+Então, fizeram os filhos de Israel o que parecia mal aos olhos do SENHOR; e serviram aos baalins.
+Tornei a levantar os meus olhos, e olhei, e vi um homem em cuja mão estava um cordel de medir.
+Porque qual o crepitar dos espinhos debaixo de uma panela, tal é o riso do tolo; também isso é vaidade.
+e já para ele preparou armas mortais; e porá em ação as suas setas inflamadas contra os perseguidores.
+E cozeram bolos asmos da massa que levaram do Egito, porque não se tinha levedado, porquanto foram lançados do Egito; e não se puderam deter, nem prepararam comida.
+E, pela sua oferta de manjares de flor de farinha misturada com azeite, três décimas para o bezerro, duas décimas para o carneiro
+E ser-me-eis santos, porque eu, o SENHOR, sou santo e separei-vos dos povos, para serdes meus.
+Também edificou as câmaras a toda a casa, de cinco côvados de altura, e as travou com a casa com madeira de cedro.
+É, porventura, Deus somente dos judeus? E não o é também dos gentios? Também dos gentios, certamente.
+Ora, irmãos, não quero que ignoreis que nossos pais estiveram todos debaixo da nuvem; e todos passaram pelo mar,
+Erram como cegos nas ruas, andam contaminados de sangue; de tal sorte que ninguém pode tocar nas suas roupas.
+Entrega-me Deus ao perverso e nas mãos dos ímpios me faz cair.
+E subia o seu termo pelo ocidente a Marala, e chegava até Dabesete, e chegava também até ao ribeiro que está defronte de Jocneão.
+Ó Deus, por que nos rejeitaste para sempre? Por que se acende a tua ira contra as ovelhas do teu pasto?
+Fizeram também as túnicas de linho fino, de obra tecida, para Arão e para seus filhos,
+Já vão passando, já se alojam em Geba; já Ramá treme, e Gibeá de Saul vai fugindo.
+Porque o que sucede aos filhos dos homens, isso mesmo também sucede aos animais; a mesma coisa lhes sucede: como morre um, assim morre o outro, todos têm o mesmo fôlego; e a vantagem dos homens sobre os animais não é nenhuma, porque todos são vaidade.
+Eu te louvarei, SENHOR, de todo o meu coração; contarei todas as tuas maravilhas.
+Partiu, pois, Elias dali e achou a Eliseu, filho de Safate, que andava lavrando com doze juntas de bois adiante dele; e ele estava com a duodécima. Elias passou por ele e lançou a sua capa sobre ele.
+Contra ele subiu Salmaneser, rei da Assíria; e Oseias ficou sendo servo dele e dava-lhe presentes.
+A bandeira do exército de Efraim, segundo os seus esquadrões estará para a banda do ocidente; e Elisama, filho de Amiúde, será príncipe dos filhos de Efraim. E o seu exército e os que foram contados deles foram quarenta mil e quinhentos.
+E viu Deus que era boa a luz; e fez Deus separação entre a luz e as trevas.
+Clamaste na angústia, e te livrei; respondi-te do lugar oculto dos trovões; provei-te nas águas de Meribá. (Selá)
+Agora, pois, o SENHOR use convosco de beneficência e fidelidade; e também eu vos farei esse bem, porquanto fizestes isso.
+que eu seja ministro de Jesus Cristo entre os gentios, ministrando o evangelho de Deus, para que seja agradável a oferta dos gentios, santificada pelo Espírito Santo.
+Aí, filho de Abdiel, filho de Guni, foi chefe da casa de seus pais.
+E purificaram-se os sacerdotes e os levitas; e logo purificaram o povo, e as portas, e o muro.
+Toma na tua mão pedras grandes e esconde-as entre o barro no forno que está à porta da casa de Faraó em Tafnes, perante os olhos de homens judeus.
+E ajuntou-se muita gente ao pé dele, de sorte que, entrando num barco, se assentou; e toda a multidão estava em pé na praia.
+e dize: Assim diz o Senhor JEOVÁ: Eis-me contra ti, ó Sidom, e serei glorificado no meio de ti; e saberão que eu sou o SENHOR, quando nela executar juízos e nela me santificar.
+E pôs gente de guerra em todas as cidades fortes de Judá e guarnições na terra de Judá, como também nas cidades de Efraim que Asa, seu pai, tinha tomado.
+E tirou a coroa da cabeça do seu rei, cujo peso era de um talento de ouro, e havia nela pedras preciosas, e foi posta sobre a cabeça de Davi; e da cidade levou mui grande despojo.
+Verdade é, SENHOR, que os reis da Assíria assolaram todos os países e suas terras.
+Por mim governam os príncipes e os nobres; sim, todos os juízes da terra.
+E a multidão, dando gritos, começou a pedir que fizesse como sempre lhes tinha feito.
+E crescia Jesus em sabedoria, e em estatura, e em graça para com Deus e os homens.
+O que faz vir súbita destruição sobre o forte, de sorte que vem a assolação contra a fortaleza.
+Por isto conheço eu que tu me favoreces: que o meu inimigo não triunfa de mim.
+Toma a vara e ajunta a congregação, tu e Arão, teu irmão, e falai à rocha perante os seus olhos, e dará a sua água; assim, lhes tirarás água da rocha e darás a beber à congregação e aos seus animais.
+nan
+Do açoite da língua estarás abrigado; e não temerás a assolação, quando vier.
+E porá o seu rosto para vir com a força de todo o seu reino, e com ele os retos, e fará o que lhe aprouver; e lhe dará uma filha das mulheres, para a corromper; mas ela não subsistirá, nem será para ele.
+Lembra-te da tua congregação, que compraste desde a antiguidade; da tua herança que remiste, deste monte Sião, em que habitaste.
+E tinha Asur, pai de Tecoa, duas mulheres: Hela e Naara.
+Pelo que os filisteus se atemorizaram, porque diziam: Deus veio ao arraial. E diziam mais: Ai de nós! Que tal nunca sucedeu antes.
+Porém vós guardareis os meus estatutos e os meus juízos, e nenhuma dessas abominações fareis nem o natural, nem o estrangeiro que peregrina entre vós;
+Quem é sábio, para que entenda estas coisas? Prudente, para que as saiba? Porque os caminhos do SENHOR são retos, e os justos andarão neles, mas os transgressores neles cairão.
+onde o crucificaram, e, com ele, outros dois, um de cada lado, e Jesus no meio.
+Não havendo profecia, o povo se corrompe; mas o que guarda a lei, esse é bem-aventurado.
+todavia, amanhã a estas horas, enviarei os meus servos a ti, e esquadrinharão a tua casa e as casas dos teus servos; e há de ser que tudo o que for aprazível aos teus olhos o meterão nas suas mãos e o levarão.
+Sete dias comereis pães asmos; ao primeiro dia, tirareis o fermento das vossas casas; porque qualquer que comer pão levedado, desde o primeiro até ao sétimo dia, aquela alma será cortada de Israel.
+isto é, para que juntamente convosco eu seja consolado pela fé mútua, tanto vossa como minha.
+Da soberba só provém a contenda, mas com os que se aconselham se acha a sabedoria.
+E foi anunciado a Josué, dizendo: Acharam-se os cinco reis escondidos numa cova em Maquedá.
+E, saindo ele do barco, lhe saiu logo ao seu encontro, dos sepulcros, um homem com espírito imundo,
+e, se a casa for digna, desça sobre ela a vossa paz; mas, se não for digna, torne para vós a vossa paz.
+São tomadas as cidades e ocupadas as fortalezas; e será o coração dos valentes de Moabe, naquele dia, como o coração da mulher em suas dores.
+E, entrando Jesus em Cafarnaum, chegou junto dele um centurião, rogando-lhe
+Também feriu os moabitas, e os moabitas ficaram servos de Davi, trazendo presentes.
+E Cuxe gerou a Ninrode, que começou a ser poderoso na terra.
+E deu Deus a Salomão sabedoria, e muitíssimo entendimento, e largueza de coração, como a areia que está na praia do mar.
+Envergonhem-se e confundam-se à uma os que se alegram com o meu mal; vistam-se de vergonha e de confusão os que se engrandecem contra mim.
+Disse, pois, Jônatas ao moço que lhe levava as armas: Vem, passemos à guarnição destes incircuncisos; porventura, operará o SENHOR por nós, porque para com o SENHOR nenhum impedimento há de livrar com muitos ou com poucos.
+Porque maior é a maldade da filha do meu povo do que o pecado de Sodoma, a qual se subverteu como em um momento, sem que trabalhassem nela mãos algumas.
+E o chefe da casa dos pais e bem assim como um de seus irmãos menores lançaram sortes igualmente como seus irmãos, os filhos de Arão, perante o rei Davi, e Zadoque, e Aimeleque, e os chefes dos pais entre os sacerdotes e entre os levitas.
+e conduziram-no primeiramente a Anás, por ser sogro de Caifás, que era o sumo sacerdote daquele ano.
+Torne-se a sua mesa diante dele em laço e, para sua inteira recompensa, em ruína.
+Etiópia, e Pute, e Lude, e toda mistura de gente, e Cube, e os filhos da terra do concerto com eles cairão à espada.
+vós também, como pedras vivas, sois edificados casa espiritual e sacerdócio santo, para oferecerdes sacrifícios espirituais, agradáveis a Deus, por Jesus Cristo.
+E serviu o povo ao SENHOR todos os dias de  e todos os dias dos anciãos que prolongaram os seus dias depois de  e viram toda aquela grande obra do SENHOR, a qual ele fizera a Israel.
+Alguns há que espalham, e ainda se lhes acrescenta mais; e outros, que retêm mais do que é justo, mas é para a sua perda.
+E Jesus, respondendo, disse-lhe: Vai-te, Satanás, porque está escrito: Adorarás o Senhor, teu Deus, e só a ele servirás.
+Amai-vos cordialmente uns aos outros com amor fraternal, preferindo-vos em honra uns aos outros.
+Depois, levantou os seus olhos, e viu as mulheres e os meninos, e disse: Quem são estes contigo? E ele disse: Os filhos que Deus graciosamente tem dado a teu servo.
+Porque antes da sega, quando já o renovo está perfeito, e as uvas verdes amadurecem, então, podará os sarmentos, e tirará os ramos, e os cortará.
+E o povo estava esperando a  e maravilhava-se de que tanto se demorasse no templo.
+Temei ao SENHOR, vós os seus santos, pois não têm falta alguma aqueles que o temem.
+E da congregação dos filhos de Israel tomará dois bodes para expiação do pecado e um carneiro para holocausto.
+Qual, pois, destes três te parece que foi o próximo daquele que caiu nas mãos dos salteadores?
+Ó Deus! Tu matarás, decerto, o ímpio! Apartai-vos, portanto, de mim, homens de sangue.
+Seca-se a erva, e caem as flores, mas a palavra de nosso Deus subsiste eternamente.
+Quando nós queimávamos incenso à Rainha dos Céus e lhe oferecíamos libações, fizemos-lhe bolos para a adorar e oferecemos-lhe libações sem nossos maridos?
+Pelo que assim diz o SENHOR acerca do rei da Assíria: Não entrará nesta cidade, nem lançará nela flecha alguma; tampouco virá perante ela com escudo, ou levantará contra ela tranqueira.
+Depois, voltei-me e atentei para todas as opressões que se fazem debaixo do sol; e eis que vi as lágrimas dos que foram oprimidos e dos que não têm consolador; e a força estava da banda dos seus opressores; mas eles não tinham nenhum consolador.
+Mas o juízo estabelecer-se-á, e eles tirarão o seu domínio, para o destruir e para o desfazer até ao fim.
+Também todo o vaso aberto, sobre que não houver pano atado, será imundo.
+E eles não se casarão nem com viúva nem com repudiada, mas tomarão virgens da linhagem da casa de Israel ou viúva que for viúva de sacerdote.
+Ouvindo alguém a palavra do Reino e não a entendendo, vem o maligno e arrebata o que foi semeado no seu coração; este é o que foi semeado ao pé do caminho;
+Vendo, pois, seus irmãos que seu pai o amava mais do que a todos os seus irmãos, aborreceram-no e não podiam falar com ele pacificamente.
+Mas bastante tenho recebido e tenho abundância; cheio estou, depois que recebi de Epafrodito o que da vossa parte me foi enviado, como cheiro de suavidade e sacrifício agradável e aprazível a Deus.
+Até quando julgareis injustamente e respeitareis a aparência da pessoa dos ímpios? (Selá)
+Ora, pois, não é Boaz, com cujas moças estiveste, de nossa parentela? Eis que esta noite padejará a cevada na eira.
+E há de ser que, quando ele se deitar, notarás o lugar em que se deitar; então, entra, e descobrir-lhe-ás os pés, e te deitarás, e ele te fará saber o que deves fazer.
+No primeiro mês, aos catorze dias do mês, à tarde, comereis pães asmos até vinte e um do mês à tarde.
+E Moisés diligentemente buscou o bode da expiação, e eis que já era queimado; portanto, indignou-se grandemente contra Eleazar e contra Itamar, os filhos que de Arão ficaram, dizendo:
+Ah! Quem me dera um que me ouvisse! Eis que o meu intento é que o Todo-Poderoso me responda e que o meu adversário escreva um livro.
+Nossos pais adoraram neste monte, e vós dizeis que é em Jerusalém o lugar onde se deve adorar.
+Eis que nisto te respondo: Não foste justo; porque maior é Deus do que o homem.
+Conforme forem as obras deles, assim será a sua retribuição; furor, aos seus adversários, e recompensa, aos seus inimigos; às ilhas dará ele a sua recompensa.
+Desvia de ti a tortuosidade da boca e alonga de ti a perversidade dos lábios.
+Sim, a verdade desfalece, e quem se desvia do mal arrisca-se a ser despojado; e o SENHOR o viu, e foi mal aos seus olhos que não houvesse justiça.
+Segundo o número que oferecerdes, assim o fareis com cada um, segundo o número deles.
+Peso de Tiro. Uivai, navios de Társis, porque está assolada, a ponto de não haver nela casa nenhuma, e de ninguém mais entrar nela; desde a terra de Quitim lhes foi isto revelado.
+E virão contra ti com carros, carretas e rodas e com ajuntamento de povos; e se porão contra ti em redor com rodelas, e escudos, e capacetes; e porei diante deles o juízo, e julgar-te-ão segundo os seus juízos.
+Estando, pois, Obadias já em caminho, eis que Elias o encontrou; e, conhecendo-o ele, prostrou-se sobre o seu rosto e disse: És tu o meu senhor Elias?
+E de Aser disse: Bendito seja Aser com seus filhos, agrade a seus irmãos e banhe em azeite o seu pé.
+E será para os sacerdotes santificados dentre os filhos de Zadoque, que guardaram a minha ordenança, que não andaram errados, quando os filhos de Israel se extraviaram, como se extraviaram os outros levitas.
+e levantaram doze cestos cheios de pedaços de pão e de peixe.
+Pois não conquistaram a terra pela sua espada, nem o seu braço os salvou, e sim a tua destra, e o teu braço, e a luz da tua face, porquanto te agradaste deles.
+Tu estás perto, ó SENHOR, e todos os teus mandamentos são a verdade.
+O ímpio espreita o justo e procura matá-lo.
+e, então, será revelado o iníquo, a quem o Senhor desfará pelo assopro da sua boca e aniquilará pelo esplendor da sua vinda;
+Também toda oferta amassada com azeite ou seca será de todos os filhos de Arão, assim de um como de outro.
+o leão, o mais forte entre os animais, que por ninguém torna atrás;
+Depois, quando deixou a multidão e entrou em casa, os seus discípulos o interrogavam acerca desta parábola.
+conservando a fé e a boa consciência, rejeitando a qual alguns fizeram naufrágio na fé.
+Inclinai os ouvidos e vinde a mim; ouvi, e a vossa alma viverá; porque convosco farei um concerto perpétuo, dando-vos as firmes beneficências de Davi.
+Ouvindo isso, os cananeus e todos os moradores da terra nos cercarão e desarraigarão o nosso nome da terra; e, então, que farás ao teu grande nome?
+E, cumprindo-se os dias da purificação, segundo a lei de Moisés, o levaram a Jerusalém, para o apresentarem ao Senhor
+Não se injuria o ladrão, quando furta para saciar a sua alma, tendo fome;
+É como o óleo precioso sobre a cabeça, que desce sobre a barba, a barba de Arão, e que desce à orla das suas vestes.
+E o rei e todo o Israel com ele sacrificaram sacrifícios perante a face do SENHOR.
+Assim, deu-lhes Moisés, aos filhos de Gade, e aos filhos de Rúben, e à meia tribo de Manassés, filho de José, o reino de Seom, rei dos amorreus, e o reino de Ogue, rei de Basã: a terra com as suas cidades nos seus termos, as cidades do seu contorno.
+Também cobriu de ouro o soalho da casa, por dentro e por fora.
+que guarda a beneficência em milhares; que perdoa a iniquidade, e a transgressão, e o pecado; que ao culpado não tem por inocente; que visita a iniquidade dos pais sobre os filhos e sobre os filhos dos filhos até à terceira e quarta geração.
+E sonhou: e eis era posta na terra uma escada cujo topo tocava nos céus; e eis que os anjos de Deus subiam e desciam por ela.
+E, agora, está plantada no deserto, numa terra seca e sedenta.
+Dois homens subiram ao templo, a orar; um, fariseu, e o outro, publicano.
+E a Obede-Edom, a do sul; e a seus filhos, a casa das tesourarias.
+Então, ou seja eu ou sejam eles, assim pregamos, e assim haveis crido.
+E os filhos de Israel disseram-lhes: Quem dera que nós morrêssemos por mão do SENHOR na terra do Egito, quando estávamos sentados junto às panelas de carne, quando comíamos pão até fartar! Porque nos tendes tirado para este deserto, para matardes de fome a toda esta multidão.
+Abias, pois, se fortificou, e tomou para si catorze mulheres, e gerou vinte e dois filhos e dezesseis filhas.
+Mas, havendo-se já fortificado, exaltou-se o seu coração até se corromper; e transgrediu contra o SENHOR, seu Deus, porque entrou no templo do SENHOR para queimar incenso no altar do incenso.
+Ao Senhor, nosso Deus, pertence a misericórdia e o perdão; pois nos rebelamos contra ele
+E disse-me o Espírito que fosse com eles, nada duvidando; e também estes seis irmãos foram comigo, e entramos em casa daquele varão.
+Dizendo novo concerto, envelheceu o primeiro. Ora, o que foi tornado velho e se envelhece perto está de acabar.
+recomendando-nos somente que nos lembrássemos dos pobres, o que também procurei fazer com diligência.
+E à porta do pátio haverá uma coberta de vinte côvados, de pano azul, e púrpura, e carmesim, e linho fino torcido, de obra de bordador; as suas colunas, quatro, e as suas bases, quatro.
+e viu o céu aberto e que descia um vaso, como se fosse um grande lençol atado pelas quatro pontas, vindo para a terra,
+Somente não contarás a tribo de Levi, nem tomarás a soma deles entre os filhos de Israel;
+Saíram de nós, mas não eram de nós; porque, se fossem de nós, ficariam conosco; mas isto é para que se manifestasse que não são todos de nós.
+Concebi eu, porventura, todo este povo? Gerei-o eu para que me dissesses que o levasse ao colo, como o aio leva o que cria, à terra que juraste a seus pais?
+tu enches de água os seus sulcos, regulando a sua altura; tu a amoleces com a muita chuva; tu abençoas as suas novidades;
+para conhecê-lo, e a virtude da sua ressurreição, e a comunicação de suas aflições, sendo feito conforme a sua morte;
+E eu, Daniel, olhei, e eis que estavam outros dois, um desta banda, à beira do rio, e o outro da outra banda, à beira do rio.
+persas, etíopes e os de Pute com eles, todos com escudo e capacete;
+E, se ali houver algum filho de paz, repousará sobre ele a vossa paz; e, se não, voltará para vós.
+Como também toda oferta que se cozer no forno, com tudo que se preparar na sertã e na caçoula, será do sacerdote que a oferece.
+e destruirei as cidades da tua terra e derribarei todas as tuas fortalezas;
+Mas, depois que a fé veio, já não estamos debaixo de aio.
+Não serás tu, ó Deus, que nos tinhas rejeitado? Tu, ó Deus, que não saíste com os nossos exércitos?
+ouve tu, então, nos céus, assento da tua habitação, e perdoa, e faze, e dá a cada um conforme todos os seus caminhos e segundo vires o seu coração, porque só tu conheces o coração de todos os filhos dos homens.
+Ora, àquele que é poderoso para vos guardar de tropeçar e apresentar-vos irrepreensíveis, com alegria, perante a sua glória,
+Porém tudo isso não me satisfaz, enquanto vir o judeu Mardoqueu assentado à porta do rei.
+E de Sião se dirá: Este e aquele nasceram ali; e o mesmo Altíssimo a estabelecerá.
+E Joiada tomou os capitães de cem, e os poderosos, e os que tinham domínio entre o povo e todo o povo da terra, e conduziram o rei da Casa do SENHOR, e entraram na casa do rei pela porta maior, e assentaram o rei no trono do reino.
+e toda a sua terra abrasada com enxofre e sal, de sorte que não será semeada, e nada produzirá, nem nela crescerá erva alguma, assim como foi a destruição de Sodoma e de Gomorra, de Admá e de Zeboim, que o SENHOR destruiu na sua ira e no seu furor;
+E o seu espírito voltou, e ela logo se levantou; e Jesus mandou que lhe dessem de comer.
+E em sua casa, em que morava, havia outro pátio por dentro do pórtico, de obra semelhante a este; também para a filha de Faraó, que Salomão tomara por mulher, fez uma casa semelhante àquele pórtico.
+Para fazer herdar bens permanentes aos que me amam e encher os seus tesouros.
+Olhando, pois, Arão e todos os filhos de Israel para Moisés, eis que a pele do seu rosto resplandecia; pelo que temeram de chegar-se a ele.
+E, ouvindo que Arquelau reinava na Judeia em lugar de Herodes, seu pai, receou ir para lá; mas, avisado em sonhos por divina revelação, foi para as regiões da Galileia.
+Farás também cinco barras de madeira de cetim para as tábuas de um lado do tabernáculo
+Ora, irmãos, rogamo-vos, pela vinda de nosso Senhor Jesus Cristo e pela nossa reunião com ele,
+Então, veio a mim a palavra do SENHOR, dizendo:
+nan
+Também subiram a Jerusalém alguns dos filhos de Israel, e dos sacerdotes, e dos levitas, e dos cantores, e dos porteiros, e dos netineus, no ano sétimo do rei Artaxerxes.
+Não, vos digo; antes, se vos não arrependerdes, todos de igual modo perecereis.
+O SENHOR é o que tira a vida e a dá; faz descer à sepultura e faz tornar a subir dela.
+Ele cumprirá o desejo dos que o temem; ouvirá o seu clamor e os salvará.
+E Jorão, filho de Acabe, começou a reinar sobre Israel, em Samaria, no décimo oitavo ano de Josafá, rei de Judá; e reinou doze anos.
+E, ouvindo os príncipes de Judá estas palavras, subiram da casa do rei à Casa do SENHOR e se assentaram à entrada da Porta Nova da Casa do SENHOR.
+Agora, pois, temei ao SENHOR, e servi-o com sinceridade e com verdade, e deitai fora os deuses aos quais serviram vossos pais dalém do rio e no Egito, e servi ao SENHOR.
+Por isso, o Senhor JEOVÁ assim lhes diz: Eis que eu, eu mesmo, julgarei entre o gado gordo e o gado magro.
+E Atai gerou a Natã, e Natã gerou a Zabade.
+E o SENHOR, vosso Deus, as impelirá de diante de vós e as expelirá de diante de vós; e vós possuireis a sua terra, como o SENHOR, vosso Deus, vos tem dito.
+E os filhos de Merari: Mali e Musi; estas são as famílias de Levi, segundo as suas gerações.
+Também mediu o seu comprimento: vinte côvados, e a largura, vinte côvados, diante do templo; e me disse: Esta é a Santidade das Santidades.
+Voltai-vos e parti; ide à montanha dos amorreus, e a todos os seus vizinhos, e à planície, e à montanha, e ao vale, e ao Sul, e à ribeira do mar, e à terra dos cananeus, e ao Líbano, até ao grande rio, o rio Eufrates.
+E Moisés deu ordem aos filhos de Israel, dizendo: Esta é a terra que tomareis em sorte por herança, a qual o SENHOR mandou dar às nove tribos e à meia tribo.
+Seja notório ao rei que nós fomos à província de Judá, à casa do grande Deus, que se edifica com grandes pedras, e já a madeira se está pondo sobre as paredes; e essa obra apressuradamente se faz e se adianta em suas mãos.
+E, se, na verdade, julgo, o meu juízo é verdadeiro, porque não sou eu só, mas eu e o Pai, que me enviou.
+Todavia, os edomitas se revoltaram contra o domínio de Judá até ao dia de hoje; então, no mesmo tempo, Libna se revoltou de debaixo de seu mando, porque deixara ao SENHOR, Deus de seus pais.
+Porque eis que teus inimigos se alvoroçam, e os que te aborrecem levantaram a cabeça.
+A voz do SENHOR ouve-se sobre as águas; o Deus da glória troveja; o SENHOR está sobre as muitas águas.
+Todos os limites da terra se lembrarão e se converterão ao SENHOR; e todas as gerações das nações adorarão perante a tua face.
+Os ímpios serão lançados no inferno e todas as nações que se esquecem de Deus.
+não segundo o concerto que fiz com seus pais, no dia em que os tomei pela mão, para os tirar da terra do Egito; como não permaneceram naquele meu concerto, eu para eles não atentei, diz o Senhor.
+E sucedeu que, como o vissem, tomaram trinta companheiros para estarem com ele.
+Estes homens não estão embriagados, como vós pensais, sendo esta a terceira hora do dia.
+Dizia eu: Subirei à palmeira, pegarei em seus ramos; e, então, os teus peitos serão como os cachos na vide, e o cheiro da tua respiração, como o das maçãs.
+E Pilatos o interrogou outra vez, dizendo: Nada respondes? Vê quantas coisas testificam contra ti.
+E Josafá, filho de Asa, começou a reinar sobre Judá no quarto ano de Acabe, rei de Israel.
+Na boca do tolo está a vara da soberba, mas os lábios do sábio preservá-lo-ão.
+segundo a palavra que concertei convosco, quando saístes do Egito, e o meu Espírito habitava no meio de vós; não temais.
+Viste toda a sua vingança, todos os seus pensamentos contra mim.
+Assim, não profanareis a terra em que estais; porque o sangue faz profanar a terra; e nenhuma expiação se fará pela terra por causa do sangue que se derramar nela, senão com o sangue daquele que o derramou.
+E dirigiu-se para ela no caminho e disse: Vem, peço-te, deixa-me entrar a ti. Porquanto não sabia que era sua nora; e ela disse: Que darás, para que entres a mim?
+Os homens maus não entendem o juízo, mas os que buscam o SENHOR entendem tudo.
+Então, Balaão respondeu e disse aos servos de Balaque: Ainda que Balaque me desse a sua casa cheia de prata e de ouro, eu não poderia traspassar o mandado do SENHOR, meu Deus, para fazer coisa pequena ou grande;
+Porque, assim como descem a chuva e a neve dos céus e para lá não tornam, mas regam a terra e a fazem produzir, e brotar, e dar semente ao semeador, e pão ao que come,
+Então, respondeu  e disse:
+É como o navio mercante: de longe traz o seu pão.
+até que todos cheguemos à unidade da fé e ao conhecimento do Filho de Deus, a varão perfeito, à medida da estatura completa de Cristo,
+E ordenou-lhes, dizendo: Olhai, guardai-vos do fermento dos fariseus e do fermento de Herodes.
+E disse: Aba, Pai, todas as coisas te são possíveis; afasta de mim este cálice; não seja, porém, o que eu quero, mas o que tu queres.
+(Porque lhe dizia: Sai deste homem, espírito imundo.)
+E meterão, a ele e a todos os seus utensílios, na coberta de peles de texugos e o porão sobre os varais.
+E as coisas santificadas de cada um serão suas; o que alguém der ao sacerdote será seu.
+Então, saireis vós da emboscada e tomareis a cidade; porque o SENHOR, vosso Deus, vo-la dará na vossa mão.
+Então os anciãos da sua casa se levantaram e foram a ele, para o levantar da terra; porém ele não quis, e não comeu pão com eles.
+Estes são, pois, os que ali estavam com seus filhos; dos filhos dos coatitas, Hemã, o cantor, filho de Joel, filho de Samuel,
+Aparta-te do mal e faze o bem; procura a paz e segue-a.
+Ao pai e à mãe desprezaram em ti, para com o estrangeiro usaram de opressão no meio de ti e ao órfão e à viúva oprimiram em ti.
+Também farás chegar seus filhos, e lhes vestirás as túnicas,
+Eis que ele derriba, e não se reedificará; e a quem ele encerra não se abrirá.
+Ele te emprestará a ti, porém tu não lhe emprestarás a ele; ele será por cabeça, e tu serás por cauda.
+Ele me invocará, e eu lhe responderei; estarei com ele na angústia; livrá-lo-ei e o glorificarei.
+Então, disse Moisés ao SENHOR: Ah! Senhor! Eu não sou homem eloquente, nem de ontem, nem de anteontem, nem ainda desde que tens falado ao teu servo; porque sou pesado de boca e pesado de língua.
+Enforcaram, pois, a Hamã na forca que ele tinha preparado para Mardoqueu. Então, o furor do rei se aplacou.
+E morreram Nadabe e Abiú antes de seu pai e não tiveram filhos; e Eleazar e Itamar administravam o sacerdócio.
+E ele também despiu as suas vestes, e ele também profetizou diante de Samuel, e esteve nu por terra todo aquele dia e toda aquela noite; pelo que se diz: Está também Saul entre os profetas?
+as grandes provas que os teus olhos têm visto, aqueles sinais e grandes maravilhas;
+Como Babilônia fez cair os traspassados de Israel, assim em Babilônia cairão os traspassados de toda a terra.
+Assim farei cessar em ti a tua malignidade e a tua corrupção da terra do Egito; e não levantarás os olhos para eles, nem te lembrarás mais do Egito.
+Nós ouvimos-lhe dizer: Eu derribarei este templo, construído por mãos de homens, e em três dias edificarei outro, não feito por mãos de homens.
+E ficareis poucos homens, em lugar de haverdes sido como as estrelas dos céus em multidão, porquanto não destes ouvidos à voz do SENHOR, vosso Deus.
+Sejam à uma confundidos e envergonhados os que buscam a minha vida para destruí-la; tornem atrás e confundam-se os que me querem mal.
+Também te despirão as tuas vestes e te tomarão as tuas joias de adorno.
+Como caem na desolação, quase num momento! Ficam totalmente consumidos de terrores.
+E os filhos de Bequer: Zemira, e Joás, e Eliézer, e Elioenai, e Onri, e Jerimote, e Abias, e Anatote, e Alemete; todos estes foram filhos de Bequer.
+E, tendo-se eles retirado, eis que o anjo do Senhor apareceu a José em sonhos, dizendo: Levanta-te, e toma o menino e sua mãe, e foge para o Egito, e demora-te lá até que eu te diga, porque Herodes há de procurar o menino para o matar.
+porventura, pouco é que nos fizeste subir de uma terra que mana leite e mel, para nos matares neste deserto, senão que também totalmente te assenhoreias de nós?
+Houve alguma nação que trocasse os seus deuses, posto não serem deuses? Todavia, o meu povo trocou a sua glória pelo que é de nenhum proveito.
+nan
+Fazei-o, pois, agora, porque o SENHOR falou a Davi, dizendo: Pela mão de Davi, meu servo, livrarei o meu povo das mãos dos filisteus e das mãos de todos os seus inimigos.
+Então, todas as árvores disseram ao espinheiro: Vem tu e reina sobre nós.
+E disse o SENHOR: Assim comerão os filhos de Israel o seu pão imundo, entre as nações, para onde serão lançados.
+Disse-lhe Marta: Eu sei que há de ressuscitar na ressurreição do último Dia.
+Levantou  também doze pedras no meio do Jordão, no lugar do assento dos pés dos sacerdotes que levavam a arca do concerto; e ali estão até ao dia de hoje.
+Efraim está entregue aos ídolos; deixa-o.
+Dalém dos rios da Etiópia os meus zelosos adoradores, a filha da minha dispersão, me trarão sacrifício.
+Há caminho que ao homem parece direito, mas o fim dele são os caminhos da morte.
+E disse  a todo o povo: Eis que esta pedra nos será por testemunho; pois ela ouviu todas as palavras que o SENHOR nos tem dito; e também será testemunho contra vós, para que não mintais a vosso Deus.
+E terás confiança, porque haverá esperança; olharás em volta e repousarás seguro.
+O caminho de Deus é perfeito; a palavra do SENHOR é provada; é um escudo para todos os que nele confiam.
+SENHOR, tu nos darás a paz, porque tu és o que fizeste em nós todas as nossas obras.
+Mas derribou a Faraó com o seu exército no mar Vermelho; porque a sua benignidade é para sempre.
+E Jacó disse a José: O Deus Todo-Poderoso me apareceu em Luz, na terra de Canaã, e me abençoou,
+E eles disseram: Crê no Senhor Jesus Cristo e serás salvo, tu e a tua casa.
+Bandos de ímpios me despojaram; apesar disso, eu não me esqueci da tua lei.
+Se alguém destruir o templo de Deus, Deus o destruirá; porque o templo de Deus, que sois vós, é santo.
+E as cidades da tribo dos filhos de Benjamim, segundo as suas famílias, eram: Jericó, e Bete-Hogla, e Emeque-Quesis,
+este, chegando a Pilatos, pediu o corpo de Jesus.
+Naquele dia, diz o SENHOR, ferirei de espanto todos os cavalos e de loucura os que montam neles; e sobre a casa de Judá abrirei os meus olhos e ferirei de cegueira todos os cavalos dos povos.
+E, havendo-lhe dado a beber aquela água, será que, se ela se tiver contaminado e contra seu marido tiver prevaricado, a água amaldiçoante entrará nela para amargura, e o seu ventre se inchará, e a sua coxa descairá; e aquela mulher será por maldição no meio do seu povo.
+porém, desde o princípio da criação, Deus os fez macho e fêmea.
+Prepara-te, sim, dispõe-te, tu e todas as tuas congregações que se reuniram a ti, e serve-lhes tu de guarda.
+Canta alegremente, ó estéril que não deste à luz! Exulta de prazer com alegre canto e exclama, tu que não tiveste dores de parto! Porque mais são os filhos da solitária do que os filhos da casada, diz o SENHOR.
+Em verdade vos digo que todas essas coisas hão de vir sobre esta geração.
+Clama outra vez, dizendo: Assim diz o SENHOR dos Exércitos: As minhas cidades ainda aumentarão e prosperarão; porque o SENHOR ainda consolará a Sião e ainda escolherá a Jerusalém.
+E, assim, vieram homens e mulheres, todos dispostos de coração; trouxeram fivelas, e pendentes, e anéis, e braceletes, e todo vaso de ouro; e todo homem oferecia oferta de ouro ao SENHOR;
+Então, o rei Nabucodonosor caiu sobre o seu rosto, e adorou a Daniel, e ordenou que lhe fizessem oferta de manjares e perfumes suaves.
+Também o sacerdote fará a oferta pela expiação do pecado e fará expiação por aquele que tem de purificar-se da sua imundícia; e depois degolará o holocausto;
+Ouvi, agora, o que diz o SENHOR: Levanta-te, contende com os montes, e ouçam os outeiros a tua voz.
+A mulher não tem poder sobre o seu próprio corpo, mas tem-no o marido; e também, da mesma maneira, o marido não tem poder sobre o seu próprio corpo, mas tem-no a mulher.
+Assim trouxeram os sacerdotes a arca do concerto do SENHOR ao seu lugar, ao oráculo da casa, ao Lugar Santíssimo, até debaixo das asas dos querubins.
+E te deixarei no deserto, a ti e a todo peixe dos teus rios; sobre a face do campo cairás, não serás recolhido nem ajuntado; aos animais da terra e às aves do céu te dei por mantimento.
+Da boca das crianças e dos que mamam tu suscitaste força, por causa dos teus adversários, para fazeres calar o inimigo e vingativo.
+Então, disseram Zeba e Salmuna: Levanta-te tu e acomete-nos; porque, qual o homem, tal a sua valentia. Levantou-se, pois, Gideão, e matou a Zeba e a Salmuna, e tomou as luetas que estavam no pescoço dos seus camelos.
+E vi subir da terra outra besta, e tinha dois chifres semelhantes aos de um cordeiro; e falava como o dragão.
+Então, o rei disse a Hazael: Toma um presente na tua mão, e vai a encontrar-te com o homem de Deus, e pergunta por ele ao SENHOR, dizendo: Hei de eu sarar desta doença?
+Ah! Se tivesses dado ouvidos aos meus mandamentos! Então, seria a tua paz como o rio, e a tua justiça, como as ondas do mar.
+E, visto como os filhos participam da carne e do sangue, também ele participou das mesmas coisas, para que, pela morte, aniquilasse o que tinha o império da morte, isto é, o diabo,
+As tendas de Edom, dos ismaelitas, de Moabe, dos agarenos,
+E foram todos os dias de Cainã novecentos e dez anos; e morreu.
+E a sua misericórdia é de geração em geração sobre os que o temem.
+Porque realmente tu dás bem as graças, mas o outro não é edificado.
+E ele levantou os olhos, e viu a Benjamim, seu irmão, filho de sua mãe, e disse: Este é o vosso irmão mais novo, de quem me falastes? Depois, ele disse: Deus te abençoe, meu filho.
+nan
+Porventura, multiplicará as suas suplicações para contigo? Ou brandamente te falará?
+Trazei o povo cego, que tem olhos; e os surdos, que têm ouvidos.
+Cantai ao SENHOR um cântico novo, cantai ao SENHOR, todos os moradores da terra.
+E alegraram-se toda a congregação de Judá, e os sacerdotes, e os levitas, e toda a congregação de todos os que vieram de Israel, como também os estrangeiros que vieram da terra de Israel e os que habitavam em Judá.
+E outros experimentaram escárnios e açoites, e até cadeias e prisões.
+Assim diz o SENHOR dos Exércitos: Aplicai o vosso coração aos vossos caminhos.
+como também no deserto, onde viste que o SENHOR, teu Deus, nele te levou, como um homem leva seu filho, por todo o caminho que andastes, até chegardes a este lugar.
+Enviou desde o alto e me tomou; tirou-me das muitas águas.
+dizendo-lhes: Está escrito: A minha casa é casa de oração; mas vós fizestes dela covil de salteadores.
+Pelo que enviaram, e congregaram a si todos os príncipes dos filisteus, e disseram: Que faremos nós da arca do Deus de Israel? E responderam: A arca do Deus de Israel dará volta a Gate. Assim, a rodearam com a arca do Deus de Israel.
+Dize-nos quando serão essas coisas e que sinal haverá quando todas elas estiverem para se cumprir.
+Quanto ao mais dos atos de Zinri, e à conspiração que fez, porventura, não está escrito no Livro das Crônicas dos Reis de Israel?
+Todos vão para um lugar; todos são pó e todos ao pó tornarão.
+Chegai-vos, nações, para ouvir; e vós, povos, escutai; ouça a terra, e a sua plenitude, o mundo e tudo quanto produz.
+Ele é sábio de coração, poderoso em forças; quem se endureceu contra ele e teve paz?
+que ordenei a vossos pais no dia em que os tirei da terra do Egito, da fornalha de ferro, dizendo: Dai ouvidos à minha voz e fazei conforme tudo que vos mando; e vós me sereis a mim por povo, e eu vos serei a vós por Deus;
+E levaram a arca de Deus sobre um carro novo, da casa de Abinadabe; e Uzá e Aiô guiavam o carro.
+E, havendo-o crucificado, repartiram as suas vestes, lançando sobre eles sortes, para saber o que cada um levaria.
+Alguns dias depois, vindo Félix com sua mulher Drusila, que era judia, mandou chamar a Paulo e ouviu-o acerca da fé em Cristo.
+E aconteceu que, tendo decorrido um ano, no tempo em que os reis saem para a guerra, enviou Davi a Joabe, e a seus servos com ele, e a todo o Israel, para que destruíssem os filhos de Amom e cercassem Rabá; porém Davi ficou em Jerusalém.
+Dos animais limpos, e dos animais que não são limpos, e das aves, e de todo o réptil sobre a terra,
+E, madrugando ao quinto dia pela manhã para partir, disse o pai da moça: Ora, conforta o teu coração. E detiveram-se até já declinar o dia e ambos juntos comeram.
+E Balaão disse à jumenta: Porque zombaste de mim; tomara que tivera eu uma espada na mão, porque agora te mataria.
+e Lameque, de Metusalém, e Metusalém, de Enoque, e Enoque, de Jarede, e Jarede, de Maalalel, e Maalalel, de Cainã,
+Recebei-o, pois, no Senhor, com todo o gozo, e tende-o em honra:
+e dize-lhes: Assim diz o Senhor JEOVÁ: No dia em que escolhi a Israel, levantei a mão para a descendência da casa de Jacó, e me dei a conhecer a eles na terra do Egito, e levantei a mão para eles, dizendo: Eu sou o SENHOR, vosso Deus.
+E Davi veio a Maanaim; e Absalão passou o Jordão, ele e todo o homem de Israel com ele.
+E vieram os gafanhotos sobre toda a terra do Egito e assentaram-se sobre todos os ermos do Egito; mui gravosos foram; antes destes nunca houve tais gafanhotos, nem depois deles virão outros tais.
+De sorte que, assim como a igreja está sujeita a Cristo, assim também as mulheres sejam em tudo sujeitas a seu marido.
+E vieram a Jerusalém; e Jesus, entrando no templo, começou a expulsar os que vendiam e compravam no templo; e derribou as mesas dos cambistas e as cadeiras dos que vendiam pombas.
+Filho do homem, eu te dei por atalaia sobre a casa de Israel; e tu da minha boca ouvirás a palavra e os avisarás da minha parte.
+Assim, José comprou toda a terra do Egito para Faraó, porque os egípcios venderam cada um o seu campo, porquanto a fome era extrema sobre eles; e a terra ficou sendo de Faraó.
+Estas coisas fez Benaia, filho de Joiada, pelo que teve nome entre aqueles três varões.
+Enamorou-se dos filhos da Assíria, dos prefeitos e dos magistrados, seus vizinhos, vestidos com primor, cavaleiros que andam montados em cavalos, todos jovens de cobiçar.
+E habitarás na terra de Gósen e estarás perto de mim, tu e os teus filhos, e os filhos dos teus filhos, e as tuas ovelhas, e as tuas vacas, e tudo o que tens.
+E estavam ali Maria Madalena e a outra Maria, assentadas defronte do sepulcro.
+E José lhes disse: Não temais; porque, porventura, estou eu em lugar de Deus?
+Mas, estando ele em pé, o seu reino será quebrado e será repartido para os quatro ventos do céu; mas não para a sua posteridade, nem tampouco segundo o poder com que reinou, porque o seu reino será arrancado e passará a outros.
+porquanto prevaricastes contra mim no meio dos filhos de Israel, nas águas da contenção, em Cades, no deserto de Zim, pois me não santificastes no meio dos filhos de Israel.
+E aconteceu, naquele mesmo tempo, que Abimeleque, com Ficol, príncipe do seu exército, falou com Abraão, dizendo: Deus é contigo em tudo o que fazes;
+Então, Moisés estendeu a sua mão sobre o mar, e o SENHOR fez retirar o mar por um forte vento oriental toda aquela noite; e o mar tornou-se em seco, e as águas foram partidas.
+Há diferença entre a mulher casada e a virgem: a solteira cuida das coisas do Senhor para ser santa, tanto no corpo como no espírito; porém a casada cuida das coisas do mundo, em como há de agradar ao marido.
+Pois quê? Pecaremos porque não estamos debaixo da lei, mas debaixo da graça? De modo nenhum!
+E ninguém, tendo bebido o velho, quer logo o novo, porque diz: Melhor é o velho.
+Portanto, se trouxeres a tua oferta ao altar e aí te lembrares de que teu irmão tem alguma coisa contra ti,
+tudo o que tem unhas fendidas, e a fenda das unhas se divide em duas, e remói, entre os animais, aquilo comereis.
+O homem vão cava o mal, e nos seus lábios se acha como que um fogo ardente.
+Com a sua malícia alegram ao rei e com as suas mentiras, aos príncipes.
+E, com estas palavras, Davi conteve os seus homens e não lhes permitiu que se levantassem contra Saul; e Saul se levantou da caverna e prosseguiu o seu caminho.
+Assim, observarei de contínuo a tua lei, para sempre e eternamente.
+E, respondendo um dos doutores da lei, disse-lhe: Mestre, quando dizes isso também nos afrontas a nós.
+Jesus disse-lhe: Levanta-te, toma tua cama e anda.
+E pregava nas sinagogas da Galileia.
+o qual consultou por ele o SENHOR, e lhe deu mantimento, e lhe deu também a espada de Golias, o filisteu.
+Portanto, Hebrom foi de Calebe, filho de Jefoné, o quenezeu, em herança até ao dia de hoje, porquanto perseverara em seguir o SENHOR, Deus de Israel.
+E ele disse: Ora, não nos deixes; porque tu sabes que nós nos alojamos no deserto; de olhos nos servirás.
+Então, Manoá tomou um cabrito e uma oferta de manjares e os ofereceu sobre uma penha ao SENHOR; e agiu o Anjo maravilhosamente, vendo-o Manoá e sua mulher.
+E disse Pilatos aos principais dos sacerdotes e à multidão: Não acho culpa alguma neste homem.
+Mas este é um povo roubado e saqueado; todos estão enlaçados em cavernas e escondidos nas casas dos cárceres; são postos por presa, e ninguém há que os livre; por despojo, e ninguém diz: Restitui.
+E as famílias de Quiriate-Jearim foram os itritas, e os puteus, e os sumateus, e os misraeus; destes saíram os zorateus e os estaoleus.
+Porque desde a antiguidade não se ouviu, nem com ouvidos se percebeu, nem com os olhos se viu um Deus além de ti, que trabalhe para aquele que nele espera.
+Prova e vê que é boa sua mercadoria; e a sua lâmpada não se apaga de noite.
+E, se alguém também milita, não é coroado se não militar legitimamente.
+Pois que guardas inimizade perpétua e abandonaste os filhos de Israel à violência da espada, no tempo da extrema iniquidade.
+crescia essa árvore e se fazia forte, de maneira que a sua altura chegava até ao céu; e foi vista até aos confins da terra.
+E a saraiva feriu, em toda a terra do Egito, tudo quanto havia no campo, desde os homens até aos animais; também a saraiva feriu toda a erva do campo e quebrou todas as árvores do campo.
+E, ao seu lado, reparou Meremote, filho de Urias, filho de Coz; e, ao seu lado, reparou Mesulão, filho de Berequias, filho de Mesezabel; e, ao seu lado, reparou Zadoque, filho de Baaná.
+E ajuntou todos os príncipes de Israel, como também os sacerdotes e levitas.
+Porventura, não se lembrou o SENHOR, e não lhe subiu ao coração o incenso que queimastes nas cidades de Judá e nas ruas de Jerusalém, vós e vossos pais, vossos reis e vossos príncipes, como também o povo da terra?
+Assim diz o SENHOR dos Exércitos: Ainda neste lugar que está deserto, sem homens e sem animais e em todas as suas cidades haverá uma morada de pastores que façam repousar o gado.
+E disse-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo para perdão dos pecados, e recebereis o dom do Espírito Santo.
+Do homem são as preparações do coração, mas do SENHOR, a resposta da boca.
+nan
+Porém, tornando o sacerdote a entrar, e, examinando, eis que, se a praga na casa se não tem estendido, depois que a casa foi rebocada, o sacerdote declarará a casa limpa, porque a praga está curada.
+E, se eu for e vos preparar lugar, virei outra vez e vos levarei para mim mesmo, para que, onde eu estiver, estejais vós também.
+O céu é o meu trono, e a terra, o estrado dos meus pés. Que casa me edificareis, diz o Senhor, ou qual é o lugar do meu repouso?
+Suscito a um do Norte, e ele há de vir; desde o nascimento do sol, invocará o meu nome; e virá sobre os magistrados, como sobre o lodo; e, como o oleiro pisa o barro, assim ele os pisará.
+Nicodemos respondeu e disse-lhe: Como pode ser isso?
+E essas coisas foram-nos feitas em figura, para que não cobicemos as coisas más, como eles cobiçaram.
+e Nogá, e Nefegue, e Jafia,
+Dizendo-se sábios, tornaram-se loucos.
+Assim diz o SENHOR Deus: Isto não subsistirá, nem tampouco acontecerá.
+E ainda isto me fizeram: contaminaram o meu santuário no mesmo dia e profanaram os meus sábados.
+O coração alegre aformoseia o rosto, mas, pela dor do coração, o espírito se abate.
+E o menino crescia e se fortalecia em espírito, cheio de sabedoria; e a graça de Deus estava sobre ele.
+Depois dele, reparou Hananias, filho de Selemias, e Hanum, filho de Zalafe, o sexto, outra porção; depois deles reparou Mesulão, filho de Berequias, defronte da sua câmara.
+não que sejamos capazes, por nós, de pensar alguma coisa, como de nós mesmos; mas a nossa capacidade vem de Deus,
+E aconteceu, depois destas coisas, que a mulher de seu senhor pôs os olhos em José e disse: Deita-te comigo.
+E cairá a espada sobre as suas cidades, e consumirá os seus ferrolhos, e os devorará, por causa dos seus conselhos.
+E tudo quanto desejaram os meus olhos não lhos neguei, nem privei o meu coração de alegria alguma; mas o meu coração se alegrou por todo o meu trabalho, e esta foi a minha porção de todo o meu trabalho.
+E, deixando logo as suas redes, o seguiram.
+Ben-Abinadabe, em todo o termo de Dor; tinha este a Tafate, filha de Salomão, por mulher;
+E quebrantarei todas as forças dos ímpios, mas as forças dos justos serão exaltadas.
+dando graças ao Pai, que nos fez idôneos para participar da herança dos santos na luz.
+Mas isto lhes ordenei, dizendo: Dai ouvidos à minha voz, e eu serei o vosso Deus, e vós sereis o meu povo; e andai em todo o caminho que eu vos mandar, para que vos vá bem.
+Pois deve ficar na cidade do seu refúgio, até à morte do sumo sacerdote; mas, depois da morte do sumo sacerdote, o homicida voltará à terra da sua possessão.
+A lua e as estrelas para presidirem a noite; porque a sua benignidade é para sempre.
+E, quando subiram para o barco, acalmou o vento.
+e, vendo a praga, e eis que, se a praga nas paredes da casa tem covinhas verdes ou vermelhas, e parecem mais fundas do que a parede,
+Então, falou o copeiro-mor a Faraó, dizendo: Dos meus pecados me lembro hoje.
+Adorai ao SENHOR na beleza da santidade; tremei diante dele todos os moradores da terra.
+Ó SENHOR, por amor de teu servo e segundo o teu coração, fizeste todas essas grandezas, para fazer notórias todas estas grandes coisas!
+E disse ele: Ó rei, meu senhor, o meu servo me enganou; porque o teu servo dizia: Albardarei um jumento, e nele montarei, e irei com o rei; pois o teu servo é coxo.
+porém todo o reino não rasgarei; uma tribo darei a teu filho, por amor de meu servo Davi e por amor de Jerusalém, que tenho elegido.
+E o que apanhou a cinza da bezerra lavará as suas vestes e será imundo até à tarde; isto será por estatuto perpétuo aos filhos de Israel e ao estrangeiro que peregrina no meio deles.
+E o rei de Babilônia estabeleceu rei, em lugar de Joaquim, ao tio deste, Matanias, e lhe mudou o nome para Zedequias.
+Depois de tudo isso, havendo Josias já preparado a casa, subiu Neco, rei do Egito, para guerrear contra Carquemis, junto ao Eufrates; e Josias lhe saiu ao encontro.
+Agora, pois, foste servido abençoares a casa de teu servo, para que esteja perpetuamente diante de ti; porque tu, SENHOR, a abençoaste, e ficará abençoada para sempre.
+Pelo que eis que estendi a mão sobre ti, e diminuí a tua porção, e te entreguei à vontade dos que te aborrecem, as filhas dos filisteus, as quais se envergonhavam do teu caminho depravado.
+Estes são os mandamentos que o SENHOR ordenou a Moisés, para os filhos de Israel, no monte Sinai.
+e pedras sardônicas, e pedras de engaste para o éfode e para o peitoral.
+Que ele me dê a cova de Macpela, que tem no fim do seu campo; que ma dê pelo devido preço em posse de sepulcro no meio de vós.
+E, quando chegou perto da porta da cidade, eis que levavam um defunto, filho único de sua mãe, que era viúva; e com ela ia uma grande multidão da cidade.
+Arvorai um estandarte sobre os muros de Babilônia, reforçai a guarda, colocai sentinelas e preparai as ciladas; porque o SENHOR intentou e fez o que tinha dito acerca dos moradores da Babilônia.
+Antes que os espinhos cheguem a aquecer as vossas panelas, serão arrebatados, tanto os verdes como os que estão ardendo, como por um redemoinho.
+Foram envergonhados por terem confiado; e, chegando ali, se confundem.
+Quando saíres à peleja contra os teus inimigos, e o SENHOR, teu Deus, os entregar nas tuas mãos, e tu deles levares prisioneiros,
+Na tua bolsa não terás diversos pesos, um grande e um pequeno.
+E viveu Lameque, depois que gerou a Noé, quinhentos e noventa e cinco anos e gerou filhos e filhas.
+Quando profeta ou sonhador de sonhos se levantar no meio de ti e te der um sinal ou prodígio,
+E Jesus, olhando para eles, disse-lhes: Aos homens é isso impossível, mas a Deus tudo é possível.
+Estas quatro coisas são das mais pequenas da terra, mas sábias, bem-providas de sabedoria:
+Isto é o que lhes hás de fazer, para os santificar, para que me administrem o sacerdócio: Toma um novilho, e dois carneiros sem mácula,
+Guardai-vos dos escribas, que querem andar com vestes compridas e amam as saudações nas praças, e as principais cadeiras nas sinagogas, e os primeiros lugares nos banquetes;
+Mas confesso-te que, conforme aquele Caminho, a que chamam seita, assim sirvo ao Deus de nossos pais, crendo tudo quanto está escrito na Lei e nos Profetas.
+dos filhos de Musi, Mali, e Éder, e Jerimote; estes foram os filhos dos levitas, segundo as suas casas paternas.
+Foi o SENHOR que fez isto, e é coisa maravilhosa aos nossos olhos.
+Devorou o Senhor todas as moradas de Jacó e não se apiedou; derribou no seu furor as fortalezas da filha de Judá e as abateu até à terra; profanou o reino e os seus príncipes.
+E, naqueles dias, apareceu  Batista pregando no deserto da Judeia
+Então, estendeu Moisés sua vara sobre a terra do Egito, e o SENHOR trouxe sobre a terra um vento oriental todo aquele dia e toda aquela noite; e aconteceu que pela manhã o vento oriental trouxe os gafanhotos.
+E levantou-se Jesua, filho de Jozadaque, e seus irmãos, os sacerdotes, e Zorobabel, filho de Sealtiel, e seus irmãos e edificaram o altar do Deus de Israel, para oferecerem sobre ele holocaustos, como está escrito na Lei de Moisés, o homem de Deus.
+Não vos prendais a um jugo desigual com os infiéis; porque que sociedade tem a justiça com a injustiça? E que comunhão tem a luz com as trevas?
+Natanael respondeu e disse-lhe: Rabi, tu és o Filho de Deus, tu és o Rei de Israel.
+Amai, pois, a vossos inimigos, e fazei o bem, e emprestai, sem nada esperardes, e será grande o vosso galardão, e sereis filhos do Altíssimo; porque ele é benigno até para com os ingratos e maus.
+Assim, dormiu Acabe com seus pais; e Acazias, seu filho, reinou em seu lugar.
+Eis que ouvimos falar da arca em Efrata e a achamos no campo do bosque.
+Mas pô-lo-ei nas mãos dos que te entristeceram, que dizem à tua alma: Abaixa-te, para que passemos sobre ti; e tu puseste as costas como chão e como caminho aos viandantes.
+o qual recompensará cada um segundo as suas obras,
+Diz-lhes Jesus: Nunca lestes nas Escrituras: A pedra que os edificadores rejeitaram, essa foi posta por cabeça do ângulo; pelo Senhor foi feito isso e é maravilhoso aos nossos olhos?
+Passadas essas coisas, e apaziguado já o furor do rei Assuero, lembrou-se de Vasti, e do que fizera, e do que se tinha decretado a seu respeito.
+Este foi ter com Pilatos e pediu-lhe o corpo de Jesus. Então, Pilatos mandou que o corpo lhe fosse dado.
+E tomaram Abrão e Naor mulheres para si; o nome da mulher de Abrão era Sarai, e o nome da mulher de Naor era Milca, filha de Harã, pai de Milca e pai de Iscá.
+Houve uma pequena cidade em que havia poucos homens, e veio contra ela um grande rei, e a cercou, e levantou contra ela grandes tranqueiras.
+Disse-lhe Jesus: Teu irmão há de ressuscitar.
+de sorte que as igrejas eram confirmadas na fé e cada dia cresciam em número.
+e disse-lhes: Assim diz o SENHOR, Deus de Israel, a quem me enviastes, para lançar a vossa súplica diante dele:
+E logo toda a multidão, vendo-o, ficou espantada, e, correndo para ele, o saudaram.
+E os seus mais ilustres mandam os seus pequenos buscar água; vêm às cavas e não acham água; voltam com os seus cântaros vazios, e envergonham-se, e confundem-se, e cobrem a cabeça.
+E Gedalias jurou a eles e aos seus homens e lhes disse: Não temais ser servos dos caldeus; ficai na terra e servi ao rei de Babilônia, e bem vos irá.
+Então, pela virtude do Espírito, voltou Jesus para a Galileia, e a sua fama correu por todas as terras em derredor.
+Então, enviou Saul mensageiros para trazerem a Davi, os quais viram uma congregação de profetas profetizando, onde estava Samuel, que presidia sobre eles; e o Espírito de Deus veio sobre os mensageiros de Saul, e também eles profetizaram.
+Depois, pôs água numa bacia e começou a lavar os pés aos discípulos e a enxugar-lhos com a toalha com que estava cingido.
+E veio a palavra do SENHOR segunda vez a Ageu, aos vinte e quatro do mês, dizendo:
+Então, saberão as nações que ficarem de resto em redor de vós que eu, o SENHOR, tenho reedificado as cidades destruídas e plantado o que estava devastado; eu, o SENHOR, o disse e o farei.
+Cantai louvores ao SENHOR, que habita em Sião; anunciai entre os povos os seus feitos,
+Com o benigno te mostrarás benigno; e com o homem sincero te mostrarás sincero;
+E se ensoberbeceram e fizeram abominação diante de mim; pelo que as tirei dali, vendo eu isso.
+E veio a mim a palavra do SENHOR, dizendo:
+Cada um temerá a sua mãe e a seu pai e guardará os meus sábados. Eu sou o SENHOR, vosso Deus.
+Era Moisés da idade de cento e vinte anos quando morreu; os seus olhos nunca se escureceram, nem perdeu ele o seu vigor.
+Entrou, porém, Satanás em Judas, que tinha por sobrenome Iscariotes, o qual era do número dos doze.
+E estes são os filhos de Reuel, filho de Esaú: o príncipe Naate, o príncipe Zerá, o príncipe Samá, o príncipe Mizá; estes são os príncipes de Reuel, na terra de Edom; estes são os filhos de Basemate, mulher de Esaú.
+Ora, a esses quatro jovens Deus deu o conhecimento e a inteligência em todas as letras e sabedoria; mas a  deu entendimento em toda visão e sonhos.
+E não te desviarás de todas as palavras que hoje te ordeno, nem para a direita nem para a esquerda, para andares após outros deuses, para os servires.
+(e uma espada traspassará também a tua própria alma), para que se manifestem os pensamentos de muitos corações.
+Do meio dos homens eram expulsos (gritava-se contra eles como contra um ladrão),
+E, achando-a, a põe sobre seus ombros, cheio de júbilo;
+Filhos dos homens, até quando convertereis a minha glória em infâmia? Até quando amareis a vaidade e buscareis a mentira? (Selá)
+Não que alguém visse ao Pai, a não ser aquele que é de Deus; este tem visto ao Pai.
+E admiravam-se da sua doutrina, porque a sua palavra era com autoridade.
+e Judá gerou de Tamar a Perez e a Zerá, e Perez gerou a Esrom, e Esrom gerou a Arão.
+E tomou Ebede-Meleque os homens consigo, e foi à casa do rei, por debaixo da tesouraria, e tomou dali uns trapos velhos e rotos e roupas velhas em bocados, e desceu-os a Jeremias, no calabouço, por meio de cordas.
+E a Jeoaquim, rei de Judá, dirás: Assim diz o SENHOR: Tu queimaste este rolo, dizendo: Por que escreveste nele anunciando: Certamente, virá o rei da Babilônia, e destruirá esta terra, e fará cessar nela homens e animais?
+E todos ficaram maravilhados, e glorificaram a Deus, e ficaram cheios de temor, dizendo: Hoje, vimos prodígios.
+E ambos sonharam um sonho, cada um seu sonho na mesma noite; cada um conforme a interpretação do seu sonho, o copeiro e o padeiro do rei do Egito, que estavam presos na casa do cárcere.
+Então, se acendeu a ira de Jacó contra Raquel e disse: Estou eu no lugar de Deus, que te impediu o fruto de teu ventre?
+E, vendo-o ela, turbou-se muito com aquelas palavras e considerava que saudação seria esta.
+E, no quarto dia, dez bezerros, dois carneiros, catorze cordeiros de um ano, sem mancha;
+Desde a eternidade, fui ungida; desde o princípio, antes do começo da terra.
+E Moisés, ouvindo isto, Arão foi aceito aos seus olhos.
+Pega-te à correção e não a largues; guarda-a, porque ela é a tua vida.
+Não deixa viver ao ímpio e faz justiça aos aflitos.
+No sétimo mês, no dia quinze do mês, na festa, fará o mesmo todos os sete dias, tanto o sacrifício pela expiação como o holocausto, e como a oferta de manjares, e como o azeite.
+Tu, pois, fala aos filhos de Israel, dizendo: Certamente guardareis meus sábados, porquanto isso é um sinal entre mim e vós nas vossas gerações; para que saibais que eu sou o SENHOR, que vos santifica.
+Apegue-se-me a língua ao paladar se me não lembrar de ti, se não preferir Jerusalém à minha maior alegria.
+Quanto a mim, tu me sustentas na minha sinceridade e me puseste diante da tua face para sempre.
+E nomeou doze para que estivessem com ele e os mandasse a pregar
+Quando eu já há muito quebrava o teu jugo e rompia as tuas algemas, dizias tu: Nunca mais transgredirei; contudo, em todo outeiro alto e debaixo de toda árvore verde te andas encurvando e corrompendo.
+Agora, pois, perdoa o seu pecado; se não, risca-me, peço-te, do teu livro, que tens escrito.
+A mulher louca é alvoroçadora; é néscia e não sabe coisa alguma.
+além dos sábados do SENHOR, e além dos vossos dons, e além de todos os vossos votos, e além de todas as vossas ofertas voluntárias que dareis ao SENHOR.
+E Jotão dormiu com seus pais e foi sepultado junto a seus pais, na Cidade de Davi, seu pai; e Acaz, seu filho, reinou em seu lugar.
+E pôs os levitas na Casa do SENHOR com címbalos, com alaúdes e com harpas, conforme o mandado de Davi e de Gade, o vidente do rei, e do profeta Natã, porque este mandado veio do SENHOR, por mão de seus profetas.
+dos ímpios que me oprimem, dos meus inimigos mortais que me andam cercando.
+como está escrito: O que muito colheu não teve de mais; e o que pouco, não teve de menos.
+E disse isso significando com que morte havia ele de glorificar a Deus. E, dito isso, disse-lhe: Segue-me.
+dizendo: A ti te darei a terra de Canaã, quinhão da vossa herança.
+Quando Cristo, que é a nossa vida, se manifestar, então, também vós vos manifestareis com ele em glória.
+Mas Paulo respondeu: Que fazeis vós, chorando e magoando-me o coração? Porque eu estou pronto não só a ser ligado, mas ainda a morrer em Jerusalém pelo nome do Senhor Jesus.
+E, saídos os judeus da sinagoga, os gentios rogaram que no sábado seguinte lhes fossem ditas as mesmas coisas.
+E da tribo de Benjamim, Gibeão e os seus arrabaldes, Geba e os seus arrabaldes;
+Porém o território da cidade e as suas aldeias deram a Calebe, filho de Jefoné.
+Porque estou prestes a coxear; a minha dor está constantemente perante mim.
+Porque já agora jazeria e repousaria; dormiria, e, então, haveria repouso para mim,
+Então, começou a dizer-lhes: Hoje se cumpriu esta Escritura em vossos ouvidos.
+Assim, entraram nela os filhos e tomaram aquela terra; e abateste perante eles os moradores da terra, os cananeus, e lhos entregaste na mão, como também os reis e os povos da terra, para fazerem deles conforme a sua vontade.
+E levantaram-se de madrugada e juraram um ao outro; depois, os despediu Isaque, e despediram-se dele, em paz.
+E te farei voltear, e te porei seis anzóis, e te farei subir das bandas do Norte, e te trarei aos montes de Israel.
+Já anteriormente o disse e segunda vez o digo, como quando estava presente; mas agora, estando ausente, o digo aos que antes pecaram e a todos os mais que, se outra vez for, não lhes perdoarei,
+Descobrindo-se ambos eles, pois, à guarnição dos filisteus, disseram os filisteus: Eis que já os hebreus saíram das cavernas em que se tinham escondido.
+porque qualquer que fizer a vontade de meu Pai, que está nos céus, este é meu irmão, e irmã, e mãe.
+E, acabando ela de lhe dar de beber, disse: Tirarei também água para os teus camelos, até que acabem de beber.
+Então, o SENHOR se arrependeu disso. Não acontecerá, disse o SENHOR.
+Um vento os envolveu nas suas asas, e envergonhar-se-ão por causa dos seus sacrifícios.
+Quando deu peso ao vento e tomou a medida das águas;
+Edificou ao redor da parede da casa câmaras, ao redor das paredes da casa, tanto do templo como do oráculo; e assim lhe fez câmaras colaterais em redor.
+para que, sendo justificados pela sua graça, sejamos feitos herdeiros, segundo a esperança da vida eterna.
+E não dizem no seu coração: Temamos, agora, ao SENHOR, nosso Deus, que dá chuva, a temporã e a tardia, a seu tempo; e as semanas determinadas da sega nos conserva.
+E, estando ele ainda a falar, eis que uma nuvem luminosa os cobriu. E da nuvem saiu uma voz que dizia: Este é o meu Filho amado, em quem me comprazo; escutai-o.
+E cada um será como a corça que foge e como a ovelha que ninguém recolhe; cada um voltará para o seu povo e cada um fugirá para a sua terra.
+Eis que eu, Paulo, vos digo que, se vos deixardes circuncidar, Cristo de nada vos aproveitará.
+E vi um grande trono branco e o que estava assentado sobre ele, de cuja presença fugiu a terra e o céu, e não se achou lugar para eles.
+E os filhos de Cam são: Cuxe, e Mizraim, e Pute, e Canaã.
+Disse-lhe Nicodemos: Como pode um homem nascer, sendo velho? Porventura, pode tornar a entrar no ventre de sua mãe e nascer?
+Se convém gloriar-me, gloriar-me-ei no que diz respeito à minha fraqueza.
+E disse José a seus irmãos: Peço-vos, chegai-vos a mim. E chegaram-se. Então, disse ele: Eu sou José, vosso irmão, a quem vendestes para o Egito.
+De maneira que o seu termo foi desde Maanaim, mais todo o Basã, todo o reino de Ogue, rei de Basã, e todas as aldeias de Jair, que estão em Basã, sessenta cidades;
+Portanto, Moabe uivará por Moabe; todos uivarão; gemereis pelos fundamentos de Quir-Haresete, pois já estão abalados.
+antes, crescei na graça e conhecimento de nosso Senhor e Salvador Jesus Cristo. A ele seja dada a glória, assim agora como no dia da eternidade. Amém!
+Bendito seja o SENHOR, teu Deus, que teve agrado em ti, para te pôr no trono de Israel; porque o SENHOR ama a Israel para sempre; por isso, te estabeleceu rei, para fazeres juízo e justiça.
+Então, respondeu Bildade, o suíta, e disse:
+O destruidor está já diante de ti; guarda tu a fortaleza, observa o caminho, esforça os lombos, fortalece muito o teu poder.
+Respondeu e disse a Arioque, encarregado do rei: Por que se apressa tanto o mandado da parte do rei? Então, Arioque explicou o caso a Daniel.
+Porque fostes comprados por bom preço; glorificai, pois, a Deus no vosso corpo e no vosso espírito, os quais pertencem a Deus.
+Confia, ó Israel, no SENHOR; ele é teu auxílio e teu escudo.
+E, semelhantemente, também os varões, deixando o uso natural da mulher, se inflamaram em sua sensualidade uns para com os outros, varão com varão, cometendo torpeza e recebendo em si mesmos a recompensa que convinha ao seu erro.
+Irei, porém, ter convosco depois de ter passado pela Macedônia (porque tenho de passar pela Macedônia).
+E fez o rei Roboão em lugar deles escudos de cobre e os entregou nas mãos dos capitães da guarda que guardavam a porta da casa do rei.
+E saiu Moisés, e falou as palavras do SENHOR ao povo, e ajuntou setenta homens dos anciãos do povo e os pôs em roda da tenda.
+É um sábado de descanso para vós, e afligireis a vossa alma; isto é estatuto perpétuo.
+Agora, pois, ó SENHOR, nosso Deus, sê servido de nos livrar da sua mão; e, assim, saberão todos os reinos da terra que só tu és o SENHOR Deus.
+Assim, se acendeu a ira do SENHOR contra Israel, e fê-los andar errantes até que se consumiu toda aquela geração, que fizera mal aos olhos do SENHOR.
+Ali está Edom, os seus reis e todos os seus príncipes, que, no seu poder, foram postos com os que foram traspassados à espada; estes jazem com os incircuncisos e com os que desceram à cova.
+Então, lhes disse José: Isso é o que vos tenho dito, dizendo que sois espias.
+Os simples herdarão a estultícia, mas os prudentes se coroarão de conhecimento.
+Quando votares algum voto ao SENHOR, teu Deus, não tardarás em pagá-lo; porque o SENHOR, teu Deus, certamente o requererá de ti, e em ti haverá pecado.
+tendo primeiramente João, antes da vinda dele, pregado a todo o povo de Israel o batismo do arrependimento.
+Desviaram-se todos e juntamente se fizeram imundos; não há quem faça o bem, não há sequer um.
+Naqueles dias, desceram profetas de Jerusalém para Antioquia.
+E chegaram os cabeças dos pais da geração dos filhos de Gileade, filho de Maquir, filho de Manassés, das famílias dos filhos de José, e falaram diante de Moisés e diante dos maiorais, cabeças dos pais dos filhos de Israel.
+E ele lhes disse: Que palavras são essas que, caminhando, trocais entre vós e por que estais tristes?
+Os teus coroados são como os gafanhotos, e os teus chefes, como os gafanhotos grandes, que se acampam nas sebes nos dias de frio; em subindo o sol, voam, e não se conhece o lugar onde estão.
+porquanto Ana, no seu coração, falava, e só se moviam os seus lábios, porém não se ouvia a sua voz; pelo que Eli a teve por embriagada.
+Então, virás ao outeiro de Deus, onde está a guarnição dos filisteus; e há de ser que, entrando ali na cidade, encontrarás um rancho de profetas que descem do alto e trazem diante de si saltérios, e tambores, e flautas, e harpas; e profetizarão.
+E todos os teus filhos serão discípulos do SENHOR; e a paz de teus filhos será abundante.
+E ele disse: A este tempo determinado, segundo o tempo da vida, abraçarás um filho. E disse ela: Não, meu senhor, homem de Deus, não mintas à tua serva.
+Eis que não te perturbará o meu terror, nem será pesada sobre ti a minha mão.
+E o tirsata lhes disse que não comessem das coisas sagradas, até que se aprestasse um sacerdote com Urim e Tumim.
+Mas o SENHOR me tirou de após o gado e o SENHOR me disse: Vai e profetiza ao meu povo Israel.
+E sucedeu que, posto o sol, houve escuridão; e eis um forno de fumaça e uma tocha de fogo que passou por aquelas metades.
+Então, Faraó se apressou a chamar a Moisés e a Arão e disse: Pequei contra o SENHOR, vosso Deus, e contra vós.
+Porque Baasa, rei de Israel, subiu contra Judá e edificou a Ramá, para que a ninguém fosse permitido sair, nem entrar junto a Asa, rei de Judá.
+Porque o SENHOR será a tua esperança e guardará os teus pés de serem presos.
+Mas, opondo-se os judeus, foi-me forçoso apelar para César, não tendo, contudo, de que acusar a minha nação.
+para que ninguém diga que fostes batizados em meu nome.
+Esta, da parte de Deus, é a porção do homem ímpio; esta é a herança que Deus lhe reserva.
+E, se algum boi escornar homem ou mulher, que morra, o boi será apedrejado certamente, e a sua carne se não comerá; mas o dono do boi será absolvido.
+Então, disse Sarai a Abrão: Meu agravo seja sobre ti. Minha serva pus eu em teu regaço; vendo ela, agora, que concebeu, sou menosprezada aos seus olhos. O SENHOR julgue entre mim e ti.
+E era, dantes, o nome de Hebrom Quiriate-Arba, porque Arba foi um grande homem entre os anaquins. E a terra repousou da guerra.
+E, chegada a tarde, porquanto era o Dia da Preparação, isto é, a véspera do sábado, chegou José de Arimateia, senador honrado, que também esperava o Reino de Deus, e ousadamente foi a Pilatos, e pediu o corpo de Jesus.
+Apartando-me eu um pouco deles, logo achei aquele a quem ama a minha alma; detive-o, até que o introduzi em casa de minha mãe, na câmara daquela que me gerou.
+e as duas pontas das duas cadeiazinhas de fieira meterás nos dois engastes e as porás nas ombreiras do éfode, na frente dele.
+Não respondas ao tolo segundo a sua estultícia, para que também te não faças semelhante a ele.
+Tu, pois, ó filho do homem, profetiza e bate com as mãos uma na outra; porque a espada até à terceira vez se dobrará; a espada é dos atravessados, dos mortalmente feridos e entrará neles até às recâmaras.
+E, havendo-lhes por comum consentimento eleito anciãos em cada igreja, orando com jejuns, os encomendaram ao Senhor em quem haviam crido.
+E, antes que eles dormissem, ela subiu a eles sobre o telhado
+a obra de cada um se manifestará; na verdade, o Dia a declarará, porque pelo fogo será descoberta; e o fogo provará qual seja a obra de cada um.
+Os nossos olhos desfaleciam, esperando vão socorro; olhávamos atentamente para gente que não pode livrar.
+Em Deus nos gloriamos todo o dia e louvamos o teu nome eternamente. (Selá)
+Depois, sabendo Jesus que já todas as coisas estavam terminadas, para que a Escritura se cumprisse, disse: Tenho sede.
+Quem, ó Deus, é semelhante a ti, que perdoas a iniquidade e que te esqueces da rebelião do restante da tua herança? O SENHOR não retém a sua ira para sempre, porque tem prazer na benignidade.
+Quem tem ouvidos ouça o que o Espírito diz às igrejas.
+Longe está o SENHOR dos ímpios, mas escutará a oração dos justos.
+Então, disse-lhe sua sogra: Onde colheste hoje e onde trabalhaste? Bendito seja aquele que te reconheceu. E relatou à sua sogra com quem tinha trabalhado e disse: O nome do homem com quem hoje trabalhei é Boaz.
+Então, cantou Moisés e os filhos de Israel este cântico ao SENHOR; e falaram, dizendo: Cantarei ao SENHOR, porque sumamente se exaltou; lançou no mar o cavalo e o seu cavaleiro.
+Então, Samuel lhe disse: O SENHOR tem rasgado de ti hoje o reino de Israel e o tem dado ao teu próximo, melhor do que tu.
+Porquanto te levantei do pó e te pus por chefe sobre o meu povo Israel, e tu andaste no caminho de Jeroboão e fizeste pecar a meu povo Israel, irritando-me com os seus pecados,
+Também Benaia filho de Joiada, estava com os quereteus e peleteus; porém os filhos de Davi eram príncipes.
+E, por isso, se o faço de boa mente, terei prêmio; mas, se de má vontade, apenas uma dispensação me é confiada.
+Ai daquele que edifica a cidade com sangue e que funda a cidade com iniquidade!
+Assim que já não és mais servo, mas filho; e, se és filho, és também herdeiro de Deus por Cristo.
+E fortificou essas fortalezas, e pôs nelas maiorais, e armazéns de víveres, e de azeite, e de vinho.
+Tenho-me tornado como um estranho para com os meus irmãos, e um desconhecido para com os filhos de minha mãe.
+E disse-me o SENHOR: Os profetas profetizam falsamente em meu nome; nunca os enviei, nem lhes dei ordem, nem lhes falei; visão falsa, e adivinhação, e vaidade, e o engano do seu coração são o que eles vos profetizam.
+Não sabeis vós que a quem vos apresentardes por servos para lhe obedecer, sois servos daquele a quem obedeceis, ou do pecado para a morte, ou da obediência para a justiça?
+(para o que Hirão, rei de Tiro, trouxera a Salomão madeira de cedro e de faia e ouro, segundo todo o seu desejo). Então, deu o rei Salomão a Hirão vinte cidades na terra de Galileia.
+E em Acmetá, no palácio que está na província de Média, se achou um rolo, e nele estava escrito um memorial, que dizia assim:
+e a cegonha, e a garça segundo a sua espécie, e a poupa, e o morcego.
+Portanto, guardareis o sábado, porque santo é para vós; aquele que o profanar certamente morrerá; porque qualquer que nele fizer alguma obra, aquela alma será extirpada do meio do seu povo.
+Então, disse o rei a Ziba: Eis que teu é tudo quanto tem Mefibosete. E disse Ziba: Eu me inclino e que eu ache graça aos teus olhos, ó rei, meu senhor.
+Embora haja eu, na verdade, errado, comigo ficará o meu erro.
+se ajuntaram eles de comum acordo, para pelejar contra  e contra Israel.
+e a sua alma se vai chegando à cova; e a sua vida, ao que traz morte.
+E a terra produziu erva, erva dando semente conforme a sua espécie e árvore frutífera, cuja semente está nela conforme a sua espécie. E viu Deus que era bom.
+orando em todo tempo com toda oração e súplica no Espírito e vigiando nisso com toda perseverança e súplica por todos os santos
+Sucederá, porém, naquele dia, no dia em que vier Gogue contra a terra de Israel, diz o Senhor JEOVÁ, que a minha indignação subirá a meus narizes.
+E falei aos do cativeiro todas as coisas que o SENHOR me tinha mostrado.
+Então, Moisés e Arão se foram de diante da congregação, à porta da tenda da congregação e se lançaram sobre o seu rosto; e a glória do SENHOR lhes apareceu.
+Não se tomarão em penhor as duas mós, nem mesmo a mó de cima, pois se penhoraria, assim, a vida.
+das grandes provas que viram os teus olhos, e dos sinais, e maravilhas, e mão forte, e braço estendido, com que o SENHOR, teu Deus, te tirou; assim fará o SENHOR, teu Deus, com todos os povos, diante dos quais tu temes.
+E te tratarão com ódio, e levarão todo o teu trabalho, e te deixarão nua e despida; e descobrir-se-á a vergonha da tua prostituição, e a tua malignidade, e as tuas devassidões.
+A sua folhagem era formosa, e o seu fruto, abundante, e havia nela sustento para todos; debaixo dela, os animais do campo achavam sombra, e as aves do céu faziam morada nos seus ramos, e toda carne se mantinha dela.
+porque atentou na humildade de sua serva; pois eis que, desde agora, todas as gerações me chamarão bem-aventurada.
+Assim diz o SENHOR dos Exércitos: Eis que o mal sai de nação para nação, e grande tormenta se levantará dos confins da terra.
+Deixou, pois, a mulher o seu cântaro, e foi à cidade, e disse àqueles homens:
+Verdade é que também alguns pregam a Cristo por inveja e porfia, mas outros de boa mente;
+Ao que te ferir numa face, oferece-lhe também a outra; e ao que te houver tirado a capa, nem a túnica recuses.
+Circunvalou-me, e não posso sair; agravou os meus grilhões.
+E depois saiu o seu irmão, em cuja mão estava o fio roxo; e chamaram o seu nome Zerá.
+E, quando parti os sete entre os quatro mil, quantos cestos cheios de pedaços levantastes? E disseram-lhe: Sete.
+E disse Dalila a Sansão: Até agora zombaste de mim e me disseste mentiras; declara-me pois, agora com que poderias ser amarrado? E ele lhe disse: Se teceres sete tranças dos cabelos da minha cabeça com os liços da teia.
+Falou, pois, Moisés aos filhos de Israel; e todos os seus maiorais deram-lhe, cada um, uma vara, para cada maioral uma vara, segundo as casas de seus pais, doze varas; e a vara de Arão estava entre as suas varas.
+então, lhe diziam: Dize, pois, chibolete; porém ele dizia: sibolete, porque o não podia pronunciar assim bem; então, pegavam dele e o degolavam nos vaus do Jordão; e caíram de Efraim, naquele tempo, quarenta e dois mil.
+nem por serem descendência de Abraão são todos filhos; mas: Em Isaque será chamada a tua descendência.
+Tu, com a tua beneficência, guiaste este povo, que salvaste; com a tua força o levaste à habitação da tua santidade.
+Mas a quem assemelharei esta geração? É semelhante aos meninos que se assentam nas praças, e clamam aos seus companheiros,
+Que vos parece? E eles, respondendo, disseram: É réu de morte.
+E ajuntem toda a comida destes bons anos, que vêm, e amontoem trigo debaixo da mão de Faraó, para mantimento nas cidades, e o guardem.
+E cantou Débora e Baraque, filho de Abinoão, naquele mesmo dia, dizendo:
+Mas, à meia-noite, ouviu-se um clamor: Aí vem o esposo! Saí-lhe ao encontro!
+Tu, porém, fala o que convém à sã doutrina.
+porque uma porta grande e eficaz se me abriu; e há muitos adversários.
+Buscavam, pois, a Jesus e diziam uns aos outros, estando no templo: Que vos parece? Não virá à festa?
+Então, chamou Faraó a Moisés e a Arão e disse: Ide e sacrificai ao vosso Deus nesta terra.
+E há de ser que todos os que te virem fugirão de ti e dirão: Nínive está destruída; quem terá compaixão dela? Donde buscarei consoladores para ti?
+Afasta de mim o estrépito dos teus cânticos; porque não ouvirei as melodias dos teus instrumentos.
+Por que diriam os gentios: Onde está o seu Deus? Torne-se manifesta entre as nações, à nossa vista, a vingança do sangue derramado dos teus servos.
+Com indignação marchaste pela terra, com ira trilhaste as nações.
+três mil talentos de ouro, do ouro de Ofir, e sete mil talentos de prata purificada, para cobrir as paredes das casas;
+Também toda veste e toda pele em que houver semente da cópula se lavarão com água e serão imundas até à tarde.
+Josafá, filho de Parua, em Issacar;
+Desvia a tua mão para longe de mim e não me espante o teu terror.
+Não é bom isso que fizeste; vive o SENHOR, que sois dignos de morte, vós que não guardastes a vosso senhor, o ungido do SENHOR; vede, pois, agora, onde está a lança do rei e a bilha da água, que tinha à sua cabeceira.
+Porém os filhos de Benjamim não expeliram os jebuseus que habitavam em Jerusalém; antes, os jebuseus habitaram com os filhos de Benjamim em Jerusalém até ao dia de hoje.
+Aos seus jovens, consumiu-os o fogo, e as suas donzelas não tiveram festa nupcial.
+nan
+Vós, pois, fareis a guarda do santuário e a guarda do altar, para que não haja outra vez furor sobre os filhos de Israel.
+Falaria eu também como vós falais, se a vossa alma estivesse em lugar da minha alma? Ou amontoaria palavras contra vós e menearia contra vós a minha cabeça?
+E será que, acabando tu de ler este livro, o atarás a uma pedra e o lançarás no meio do Eufrates.
+Vinde, ó casa de Jacó, e andemos na luz do SENHOR.
+E os filisteus apertaram com Saul e seus filhos e os filisteus mataram a Jônatas, e a Abinadabe, e a Malquisua, filhos de Saul.
+Eu tornei a voltar-me e determinei em meu coração saber, e inquirir, e buscar a sabedoria e a razão, e conhecer a loucura da impiedade e a doidice dos desvarios.
+para apartar o homem do seu desígnio e esconder do homem a soberba;
+Como o estrondo de carros sobre os cumes dos montes, irão eles saltando; como o ruído da chama de fogo que consome a pragana, como um povo poderoso, ordenado para o combate.
+Mil homens fugirão ao grito de um e, ao grito de cinco, todos vós fugireis, até que sejais deixados como o mastro no cume do monte e como a bandeira no outeiro.
+Porque a palavra do SENHOR é reta, e todas as suas obras são fiéis.
+E, de Bamote, partiram para o vale que está no campo de Moabe, no cume de Pisga, à vista do deserto.
+Nas penhas, mora e habita; no cume das penhas, e nos lugares seguros.
+Eis que a sua alma se incha, não é reta nele; mas o justo, pela sua fé, viverá.
+Para que aproveis as coisas excelentes, para que sejais sinceros e sem escândalo algum até ao Dia de Cristo,
+De maneira que nenhum dom vos falta, esperando a manifestação de nosso Senhor Jesus Cristo,
+quando Deus se levantou para julgar, para livrar a todos os mansos da terra. (Selá)
+E tinham mãos de homem debaixo das suas asas, aos quatro lados; e assim todos quatro tinham seus rostos e suas asas.
+Como está escrito na Lei de Moisés, todo aquele mal nos sobreveio; apesar disso, não suplicamos à face do SENHOR, nosso Deus, para nos convertermos das nossas iniquidades e para nos aplicarmos à tua verdade.
+e entregou o seu povo à espada, e encolerizou-se contra a sua herança.
+Então, enquanto temos tempo, façamos o bem a todos, mas principalmente aos domésticos da fé.
+Também o meu regaço sacudi e disse: Assim sacuda Deus a todo homem da sua casa e do seu trabalho que não cumprir esta palavra; e assim seja sacudido e vazio. E toda a congregação disse: Amém! E louvaram o SENHOR; e o povo fez conforme esta palavra.
+Os mercadores dentre os povos assobiaram sobre ti; tu te tornaste em grande espanto, e nunca mais serás para sempre.
+E a casa que estou para edificar há de ser grande, porque o nosso Deus é maior do que todos os deuses.
+E Moisés deu o dinheiro dos resgatados a Arão e a seus filhos, segundo o mandado do SENHOR, como o SENHOR ordenara a Moisés.
+E a multidão estava assentada ao redor dele, e disseram-lhe: Eis que tua mãe e teus irmãos te procuram e estão lá fora.
+Não há cura para a tua ferida; a tua chaga é dolorosa; todos os que ouvirem a tua fama baterão as palmas sobre ti; porque sobre quem não passou continuamente a tua malícia?
+As minhas ovelhas ouvem a minha voz, e eu conheço-as, e elas me seguem;
+E Israel viu os filhos de José e disse: Quem são estes?
+Também, na verdade, Deus não procede impiamente; nem o Todo-Poderoso perverte o juízo.
+E aconteceu, no dia em que Moisés acabou de levantar o tabernáculo, e o ungiu, e o santificou, e todos os seus utensílios, e também o altar e todos os seus utensílios, e os ungiu, e os santificou,
+Igualmente, o Reino dos céus é semelhante a uma rede lançada ao mar e que apanha toda qualidade de peixes.
+E o sacerdote o queimará sobre o altar em oferta queimada ao SENHOR; expiação da culpa é.
+Mas os meus olhos te contemplam, ó Deus, SENHOR; em ti confio; não desampares a minha alma.
+Nada lhe sobejará para comer; pelo que a sua fazenda não será durável.
+E os filhos da meia tribo de Manassés habitaram naquela terra, de Basã até Baal-Hermom, e Senir, e o monte Hermom; e eles se multiplicaram.
+Gritou, pois, o povo, tocando os sacerdotes as buzinas; e sucedeu que, ouvindo o povo o sonido da buzina, gritou o povo com grande grita; e o muro caiu abaixo, e o povo subiu à cidade, cada qual em frente de si, e tomaram a cidade.
+E disse: Meu Deus! Estou confuso e envergonhado, para levantar a ti a minha face, meu Deus, porque as nossas iniquidades se multiplicaram sobre a nossa cabeça, e a nossa culpa tem crescido até aos céus.
+E um deles, doutor da lei, interrogou-o para o experimentar, dizendo:
+Porque, que prazer teria na sua casa depois de si, cortando-se-lhe o número dos seus meses?
+E eu vos dei a terra em que não trabalhastes e cidades que não edificastes, e habitais nelas; e comeis das vinhas e dos olivais que não plantastes.
+Esperei com paciência no SENHOR, e ele se inclinou para mim, e ouviu o meu clamor.
+A estes Moisés, servo do SENHOR, e os filhos de Israel feriram; e Moisés, servo do SENHOR, deu essa terra em possessão aos rubenitas, e aos gaditas, e à meia tribo de Manassés.
+E o Espírito e a esposa dizem: Vem! E quem ouve diga: Vem! E quem tem sede venha; e quem quiser tome de graça da água da vida.
+Porém os homens de Davi lhe disseram: Eis que tememos aqui em Judá, quanto mais indo a Queila contra os esquadrões dos filisteus.
+E a filha de Tiro estará ali com presentes; os ricos do povo suplicarão o teu favor.
+E o sacerdote tomará daquela oferta de manjares o seu memorial e a queimará sobre o altar; oferta queimada é, de cheiro suave ao SENHOR.
+Contudo, mandou o rei Zedequias a Jucal, filho de Selemias, e a Sofonias, filho de Maaseias, o sacerdote, ao profeta Jeremias, para lhe dizerem: Roga, agora, por nós ao SENHOR, nosso Deus.
+E edifica ao SENHOR, teu Deus, um altar no cume deste lugar forte, num lugar conveniente; e toma o segundo boi e o oferecerás em holocausto com a lenha que cortares do bosque.
+Melhor é a sabedoria do que as armas de guerra, mas um só pecador destrói muitos bens.
+Quanto ao resto dos atos de Ezequias e às suas beneficências, eis que estão escritos na visão do profeta Isaías, filho de Amoz, e no livro da história dos reis de Judá e de Israel.
+E os aveus fizeram Nibaz e Tartaque; e os sefarvitas queimavam seus filhos no fogo a Adrameleque e a Anameleque, deuses de Sefarvaim.
 Não deixará vacilar o teu pé; aquele que te guarda não tosquenejará.
-Depois, porás o pátio ao redor e pendurarás a coberta à porta do pátio.
-Porque a confusão devorou o trabalho de nossos pais, desde a nossa mocidade: as suas ovelhas, e as suas vacas, e os seus filhos, e as suas filhas.
-Se encontrares o boi do teu inimigo ou o seu jumento, desgarrado, sem falta lho reconduzirás.
-Tornaram às maldades de seus primeiros pais, que não quiseram ouvir as minhas palavras; e eles andaram após deuses estranhos para os servir; a casa de Israel e a casa de Judá quebrantaram o meu concerto, que tinha feito com seus pais.
-Trasborda o ribeiro até ao que junto dele habita, de maneira que se não pode passar a pé; então, intervém o homem, e as águas se vão.
-Porque nele se descobre a justiça de Deus de fé em fé, como está escrito: Mas o justo viverá da fé.
-E sucedeu que, entretanto, os céus se enegreceram com nuvens e vento, e veio uma grande chuva; e Acabe subiu ao carro e foi para Jezreel.
-E disse Bate-Seba: Bem, eu falarei por ti ao rei.
-E dormiu Manassés com seus pais, e o sepultaram em sua casa; Amom, seu filho, reinou em seu lugar.
-Eu dormia, mas o meu coração velava; eis a voz do meu amado, que estava batendo: Abre-me, irmã minha, amiga minha, pomba minha, minha imaculada, porque a minha cabeça está cheia de orvalho, os meus cabelos, das gotas da noite.
-Porque Hesbom era cidade de Seom, rei dos amorreus, que tinha pelejado contra o precedente rei dos moabitas e tinha tomado da sua mão toda a sua terra até Arnom.
-E, soprando o vento sul brandamente, lhes pareceu terem já o que desejavam, e, fazendo-se de vela, foram de muito perto costeando Creta.
-(porque meu pai pelejou por vós, e desprezou a sua vida, e vos livrou da mão dos midianitas;
-E olhei, e eis uma nuvem branca e, assentado sobre a nuvem, um semelhante ao Filho do Homem, que tinha sobre a cabeça uma coroa de ouro e, na mão, uma foice aguda.
-Disse, pois, Moisés aos filhos de Israel que celebrassem a Páscoa.
-E foram os filhos de Jaflete: Pasaque, e Bimal, e Asvate; estes foram os filhos de Jaflete.
-E, tendo ele já doze anos, subiram a Jerusalém, segundo o costume do dia da festa.
-Disseram-lhe, pois, os fariseus: Tu testificas de ti mesmo; o teu testemunho não é verdadeiro.
-A voz do SENHOR faz tremer o deserto; o SENHOR faz tremer o deserto de Cades.
+E não haverá fuga para os pastores, nem salvamento para os principais do rebanho.
+O filho de Gérson foi Sebuel, o chefe.
+E eram Abraão e Sara já velhos e adiantados em idade; já a Sara havia cessado o costume das mulheres.
+E será que, havendo-te o SENHOR, teu Deus, introduzido na terra, a que vais para possuí-la, então, pronunciarás a bênção sobre o monte Gerizim e a maldição sobre o monte Ebal.
+Em verdade vos digo que não beberei mais do fruto da vide, até àquele Dia em que o beber novo, no Reino de Deus.
+As varas estarão nas argolas da arca, e não se tirarão dela.
+abençoai aos que vos perseguem; abençoai e não amaldiçoeis.
+Dou graças a Deus por Jesus Cristo, nosso Senhor. Assim que eu mesmo, com o entendimento, sirvo à lei de Deus, mas, com a carne, à lei do pecado.
+Quando por alguém fores convidado às bodas, não te assentes no primeiro lugar, para que não aconteça que esteja convidado outro mais digno do que tu,
+E estava ali conosco um jovem hebreu, servo do capitão da guarda, e contamos-lhos, e interpretou-nos os nossos sonhos, a cada um interpretou conforme o seu sonho.
+Também os judeus que se achavam em Susã se ajuntaram nos dias treze e catorze do mesmo; e repousaram no dia quinze do mesmo e fizeram daquele dia dia de banquetes e de alegria.
+E ouvimos esta voz dirigida do céu, estando nós com ele no monte santo.
+À Babilônia serão levados e ali ficarão até ao dia em que os visitar, diz o SENHOR. Então, os farei subir e os tornarei a trazer a este lugar.
+e que puseste profetas para pregarem de ti em Jerusalém, dizendo: Este é rei em Judá. Ora, o rei o ouvirá, segundo estas palavras; vem, pois, agora, e consultemos juntamente.
+Vede, pois, que não venha sobre vós o que está dito nos profetas:
+Por isso, se chamou aquele lugar Berseba, porquanto ambos juraram ali.
+A meus ouvidos disse o SENHOR dos Exércitos: Em verdade que muitas casas ficarão desertas, e até as grandes e excelentes, sem moradores.
+Porque pôs a sua alma na mão e feriu aos filisteus, e fez o SENHOR um grande livramento a todo o Israel; tu mesmo o viste e te alegraste; por que, pois, pecarias contra sangue inocente, matando Davi sem causa?
+Um certo credor tinha dois devedores; um devia-lhe quinhentos dinheiros, e outro, cinquenta.
+E disse o rei à rainha Ester: Na fortaleza de Susã, mataram e destruíram os judeus quinhentos homens e os dez filhos de Hamã; nas mais províncias do rei, que fariam? Qual é, pois, a tua petição? E dar-se-te-á. Ou qual é ainda o teu requerimento? E far-se-á.
+As linhas caem-me em lugares deliciosos; sim, coube-me uma formosa herança.
+E, ouvindo-o o profeta que o fizera voltar do caminho, disse: É o homem de Deus que foi rebelde à boca do SENHOR; por isso, o SENHOR o entregou ao leão, que o despedaçou e matou, segundo a palavra que o SENHOR lhe tinha dito.
+Estes, pois, são os reis da terra, aos quais os filhos de Israel feriram e possuíram a sua terra dalém do Jordão, ao nascente do sol, desde o ribeiro de Arnom até ao monte Hermom e toda a planície do oriente:
+E, havendo aberto o quarto selo, ouvi a voz do quarto animal, que dizia: Vem e vê!
+Como, não podendo tu voltar o rosto a um só príncipe dos mínimos servos do meu senhor, confias no Egito, por causa dos carros e cavaleiros?
+Cinge os lombos de força e fortalece os braços.
+E não há criatura alguma encoberta diante dele; antes, todas as coisas estão nuas e patentes aos olhos daquele com quem temos de tratar.
+Não que procure dádivas, mas procuro o fruto que aumente a vossa conta.
+e o bufo, e o corvo-marinho, e a coruja,
+Nossa pele se enegreceu como um forno, por causa do ardor da fome.
+Ou te fiarás dele que te torne o que semeaste e o recolha na tua eira?
+deixarás ir livremente a mãe e os filhos tomarás para ti; para que bem te vá, e para que prolongues os dias.
+de maneira que algum homem se houver deitado com ela, e for oculto aos olhos de seu marido, e ela o tiver ocultado, havendo-se ela contaminado, e contra ela não houver testemunha, e no feito não for apanhada,
+e houve chuva sobre a terra quarenta dias e quarenta noites.
+então, levarás o homem ou a mulher que fez este malefício às tuas portas, sim, o tal homem ou mulher, e os apedrejarás com pedras, até que morram.
+e seus irmãos, cabeças dos pais, duzentos e quarenta e dois; e Amasai, filho de Azarel, filho de Azai, filho de Mesilemote, filho de Imer,
+E os onze discípulos partiram para a Galileia, para o monte que Jesus lhes tinha designado.
+E disse-lhe o anjo: Cinge-te e ata as tuas sandálias. E ele o fez assim. Disse-lhe mais: Lança às costas a tua capa e segue-me.
+Depois disto, abriu  a boca e amaldiçoou o seu dia. E Jó, falando, disse:
+Quem fizer uma cova cairá nela, e quem romper um muro, uma cobra o morderá.
+E o rei Salomão ofereceu sacrifícios de bois, vinte e dois mil, e de ovelhas, cento e vinte mil; e o rei e todo o povo consagraram a Casa de Deus.
+Levanta em redor os olhos e vê; todos estes já se ajuntaram e vêm a ti; teus filhos virão de longe, e tuas filhas se criarão ao teu lado.
+Porque o tirano é reduzido a nada, e se consome o escarnecedor, e todos os que se dão a iniquidade são desarraigados,
+As igrejas da Ásia vos saúdam. Saúdam-vos afetuosamente no Senhor Áquila e Prisca, com a igreja que está em sua casa.
+Porque Deus tem posto em seu coração que cumpram o seu intento, e tenham uma mesma ideia, e que deem à besta o seu reino, até que se cumpram as palavras de Deus.
+Porque o que escapou da casa de Judá e ficou de resto tornará a lançar raízes para baixo e dará fruto para cima.
+Porque nós, pelo espírito da fé, aguardamos a esperança da justiça.
+E disse-me: Tornarás a ver ainda maiores abominações do que as que estes fazem.
+Para que os teus amados sejam livres, salva-nos com a tua destra e ouve-nos;
+Mas as vossas iniquidades fazem divisão entre vós e o vosso Deus, e os vossos pecados encobrem o seu rosto de vós, para que vos não ouça.
+E separou, naquele mesmo dia, os bodes listrados e malhados e todas as cabras salpicadas e malhadas, tudo em que havia brancura e todo o moreno entre os cordeiros; e deu-os nas mãos dos seus filhos.
+E, com o sopro dos teus narizes, amontoaram-se as águas; as correntes pararam como montão; os abismos coalharam-se no coração do mar.
+E o seu rei irá para o cativeiro, ele e os seus príncipes juntamente, diz o SENHOR.
+e contigo despedaçarei o homem e a mulher; e contigo despedaçarei o velho e o moço; e contigo despedaçarei o jovem e a virgem;
+então, o sacerdote ordenará que, por aquele que se houver de purificar, se tomem duas aves vivas e limpas, e pau de cedro, e carmesim, e hissopo.
+Porém Jesus, voltando-se para elas, disse: Filhas de Jerusalém, não choreis por mim; chorai, antes, por vós mesmas e por vossos filhos.
+Quando alguém cria delicadamente o seu servo desde a mocidade, por derradeiro ele quererá ser seu filho.
+Olhai para mim e sereis salvos, vós, todos os termos da terra; porque eu sou Deus, e não há outro.
+Não toma prazer o tolo no entendimento, senão em que se descubra o seu coração.
+Mas não o receberam, porque o seu aspecto era como de quem ia a Jerusalém.
+Porque quem o saúda tem parte nas suas más obras.
+eu bem quisera, agora, estar presente convosco e mudar a minha voz; porque estou perplexo a vosso respeito.
+E aconteceu, depois de muitos destes dias, morrendo o rei do Egito, que os filhos de Israel suspiraram por causa da servidão e clamaram; e o seu clamor subiu a Deus por causa de sua servidão.
+Mas eu sou como a oliveira verde na Casa de Deus; confio na misericórdia de Deus para sempre, eternamente.
+para não ouvir a voz dos encantadores, do encantador perito em encantamentos.
+Nem se deita vinho novo em odres velhos; aliás, rompem-se os odres, e entorna-se o vinho, e os odres estragam-se; mas deita-se vinho novo em odres novos, e assim ambos se conservam.
+Fala aos filhos de Israel e dize-lhes: Quando a mulher de alguém se desviar e prevaricar contra ele,
+Finalmente, irmãos, vos rogamos e exortamos no Senhor Jesus que, assim como recebestes de nós, de que maneira convém andar e agradar a Deus, assim andai, para que continueis a progredir cada vez mais;
+nan
+Sejam como pragana perante o vento; o anjo do SENHOR os faça fugir.
+e em Bete-Marcabote, e em Hazar-Susim, e em Bete-Biri, e em Saaraim; estas foram as suas cidades, até que Davi reinou.
+Pleiteaste, Senhor, os pleitos da minha alma, remiste a minha vida.
+Vede a terra dos caldeus, povo que ainda não era povo; a Assíria a fundou para os que moravam no deserto; levantaram as suas fortalezas e edificaram os seus paços, mas já está arruinada de todo.
+Porque já Paulo tinha determinado passar adiante de Éfeso, para não gastar tempo na Ásia. Apressava-se, pois, para estar, se lhe fosse possível, em Jerusalém no dia de Pentecostes.
+nan
+Paulo, porém, fazendo-lhe o governador sinal que falasse, respondeu: Porque sei que já vai para muitos anos que desta nação és juiz, com tanto melhor ânimo respondo por mim.
+Porque por mim mesmo jurei, diz o SENHOR, que Bozra servirá de espanto, de opróbrio, de assolação e de execração; e todas as suas cidades se tornarão em assolações perpétuas.
+e Queila, e Aczibe, e Maressa: nove cidades e as suas aldeias.
+Esta é a terra que sorteareis em herança às tribos de Israel; e estas são as suas porções, diz o Senhor JEOVÁ.
+Confio de vós, no Senhor, que nenhuma outra coisa sentireis; mas aquele que vos inquieta, seja ele quem for, sofrerá a condenação.
+Habitando, pois, os filhos de Israel no meio dos cananeus, e heteus, e amorreus, e ferezeus, e heveus, e jebuseus,
+E vieram à fortaleza de Tiro, e a todas as cidades dos heveus e dos cananeus, e saíram para a banda do sul de Judá, a Berseba.
+Vinde e vede um homem que me disse tudo quanto tenho feito; porventura, não é este o Cristo?
+Também edificou torres no deserto e cavou muitos poços, porque tinha muito gado, tanto nos vales como nas campinas, lavradores e vinhateiros, nos montes e nos campos férteis, porque era amigo da agricultura.
+Subirá mais este termo a Debir, desde o vale de Acor, e olhará pelo norte para Gilgal, a qual está à subida de Adumim, que está para o sul do ribeiro; então, este termo passará até às águas de En-Semes; e as suas saídas estarão da banda de En-Rogel.
+Porque não há coisa oculta que não haja de manifestar-se, nem escondida que não haja de saber-se e vir à luz.
+Disse-lhe ela: Sim, Senhor, creio que tu és o Cristo, o Filho de Deus, que havia de vir ao mundo.
+E disse-lhe Davi: O teu sangue seja sobre a tua cabeça, porque a tua própria boca testificou contra ti, dizendo: Eu matei o ungido do SENHOR.
+Mas temo que, assim como a serpente enganou Eva com a sua astúcia, assim também sejam de alguma sorte corrompidos os vossos sentidos e se apartem da simplicidade que há em Cristo.
+Assim, ó SENHOR, pereçam todos os teus inimigos! Porém os que o amam sejam como o sol quando sai na sua força.
+Muitas filhas agiram virtuosamente, mas tu a todas és superior.
+Disse mais ao rei: Se ao rei parece bem, deem-se-me cartas para os governadores dalém do rio, para que me deem passagem até que chegue a Judá;
+Umas às outras se ligam; tanto aderem entre si, que não se podem separar.
+com todas as suas aldeias que estavam em redor destas cidades, até Baal. Estas foram as suas habitações e suas genealogias.
+E iam no caminho, subindo para Jerusalém; e Jesus ia adiante deles. E eles maravilhavam-se e seguiam-no atemorizados. E, tornando a tomar consigo os doze, começou a dizer-lhes as coisas que lhe deviam sobrevir,
+Também esses dois reis terão o coração atento para fazerem o mal e a uma mesma mesa falarão a mentira; ela, porém, não prosperará, porque o fim há de ser no tempo determinado.
+E puseram as suas armas na casa do seu deus e a sua cabeça fixaram na casa de Dagom.
+Porque o rei, diante de quem falo com ousadia, sabe estas coisas, pois não creio que nada disto lhe é oculto; porque isto não se fez em qualquer canto.
+Eis que aguardei as vossas palavras, e dei ouvidos às vossas considerações, até que buscásseis razões.
+Se alguém tem ouvidos para ouvir, que ouça.
+E, respondendo ele, disse-lhes: Também eu vos farei uma pergunta: dizei-me, pois:
+E fui e escondi-o junto ao Eufrates, como o SENHOR me havia ordenado.
+E também já está posto o machado à raiz das árvores; toda árvore, pois, que não dá bom fruto é cortada e lançada no fogo.
 Dá-me ouvidos, ó Jacó, e tu, ó Israel, a quem chamei; eu sou o mesmo, eu o primeiro, eu também o último.
-Naquele tempo, enviou Merodaque-Baladã, filho de Baladã, rei da Babilônia, cartas e um presente a Ezequias, porque tinha ouvido dizer que havia estado doente e que já tinha convalescido.
-E foi Elias mostrar-se a Acabe; e a fome era extrema em Samaria.
-E formou o SENHOR Deus o homem do pó da terra e soprou em seus narizes o fôlego da vida; e o homem foi feito alma vivente.
-E vos mandei mais, no mesmo tempo, dizendo: O SENHOR, vosso Deus, vos deu esta terra, para possuí-la; passai, pois, armados vós, todos os homens valentes, adiante de vossos irmãos, os filhos de Israel.
-Manda-me, pois, agora um homem sábio para trabalhar em ouro, e em prata, e em bronze, e em ferro, e em púrpura, e em carmesim, e em azul; e que saiba lavrar ao buril, juntamente com os sábios que estão comigo em Judá e em Jerusalém, os quais Davi, meu pai, preparou.
-Então, disse Moisés: Comei-o hoje, porquanto hoje é o sábado do SENHOR; hoje não o achareis no campo.
-E Davi tirou da cabeça do rei a coroa deste e achou nela o peso de um talento de ouro, e havia nela pedras preciosas; e foi posta sobre a cabeça de Davi; e levou da cidade mui grande despojo.
-Porquanto os levitas não têm parte no meio de vós, porém o sacerdócio do SENHOR é a sua parte. E Gade, e Rúben, e a meia tribo de Manassés tomaram a sua herança dalém do Jordão para o oriente, a qual lhes deu Moisés, o servo do SENHOR.
-Então, a porteira disse a Pedro: Não és tu também dos discípulos deste homem? Disse ele: Não sou.
-E estavam os homens de Israel já exaustos naquele dia, porquanto Saul conjurara o povo, dizendo: Maldito o homem que comer pão até à tarde, para que me vingue de meus inimigos. Pelo que todo o povo se absteve de provar pão.
-E disse Abimeleque: Que é isto que nos fizeste? Facilmente se teria deitado alguém deste povo com a tua mulher, e tu terias trazido sobre nós um delito.
-Quando também um homem se deitar com um animal, certamente morrerá; e matareis o animal.
-Mais comprida é a sua medida do que a terra; e mais larga do que o mar.
-E amava Roboão mais a Maaca, filha de Absalão, do que a todas as suas outras mulheres e concubinas; porque ele tinha tomado dezoito mulheres e sessenta concubinas; e gerou vinte e oito filhos, e sessenta filhas.
-Falai benignamente a Jerusalém e bradai-lhe que já a sua servidão é acabada, que a sua iniquidade está expiada e que já recebeu em dobro da mão do SENHOR, por todos os seus pecados.
-Pelo que a ira do SENHOR se acendeu contra esta terra, para trazer sobre ela toda maldição que está escrita neste livro.
-Os seus nazireus eram mais alvos do que a neve, eram mais brancos do que o leite, eram mais roxos de corpo do que os rubins, mais polidos do que a safira.
-E fez Noé conforme tudo o que o SENHOR lhe ordenara.
-E disse Moisés ao SENHOR: Por que fizeste mal a teu servo, e por que não achei graça aos teus olhos, que pusesses sobre mim a carga de todo este povo?
-Furtareis vós, e matareis, e cometereis adultério, e jurareis falsamente, e queimareis incenso a Baal, e andareis após outros deuses que não conhecestes,
-Leu, pois, Baruque naquele livro as palavras de  na Casa do SENHOR, na câmara de Gemarias, filho de Safã, o escriba, no átrio superior, à entrada da Porta Nova da Casa do SENHOR, aos ouvidos de todo o povo.
-Faze, pois, segundo a tua sabedoria e não permitas que suas cãs desçam à sepultura em paz.
-Então, chegaram-se a Moisés os capitães que estavam sobre os milhares do exército, os tribunos e os centuriões,
-Ouvimos a sua fama, afrouxaram-se as nossas mãos; angústia nos tomou, e dores como de parturiente.
+O fruto da tua terra e todo o teu trabalho o comerá um povo que nunca conheceste; e tu serás oprimido e quebrantado todos os dias.
+Então, o SENHOR apareceu na tenda, na coluna de nuvem; e a coluna de nuvem estava sobre a porta da tenda.
+Doce é o sono do trabalhador, quer coma pouco quer muito; mas a fartura do rico não o deixa dormir.
+E toda a província da Judeia e todos os habitantes de Jerusalém iam ter com ele; e todos eram batizados por ele no rio Jordão, confessando os seus pecados.
+E deu-lhes ordem, dizendo: Olhai, poreis emboscadas à cidade, por detrás da cidade; não vos alongueis muito da cidade; e todos vós estareis apercebidos.
+Quão amáveis são os teus tabernáculos, SENHOR dos Exércitos!
+E Arão e seus filhos queimavam perfumes sobre o altar do holocausto e sobre o altar do incenso, para toda obra do lugar santíssimo e para fazer expiação por Israel, conforme tudo quanto Moisés, servo de Deus, tinha ordenado.
+E também estabeleceu Josafá alguns dos levitas, e dos sacerdotes, e dos chefes dos pais de Israel sobre o juízo do SENHOR e sobre as causas judiciais; e tornaram a Jerusalém.
+Todo vale se encherá, e se abaixará todo monte e outeiro; e o que é tortuoso se endireitará, e os caminhos escabrosos se aplanarão;
+Porque enviaram a ele e o chamaram; e veio, pois, Jeroboão com todo o Israel; e falaram a Roboão, dizendo:
+E, sendo o menino já grande, ela o trouxe à filha de Faraó, a qual o adotou; e chamou o seu nome Moisés e disse: Porque das águas o tenho tirado.
+E disse Davi ao sacerdote Aimeleque: O rei me encomendou um negócio e me disse: Ninguém saiba deste negócio pelo qual eu te enviei e o qual te ordenei; quanto aos jovens, apontei-lhes tal e tal lugar.
+Lembra-te de que Jesus Cristo, que é da descendência de Davi, ressuscitou dos mortos, segundo o meu evangelho;
+Porque também Cristo padeceu uma vez pelos pecados, o justo pelos injustos, para levar-nos a Deus; mortificado, na verdade, na carne, mas vivificado pelo Espírito,
+Mas, quando virdes Jerusalém cercada de exércitos, sabei, então, que é chegada a sua desolação.
+há um só corpo e um só Espírito, como também fostes chamados em uma só esperança da vossa vocação;
+Os ouvidos que escutam a repreensão da vida no meio dos sábios farão a sua morada.
+Para que o seu coração não se levante sobre os seus irmãos e não se aparte do mandamento, nem para a direita nem para a esquerda; para que prolongue os dias no seu reino, ele e seus filhos no meio de Israel.
+Todo aquele que crê que Jesus é o Cristo é nascido de Deus; e todo aquele que ama ao que o gerou também ama ao que dele é nascido.
+Portanto, eis que vêm dias, diz o SENHOR, em que nunca mais dirão: Vive o SENHOR, que fez subir os filhos de Israel da terra do Egito,
+Como frieza de neve no tempo da sega, assim é o mensageiro fiel para com os que o enviam; porque alegra a alma dos seus senhores.
+Mas revesti-vos do Senhor Jesus Cristo e não tenhais cuidado da carne em suas concupiscências.
+Muitos, pois, dentre os judeus que tinham vindo a Maria e que tinham visto o que Jesus fizera creram nele.
+Abominação para o SENHOR são os perversos de coração, mas os que são perfeitos em seu caminho são o seu deleite.
+de maneira que Moisés não podia entrar na tenda da congregação, porquanto a nuvem ficava sobre ela, e a glória do SENHOR enchia o tabernáculo.
+E direis ao pai de família da casa: O mestre te diz: Onde está o aposento em que hei de comer a Páscoa com os meus discípulos?
+levarão, pois, as cortinas do tabernáculo, e a tenda da congregação, e a sua coberta, e a coberta de peles de texugos que está em cima, sobre ele, e o véu da porta da tenda da congregação,
+E o cobre da oferta foi setenta talentos e dois mil e quatrocentos siclos.
+E Jacó pôs uma coluna no lugar onde falara com ele, uma coluna de pedra; e derramou sobre ela uma libação e deitou sobre ela azeite.
+E todos os poços que os servos de seu pai tinham cavado nos dias de Abraão, seu pai, os filisteus entulharam e encheram de terra.
+e rasguei o reino da casa de Davi, e a ti to dei, e tu não foste como o meu servo Davi, que guardou os meus mandamentos e que andou após mim com todo o seu coração para fazer somente o que era reto aos meus olhos;
+O meu corpo se arrepiou com temor de ti, e temi os teus juízos.
+Então, disse Jorão: Aparelha o carro. E aparelharam o seu carro. E saiu Jorão, rei de Israel, e Acazias, rei de Judá, cada um em seu carro, e saíram ao encontro de Jeú, e o acharam no pedaço de campo de Nabote, o jezreelita.
+E a fortaleza de Efraim cessará, como também o reino de Damasco e o resíduo da Síria; serão como a glória dos filhos de Israel, diz o SENHOR dos Exércitos.
+Adquire a sabedoria, adquire a inteligência e não te esqueças nem te apartes das palavras da minha boca.
+E engrandeceu-se o varão e ia-se engrandecendo, até que se tornou mui grande;
+Disse, então, Maria: Eis aqui a serva do Senhor; cumpra-se em mim segundo a tua palavra. E o anjo ausentou-se dela.
+Pois assim como o Pai ressuscita os mortos e os vivifica, assim também o Filho vivifica aqueles que quer.
+Anunciai entre as nações a sua glória; entre todos os povos, as suas maravilhas.
+Temestes a espada, e a espada trarei sobre vós, diz o Senhor JEOVÁ.
+Depois, o sacerdote tomará a espádua cozida do carneiro, e um bolo asmo do cesto, e um coscorão asmo e os porá nas mãos do nazireu, depois de haver este rapado a cabeça do seu nazireado.
+nan
+E aconteceu que, como eles tivessem comido completamente a erva da terra, eu disse: Senhor JEOVÁ, perdoa; como se levantará agora Jacó? Pois ele é pequeno.
+E buscar-me-eis e me achareis quando me buscardes de todo o vosso coração.
+Pelo que exortai-vos uns aos outros e edificai-vos uns aos outros, como também o fazeis.
+Então, disse Labão: Este montão seja, hoje, por testemunha entre mim e ti; por isso, se chamou o seu nome Galeede
+E Mical, filha de Saul, não teve filhos, até ao dia da sua morte.
+Pelo que, por lábios estranhos e por outra língua, falará a este povo,
+E, levantando-se toda a multidão deles, o levaram a Pilatos.
+E abriram-se os sepulcros, e muitos corpos de santos que dormiam foram ressuscitados;
+Então, clamamos ao SENHOR, Deus de nossos pais; e o SENHOR ouviu a nossa voz e atentou para a nossa miséria, e para o nosso trabalho, e para a nossa opressão.
+e Azarias, Esdras, Mesulão, Judá, Benjamim, Semaías e Jeremias; e dos filhos dos sacerdotes, com trombetas: Zacarias, filho de Jônatas, filho de Semaías, filho de Matanias, filho de Micaías, filho de Zacur, filho de Asafe,
+Derrama a tua indignação sobre as nações que te não conhecem e sobre as gerações que não invocam o teu nome; porque devoraram a Jacó; devoraram-no, e consumiram-no, e assolaram a sua morada.
+Porque, para Efraim, serei como um leão e como um leãozinho, para a casa de Judá; eu, eu despedaçarei e ir-me-ei embora; arrebatarei, e não haverá quem livre.
+Saí do Pai e vim ao mundo; outra vez, deixo o mundo e vou para o Pai.
+Invoquei o SENHOR na angústia; o SENHOR me ouviu e me pôs em um lugar largo.
+nan
+E, depois dele, Eleazar, filho de Dodô, filho de Aoí, entre os três valentes que estavam com Davi, quando provocaram os filisteus que ali se ajuntaram à peleja e quando de Israel os homens subiram,
+Porém os príncipes de Sucote disseram: Está já a palma da mão de Zeba e de Salmuna na tua mão, para que demos pão ao teu exército?
+Quando, pois, tiveres comido e fores farto, louvarás ao SENHOR, teu Deus, pela boa terra que te deu.
+E a nuvem se desviou de sobre a tenda; e eis que Miriã era leprosa como a neve; e olhou Arão para Miriã, e eis que era leprosa.
+E as famílias dos filhos de Coate, levitas, que ficaram dos filhos de Coate, tiveram as cidades da sua sorte da tribo de Efraim.
+Por estas três pragas foi morta a terça parte dos homens, isto é, pelo fogo, pela fumaça e pelo enxofre, que saíam da sua boca.
+O SENHOR não o deixará em suas mãos, nem o condenará quando for julgado.
+Então, lhe disse Baraque: Se fores comigo, irei; porém, se não fores comigo, não irei.
+Agora, pois, permanecem a fé, a esperança e o amor, estes três; mas o maior destes é o amor.
+Porque visitarei os que habitam na terra do Egito, como visitei Jerusalém, com a espada, com a fome e com a peste.
+A rainha do Sul se levantará no Dia do Juízo com os homens desta geração e os condenará; pois até dos confins da terra veio ouvir a sabedoria de Salomão; e eis aqui está quem é maior do que Salomão.
+Mas agora, conhecendo a Deus ou, antes, sendo conhecidos de Deus, como tornais outra vez a esses rudimentos fracos e pobres, aos quais de novo quereis servir?
+E, no dia seguinte, ajuntaram-se os cabeças dos pais de todo o povo, os sacerdotes e os levitas, a Esdras, o escriba, e isso para atentarem nas palavras da Lei.
+ao único Deus, sábio, seja dada glória por Jesus Cristo para todo o sempre. Amém!
+E, no ano quinze do império de Tibério César, sendo Pôncio Pilatos governador da Judeia, e Herodes, tetrarca da Galileia, e seu irmão Filipe, tetrarca da Itureia e da província de Traconites, e Lisânias, tetrarca de Abilene,
+Os filhos de Gade, segundo as suas gerações: de Zefom, a família dos zefonitas; de Hagi, a família dos hagitas; de Suni, a família dos sunitas;
+Não voltaremos para nossas casas até que os filhos de Israel estejam de posse, cada um, da sua herança.
+Não se fará mal nem dano algum em todo o monte da minha santidade, porque a terra se encherá do conhecimento do SENHOR, como as águas cobrem o mar.
+Então, Israel pôs emboscadas em redor de Gibeá.
+E farei de Jerusalém montões de pedras, morada de dragões, e das cidades de Judá farei uma assolação, de sorte que fiquem desabitadas.
+Porém, falando-vos eu, não ouvistes; antes, fostes rebeldes ao mandado do SENHOR, e vos ensoberbecestes, e subistes à montanha.
+Vós bem intentastes mal contra mim, porém Deus o tornou em bem, para fazer como se vê neste dia, para conservar em vida a um povo grande.
+Fizeram nele ombreiras que se ajuntassem; às suas duas pontas se ajuntavam.
+graça a vós e paz, da parte de Deus, nosso Pai, e da do Senhor Jesus Cristo.
+Mas tudo isso vos farão por causa do meu nome, porque não conhecem aquele que me enviou.
+Mas vós mesmos fazeis a injustiça e fazeis o dano e isso aos irmãos.
+Então, falou Rebeca a Jacó, seu filho, dizendo: Eis que tenho ouvido o teu pai que falava com Esaú, teu irmão, dizendo:
+Bem-aventurado aquele cuja transgressão é perdoada, e cujo pecado é coberto.
+Dizendo eu: Consolar-me-á a minha cama, meu leito aliviará a minha ânsia!
+E, se o povo da terra de alguma maneira esconder os olhos daquele homem que houver dado da sua semente a Moloque e o não matar,
+Então, se levantou Abraão e inclinou-se diante do povo da terra, diante dos filhos de Hete.
+porque me esperavam como à chuva; e abriam a boca como à chuva tardia.
+E Jacó viveu na terra do Egito dezessete anos; de sorte que os dias de Jacó, os anos da sua vida, foram cento e quarenta e sete anos.
+Então, disse o SENHOR a Moisés: Estende a tua mão para o céu, e virão trevas sobre a terra do Egito, trevas que se apalpem.
+E saiu outro cavalo, vermelho; e ao que estava assentado sobre ele foi dado que tirasse a paz da terra e que se matassem uns aos outros; e foi-lhe dada uma grande espada.
+Favos de mel manam dos teus lábios, minha esposa! Mel e leite estão debaixo da tua língua, e o cheiro das tuas vestes é como o cheiro do Líbano.
+Como a perdiz que ajunta ovos que não choca, assim é aquele que ajunta riquezas, mas não retamente; no meio de seus dias as deixará e no seu fim se fará um insensato.
+Então, levantou Abraão os seus olhos e olhou, e eis um carneiro detrás dele, travado pelas suas pontas num mato; e foi Abraão, e tomou o carneiro, e ofereceu-o em holocausto, em lugar de seu filho.
+E andava com eles em Jerusalém, entrando e saindo.
+Porém Naás, amonita, lhes disse: Com esta condição, farei aliança convosco: que a todos vos arranque o olho direito, e assim ponha esta afronta sobre todo o Israel.
+Então, disse ao remidor: Aquela parte da terra que foi de Elimeleque, nosso irmão, Noemi, que tornou da terra dos moabitas, a vendeu.
+E o sacerdote oferecerá um para expiação do pecado e o outro, para holocausto; e, assim, o sacerdote fará por ele expiação do seu fluxo perante o SENHOR.
+E, levado este para cima, usaram de todos os meios, cingindo o navio; e, temendo darem à costa na Sirte, amainadas as velas, assim foram à toa.
+Havia um homem na terra de Uz, cujo nome era Jó; e este era homem sincero, reto e temente a Deus; e desviava-se do mal.
+E os moradores de Jerusalém fizeram rei a Acazias, seu filho mais moço, em seu lugar, porque a tropa que viera com os arábios ao arraial tinha matado a todos os mais velhos; e assim reinou Acazias, filho de Jeorão, rei de Judá.
+Entendeu, pois, o pai que era aquela hora a mesma em que Jesus lhe disse: O teu filho vive; e creu ele, e toda a sua casa.
+E, tendo deliberado em conselho, compraram com elas o campo de um oleiro, para sepultura dos estrangeiros.
+Também lhe farás uma moldura ao redor, da largura de uma mão, e lhe farás uma coroa de ouro ao redor da moldura.
+E a criada, vendo-o outra vez, começou a dizer aos que ali estavam: Este é um dos tais.
+E, agora, vós cuidais em sujeitar a vós os filhos de Judá e Jerusalém, como cativos e cativas; porventura, não sois vós mesmos aqueles entre os quais há culpas contra o SENHOR, vosso Deus?
+Os pés dos seus santos guardará, porém os ímpios ficarão mudos nas trevas; porque o homem não prevalecerá pela força.
+Estes são os filhos de Cam, segundo as suas famílias, segundo as suas línguas, em suas terras, em suas nações.
+E eles julgaram o povo em todo tempo; o negócio árduo traziam a Moisés, e todo negócio pequeno julgavam eles.
+Porque disse no meu zelo, no fogo do meu furor, que, naquele dia, haverá grande tremor sobre a terra de Israel,
+Também as suas vinte colunas e as suas vinte bases serão de cobre; os colchetes das colunas e as suas faixas serão de prata.
+Então, disse o rei da Síria: Vai, anda, e enviarei uma carta ao rei de Israel. E foi e tomou na sua mão dez talentos de prata, e seis mil siclos de ouro, e dez mudas de vestes.
+E buscou Davi a Deus pela criança; e jejuou Davi, e entrou, e passou a noite prostrado sobre a terra.
+E também Salomão está assentado no trono do reino.
+a saber: a vida eterna aos que, com perseverança em fazer bem, procuram glória, e honra, e incorrupção;
+E o SENHOR será visto sobre eles, e as suas flechas sairão como o relâmpago; e o Senhor JEOVÁ fará soar a trombeta e irá com os redemoinhos do Sul.
+Pois qual de vós, querendo edificar uma torre, não se assenta primeiro a fazer as contas dos gastos, para ver se tem com que a acabar?
+E, ouvindo Toú, rei de Hamate, que Davi destruíra todo o exército de Hadadezer, rei de Zobá,
+a saber, um rosto de homem olhava para a palmeira de uma banda, e um rosto de leãozinho, para a palmeira da outra; assim foi feito por toda a casa em redor.
+Bezerra mui formosa é o Egito, mas já vem a destruição; vem do Norte.
+Mas, como cressem em Filipe, que lhes pregava acerca do Reino de Deus e do nome de Jesus Cristo, se batizavam, tanto homens como mulheres.
+Sucedeu, pois, que, ouvindo o rei as palavras do livro da Lei, rasgou as suas vestes.
+E eu disse: Para onde vais tu? E ele me disse: Medir Jerusalém, para ver qual é a sua largura e qual o seu comprimento.
+Eis que a vossa casa vos ficará deserta.
+Geber, filho de Uri, na terra de Gileade, a terra de Seom, rei dos amorreus, e de Ogue, rei de Basã; e só uma guarnição havia naquela terra.
+e pregava, dizendo: Após mim vem aquele que é mais forte do que eu, do qual não sou digno de, abaixando-me, desatar a correia das sandálias.
+para que se cumprisse a palavra do profeta Isaías, que diz: Senhor, quem creu na nossa pregação? E a quem foi revelado o braço do Senhor?
+E houve também holocaustos em abundância, com a gordura das ofertas pacíficas e com as ofertas de vinho para os holocaustos. Assim, se estabeleceu o ministério da Casa do SENHOR.
+Para que andes pelo caminho dos bons e guardes as veredas dos justos.
+Este o sepultou num vale, na terra de Moabe, defronte de Bete-Peor; e ninguém tem sabido até hoje a sua sepultura.
+E, no sétimo dia, tereis santa convocação; nenhuma obra servil fareis.
+E eis que, se ele gerar um filho que veja todos os pecados que seu pai fez, e, vendo-os não cometer coisas semelhantes,
+manteiga de vacas e leite do rebanho, com a gordura dos cordeiros e dos carneiros que pastam em Basã e dos bodes, com a gordura da flor do trigo; e bebeste o sangue das uvas, o vinho puro.
+Saudação da minha própria mão, de mim, Paulo, que é o sinal em todas as epístolas; assim escrevo.
+Se cortar da banda direita, ainda terá fome, e, se comer da banda esquerda, ainda se não fartará; cada um comerá a carne de seu braço:
+E clamavam uns para os outros, dizendo: Santo, Santo, Santo é o SENHOR dos Exércitos; toda a terra está cheia da sua glória.
+Alegra a alma do teu servo, pois a ti, Senhor, levanto a minha alma.
+E, vindo os mensageiros a Gibeá de Saul, falaram estas palavras aos ouvidos do povo. Então, todo o povo levantou a sua voz e chorou.
+Seis dias farás os teus negócios; mas, ao sétimo dia, descansarás; para que descanse o teu boi e o teu jumento; e para que tome alento o filho da tua escrava e o estrangeiro.
+Eis que eu envio um Anjo diante de ti, para que te guarde neste caminho e te leve ao lugar que te tenho aparelhado.
+E, quando os seus parentes ouviram isso, saíram para o prender, porque diziam: Está fora de si.
+e Helcate e os seus arrabaldes, Reobe e os seus arrabaldes: quatro cidades.
+Todo aquele que se aproximar do tabernáculo do SENHOR, morrerá; seremos, pois, todos consumidos?
+Porque qual dos homens sabe as coisas do homem, senão o espírito do homem, que nele está? Assim também ninguém sabe as coisas de Deus, senão o Espírito de Deus.
+Vigiai justamente e não pequeis; porque alguns ainda não têm o conhecimento de Deus; digo-o para vergonha vossa.
+pelas entranhas da misericórdia do nosso Deus, com que o oriente do alto nos visitou,
+Direi a Deus, a minha Rocha: Por que te esqueceste de mim? Por que ando angustiado por causa da opressão do inimigo?
+Quanto ao mais dos atos de Uzias, tanto os primeiros como os derradeiros, o profeta Isaías, filho de Amoz, o escreveu.
+E disse Abraão ao seu servo, o mais velho da casa, que tinha o governo sobre tudo o que possuía: Põe agora a tua mão debaixo da minha coxa,
+E os levitas, Jesua, Cadmiel, Bani, Hasabneias, Serebias, Hodias, Sebanias e Petaías disseram: Levantai-vos, bendizei ao SENHOR, vosso Deus, de eternidade em eternidade; ora, bendigam o nome da tua glória, que está levantado sobre toda bênção e louvor.
+A tua habitação está no meio do engano; pelo engano recusam conhecer-me, diz o SENHOR.
+Em pedaços a partirás e sobre ela deitarás azeite; é oferta de manjares.
+Então, mandou à multidão que se assentasse no chão.
+E a mulher de Sansão foi dada ao seu companheiro, que o acompanhava.
+Então, mandou em busca dele e o trouxe (e era ruivo, e formoso de semblante, e de boa presença). E disse o SENHOR: Levanta-te e unge-o, porque este mesmo é.
+Porém a palavra do SENHOR veio a Semaías, homem de Deus, dizendo:
+Saudai a todos os irmãos com ósculo santo.
+Então, romperá a tua luz como a alva, e a tua cura apressadamente brotará, e a tua justiça irá adiante da tua face, e a glória do SENHOR será a tua retaguarda.
+e pôs-se em pé, e abençoou a toda a congregação de Israel em alta voz, dizendo:
+Ai da nação pecadora, do povo carregado da iniquidade da semente de malignos, dos filhos corruptores! Deixaram o SENHOR, blasfemaram do Santo de Israel, voltaram para trás.
+não se desvie para os seus caminhos o teu coração, e não andes perdido nas suas veredas;
+E Moisés disse a Faraó: Tu tenhas glórias sobre mim. Quando orarei por ti, e pelos teus servos, e por teu povo, para tirar as rãs de ti e das suas casas, de sorte que somente fiquem no rio?
+Salva-me, ó Deus, pelo teu nome, e faze-me justiça pelo teu poder.
+e disse: De quem és filha? Faze-mo saber, peço-te; há também em casa de teu pai lugar para nós pousarmos?
+E Asael seguiu após Abner e não declinou de detrás de Abner, nem para a direita nem para a esquerda.
+E ao anjo da igreja que está em Esmirna escreve: Isto diz o Primeiro e o Último, que foi morto e reviveu:
+Ainda não lestes esta Escritura: A pedra que os edificadores rejeitaram, esta foi posta por cabeça da esquina;
+Os filhos de Merari: Mali, seu filho Libni, seu filho Simei, seu filho Uzá,
+Mas vós vede; eis que de antemão vos tenho dito tudo.
+contra Quedorlaomer, rei de Elão, e Tidal, rei de Goim, e Anrafel, rei de Sinar, e Arioque, rei de Elasar; quatro reis contra cinco.
+mas este, havendo oferecido um único sacrifício pelos pecados, está assentado para sempre à destra de Deus,
+Como na água o rosto corresponde ao rosto, assim o coração do homem ao homem.
+E era a hora terceira, e o crucificaram.
+E, se o irmão ou a irmã estiverem nus e tiverem falta de mantimento cotidiano,
+Porque aqueles, na verdade, por um pouco de tempo, nos corrigiam como bem lhes parecia; mas este, para nosso proveito, para sermos participantes da sua santidade.
+anulamos, pois, a lei pela fé? De maneira nenhuma! Antes, estabelecemos a lei.
+Depois disso, manifestou-se Jesus outra vez aos discípulos, junto ao mar de Tiberíades; e manifestou-se assim:
+(porque o fruto do Espírito está em toda bondade, e justiça, e verdade),
+Conhecemos o amor nisto: que ele deu a sua vida por nós, e nós devemos dar a vida pelos irmãos.
+E, depois de o haverem escarnecido, tiraram-lhe a capa, vestiram-lhe as suas vestes e o levaram para ser crucificado.
+Assim, tornou Esaú aquele dia pelo seu caminho a Seir.
+entregá-los-ei, digo, nas mãos de seus inimigos e nas mãos dos que procuram a sua morte, e os cadáveres deles servirão de mantimento às aves dos céus e aos animais da terra.
+E ouviram uma grande voz do céu, que lhes dizia: Subi cá. E subiram ao céu em uma nuvem; e os seus inimigos os viram.
+No ano primeiro do rei Ciro, o rei Ciro deu esta ordem: Com respeito à Casa de Deus em Jerusalém, essa casa se edificará para lugar em que se ofereçam sacrifícios, e seus fundamentos serão firmes; a sua altura, de sessenta côvados, e a sua largura, de sessenta côvados,
+E disse o rei: Quem falar contra ti, traze-mo a mim; e nunca mais te tocará.
+Então, disse o rei a Hamã: Apressa-te, toma a veste e o cavalo, como disseste, e faze assim para com o judeu Mardoqueu, que está assentado à porta do rei; e coisa nenhuma deixes cair de tudo quanto disseste.
+sendo Anás e Caifás sumos sacerdotes, veio no deserto a palavra de Deus a João, filho de Zacarias.
+E, se alguém ouvir as minhas palavras e não crer, eu não o julgo, porque eu vim não para julgar o mundo, mas para salvar o mundo.
+E, tendo dito isso, um dos criados que ali estavam deu uma bofetada em Jesus, dizendo: Assim respondes ao sumo sacerdote?
+Quando te achegares a alguma cidade a combatê-la, apregoar-lhe-ás a paz.
+nan
+até que o SENHOR dê descanso a vossos irmãos como a vós, para que eles herdem também a terra que o SENHOR, vosso Deus, lhes há de dar dalém do Jordão; então, voltareis cada qual à sua herança, que já vos tenho dado.
+E disse o SENHOR a Moisés: Desce, protesta ao povo que não traspasse o termo para ver o SENHOR, a fim de muitos deles não perecerem.
+Porque, então, darei lábios puros aos povos, para que todos invoquem o nome do SENHOR, para que o sirvam com um mesmo espírito.
+E tiraram as estátuas da casa de Baal, e as queimaram.
+E, havendo-lho permitido, Paulo, pondo-se em pé nas escadas, fez sinal com a mão ao povo; e, feito grande silêncio, falou-lhes em língua hebraica, dizendo:
+Porém Joás disse a todos os que se puseram contra ele: Contendereis vós por Baal? Livrá-lo-eis vós? Qualquer que por ele contender ainda esta manhã será morto; se é deus, por si mesmo contenda; pois derribaram o seu altar.
+Então, viu a sentinela outro homem que corria, e a sentinela gritou ao porteiro, e disse: Eis que lá vem outro homem correndo só. Então, disse o rei: Também este traz novas.
+E viram-no todos os que habitavam em Lida e Sarona, os quais se converteram ao Senhor.
+Se quiserdes, e ouvirdes, comereis o bem desta terra.
+Porque, se ao madeiro verde fazem isso, que se fará ao seco?
+nan
+E outra caiu em boa terra e, nascida, produziu fruto, cento por um. Dizendo ele estas coisas, clamava: Quem tem ouvidos para ouvir, que ouça.
+Então, o mesmo  se distinguiu desses príncipes e presidentes, porque nele havia um espírito excelente; e o rei pensava constituí-lo sobre todo o reino.
+E Festo disse: Rei Agripa e todos os varões que estais presentes conosco, aqui vedes um homem de quem toda a multidão dos judeus me tem falado, tanto em Jerusalém como aqui, clamando que não convém que viva mais.
+E aquele que blasfemar o nome do SENHOR certamente morrerá; toda a congregação certamente o apedrejará; assim o estrangeiro como o natural, blasfemando o nome do SENHOR, será morto.
+Louvai ao SENHOR! Louvai a Deus no seu santuário; louvai-o no firmamento do seu poder.
+Pelo que o SENHOR muito se indignou contra Israel e os tirou de diante da sua face; nada mais ficou, senão a tribo de Judá.
+Perdoa, pois, à tua serva esta transgressão, porque certamente fará o SENHOR casa firme a meu senhor, porque meu senhor guerreia as guerras do SENHOR, e não se tem achado mal em ti por todos os teus dias.
+Então, disse Jacó: Não! Se, agora, tenho achado graça a teus olhos, peço-te que tomes o meu presente da minha mão, porquanto tenho visto o teu rosto, como se tivesse visto o rosto de Deus; e tomaste contentamento em mim.
+Porque quem compreendeu o intento do Senhor? Ou quem foi seu conselheiro?
+e Eliaquim, de Meleá, e Meleá, de Mená, e Mená, de Matatá, e Matatá, de Natã, e Natã, de Davi,
+E outra vez diz Isaías: Uma raiz em Jessé haverá, e, naquele que se levantar para reger os gentios, os gentios esperarão.
+E tomei os levitas em lugar de todo primogênito entre os filhos de Israel.
+Ó SENHOR, quão variadas são as tuas obras! Todas as coisas fizeste com sabedoria; cheia está a terra das tuas riquezas.
+Sai como a flor e se seca; foge também como a sombra e não permanece.
+E estes são os nomes dos filhos de Israel, que vieram ao Egito, Jacó e seus filhos: Rúben, o primogênito de Jacó,
+Então, não ficaria confundido, atentando eu para todos os teus mandamentos.
+Todos estes se ajuntaram no vale de Sidim (que é o mar de Sal).
+Todas as cortinas do pátio ao redor eram de linho fino torcido.
+Pôs também na tenda da congregação o castiçal defronte da mesa, ao lado do tabernáculo para o sul,
+E aconteceu, no trigésimo ano, no quarto mês, no dia quinto do mês, que, estando eu no meio dos cativos, junto ao rio Quebar, se abriram os céus, e eu vi visões de Deus.
+Mas eles se prostraram sobre os seus rostos, e disseram: Ó Deus, Deus dos espíritos de toda carne, pecará um só homem, e indignar-te-ás tu tanto contra toda esta congregação?
+Porque lhes deram as cidades de refúgio, Siquém, e os seus arrabaldes, nas montanhas de Efraim, como também Gezer e os seus arrabaldes,
+Moabe, a minha bacia de lavar; sobre Edom lançarei o meu sapato; sobre a Filístia jubilarei.
+E vos farei misericórdia, para que ele tenha misericórdia de vós e vos faça voltar à vossa terra.
+(Também esta foi contada por terra de gigantes; dantes, nela habitavam gigantes, e os amonitas lhes chamavam zanzumins,
+O SENHOR conhece os pensamentos do homem, que são vaidade.
+Nem tampouco Ezequias vos faça confiar no SENHOR, dizendo: Infalivelmente, nos livrará o SENHOR, e esta cidade não será entregue nas mãos do rei da Assíria.
+Pelo que saí do meio deles, e apartai-vos, diz o Senhor; e não toqueis nada imundo, e eu vos receberei;
+E estes cães são gulosos, não se podem fartar; e eles são pastores que nada compreendem; todos eles se tornam para o seu caminho, cada um para a sua ganância, cada um por sua parte.
+Mas eles ainda os ameaçaram mais e, não achando motivo para os castigar, deixaram-nos ir por causa do povo; porque todos glorificavam a Deus pelo que acontecera,
+A minha alma bastante tempo habitou com os que detestam a paz.
+Toda vara em mim que não dá fruto, a tira; e limpa toda aquela que dá fruto, para que dê mais fruto.
+E o segundo anjo tocou a trombeta; e foi lançada no mar uma coisa como um grande monte ardendo em fogo, e tornou-se em sangue a terça parte do mar.
+E fê-lo Moisés; conforme tudo o que o SENHOR lhe ordenou, assim o fez.
+vós que recebestes a lei por ordenação dos anjos e não a guardastes.
+ou quando alguma pessoa tocar em alguma coisa imunda, seja corpo morto de besta-fera imunda, seja corpo morto de animal imundo, seja corpo morto de réptil imundo, ainda que lhe fosse oculto, contudo, será ele imundo e culpado;
+Pelo que não sejais insensatos, mas entendei qual seja a vontade do Senhor.
+Hipócrita, tira primeiro a trave do teu olho e, então, cuidarás em tirar o argueiro do olho do teu irmão.
+E toda a multidão que se ajuntara a este espetáculo, vendo o que havia acontecido, voltava batendo nos peitos.
+E vos darei pastores segundo o meu coração, que vos apascentem com ciência e com inteligência.
+As palavras do linguareiro são como doces bocados, e elas descem ao íntimo do ventre.
+E ele disse: Põe-lhe o nome de Lo-Ami, porque vós não sois meu povo, nem eu serei vosso Deus.
+Não detenhas dos seus donos o bem, estando na tua mão poder fazê-lo.
+E há de ser que beberás do ribeiro; e eu tenho ordenado aos corvos que ali te sustentem.
+E a coberta da porta do pátio era de obra de bordador, de pano azul, e de púrpura, e de carmesim, e de linho fino torcido; e o comprimento era de vinte côvados, e a altura, na largura, de cinco côvados, defronte das cortinas do pátio.
+A ira do louco se conhece no mesmo dia, mas o avisado encobre a afronta.
+E era a preparação da Páscoa e quase à hora sexta; e disse aos judeus: Eis aqui o vosso rei.
+Filhinhos, é já a última hora; e, como ouvistes que vem o anticristo, também agora muitos se têm feito anticristos; por onde conhecemos que é já a última hora.
+com o novilho oferecerás uma oferta de manjares de três décimas de flor de farinha, misturada com a metade de um him de azeite,
+Em verdade que não convém gloriar-me; mas passarei às visões e revelações do Senhor.
+Assim, Davi fugiu, e escapou, e veio a Samuel, a Ramá, e lhe participou tudo quanto Saul lhe fizera; e foram, ele e Samuel, e ficaram em Naiote.
+Porque o Filho do Homem não veio para destruir as almas dos homens, mas para salvá-las. E foram para outra aldeia.
+e ele e a sua semente depois dele terão o concerto do sacerdócio perpétuo; porquanto teve zelo pelo seu Deus e fez propiciação pelos filhos de Israel.
+Os soberbos zombaram grandemente de mim; apesar disso, não me desviei da tua lei.
+E também aquele que é a Força de Israel não mente nem se arrepende; porquanto não é um homem, para que se arrependa.
+nan
+E levantaram-se de Midiã, e vieram a Parã, e tomaram consigo homens de Parã, e vieram ao Egito a Faraó, rei do Egito, o qual lhe deu uma casa, e lhe prometeu sustento, e lhe deu uma terra.
+Tornou, pois, a entrar Pilatos na audiência, e chamou a Jesus, e disse-lhe: Tu és o rei dos judeus?
+Eu te conheci no deserto, em terra muito seca.
+As profundezas faz ferver, como uma panela; torna o mar como quando os unguentos fervem.
+E lhes mandou enxames de moscas que os consumiram, e rãs que os destruíram.
+Se vós fôsseis do mundo, o mundo amaria o que era seu, mas, porque não sois do mundo, antes eu vos escolhi do mundo, por isso é que o mundo vos aborrece.
+Falou mais o SENHOR a Moisés, dizendo:
+Mas não digo isso para que os outros tenham alívio, e vós, opressão; mas para igualdade; neste tempo presente, a vossa abundância supra a falta dos outros, para que também a sua abundância supra a vossa falta, e haja igualdade,
+Antes de ser quebrantado, eleva-se o coração do homem; e, diante da honra, vai a humildade.
+Este receberá a bênção do SENHOR e a justiça do Deus da sua salvação.
+E virei-me para ver quem falava comigo. E, virando-me, vi sete castiçais de ouro;
+Então, Félix, havendo ouvido estas coisas, lhes pôs dilação, dizendo: Havendo-me informado melhor deste Caminho, quando o tribuno Lísias tiver descido, então tomarei inteiro conhecimento dos vossos negócios.
+Aquietai-vos e sabei que eu sou Deus; serei exaltado entre as nações; serei exaltado sobre a terra.
+Os que contendem com o SENHOR serão quebrantados; desde os céus, trovejará sobre eles; o SENHOR julgará as extremidades da terra, e dará força ao seu rei, e exaltará o poder do seu ungido.
+A todas as meretrizes dão paga, mas tu dás presentes a todos os teus amantes; e lhes dás presentes, para que venham a ti de todas as partes, pelas tuas prostituições.
+E em toda a terra de Israel nem um ferreiro se achava, porque os filisteus tinham dito: Para que os hebreus não façam espada nem lança.
+Porque, se torno a edificar aquilo que destruí, constituo-me a mim mesmo transgressor.
+E, respondendo Jesus, disse: Descia um homem de Jerusalém para Jericó, e caiu nas mãos dos salteadores, os quais o despojaram e, espancando-o, se retiraram, deixando-o meio morto.
+Portanto, estai vós também apercebidos; porque virá o Filho do Homem à hora que não imaginais.
+Tu, pois, não ores por este povo, nem levantes por eles clamor nem oração; porque não os ouvirei no tempo em que eles clamarem a mim, por causa do seu mal.
+Meu Pai, que mas deu, é maior do que todos; e ninguém pode arrebatá-las das mãos de meu Pai.
+Todavia eu antes quero falar na igreja cinco palavras na minha própria inteligência, para que possa também instruir os outros, do que dez mil palavras em língua desconhecida.
+Porque vos digo que, se a vossa justiça não exceder a dos escribas e fariseus, de modo nenhum entrareis no Reino dos céus.
+Estes, pois, ficaram, para por eles o SENHOR provar a Israel, para saber se dariam ouvidos aos seus mandamentos que tinha ordenado a seus pais pelo ministério de Moisés.
+E tirou dali o seu povo com alegria e, os seus escolhidos, com regozijo.
+Como dente quebrado e pé deslocado, assim é a confiança no desleal, no tempo da angústia.
+As nuvens são o escondedouro dele, para que não veja; e ele passeia pelo circuito dos céus.
+E os porteiros: Acube, Talmom, com seus irmãos, os guardas das portas, cento e setenta e dois.
+Então, todo o povo se levantou, desde o menor até ao maior, como também os capitães dos exércitos, e vieram ao Egito, porque temiam os caldeus.
+Os olhos do SENHOR estão sobre os justos; e os seus ouvidos, atentos ao seu clamor.
+Não oferecerás o sangue do meu sacrifício com pão levedado; nem ficará a gordura da minha festa de noite até de manhã.
+E disse: Ah! SENHOR, lembra-te, peço-te, de que andei diante de ti em verdade e com coração perfeito e fiz o que era reto aos teus olhos. E chorou Ezequias muitíssimo.
+Como a cidade derribada, que não tem muros, assim é o homem que não pode conter o seu espírito.
+E contou-lhes também uma parábola sobre o dever de orar sempre e nunca desfalecer,
+E disse-me: Não seles as palavras da profecia deste livro, porque próximo está o tempo.
+Então, ambos os coros pararam na Casa de Deus, como também eu e a metade dos magistrados comigo.
+Também fez as cadeias, como no oráculo, e as pôs sobre as cabeças das colunas; fez também cem romãs, as quais pôs entre as cadeias.
+Voltai à fortaleza, ó presos de esperança; também hoje vos anuncio que vos recompensarei em dobro.
+Da minha honra me despojou; e tirou-me a coroa da minha cabeça.
+Mas, se não quiserem ouvir, totalmente arrancarei a tal nação e a farei perecer, diz o SENHOR.
+nan
+Os rios tapa, e nem uma gota sai deles, e tira para a luz o que estava escondido.
+E, se ninguém vos receber, nem escutar as vossas palavras, saindo daquela casa ou cidade, sacudi o pó dos vossos pés.
+Então, Sansão disse acerca deles: Inocente sou esta vez para com os filisteus, quando lhes fizer algum mal.
+Também todos os vasos de beber do rei Salomão eram de ouro, e todos os objetos da casa do bosque do Líbano eram de ouro puro; não havia neles prata, porque nos dias de Salomão não tinha estimação alguma.
+Levantando ele, pois, os olhos, viu a este passageiro na praça da cidade; e disse o velho: Para onde vais e de onde vens?
+Teus varões cairão à espada, e teus valentes, na peleja.
+por memorial para os filhos de Israel, para que nenhum estranho, que não for da semente de Arão, se chegue para acender incenso perante o SENHOR; para que não seja como Corá e a sua congregação, como o SENHOR lhe tinha dito pela boca de Moisés.
+Quando chegaram a Jerusalém, foram recebidos pela igreja e pelos apóstolos e anciãos e lhes anunciaram quão grandes coisas Deus tinha feito com eles.
+Não cometeu Acã, filho de Zerá, transgressão no tocante ao anátema? E não veio ira sobre toda a congregação de Israel? Assim que aquele homem não morreu só na sua iniquidade.
+Que fareis, pois, irmãos? Quando vos ajuntais, cada um de vós tem salmo, tem doutrina, tem revelação, tem língua, tem interpretação. Faça-se tudo para edificação.
+Passado muito tempo, e sendo já perigosa a navegação, pois também o jejum já tinha passado, Paulo os admoestava,
+Os sacerdotes não disseram: Onde está o SENHOR? E os que tratavam da lei não me conheceram, e os pastores prevaricaram contra mim, e os profetas profetizaram por Baal e andaram após o que é de nenhum proveito.
+Por isso, retêm os céus o seu orvalho, e a terra retém os seus frutos.
+E, castigando-os muitas vezes por todas as sinagogas, os obriguei a blasfemar. E, enfurecido demasiadamente contra eles, até nas cidades estranhas os persegui.
+Eis aqui o meu servo que escolhi, o meu amado, em quem a minha alma se compraz; porei sobre ele o meu Espírito, e anunciará aos gentios o juízo.
+Também farão uma arca de madeira de cetim; o seu comprimento será de dois côvados e meio, e a sua largura, de um côvado e meio, e de um côvado e meio, a sua altura.
+Portanto, ide, ensinai todas as nações, batizando-as em nome do Pai, e do Filho, e do Espírito Santo;
+Então, todo o povo se levantou como um só homem, dizendo: Nenhum de nós irá à sua tenda nem nenhum de nós se retirará à sua casa.
+A tua perversidade e as tuas abominações tu levarás, diz o SENHOR.
+Qualquer, porém, que blasfemar contra o Espírito Santo, nunca obterá perdão, mas será réu do eterno juízo.
+nan
+E armará as tendas do seu palácio entre o mar grande e o monte santo e glorioso; mas virá ao seu fim, e não haverá quem o socorra.
+o qual o oferecerá perante o SENHOR e por ela fará propiciação; e será limpa do fluxo do seu sangue; esta é a lei da que der à luz varão ou fêmea.
+Santos serão a seu Deus e não profanarão o nome do seu Deus, porque oferecem as ofertas queimadas do SENHOR, o pão do seu Deus; portanto, serão santos.
+Então, disse Ester: Se bem parecer ao rei, conceda-se também, amanhã, aos judeus que se acham em Susã que façam conforme o mandado de hoje; e enforquem os dez filhos de Hamã numa forca.
+Mas era justo alegrarmo-nos e regozijarmo-nos, porque este teu irmão estava morto e reviveu; tinha-se perdido e foi achado.
+E nasceram a José dois filhos (antes que viesse o ano de fome), que lhe deu Asenate, filha de Potífera, sacerdote de Om.
+Armou o seu arco, e me pôs como alvo à flecha.
+A quem me fareis semelhante, e com quem me igualareis, e me comparareis, para que sejamos semelhantes?
+Então, se aproximou dele a mãe dos filhos de Zebedeu, com seus filhos, adorando-o e fazendo-lhe um pedido.
+Estes, pois, foram os filhos de Levi pelos seus nomes: Gérson, e Coate, e Merari.
+Mui profundamente se corromperam, como nos dias de Gibeá. Ele lembrar-se-á das suas injustiças, visitará os pecados deles.
+E muitos dos que dormem no pó da terra ressuscitarão, uns para a vida eterna e outros para vergonha e desprezo eterno.
+Direi ao Norte: Dá; e ao Sul: Não retenhas; trazei meus filhos de longe e minhas filhas das extremidades da terra,
+Disse-lhe Jesus: Eu sou a ressurreição e a vida; quem crê em mim, ainda que esteja morto, viverá;
+Já desde Dã se ouve o resfolegar dos seus cavalos; toda a terra treme à voz dos rinchos dos seus fortes; e vêm e devoram a terra, e a sua abundância, e a cidade, e os que habitam nela.
+Vai subindo a Bajite, e a Dibom, e aos lugares altos, a chorar; por Nebo e por Medeba, Moabe uivará; todas as cabeças ficarão calvas, e toda barba será rapada.
+E rogava-lhe muito que os não enviasse para fora daquela província.
+Então, todos os que estavam assentados no conselho, fixando os olhos nele, viram o seu rosto como o rosto de um anjo.
+Mas ao SENHOR, que vos fez subir da terra do Egito com grande força e com braço estendido, a este temereis, e a ele vos inclinareis, e a ele sacrificareis.
+E há de ser que todo aquele que invocar o nome do SENHOR será salvo; porque no monte Sião e em Jerusalém haverá livramento, assim como o SENHOR tem dito, e nos restantes que o SENHOR chamar.
+Porque o Filho do Homem veio salvar o que se tinha perdido.
+Pelo que a ira do SENHOR se acendeu contra Israel, e os deu na mão dos roubadores, e os roubaram; e os entregou na mão dos seus inimigos ao redor; e não puderam mais estar em pé diante dos seus inimigos.
+Mas eu falarei ao Todo-Poderoso; e quero defender-me perante Deus.
+e o degolou; e Moisés espargiu o sangue sobre o altar, em redor.
+Mas recebereis a virtude do Espírito Santo, que há de vir sobre vós; e ser-me-eis testemunhas tanto em Jerusalém como em toda a Judeia e Samaria e até aos confins da terra.
+Por que dais coices contra o sacrifício e contra a minha oferta de manjares, que ordenei na minha morada, e honras a teus filhos mais do que a mim, para vos engordardes do principal de todas as ofertas do meu povo de Israel?
+O lavrador que trabalha deve ser o primeiro a gozar dos frutos.
+O sonido dos horrores está nos seus ouvidos; até na paz lhe sobrevém o assolador.
+e farei tremer todas as nações, e virá o Desejado de todas as nações, e encherei esta casa de glória, diz o SENHOR dos Exércitos.
+e tornarem a despertar, desprendendo-se dos laços do diabo, em cuja vontade estão presos.
+se aquele que ouvir o som da trombeta não se der por avisado, e vier a espada e o tomar, o seu sangue será sobre a sua cabeça.
+Eis que feriu a penha, e águas correram dela; rebentaram ribeiros em abundância; poderá também dar-nos pão ou preparar carne para o seu povo?
+Todavia, como homens morrereis e caireis como qualquer dos príncipes.
+No monte alto de Israel, o plantarei, e produzirá ramos, e dará fruto, e se fará um cedro excelente; e habitarão debaixo dele todas as aves de toda sorte de asas e à sombra dos seus ramos habitarão.
+Mas vós folgareis e exultareis perpetuamente no que eu crio; porque eis que crio para Jerusalém alegria e para o seu povo, gozo.
+E lembravam-se de que Deus era a sua rocha, e o Deus Altíssimo, o seu Redentor.
+Então, aqueles homens foram juntos e acharam  orando e suplicando diante do seu Deus.
+Mas bem-aventurados os vossos olhos, porque veem, e os vossos ouvidos, porque ouvem.
+Porque ele bem sabia que, por inveja, os principais dos sacerdotes o tinham entregado.
+Portanto, no mesmo instante em que todos os povos ouviram o som da buzina, do pífaro, da harpa, da sambuca, do saltério e de toda sorte de música, se prostraram todos os povos, nações e línguas e adoraram a estátua de ouro que o rei Nabucodonosor tinha levantado.
+No princípio do reinado de Zedequias, filho de Josias, rei de Judá, veio, da parte do SENHOR, esta palavra a Jeremias, dizendo:
+Ora, eu rogo a Deus que não façais mal algum, não para que sejamos achados aprovados, mas para que vós façais o bem, embora nós sejamos como reprovados.
+Os pés corta e o dano bebe quem manda mensagens pelas mãos de um tolo.
+Sarando eu a Israel, se descobriu a iniquidade de Efraim, como também as maldades de Samaria, porque praticaram a falsidade; e o ladrão entra, e a horda dos salteadores rouba cá fora.
+Lembra-te de mim para bem, ó meu Deus, e de tudo quanto fiz a este povo.
+Quem suscitou do Oriente o justo e o chamou para o pé de si? Quem deu as nações à sua face e o fez dominar sobre reis? Ele os entregou à sua espada como o pó e como pragana arrebatada do vento, ao seu arco.
+e Me-Jarcom, e Racom com o termo defronte de Jafo.
+Mas a justiça que é pela fé diz assim: Não digas em teu coração: Quem subirá ao céu (isto é, a trazer do alto a Cristo)?
+Na multidão do povo está a magnificência do rei, mas, na falta de povo, a perturbação do príncipe.
+E fez o que era mau aos olhos do SENHOR e andou no caminho de Jeroboão e no seu pecado com que tinha feito pecar a Israel.
+Bani, Binui, Simei, Selemias, Natã, Adaías, Macnadebai, Sasai, Sarai, Azarel, Selemias, Semarias, Salum, Amarias e José.
+Quanto ao mais dos atos de Nadabe e a tudo quanto fez, porventura, não está tudo escrito no Livro das Crônicas dos Reis de Israel?
+Manda, pois, que o sepulcro seja guardado com segurança até ao terceiro dia; não se dê o caso que os seus discípulos vão de noite, e o furtem, e digam ao povo: Ressuscitou dos mortos; e assim o último erro será pior do que o primeiro.
+E eu não o conhecia, mas, para que ele fosse manifestado a Israel, vim eu, por isso, batizando com água.
+para que saibam as vossas gerações que eu fiz habitar os filhos de Israel em tendas, quando os tirei da terra do Egito. Eu sou o SENHOR, vosso Deus.
+E agora, se te querias ir embora, porquanto tinhas saudades de voltar à casa de teu pai, por que furtaste os meus deuses?
+Pelo que disse Moisés a Josué: Escolhe-nos homens, e sai, e peleja contra Amaleque; amanhã, eu estarei no cume do outeiro, e a vara de Deus estará na minha mão.
+E eis que Deus está conosco, à nossa frente, como também os seus sacerdotes, tocando as trombetas, para dar alarme contra vós, ó filhos de Israel; não pelejeis contra o SENHOR, Deus de vossos pais, porque não prosperareis.
+pelas quais coisas vem a ira de Deus sobre os filhos da desobediência;
+Ele, porém, voltando-se, disse a Pedro: Para trás de mim, Satanás, que me serves de escândalo; porque não compreendes as coisas que são de Deus, mas só as que são dos homens.
+Então, o rei fez prosperar a Sadraque, Mesaque e Abede-Nego, na província de Babilônia.
+E Moisés, e Arão, e seus filhos, lavaram nela as mãos e os pés.
+E preparou-lhes Uzias, para todo o exército, escudos, e lanças, e capacetes, e couraças, e arcos, e até fundas para atirar pedras.
+E, passado o luto, enviou Davi e a recolheu em sua casa; e lhe foi por mulher e ela lhe deu um filho. Porém essa coisa que Davi fez pareceu mal aos olhos do SENHOR.
+e Saaraim, e Aditaim, e Gedera, e Gederotaim: catorze cidades e as suas aldeias.
+Mas os filhos de Coate, que restaram da família da tribo, da meia tribo, metade de Manassés, por sorte tiveram dez cidades.
+Assim, o provocaram à ira com as suas ações; e a peste rebentou entre eles.
+congregarei todas as nações e as farei descer ao vale de Josafá; e ali com elas entrarei em juízo, por causa do meu povo e da minha herança, Israel, a quem eles espalharam entre as nações, repartindo a minha terra.
+E, junto ao termo de Gade, da banda do sul, o termo será desde Tamar até às águas da contenda de Cades, para o lado do ribeiro até ao mar Grande.
+e dez príncipes com ele, de cada casa paterna um príncipe, de todas as tribos de Israel; e cada um era cabeça da casa de seus pais nos milhares de Israel.
+Então, disse Davi: Ninguém pode levar a arca do SENHOR, senão os levitas; porque o SENHOR os elegeu, para levarem a arca do SENHOR e para o servirem eternamente.
+Agora, pois, tomai, e fazei-vos um carro novo, e tomai duas vacas que criem, sobre as quais não tenha subido o jugo, e atai as vacas ao carro, e levai os seus bezerros de após elas para casa.
+O que também aprendestes, e recebestes, e ouvistes, e vistes em mim, isso fazei; e o Deus de paz será convosco.
+E, na minha nação, excedia em judaísmo a muitos da minha idade, sendo extremamente zeloso das tradições de meus pais.
+Então, entrou em mim o Espírito, quando falava comigo, e me pôs em pé, e ouvi o que me falava.
+Ali caem os obreiros da iniquidade; cairão e não se poderão levantar.
+Então, ele vos será santuário, mas servirá de pedra de tropeço e de rocha de escândalo às duas casas de Israel; de laço e rede, aos moradores de Jerusalém.
+E tinha este trinta filhos, que cavalgavam sobre trinta jumentos; e tinham trinta cidades, a que chamaram Havote-Jair até ao dia de hoje; as quais estão na terra de Gileade.
+Eram, porém, os filhos de Eli filhos de Belial e não conheciam o SENHOR;
+Eis sobre os montes os pés do que traz boas-novas, do que anuncia a paz! Celebra as tuas festas, ó Judá, cumpre os teus votos, porque o ímpio não tornará mais a passar por ti; ele é inteiramente exterminado.
+Ouvi-me, vós que conheceis a justiça, vós, povo, em cujo coração está a minha lei; não temais o opróbrio dos homens, nem vos turbeis pelas suas injúrias.
+Porém ninguém fora como Acabe, que se vendera para fazer o que era mau aos olhos do SENHOR, porque Jezabel, sua mulher, o incitava.
+E o sacerdote tomará do sangue do sacrifício pela expiação e porá dele nas ombreiras da casa, e nas quatro esquinas da listra do altar, e nas ombreiras da porta do átrio interior.
+Porque os teus servos têm prazer nas suas pedras e se compadecem do seu pó.
+Aquele carneiro que viste com duas pontas são os reis da Média e da Pérsia;
+Então,  falou ao SENHOR, no dia em que o SENHOR deu os amorreus na mão dos filhos de Israel, e disse aos olhos dos israelitas: Sol, detém-te em Gibeão, e tu lua, no vale de Aijalom.
+E não sejais como vossos pais, aos quais clamavam os primeiros profetas, dizendo: Assim diz o SENHOR dos Exércitos: Convertei-vos, agora, dos vossos maus caminhos e das vossas más obras. Mas não ouviram, nem me escutaram, diz o SENHOR.
+em Lode e em Ono, no vale dos Artífices.
+Filho do homem, levanta uma lamentação sobre o rei de Tiro e dize-lhe: Assim diz o Senhor JEOVÁ: Tu és o aferidor da medida, cheio de sabedoria e perfeito em formosura.
+Ainda que chamasse, e ele me respondesse, nem por isso creria que desse ouvidos à minha voz.
+Encha-se a minha boca do teu louvor e da tua glória todo o dia.
+E, por algum tempo, não quis; mas, depois, disse consigo: Ainda que não temo a Deus, nem respeito os homens,
+Porque assim diz o SENHOR acerca dos filhos e das filhas que nascerem neste lugar, acerca de suas mães que os tiverem e de seus pais que os gerarem nesta terra:
+nan
+Porque, tendo sido muitas vezes preso com grilhões e cadeias, as cadeias foram por ele feitas em pedaços, e os grilhões, em migalhas, e ninguém o podia amansar.
+Mas vós negastes o Santo e o Justo e pedistes que se vos desse um homem homicida.
+E me disse: Viste, filho do homem? Então, me levou e me tornou a trazer à margem do ribeiro.
+Caiam os ímpios nas suas próprias redes, até que eu tenha escapado inteiramente.
+E todo o povo que o ouviu e os publicanos, tendo sido batizados com o batismo de João, justificaram a Deus.
+E era trazido um varão que desde o ventre de sua mãe era coxo, o qual todos os dias punham à porta do templo chamada Formosa, para pedir esmola aos que entravam.
+E eu vos digo: granjeai amigos com as riquezas da injustiça, para que, quando estas vos faltarem, vos recebam eles nos tabernáculos eternos.
+nan
+E, tendo eles orado, moveu-se o lugar em que estavam reunidos; e todos foram cheios do Espírito Santo e anunciavam com ousadia a palavra de Deus.
+Quando Efraim viu a sua enfermidade, e Judá, a sua chaga, subiu Efraim à Assíria e enviou ao rei Jarebe; mas ele não poderá curar-vos, nem sarar a vossa chaga.
+Tocai a buzina em Gibeá, a trombeta em Ramá; gritai altamente em Bete-Áven; após ti, ó Benjamim.
+Mas Jesus dizia isso da sua morte; eles, porém, cuidavam que falava do repouso do sono.
+Poder havia em minha mão para vos fazer mal, mas o Deus de vosso pai me falou ontem à noite, dizendo: Guarda-te, que não fales a Jacó nem bem nem mal.
+Disse também o SENHOR a Moisés em Midiã: Vai, volta para o Egito; porque todos os que buscavam a tua alma morreram.
+Procura lembrar-me; entremos em juízo juntamente; apresenta as tuas razões, para que te possa justificar.
+O meu amado é para mim um ramalhete de mirra; morará entre os meus seios.
+porque àquele que tem se dará, e terá em abundância; mas aquele que não tem, até aquilo que tem lhe será tirado.
+Se subir ao céu, tu aí estás; se fizer no Seol a minha cama, eis que tu ali estás também;
+E ouviu Deus a voz do menino, e bradou o Anjo de Deus a Agar desde os céus e disse-lhe: Que tens, Agar? Não temas, porque Deus ouviu a voz do rapaz desde o lugar onde está.
+E, quando veio a tarde, os seus discípulos desceram para o mar.
+E, quanto a ti, filho do homem, não sucederá que, no dia que eu lhes tirar a sua fortaleza, o gozo do seu ornamento, o desejo dos seus olhos, a saudade da sua alma e seus filhos e suas filhas,
+E eles lhe falaram, dizendo: Se te fizeres benigno e afável com este povo e lhes falares boas palavras, todos os dias serão teus servos.
+Pedra preciosa é o presente aos olhos dos que o recebem; para onde quer que se volte, servirá de proveito.
+A sua prata lançarão pelas ruas, e o seu ouro será como imundícia; nem a sua prata nem o seu ouro os poderá livrar no dia do furor do SENHOR; eles não fartarão a sua alma, nem lhes encherão as entranhas, porque isso foi o tropeço da sua maldade.
+Tu, pois, cinge os teus lombos, e levanta-te, e dize-lhes tudo quanto eu te mandar; não desanimes diante deles, porque eu farei com que não temas na sua presença.
+Também todos os objetos que o rei Acaz, no seu reinado, lançou fora, na sua transgressão, já preparamos e santificamos; e eis que estão diante do altar do SENHOR.
+este habitará nas alturas; as fortalezas das rochas serão o seu alto refúgio, o seu pão lhe será dado, e as suas águas serão certas.
+Falou  e disse: Eu estava olhando, na minha visão da noite, e eis que os quatro ventos do céu combatiam no mar grande.
+Quando quer, move a sua cauda como cedro; os nervos da suas coxas estão entretecidos.
+O fim deles é a perdição, o deus deles é o ventre, e a glória deles é para confusão deles mesmos, que só pensam nas coisas terrenas.
+Eu sou o Deus de Betel, onde tens ungido uma coluna, onde me tens feito o voto; levanta-te agora, sai-te desta terra e torna-te à terra da tua parentela.
+Ai de mim, que peregrino em Meseque, e habito nas tendas de Quedar.
+Disse, pois: O SENHOR é o meu rochedo, e o meu lugar forte, e o meu libertador.
+Ora, antes da festa da Páscoa, sabendo Jesus que já era chegada a sua hora de passar deste mundo para o Pai, como havia amado os seus que estavam no mundo, amou-os até ao fim.
+mas da árvore da ciência do bem e do mal, dela não comerás; porque, no dia em que dela comeres, certamente morrerás.
+Então, o rei de Israel ajuntou os profetas até quase quatrocentos homens e disse-lhes: Irei à peleja contra Ramote-Gileade ou deixarei de ir? E eles disseram: Sobe, porque o Senhor a entregará na mão do rei.
+Tão somente os israelitas saquearam para si o gado e os despojos da cidade, conforme a palavra do SENHOR, que tinha ordenado a Josué.
+Ele não está aqui, porque já ressuscitou, como tinha dito. Vinde e vede o lugar onde o Senhor jazia.
+porém, se lhe não armou ciladas, mas Deus o fez encontrar nas suas mãos, ordenar-te-ei um lugar para onde ele fugirá.
+Direis: Envergonhados estamos, porque ouvimos opróbrio; vergonha cobriu o nosso rosto, porque vieram estrangeiros sobre os santuários da Casa do SENHOR.
+se não oprimirdes o estrangeiro, e o órfão, e a viúva, nem derramardes sangue inocente neste lugar, nem andardes após outros deuses para vosso próprio mal,
+O pobre fala com rogos, mas o rico responde com durezas.
+Porém todo o Israel e Judá amavam Davi, porquanto saía e entrava diante deles.
+Por isso, lhes falo por parábolas, porque eles, vendo, não veem; e, ouvindo, não ouvem, nem compreendem.
+À cidade dos fortes sobe o sábio e derruba a força em que confiaram.
+não entrareis na terra, pela qual levantei a minha mão que vos faria habitar nela, salvo Calebe, filho de Jefoné, e Josué, filho de Num.
+E partiram de Alus e acamparam-se em Refidim; porém não havia ali água, para que o povo bebesse.
+Naquele dia, pedireis em meu nome, e não vos digo que eu rogarei por vós ao Pai,
+Mas ele negou diante de todos, dizendo: Não sei o que dizes.
+Então, se chegou Nabucodonosor à porta do forno de fogo ardente; falou e disse: Sadraque, Mesaque e Abede-Nego, servos do Deus Altíssimo, saí e vinde! Então, Sadraque, Mesaque e Abede-Nego saíram do meio do fogo.
+Falou mais o SENHOR a Moisés, dizendo:
+E, sendo já dia, os magistrados mandaram quadrilheiros, dizendo: Soltai aqueles homens.
+Dos izaritas, Quenanias e seus filhos foram postos sobre Israel para a obra de fora, por oficiais e por juízes;
+e chegou até diante da porta do rei; porque ninguém vestido de pano de saco podia entrar pelas portas do rei.
+E veio Abner a Davi, a Hebrom, e vinte homens com ele; e Davi fez um banquete a Abner e aos homens que com ele vinham.
+E eles não compreenderam as palavras que lhes dizia.
+Assim diz o SENHOR dos Exércitos: Eu me recordei do que fez Amaleque a Israel; como se lhe opôs no caminho, quando subia do Egito.
+Então, enviaram a Jezabel, dizendo: Nabote foi apedrejado e morreu.
+Então, Arão, o sacerdote, subiu ao monte Hor, conforme o mandado do SENHOR; e morreu ali, no quinto mês do ano quadragésimo da saída dos filhos de Israel da terra do Egito, no primeiro dia do mês.
+E eis que veio um leproso e o adorou, dizendo: Senhor, se quiseres, podes tornar-me limpo.
+Como o pássaro no seu vaguear, e como a andorinha no seu voo, assim a maldição sem causa não virá.
+dizendo-lhes: Varões, vejo que a navegação há de ser incômoda e com muito dano, não só para o navio e a carga, mas também para a nossa vida.
+E, ouvindo o rei Jeoaquim, e todos os seus valentes, e todos os príncipes as suas palavras, procurou o rei matá-lo. Mas, ouvindo isto Urias, temeu, e fugiu, e foi para o Egito.
+Então, todos os homens de Judá e Benjamim, em três dias, se ajuntaram em Jerusalém; era o nono mês, no dia vinte do mês; e todo o povo se assentou na praça da Casa de Deus, tremendo por este negócio e por causa das grandes chuvas.
+Assim, Salomão veio a Jerusalém, do alto que está em Gibeão, de diante da tenda da congregação; e reinou sobre Israel.
+O SENHOR empobrece e enriquece; abaixa e também exalta.
+Porque sacrificou aos deuses de Damasco, que o feriram, e disse: Visto que os deuses dos reis da Síria os ajudam, eu lhes sacrificarei, para que me ajudem. Porém eles foram a sua ruína e de todo o Israel.
+Meus caminhos te descrevi, e tu me ouviste; ensina-me os teus estatutos.
+O que busca cedo o bem busca favor, mas ao que procura o mal, este lhe sobrevirá.
+Por isso, soará como flautas o meu coração por Moabe; e como flautas soará o meu coração pelos homens de Quir-Heres; porquanto a abundância que ajuntou se perdeu.
+Então, lhes disse: A minha alma está cheia de tristeza até à morte; ficai aqui e vigiai comigo.
+Passando, pois, o SENHOR perante a sua face, clamou: JEOVÁ, o SENHOR, Deus misericordioso e piedoso, tardio em iras e grande em beneficência e verdade;
+Deixa voltar o teu servo, e morrerei na minha cidade junto à sepultura de meu pai e de minha mãe; mas eis aí está o teu servo Quimã; que passe com o rei, meu senhor, e faze-lhe o que bem parecer aos teus olhos.
+e o sacerdote o examinará, e eis que, se a praga se tornou branca, então, o sacerdote declarará limpo o que tem a mancha; limpo está.
+E sucedeu que, pela meia-noite, o homem estremeceu e se voltou; e eis que uma mulher jazia a seus pés.
+Todas as mãos se enfraquecerão, e todos os joelhos destilarão águas.
+Então, veio Adonias, filho de Hagite, a Bate-Seba, mãe de Salomão; e disse ela: De paz é a tua vinda? E ele disse: É de paz.
+No dia em que eu visitar as transgressões de Israel sobre ele, também visitarei os altares de Betel; e os chifres do altar serão cortados e cairão por terra.
+Porque o SENHOR, teu Deus, te mete numa boa terra, terra de ribeiros de águas, de fontes e de abismos, que saem dos vales e das montanhas;
+Se sois homens de retidão, que fique um de vossos irmãos preso na casa de vossa prisão; e, vós, ide, levai trigo para a fome de vossa casa.
+E foram, e encontraram o jumentinho preso fora da porta, entre dois caminhos, e o soltaram.
+Porque o SENHOR ouve os necessitados e não despreza os seus cativos.
+Não se humilharam até ao dia de hoje, nem temeram, nem andaram na minha lei, nem nos meus estatutos, que pus diante de vós e diante de vossos pais.
+Também porá o sacerdote daquele sangue sobre as pontas do altar do incenso aromático, perante o SENHOR, altar que está na tenda da congregação; e todo o resto do sangue do novilho derramará à base do altar do holocausto, que está à porta da tenda da congregação.
+Porque bem sabia ele quem o havia de trair; por isso, disse: Nem todos estais limpos.
+Todo trabalho do homem é para a sua boca, e, contudo, nunca se satisfaz a sua cobiça.
+Então, falou Moisés ao SENHOR, dizendo:
+Todavia, eu sou o SENHOR, teu Deus, desde a terra do Egito; portanto, não reconhecerás outro deus além de mim, porque não há Salvador, senão eu.
+Fez mais o pátio dos sacerdotes e o pátio grande, como também as portadas para o pátio, e as suas portas cobriu de cobre.
+E Davi ia vestido de um roupão de linho fino, como também todos os levitas que levavam a arca, e os cantores, e Quenanias, chefe dos que levavam a arca e dos cantores; também Davi levava sobre si um éfode de linho.
+Saiu, pois, o povo ao campo, a encontrar-se com Israel, e deu-se a batalha no bosque de Efraim.
+Não digas: Como ele me fez a mim, assim lhe farei a ele; pagarei a cada um segundo a sua obra.
+E todos pasmavam e se maravilhavam, dizendo uns aos outros: Pois quê! Não são galileus todos esses homens que estão falando?
+O servo prudente dominará sobre o filho que procede indignamente; e entre os irmãos repartirá a herança.
+Também muitos dos que seguiam artes mágicas trouxeram os seus livros e os queimaram na presença de todos, e, feita a conta do seu preço, acharam que montava a cinquenta mil peças de prata.
+Então, disse o remidor: Para mim não a poderei redimir, para que não cause dano à minha herdade; redime tu a minha remissão para ti, porque eu não a poderei redimir.
+O laço o apanhará pelo calcanhar, e prevalecerá contra ele o salteador.
+E acontecerá que, por causa da abundância do leite que elas hão de dar, comerá manteiga; e manteiga e mel comerá todo aquele que ficar de resto no meio da terra.
+Sucedeu, pois, no sexto ano, no mês sexto, no quinto dia do mês, estando eu assentado na minha casa, e os anciãos de Judá, assentados diante de mim, que ali a mão do Senhor JEOVÁ caiu sobre mim.
+Estes são os filhos de Raquel, que nasceram a Jacó, ao todo catorze almas.
+Abri-me as portas da justiça; entrarei por elas e louvarei ao SENHOR.
+E sucedeu que, depois que Amazias veio da matança dos edomitas, trouxe consigo os deuses dos filhos de Seir, tomou-os por seus deuses, e prostrou-se diante deles, e queimou-lhes incenso.
+orando abundantemente dia e noite, para que possamos ver o vosso rosto e supramos o que falta à vossa fé?
+Estava, pois, ali um vaso cheio de vinagre. E encheram de vinagre uma esponja e, pondo-a num hissopo, lha chegaram à boca.
+Responderam os caldeus na presença do rei e disseram: Não há ninguém sobre a terra que possa declarar a palavra ao rei; pois nenhum rei há, senhor ou dominador, que requeira coisa semelhante de algum mago, ou astrólogo, ou caldeu.
+Estará convosco de cada tribo um homem que seja cabeça da casa de seus pais.
+Porque, quando meu pai e minha mãe me desampararem, o SENHOR me recolherá.
+Mas o Espírito expressamente diz que, nos últimos tempos, apostatarão alguns da fé, dando ouvidos a espíritos enganadores e a doutrinas de demônios,
+Não contaminarás a tua filha, fazendo-a prostituir-se; para que a terra não se prostitua, nem se encha de maldade.
+Os judeus responderam, dizendo-lhe: Não te apedrejamos por alguma obra boa, mas pela blasfêmia, porque, sendo tu homem, te fazes Deus a ti mesmo.
+Eis que um rio trasborda, e ele não se apressa, confiando que o Jordão possa entrar na sua boca.
+A luz se escurecerá nas suas tendas, e sua lâmpada sobre ele se apagará.
+Findam aqui as orações de Davi, filho de Jessé.
+nan
+Assim fez as colunas juntamente com duas fileiras ao redor sobre uma rede, para cobrir os capitéis que estavam sobre a cabeça das romãs; assim também fez com o outro capitel.
+Como, pois, pode o servo deste meu senhor falar com aquele meu senhor? Porque, quanto a mim, desde agora não resta força em mim, e não ficou em mim fôlego.
+O Senhor JEOVÁ assim me fez ver: eis que ele formava gafanhotos no princípio do rebento da erva serôdia, e eis que era a erva serôdia depois da segada do rei.
+Então, eu disse: Senhor JEOVÁ, cessa agora; como se levantará Jacó? Pois ele é pequeno.
+nem, de graça, comemos o pão de homem algum, mas com trabalho e fadiga, trabalhando noite e dia, para não sermos pesados a nenhum de vós;
+Porém Davi tomou a fortaleza de Sião; esta é a Cidade de Davi.
+Portanto, não os temais, porque nada há encoberto que não haja de revelar-se, nem oculto que não haja de saber-se.
+Ninguém que milita se embaraça com negócio desta vida, a fim de agradar àquele que o alistou para a guerra.
+Também o rei fez que houvesse prata em Jerusalém como pedras e cedros em tanta abundância como as figueiras bravas que há pelas campinas.
+Semearam trigo e segaram espinhos; cansaram-se, mas de nada se aproveitaram; estais envergonhados das vossas colheitas, por causa do ardor da ira do SENHOR.
+Mas para vós que temeis o meu nome nascerá o sol da justiça e salvação trará debaixo das suas asas; e saireis e crescereis como os bezerros do cevadouro.
+E eis que Saul vinha do campo, atrás dos bois; e disse Saul: Que tem o povo, que chora? E contaram-lhe as palavras dos homens de Jabes.
+Digo-vos que, depressa, lhes fará justiça. Quando, porém, vier o Filho do Homem, porventura, achará fé na terra?
+Os olhos que zombam do pai ou desprezam a obediência da mãe, corvos do ribeiro os arrancarão, e os pintãos da águia os comerão.
+Ou cuidais vós que em vão diz a Escritura: O Espírito que em nós habita tem ciúmes?
+O mesmo Espírito testifica com o nosso espírito que somos filhos de Deus.
+E Moisés falou isso a Arão, e a seus filhos, e a todos os filhos de Israel.
+que faz com que a mulher estéril habite em família e seja alegre mãe de filhos? Louvai ao SENHOR!
+Porque os filhos de Amom e de Moabe se levantaram contra os moradores das montanhas de Seir, para os destruir e exterminar; e, acabando eles com os moradores de Seir, ajudaram uns aos outros a destruir-se.
+Não é este o filho do carpinteiro? E não se chama sua mãe Maria, e seus irmãos, Tiago, e José, e Simão, e Judas?
+Depois, pôs-lhe o peitoral, pondo no peitoral o Urim e o Tumim;
+Porém, agora, não subsistirá o teu reino; já tem buscado o SENHOR para si um homem segundo o seu coração e já lhe tem ordenado o SENHOR que seja chefe sobre o seu povo, porquanto não guardaste o que o SENHOR te ordenou.
+Então, ele disse-lhe: Por essa palavra, vai; o demônio já saiu de tua filha.
+Mas eles diziam: Não na festa, para que, porventura, se não faça alvoroço entre o povo.
+também vos destinarei à espada, e todos vos encurvareis à matança, porquanto chamei, e não respondestes; falei, e não ouvistes, mas fizestes o que é mal aos meus olhos e escolhestes aquilo em que eu não tinha prazer.
+e os que estavam contados pelas genealogias dos sacerdotes, segundo a casa de seus pais, como também os levitas, da idade de vinte anos e daí para cima, nas suas guardas, segundo as suas turmas;
+A tua palavra é a verdade desde o princípio, e cada um dos teus juízos dura para sempre.
+Então, me disse: Esta é a maldição que sairá pela face de toda a terra; porque qualquer que furtar será desarraigado, conforme a maldição de um lado; e qualquer que jurar falsamente será desarraigado, conforme a maldição do outro lado.
+E Absalão constituiu a Amasa em lugar de Joabe sobre o arraial: e era Amasa filho de um homem cujo nome era Itra, o israelita, o qual entrara a Abigail, filha de Naás, irmã de Zeruia, mãe de Joabe.
+Por que estamos nós também a toda hora em perigo?
+Celebrai com júbilo ao SENHOR, todos os moradores da terra.
+E não somente esta, mas também Rebeca, quando concebeu de um, de Isaque, nosso pai;
+Mas os levitas que se apartaram para longe de mim, quando Israel andava errado, que andavam transviados, desviados de mim, para irem atrás dos seus ídolos, bem levarão sobre si a sua iniquidade.
+Porque os costumes dos povos são vaidade; pois cortam do bosque um madeiro, obra das mãos do artífice, com machado.
+segundo o que está escrito no livro das palavras do profeta Isaías, que diz: Voz do que clama no deserto: Preparai o caminho do Senhor; endireitai as suas veredas.
+Certamente o Senhor JEOVÁ não fará coisa alguma, sem ter revelado o seu segredo aos seus servos, os profetas.
+assim o homem se deita e não se levanta; até que não haja mais céus, não acordará, nem se erguerá de seu sono.
+E o Anjo de Deus, que ia adiante do exército de Israel, se retirou e ia atrás deles; também a coluna de nuvem se retirou de diante deles e se pôs atrás deles.
+E disse ele: Que te darei? Então, disse Jacó: Nada me darás; tornarei a apascentar e a guardar o teu rebanho, se me fizeres isto:
+para que ensinem as mulheres novas a serem prudentes, a amarem seus maridos, a amarem seus filhos,
+Eu, porém, vos digo: Amai a vossos inimigos, bendizei os que vos maldizem, fazei bem aos que vos odeiam e orai pelos que vos maltratam e vos perseguem,
+E, naquele mesmo dia, farás saber a teu filho, dizendo: Isto é pelo que o SENHOR me tem feito, quando eu saí do Egito.
+Assim farás dos teus bois e das tuas ovelhas; sete dias estarão com sua mãe, e ao oitavo dia mos darás.
+Ora, o fruto da justiça semeia-se na paz, para os que exercitam a paz.
+Porque desejo ver-vos, para vos comunicar algum dom espiritual, a fim de que sejais confortados,
+A minha alma consome-se de tristeza; fortalece-me segundo a tua palavra.
+para o sábio ouvir e crescer em sabedoria, e o instruído adquirir sábios conselhos;
+Havendo, pois, o SENHOR Deus formado da terra todo animal do campo e toda ave dos céus, os trouxe a Adão, para este ver como lhes chamaria; e tudo o que Adão chamou a toda a alma vivente, isso foi o seu nome.
+E porfiou com eles muito, e vieram com ele e entraram em sua casa; e fez-lhes banquete e cozeu bolos sem levedura, e comeram.
+A minha benignidade lhe guardarei para sempre, e o meu concerto lhe será firme.
+O que vendo Acazias, rei de Judá, fugiu pelo caminho da casa do jardim, porém Jeú seguiu após ele e disse: Feri também a este no carro à subida de Gur, que está junto a Ibleão. E fugiu para Megido e morreu ali.
+E os filhos de Mica foram Pitom, e Meleque, e Tareia.
+Pelo que dissemos: Façamos, agora, e nos edifiquemos um altar, não para holocausto, nem para sacrifício,
+Espere Israel no SENHOR, desde agora e para sempre.
+E toda a multidão se admirava e dizia: Não é este o Filho de Davi?
+E engrandeci-me e aumentei mais do que todos os que houve antes de mim, em Jerusalém; perseverou também comigo a minha sabedoria.
+E Maria era aquela que tinha ungido o Senhor com unguento e lhe tinha enxugado os pés com os seus cabelos, cujo irmão, Lázaro, estava enfermo.
+Porventura, são todos apóstolos? São todos profetas? São todos doutores? São todos operadores de milagres?
+Só por um pouco de tempo, foi possuída pelo teu santo povo; nossos adversários pisaram o teu santuário.
+não verão a terra de que a seus pais jurei, e até nenhum daqueles que me provocaram a verá.
+E sucedeu que, ouvindo Sambalate, e Tobias, e os arábios, e os amonitas, e os asdoditas que tanto ia crescendo a reparação dos muros de Jerusalém, que já as roturas se começavam a tapar, iraram-se sobremodo.
+E ofereceram para a consagração desta Casa de Deus cem novilhos, duzentos carneiros, quatrocentos cordeiros e doze cabritos, por expiação do pecado de todo o Israel, segundo o número das tribos de Israel.
+E viveu Jarede cento e sessenta e dois anos e gerou a Enoque.
+ainda que nos quebrantaste num lugar de dragões e nos cobriste com a sombra da morte.
+uns homens, filhos de Belial, saíram do meio de ti, que incitaram os moradores da sua cidade, dizendo: Vamos e sirvamos a outros deuses que não conheceste,
+Mas, tendo ouvido Jacó que no Egito havia trigo, enviou ali nossos pais, a primeira vez.
+E o rei mandou a Hilquias, o sacerdote, e a Aicão, filho de Safã, e a Acbor, filho de Micaías, e a Safã, o escrivão, e a Asaías, o servo do rei, dizendo:
+E disse Maria ao anjo: Como se fará isso, visto que não conheço varão?
+E suscitou-se entre eles uma discussão sobre qual deles seria o maior.
+Pois tu és a glória da sua força; e pelo teu favor será exaltado o nosso poder.
+As tuas santas cidades estão feitas um deserto; Sião está feita um deserto, Jerusalém está assolada.
+Portanto, dize: Assim diz o Senhor JEOVÁ: Ainda que os lancei para longe entre as nações e ainda que os espalhei pelas terras, todavia, lhes servirei de santuário, por um pouco de tempo, nas terras para onde foram.
+e atentardes para o que traz a veste preciosa e lhe disserdes: Assenta-te tu aqui, num lugar de honra, e disserdes ao pobre: Tu, fica aí em pé ou assenta-te abaixo do meu estrado,
+Ouvindo este que Jesus vinha da Judeia para a Galileia, foi ter com ele e rogou-lhe que descesse e curasse o seu filho, porque já estava à morte.
+E Acaz enviou mensageiros a Tiglate-Pileser, rei da Assíria, dizendo: Eu sou teu servo e teu filho; sobe e livra-me das mãos do rei da Síria e das mãos do rei de Israel, que se levantam contra mim.
+Todavia, o homem que está em honra não permanece; antes, é como os animais, que perecem.
+E todos os homens de Israel se juntaram, na festa, ao rei Salomão, no mês de etanim, que é o sétimo mês.
+E, falando-lhe outra vez, disse: Que são aqueles dois raminhos de oliveira que estão junto aos dois tubos de ouro e que vertem de si ouro?
+Contudo, temerariamente, tentaram subir ao cume do monte; mas a arca do concerto do SENHOR e Moisés não se apartaram do meio do arraial.
+Também tomaram os caldeirões, e as pás, e os garfos, e as bacias, e os perfumadores, e todos os utensílios de bronze, com que se ministrava.
+Considera como amo os teus preceitos; vivifica-me, ó SENHOR, segundo a tua benignidade.
+Saberia as palavras com que ele me responderia e entenderia o que me dissesse.
+Após o SENHOR, vosso Deus, andareis, e a ele temereis, e os seus mandamentos guardareis, e a sua voz ouvireis, e a ele servireis, e a ele vos achegareis.
+Porque um testamento tem força onde houve morte; ou terá ele algum valor enquanto o testador vive?
+nem sairá do santuário, para que não profane o santuário do seu Deus, pois a coroa do azeite da unção do seu Deus está sobre ele. Eu sou o SENHOR.
+Não confie, pois, na vaidade enganando-se a si mesmo, porque a vaidade será a sua recompensa.
+E Elias lhe disse: Eliseu, fica-te aqui, porque o SENHOR me enviou a Jericó. Porém ele disse: Vive o SENHOR, e vive a tua alma, que te não deixarei. E assim vieram a Jericó.
+Sede, pois, misericordiosos, como também vosso Pai é misericordioso.
+Sucedeu, porém, que, no sétimo mês, veio Ismael, filho de Netanias, o filho de Elisama, da semente real, e dez homens com ele, e feriram Gedalias, e ele morreu, como também os judeus, e os caldeus que estavam com ele em Mispa.
+Porque convém que o bispo seja irrepreensível como despenseiro da casa de Deus, não soberbo, nem iracundo, nem dado ao vinho, nem espancador, nem cobiçoso de torpe ganância;
+Mas, vendo-o os lavradores, arrazoaram entre si dizendo: Este é o herdeiro; vinde, matemo-lo, para que a herança seja nossa.
+E os céus e a terra, com tudo quanto neles há, jubilarão sobre a Babilônia, porque do Norte lhe virão os destruidores, diz o SENHOR.
+E dos levitas: Jozabade, e Simei, e Quelaías (este é Quelita), e Petaías, e Judá, e Eliézer.
+porque Zedequias, rei de Judá, o tinha encerrado, dizendo: Por que profetizas tu, dizendo: Assim diz o SENHOR: Eis que entrego esta cidade nas mãos do rei da Babilônia, e ele a tomará;
+E foram as suas aldeias: Etã, e Aim, e Rimom, e Toquém, e Asã; cinco cidades,
+e que foi sepultado, e que ressuscitou ao terceiro dia, segundo as Escrituras,
+Pelo que também o primeiro não foi consagrado sem sangue;
+Porque a sua chaga é incurável, porque chegou até Judá; estendeu-se até à porta do meu povo, até Jerusalém.
+Porém ele não estendeu a sua mão sobre os escolhidos dos filhos de Israel; mas viram a Deus, e comeram, e beberam.
+Sou como um prodígio para muitos, mas tu és o meu refúgio forte.
+E disse o rei à mulher: Vai para tua casa, e eu mandarei ordem acerca de ti.
+E o rei lhes respondeu asperamente, porque o rei Roboão deixou o conselho dos anciãos.
+Orai por nós, porque confiamos que temos boa consciência, como aqueles que em tudo querem portar-se honestamente.
+E, vindo Abigail a Nabal, eis que tinha em sua casa um banquete, como banquete de rei; e o coração de Nabal estava alegre nele, e ele já mui embriagado, pelo que não lhe deu a entender palavra alguma, pequena nem grande, até à luz da manhã.
+Porque, se fomos plantados juntamente com ele na semelhança da sua morte, também o seremos na da sua ressurreição;
+Disse, pois, Jeremias: Veio a mim a palavra do SENHOR, dizendo:
+E qualquer que escandalizar um destes pequeninos que creem em mim, melhor lhe fora que lhe pusessem ao pescoço uma grande pedra de moinho e que fosse lançado no mar.
+servindo ao Senhor com toda a humildade e com muitas lágrimas e tentações que, pelas ciladas dos judeus, me sobrevieram;
+E tinha o filho de Saul dois homens capitães de tropas; e era o nome de um Baaná, e o nome do outro, Recabe, filhos de Rimom, o beerotita, dos filhos de Benjamim, porque também Beerote se reputava de Benjamim.
+E, ao fim dos dez dias, pareceram os seus semblantes melhores; eles estavam mais gordos do que todos os jovens que comiam porção do manjar do rei.
