@@ -7,6 +7,9 @@ import argparse
 parser = argparse.ArgumentParser(description='Process some integers.')
 parser.add_argument('--model', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
+parser.add_argument('--embedding', action='store_true', type=bool,
+                    help='an integer for the accumulator', required=True)
+
 args = parser.parse_args()
 
 nltk.download('punkt')
@@ -21,7 +24,13 @@ training_steps = 10000
 
 def create_config_file(folder_name_):
     global training_steps
-    model_config = open(f'{ENCODER}/{ENCODER}.config.yaml').read()
+    if args.embedding:
+        emb_config = "both_embeddings: glove_dir/glove_s300.txt\n\
+                      embeddings_type: \"GloVe\"\n\
+                      word_vec_size: 300\n\n"
+        model_config = open(f'{ENCODER}/{ENCODER}.config.yaml').read()
+        model_config += emb_config
+
     source_ = folder_name.split('-')[0]
     target_ = folder_name.split('-')[1]
     config_file_path = os.path.join(ENCODER, 'config_files', f'{ENCODER}.{folder_name_}.yaml')
@@ -32,7 +41,7 @@ def create_config_file(folder_name_):
     file.write(source_path)
     tgt_path = f"tgt_vocab: datasets/{folder_name_}/vocab/portuguese.vocab\n"
     file.write(tgt_path)
-    options = "overwrite: False\nshare_vocab: True\n"
+    options = "overwrite: True\nshare_vocab: True\n"
     file.write(options)
 
     data_str = "data:\n" \
@@ -52,11 +61,11 @@ def create_config_file(folder_name_):
 
         file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
         file.write('\ngpu_ranks: [0]\n')
-        file.write("batch_size: 32\nvalid_batch_size: 32")
+        file.write("batch_size: 16\nvalid_batch_size: 16")
     else:
         training_steps = 5000
         file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
-        file.write("\nbatch_size: 32\nvalid_batch_size: 32")
+        file.write("\nbatch_size: 16\nvalid_batch_size: 16")
     file.close()
     return config_file_path
 
@@ -86,19 +95,21 @@ for folder_name in os.listdir('datasets/'):
     test_file = f"datasets/{folder_name}/test.{source}"
     pred_file = f"{ENCODER}/prediction/{source}-{target}-pred.txt"
     translate_cmd = f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_{training_steps}.pt -src {test_file} -output {pred_file} -verbose'
-    if torch.cuda.is_available() :
-        translate_cmd+=' -gpu 0'
+    if torch.cuda.is_available():
+        translate_cmd += ' -gpu 0'
     os.system(translate_cmd)
-
     refs = open(f'datasets/{folder_name}/test.{target}', encoding="utf8").readlines()
     refs = list(map(lambda sent: [word_tokenize(sent)], refs))
     inputs = open(f'datasets/{folder_name}/test.{source}', encoding="utf8").readlines()
     hypothesis = open(f'{ENCODER}/prediction/{source}-{target}-pred.txt', encoding='utf8').readlines()
-    hypothesis = list(map(lambda hyp: word_tokenize(hyp), hypothesis))
+    try:
 
-    BLEUscore = nltk.translate.bleu_score.corpus_bleu(refs, hypothesis)
-    results_file.write('{},{:.2f}\n'.format(folder_name, BLEUscore))
-    print('{},{:.2f}\n'.format(folder_name, BLEUscore))
+        BLEUscore = nltk.translate.bleu_score.corpus_bleu(refs, hypothesis)
+
+        results_file.write('{},{:.2f}\n'.format(folder_name, BLEUscore))
+        print('{},{:.2f}\n'.format(folder_name, BLEUscore))
+    except AssertionError:
+        print("Verificar treinamento")
 
 results_file.close()
 os.system(f'zip -r {ENCODER}-pred.zip {ENCODER}')
