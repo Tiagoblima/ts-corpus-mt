@@ -7,7 +7,7 @@ import argparse
 parser = argparse.ArgumentParser(description='Process some integers.')
 parser.add_argument('--model', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
-parser.add_argument('--embedding', action='store_true', type=bool,
+parser.add_argument('--embedding', action='store_true',
                     help='an integer for the accumulator', required=True)
 
 args = parser.parse_args()
