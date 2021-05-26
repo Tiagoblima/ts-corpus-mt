@@ -1,0 +1,49 @@
+save_data: datasets/arc-nlth/samples
+src_vocab: datasets/arc-nlth/vocab/portuguese.vocab
+tgt_vocab: datasets/arc-nlth/vocab/portuguese.vocab
+overwrite: False
+share_vocab: True
+data:
+ corpus_1:
+   path_src: datasets/arc-nlth/train.arc
+   path_tgt: datasets/arc-nlth/train.nlth
+ valid:
+   path_src: datasets/arc-nlth/val.arc
+   path_tgt: datasets/arc-nlth/val.nlth
+save_model: transformer/run/arc-nlth/model
+# Where to save the checkpoints
+encoder_type: transformer
+decoder_type: transformer
+enc_layers: 6
+dec_layers: 6
+heads: 6
+transformer_ff: 2048
+dropout_steps: [0]
+attention_dropout: [0.1]
+share_decoder_embeddings: true
+share_embeddings: true
+word_vec_size: 300
+rnn_size: 300
+
+copy_attn: true
+global_attention: mlp
+layers: 1
+max_grad_norm: 2
+dropout: 0.5
+
+optim: adam
+learning_rate: 0.0005
+reuse_copy_attn: true
+copy_loss_by_seqlength: true
+bridge: true
+seed: 777
+world_size: 1
+max_length: 50
+eval:
+  scorers: bleu
+  export_on_best: bleu
+
+save_checkpoint_steps: 3000
+train_steps: 3000
+batch_size: 32
+valid_batch_size: 32
