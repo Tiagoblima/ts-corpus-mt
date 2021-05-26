@@ -26,9 +26,7 @@ def create_config_file(folder_name_):
     global training_steps
     model_config = open(f'{ENCODER}/{ENCODER}.config.yaml').read()
     if args.embedding:
-        emb_config = "both_embeddings: glove_dir/glove_s300.txt\n\
-                      embeddings_type: \"GloVe\"\n\
-                      word_vec_size: 300\n\n"
+        emb_config = "both_embeddings: glove_dir/glove_s300.txt\nembeddings_type: \"GloVe\"\nword_vec_size: 300\n\n"
 
         model_config += emb_config
 
