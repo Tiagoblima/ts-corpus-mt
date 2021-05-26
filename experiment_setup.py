@@ -19,7 +19,7 @@ open('results.txt', 'w')
 results_file = open('results.txt', 'a')
 results_file.write('dataset,BLEU SCORE\n')
 
-training_steps = 10000
+training_steps = 5000
 
 
 def create_config_file(folder_name_):
