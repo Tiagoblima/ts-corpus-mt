@@ -16,12 +16,12 @@ open('results.txt', 'w')
 results_file = open('results.txt', 'a')
 results_file.write('dataset,BLEU SCORE\n')
 
-training_steps = 3000
+training_steps = 10000
 
 
 def create_config_file(folder_name_):
     global training_steps
-    model_config = open(f'{ENCODER}.config.yaml').read()
+    model_config = open(f'{ENCODER}/{ENCODER}.config.yaml').read()
     source_ = folder_name.split('-')[0]
     target_ = folder_name.split('-')[1]
     config_file_path = os.path.join(ENCODER, 'config_files', f'{ENCODER}.{folder_name_}.yaml')
