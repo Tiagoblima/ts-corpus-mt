@@ -103,10 +103,9 @@ for folder_name in os.listdir('datasets/'):
     refs = list(map(lambda sent: [word_tokenize(sent)], refs))
     inputs = open(f'datasets/{folder_name}/test.{source}', encoding="utf8").readlines()
     hypothesis = open(f'{ENCODER}/prediction/{source}-{target}-pred.txt', encoding='utf8').readlines()
+
     try:
-
         BLEUscore = nltk.translate.bleu_score.corpus_bleu(refs, hypothesis)
-
         results_file.write('{},{:.2f}\n'.format(folder_name, BLEUscore))
         print('{},{:.2f}\n'.format(folder_name, BLEUscore))
     except AssertionError:
