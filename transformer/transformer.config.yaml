@@ -4,7 +4,7 @@ decoder_type: transformer
 enc_layers: 6
 dec_layers: 6
 heads: 6
-transformer_ff: 2048
+transformer_ff: 512
 dropout_steps: [0]
 attention_dropout: [0.1]
 share_decoder_embeddings: true

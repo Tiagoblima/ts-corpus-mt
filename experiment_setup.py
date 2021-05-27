@@ -60,11 +60,11 @@ def create_config_file(folder_name_):
 
         file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
         file.write('\ngpu_ranks: [0]\n')
-        file.write("batch_size: 16\nvalid_batch_size: 16")
+        file.write("batch_size: 4\nvalid_batch_size: 4")
     else:
 
         file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
-        file.write("\nbatch_size: 16\nvalid_batch_size: 16")
+        file.write("\nbatch_size: 4\nvalid_batch_size: 4")
     file.close()
     return config_file_path
 
