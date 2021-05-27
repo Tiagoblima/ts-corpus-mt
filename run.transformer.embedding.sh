@@ -12,4 +12,4 @@ else
     unzip glove_s300.zip -d "glove_dir"
 fi
 
-python -O experiment_setup.py --model brnn --embedding
+python -O experiment_setup.py --model transformer --embedding
