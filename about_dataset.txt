@@ -1,4 +1,3 @@
 Dataset, Train, Validation, Test
-ORI-NAT, 2446,  1141, 490
-NAT-STR, 2972,  1387, 595
-ARC-NAA, 18178,  8484, 3636
+ARC-NAA, 18655,  8706, 3732
+
