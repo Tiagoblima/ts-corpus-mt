@@ -19,7 +19,7 @@ open('results.txt', 'w')
 results_file = open('results.txt', 'a')
 results_file.write('dataset,BLEU SCORE\n')
 
-training_steps = 10000
+training_steps = 30000
 
 
 def create_config_file(folder_name_):
@@ -92,8 +92,11 @@ for folder_name in os.listdir('datasets/'):
     os.system(f'onmt_build_vocab -config {config_path} -n_sample 10000')
     os.system(f'onmt_train -config {config_path}')
     test_file = f"datasets/{folder_name}/test.{source}"
-    pred_file = f"{ENCODER}/prediction/{source}-{target}-pred.txt"
-    translate_cmd = f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_{training_steps}.pt -src {test_file} -output {pred_file} -verbose'
+    if args.embedding:
+        pred_file = f"{ENCODER}/prediction/{source}-{target}.embedding-pred.txt"
+    else:
+        pred_file = f"{ENCODER}/prediction/{source}-{target}-pred.txt"
+    translate_cmd = f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_{training_steps}.pt -src {test_file} -output {pred_file} -verbose '
     if torch.cuda.is_available():
         translate_cmd += ' -gpu 0'
     os.system(translate_cmd)
