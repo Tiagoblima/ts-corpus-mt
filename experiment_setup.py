@@ -19,7 +19,7 @@ open('results.txt', 'w')
 results_file = open('results.txt', 'a')
 results_file.write('dataset,BLEU SCORE\n')
 
-training_steps = 5000
+training_steps = 10000
 
 
 def create_config_file(folder_name_):
@@ -60,11 +60,11 @@ def create_config_file(folder_name_):
 
         file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
         file.write('\ngpu_ranks: [0]\n')
-        file.write("batch_size: 4\nvalid_batch_size: 4")
+        file.write("batch_size: 32\nvalid_batch_size: 32")
     else:
 
         file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
-        file.write("\nbatch_size: 4\nvalid_batch_size: 4")
+        file.write("\nbatch_size: 32\nvalid_batch_size: 32")
     file.close()
     return config_file_path
 

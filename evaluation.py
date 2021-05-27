@@ -22,7 +22,7 @@ def save_final_report(base_dir='prediction', out_dir='reports.csv'):
 
 
 def main():
-    encoder = 'transformer'
+    encoder = 'brnn'
     for file in os.listdir(encoder + '/prediction'):
         report = {}
         # print(file.split('_')[1].split('.')[0])
