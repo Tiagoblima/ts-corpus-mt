@@ -69,7 +69,7 @@ def create_config_file(folder_name_):
     return config_file_path
 
 
-for folder_name in os.listdir('datasets/'):
+for folder_name in os.listdir('../datasets/'):
     source = folder_name.split('-')[0]
     target = folder_name.split('-')[1]
     try:

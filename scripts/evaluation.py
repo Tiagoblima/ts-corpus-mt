@@ -37,10 +37,10 @@ def main():
         print(lang_pair)
         preds = open(os.path.join(encoder + '/prediction', file), encoding='utf-8').readlines()
         inputs = open(
-            os.path.join('datasets/', lang_pair, 'test.' + lang_pair.split('-')[0]),
+            os.path.join('../datasets/', lang_pair, 'test.' + lang_pair.split('-')[0]),
             encoding='utf-8').readlines()
         target = open(
-            os.path.join('datasets/', lang_pair, 'test.' + lang_pair.split('-')[1]),
+            os.path.join('../datasets/', lang_pair, 'test.' + lang_pair.split('-')[1]),
             encoding='utf-8').readlines()
         # report[lang_pair] =
         pd.DataFrame({
