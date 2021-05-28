@@ -43,7 +43,7 @@ def create_config_file(folder_name_):
     file.write(source_path)
     tgt_path = f"tgt_vocab: ../datasets/{folder_name_}/vocab/portuguese.vocab\n"
     file.write(tgt_path)
-    options = "overwrite: True\nshare_vocab: False\n"
+    options = "overwrite: True\nshare_vocab: True\n"
     file.write(options)
 
     data_str = "data:\n" \
