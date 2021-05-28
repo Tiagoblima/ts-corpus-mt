@@ -17,9 +17,7 @@ normalization: "tokens"
 
 # Model
 encoder_type: transformer
-maximum_decoding_length: 50
 decoder_type: transformer
-maximum_encoding_length: 50
 max_lenght: 50
 enc_layers: 6
 dec_layers: 6
