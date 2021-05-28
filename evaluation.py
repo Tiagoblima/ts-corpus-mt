@@ -1,9 +1,18 @@
+import argparse
 import os
 
 import pandas as pd
 from nltk.translate.bleu_score import corpus_bleu
 
 REPORT_DIR = '../reports'
+
+parser = argparse.ArgumentParser(description='Process some integers.')
+parser.add_argument('--model', metavar='N', type=str,
+                    help='an integer for the accumulator', required=True)
+parser.add_argument('--embedding', action='store_true',
+                    help='an integer for the accumulator')
+
+args = parser.parse_args()
 
 
 def save_final_report(base_dir='prediction', out_dir='reports.csv'):
@@ -22,11 +31,8 @@ def save_final_report(base_dir='prediction', out_dir='reports.csv'):
 
 
 def main():
-    encoder = 'transformer'
+    encoder = args.model
     for file in os.listdir(encoder + '/prediction'):
-        report = {}
-        # print(file.split('_')[1].split('.')[0])
-
         lang_pair = '-'.join(file.split('-')[:2])
         print(lang_pair)
         preds = open(os.path.join(encoder + '/prediction', file), encoding='utf-8').readlines()

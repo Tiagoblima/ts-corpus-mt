@@ -13,3 +13,4 @@ else
 fi
 
 python -O experiment_setup.py --model transformer --embedding
+zip -r transformer.embedding-pred.zip transformer

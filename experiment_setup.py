@@ -115,4 +115,4 @@ for folder_name in os.listdir('datasets/'):
         print("Verificar treinamento")
 
 results_file.close()
-os.system(f'zip -r {ENCODER}-pred.zip {ENCODER}')
+
