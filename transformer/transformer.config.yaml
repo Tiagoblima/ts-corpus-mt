@@ -1,31 +1,32 @@
-# Where to save the checkpoints
+copy_attn: true
+global_attention: mlp
+layers: 2
+
+# Optimization
+model_dtype: "fp32"
+optim: "adam"
+learning_rate: 2
+warmup_steps: 6000
+decay_method: "noam"
+adam_beta2: 0.998
+max_grad_norm: 0
+label_smoothing: 0.1
+param_init: 0
+param_init_glorot: true
+normalization: "tokens"
+
+# Model
 encoder_type: transformer
 decoder_type: transformer
 enc_layers: 6
 dec_layers: 6
-heads: 6
+heads: 8
+word_vec_size: 300
+rnn_size: 300
 transformer_ff: 2048
 dropout_steps: [0]
+dropout: [0.1]
 attention_dropout: [0.1]
 share_decoder_embeddings: true
 share_embeddings: true
-word_vec_size: 300
-rnn_size: 300
-
-copy_attn: true
-global_attention: mlp
-layers: 1
-max_grad_norm: 2
-dropout: 0.5
-
-optim: adam
-learning_rate: 0.0005
-reuse_copy_attn: true
-copy_loss_by_seqlength: true
-bridge: true
-seed: 777
-world_size: 1
-max_length: 50
-eval:
-  scorers: bleu
-  export_on_best: bleu
+position_encoding: true
