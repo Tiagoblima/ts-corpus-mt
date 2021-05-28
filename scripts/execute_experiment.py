@@ -25,14 +25,17 @@ training_steps = 10000
 def create_config_file(folder_name_):
     global training_steps
     model_config = open(f'../{ENCODER}/{ENCODER}.config.yaml').read()
+
     if args.embedding:
         emb_config = "both_embeddings: ../glove_dir/glove_s300.txt\nembeddings_type: \"GloVe\"\nword_vec_size: 300\n\n"
-
+        config_file_path = os.path.join('../', ENCODER+'.embedding', 'config_files', f'{ENCODER}.{folder_name_}.yaml')
         model_config += emb_config
+    else:
+        config_file_path = os.path.join('../', ENCODER, 'config_files', f'{ENCODER}.{folder_name_}.yaml')
 
-    source_ = folder_name.split('-')[0]
-    target_ = folder_name.split('-')[1]
-    config_file_path = os.path.join('../', ENCODER, 'config_files', f'{ENCODER}.{folder_name_}.yaml')
+    source_ = folder_name_.split('-')[0]
+    target_ = folder_name_.split('-')[1]
+
     file = open(config_file_path, 'w')
     path_to_save = f"save_data: ../datasets/{folder_name_}/samples\n"
     file.write(path_to_save)
