@@ -12,7 +12,7 @@ eval:
 max_length: 50
 copy_attn: true
 global_attention: mlp
-layers: 2
+layers: 1
 max_grad_norm: 2
 dropout: 0.5
 

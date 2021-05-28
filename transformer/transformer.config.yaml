@@ -1,6 +1,6 @@
 copy_attn: true
 global_attention: mlp
-layers: 2
+layers: 1
 
 # Optimization
 model_dtype: "fp32"
