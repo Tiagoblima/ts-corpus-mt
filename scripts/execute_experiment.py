@@ -91,7 +91,7 @@ for folder_name in os.listdir('../datasets/'):
 
     os.system(f'onmt_build_vocab -config {config_path} -n_sample 10000')
     os.system(f'onmt_train -config {config_path}')
-    test_file = f"datasets/{folder_name}/test.{source}"
+    test_file = f"../datasets/{folder_name}/test.{source}"
 
     if args.embedding:
         pred_file = f"../{ENCODER}/prediction/{source}-{target}.embedding-pred.txt"
