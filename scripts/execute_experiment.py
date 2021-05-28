@@ -26,30 +26,30 @@ def create_config_file(folder_name_):
     global training_steps
     model_config = open(f'{ENCODER}/{ENCODER}.config.yaml').read()
     if args.embedding:
-        emb_config = "both_embeddings: glove_dir/glove_s300.txt\nembeddings_type: \"GloVe\"\nword_vec_size: 300\n\n"
+        emb_config = "both_embeddings: ../glove_dir/glove_s300.txt\nembeddings_type: \"GloVe\"\nword_vec_size: 300\n\n"
 
         model_config += emb_config
 
     source_ = folder_name.split('-')[0]
     target_ = folder_name.split('-')[1]
-    config_file_path = os.path.join(ENCODER, 'config_files', f'{ENCODER}.{folder_name_}.yaml')
+    config_file_path = os.path.join('../', ENCODER, 'config_files', f'{ENCODER}.{folder_name_}.yaml')
     file = open(config_file_path, 'w')
-    path_to_save = f"save_data: datasets/{folder_name_}/samples\n"
+    path_to_save = f"save_data: ../datasets/{folder_name_}/samples\n"
     file.write(path_to_save)
-    source_path = f"src_vocab: datasets/{folder_name_}/vocab/portuguese.vocab\n"
+    source_path = f"src_vocab: ../datasets/{folder_name_}/vocab/portuguese.vocab\n"
     file.write(source_path)
-    tgt_path = f"tgt_vocab: datasets/{folder_name_}/vocab/portuguese.vocab\n"
+    tgt_path = f"tgt_vocab: ../datasets/{folder_name_}/vocab/portuguese.vocab\n"
     file.write(tgt_path)
     options = "overwrite: True\nshare_vocab: True\n"
     file.write(options)
 
     data_str = "data:\n" \
                " corpus_1:\n" \
-               f"   path_src: datasets/{folder_name_}/train.{source_}\n" \
-               f"   path_tgt: datasets/{folder_name_}/train.{target_}\n" \
+               f"   path_src: ../datasets/{folder_name_}/train.{source_}\n" \
+               f"   path_tgt: ../datasets/{folder_name_}/train.{target_}\n" \
                " valid:\n" \
-               f"   path_src: datasets/{folder_name_}/val.{source_}\n" \
-               f"   path_tgt: datasets/{folder_name_}/val.{target_}\n"
+               f"   path_src: ../datasets/{folder_name_}/val.{source_}\n" \
+               f"   path_tgt: ../datasets/{folder_name_}/val.{target_}\n"
     file.write(data_str)
     model_path = f"save_model: {ENCODER}/run/{folder_name_}/model\n"
     file.write(model_path)
@@ -94,18 +94,18 @@ for folder_name in os.listdir('../datasets/'):
     test_file = f"datasets/{folder_name}/test.{source}"
 
     if args.embedding:
-        pred_file = f"{ENCODER}/prediction/{source}-{target}.embedding-pred.txt"
+        pred_file = f"../{ENCODER}/prediction/{source}-{target}.embedding-pred.txt"
     else:
-        pred_file = f"{ENCODER}/prediction/{source}-{target}-pred.txt"
+        pred_file = f"../{ENCODER}/prediction/{source}-{target}-pred.txt"
 
-    translate_cmd = f'onmt_translate -model {ENCODER}/run/{folder_name}/model_step_{training_steps}.pt -src {test_file} -output {pred_file} -verbose '
+    translate_cmd = f'onmt_translate -model ../{ENCODER}/run/{folder_name}/model_step_{training_steps}.pt -src {test_file} -output {pred_file} -verbose '
     if torch.cuda.is_available():
         translate_cmd += ' -gpu 0'
     os.system(translate_cmd)
-    refs = open(f'datasets/{folder_name}/test.{target}', encoding="utf8").readlines()
+    refs = open(f'../datasets/{folder_name}/test.{target}', encoding="utf8").readlines()
     refs = list(map(lambda sent: [word_tokenize(sent)], refs))
-    inputs = open(f'datasets/{folder_name}/test.{source}', encoding="utf8").readlines()
-    hypothesis = open(f'{ENCODER}/prediction/{source}-{target}-pred.txt', encoding='utf8').readlines()
+    inputs = open(f'../datasets/{folder_name}/test.{source}', encoding="utf8").readlines()
+    hypothesis = open(f'../{ENCODER}/prediction/{source}-{target}-pred.txt', encoding='utf8').readlines()
 
     try:
         BLEUscore = nltk.translate.bleu_score.corpus_bleu(refs, hypothesis)
@@ -115,4 +115,3 @@ for folder_name in os.listdir('../datasets/'):
         print("Verificar treinamento")
 
 results_file.close()
-
