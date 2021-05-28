@@ -51,7 +51,7 @@ def create_config_file(folder_name_):
                f"   path_src: ../datasets/{folder_name_}/val.{source_}\n" \
                f"   path_tgt: ../datasets/{folder_name_}/val.{target_}\n"
     file.write(data_str)
-    model_path = f"save_model: {ENCODER}/run/{folder_name_}/model\n"
+    model_path = f"save_model: ../{ENCODER}/run/{folder_name_}/model\n"
     file.write(model_path)
 
     file.write(model_config)
