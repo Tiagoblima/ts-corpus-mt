@@ -13,14 +13,18 @@ eval:
 copy_attn: true
 global_attention: mlp
 layers: 1
-max_grad_norm: 2
 dropout: 0.5
 
-optim: adam
-learning_rate: 0.0005
-reuse_copy_attn: true
-copy_loss_by_seqlength: true
-bridge: true
-seed: 777
-world_size: 1
+# Optimization
+model_dtype: "fp32"
+optim: "adam"
+learning_rate: 2
+warmup_steps: 6000
+decay_method: "noam"
+adam_beta2: 0.998
+max_grad_norm: 0
+label_smoothing: 0.1
+param_init: 0
+param_init_glorot: true
+normalization: "tokens"
 
