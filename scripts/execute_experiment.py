@@ -94,18 +94,22 @@ for folder_name in os.listdir('../datasets/'):
     test_file = f"../datasets/{folder_name}/test.{source}"
 
     if args.embedding:
-        pred_file = f"../{ENCODER}/prediction/{source}-{target}.embedding-pred.txt"
+        pred_file = f"../{ENCODER}.embedding/prediction/{source}-{target}-pred.txt"
+        translate_cmd = f'onmt_translate -model ../{ENCODER}.embedding/run/{folder_name}/model_step_{training_steps}.pt -src ' \
+                        f'{test_file} -output {pred_file} -verbose '
     else:
         pred_file = f"../{ENCODER}/prediction/{source}-{target}-pred.txt"
 
-    translate_cmd = f'onmt_translate -model ../{ENCODER}/run/{folder_name}/model_step_{training_steps}.pt -src {test_file} -output {pred_file} -verbose '
+        translate_cmd = f'onmt_translate -model ../{ENCODER}/run/{folder_name}/model_step_{training_steps}.pt -src ' \
+                        f'{test_file} -output {pred_file} -verbose '
+
     if torch.cuda.is_available():
         translate_cmd += ' -gpu 0'
     os.system(translate_cmd)
     refs = open(f'../datasets/{folder_name}/test.{target}', encoding="utf8").readlines()
     refs = list(map(lambda sent: [word_tokenize(sent)], refs))
     inputs = open(f'../datasets/{folder_name}/test.{source}', encoding="utf8").readlines()
-    hypothesis = open(f'../{ENCODER}/prediction/{source}-{target}-pred.txt', encoding='utf8').readlines()
+    hypothesis = open(pred_file, encoding='utf8').readlines()
 
     try:
         BLEUscore = nltk.translate.bleu_score.corpus_bleu(refs, hypothesis)
