@@ -1,8 +1,9 @@
 import argparse
 import os
-
+import numpy as np
 import pandas as pd
-from nltk.translate.bleu_score import corpus_bleu
+from easse.sari import corpus_sari
+from easse.bleu import corpus_bleu, sentence_bleu
 
 REPORT_DIR = '../reports'
 
@@ -19,36 +20,46 @@ def save_final_report(base_dir='prediction', out_dir='reports.csv'):
     result = {}
     for file in os.listdir(base_dir):
         df = pd.read_csv(os.path.join(base_dir, file))
-        #  print(file.split('-')[0], round(df['sari_score'].to_numpy().mean(), 2))
-        refs = [[ref] for ref in df["trg_sent"].tolist()]
 
-        bleu_score = corpus_bleu(refs, df["pred_sent"].tolist())
-
-        result[file.split('.')[0]] = {
-            'BLEU': round(bleu_score, 2),
-        }
     pd.DataFrame.from_dict(result).T.to_csv(out_dir)
 
 
 def main():
     encoder = args.model
-    for file in os.listdir(encoder + '/prediction'):
+    result = {}
+    model_dir = os.path.join('..', encoder)
+    for file in os.listdir(os.path.join(model_dir, 'prediction')):
         lang_pair = '-'.join(file.split('-')[:2])
         print(lang_pair)
-        preds = open(os.path.join(encoder + '/prediction', file), encoding='utf-8').readlines()
+
+        preds = open(os.path.join(model_dir, 'prediction', file), encoding='utf-8').readlines()
+
         inputs = open(
             os.path.join('../datasets/', lang_pair, 'test.' + lang_pair.split('-')[0]),
             encoding='utf-8').readlines()
         target = open(
             os.path.join('../datasets/', lang_pair, 'test.' + lang_pair.split('-')[1]),
             encoding='utf-8').readlines()
-        # report[lang_pair] =
-        pd.DataFrame({
+        refs = [[ref] for ref in target]
+        list_bleu = lambda tup: sentence_bleu(sys_sent=tup[0], ref_sents=tup[1])
+        list_score = list(map(list_bleu, zip(preds, refs)))
+        print(len(preds), len(inputs), len(list_score))
+        df = pd.DataFrame({
             'pred_sent': preds,
             'src_sent': inputs,
-            'trg_sent': target
-        }).to_csv(os.path.join(encoder + '/reports/', lang_pair + '.csv'))
+            'trg_sent': target,
+            'bleu_score': list_score
+        })
+        refs = np.expand_dims([df["trg_sent"].tolist()], axis=1)[0]
+        bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
+        sari_score = corpus_sari(orig_sents=inputs,refs_sents=refs, sys_sents=preds)
 
+        result[lang_pair] = {
+            'BLEU': round(bleu_score, 2),
+            'SARI': round(sari_score, 2),
+        }
+
+        df.to_csv(os.path.join(model_dir, 'reports', lang_pair + '.csv'))
     save_final_report(base_dir=encoder + '/reports', out_dir=encoder + '/reports/report.csv')
 
 

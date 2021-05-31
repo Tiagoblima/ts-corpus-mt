@@ -11,6 +11,5 @@ fi
 
 python -O execute_experiment.py --model brnn --embedding
 python evaluation.py --model brnn
-zip -r brnn-pred.zip brnn
-zip -r brnn.embedding-pred.zip brnn
+zip -r brnn.embedding-pred.zip ../brnn.embedding
 #python execute_experiment.py --model transformer

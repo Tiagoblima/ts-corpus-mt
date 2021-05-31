@@ -11,5 +11,5 @@ else
 fi
 
 python -O execute_experiment.py --model transformer --embedding
-python evaluation.py --model transformer
-zip -r transformer.embedding-pred.zip transformer
+python evaluation.py --model transformer.embedding
+zip -r transformer.embedding-pred.zip ../transformer.embedding
