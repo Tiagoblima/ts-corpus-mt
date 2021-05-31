@@ -52,7 +52,7 @@ def main():
         })
         refs = np.expand_dims([df["trg_sent"].tolist()], axis=1)[0]
         bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
-        sari_score = corpus_sari(orig_sents=inputs,refs_sents=refs, sys_sents=preds)
+        sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
 
         result[lang_pair] = {
             'BLEU': round(bleu_score, 2),
@@ -60,7 +60,8 @@ def main():
         }
 
         df.to_csv(os.path.join(model_dir, 'reports', lang_pair + '.csv'))
-    pd.DataFrame.from_dict(result, orient='index').to_csv(os.path.join(model_dir,'reports', 'final_report.csv'))
+
+    pd.DataFrame.from_dict(result, orient='index').to_csv(os.path.join(model_dir, 'reports', 'final_report.csv'))
 
 
 if __name__ == '__main__':
