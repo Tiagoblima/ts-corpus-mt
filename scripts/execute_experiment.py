@@ -1,9 +1,7 @@
-import os
-from nltk.tokenize import word_tokenize
-import torch
-import nltk
 import argparse
-import pandas as pd
+import os
+import torch
+
 parser = argparse.ArgumentParser(description='Process some integers.')
 parser.add_argument('--model', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
@@ -12,7 +10,7 @@ parser.add_argument('--embedding', action='store_true',
 
 args = parser.parse_args()
 
-nltk.download('punkt')
+
 ENCODER = args.model
 os.system('pip3 install openNMT-py')
 open('results.txt', 'w')
@@ -108,25 +106,7 @@ for folder_name in os.listdir('../datasets/'):
 
     if torch.cuda.is_available():
         translate_cmd += ' -gpu 0'
+
     os.system(translate_cmd)
-
-    refs = open(f'../datasets/{folder_name}/test.{target}', encoding="utf8").readlines()
-    inputs = open(f'../datasets/{folder_name}/test.{source}', encoding="utf8").readlines()
-    hypothesis = open(pred_file, encoding='utf8').readlines()
-
-    pd.DataFrame({
-        'pred_sent': hypothesis,
-        'src_sent': inputs,
-        'trg_sent': refs
-    }).to_csv(os.path.join(os.path.join('../', ENCODER, '/reports/', folder_name + '.csv')))
-
-    try:
-        refs = list(map(lambda sent: [word_tokenize(sent)], refs))
-        hypothesis = list(map(lambda sent: word_tokenize(sent), hypothesis))
-        BLEUscore = nltk.translate.bleu_score.corpus_bleu(refs, hypothesis)
-        results_file.write('{},{:.2f}\n'.format(folder_name, BLEUscore))
-        print('{},{:.2f}\n'.format(folder_name, BLEUscore))
-    except AssertionError:
-        print("Verificar treinamento")
 
 results_file.close()
