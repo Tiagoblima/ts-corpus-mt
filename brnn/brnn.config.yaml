@@ -5,9 +5,12 @@ share_embeddings: true
 word_vec_size: 300
 rnn_size: 300
 
-eval:
-  scorers: bleu
-  export_on_best: bleu
+#Preprocess
+src_seq_length: 100 #Maximum source sequence length
+src_seq_length_trunc: 100 #Truncate source sequence length.
+tgt_seq_length: 100 #Maximum target sequence length to keep.
+tgt_seq_length_trunc: 100 #Truncate target sequence length.
+max_length: 100
 
 
 copy_attn: true

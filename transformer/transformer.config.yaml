@@ -2,6 +2,14 @@ copy_attn: true
 global_attention: mlp
 layers: 1
 
+
+#Preprocess
+src_seq_length: 100 #Maximum source sequence length
+src_seq_length_trunc: 100 #Truncate source sequence length.
+tgt_seq_length: 100 #Maximum target sequence length to keep.
+tgt_seq_length_trunc: 100 #Truncate target sequence length.
+max_length: 100
+
 # Optimization
 model_dtype: "fp32"
 optim: "adam"
