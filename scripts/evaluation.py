@@ -60,7 +60,7 @@ def main():
         }
 
         df.to_csv(os.path.join(model_dir, 'reports', lang_pair + '.csv'))
-    save_final_report(base_dir=encoder + '/reports', out_dir=encoder + '/reports/report.csv')
+    pd.DataFrame.from_dict(result, orient='index').to_csv(os.path.join(model_dir,'reports', 'final_report.csv'))
 
 
 if __name__ == '__main__':
