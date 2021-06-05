@@ -9,7 +9,7 @@ else
     unzip glove_s300.zip -d "../glove_dir"
 fi
 
-python -O execute_experiment.py --model brnn --embedding
+python -O execute_openmt.py --model brnn --embedding
 python evaluation.py --model brnn
 zip -r brnn.embedding-pred.zip ../brnn.embedding
 #python execute_experiment.py --model transformer

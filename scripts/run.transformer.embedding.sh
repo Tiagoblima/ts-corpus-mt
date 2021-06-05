@@ -10,6 +10,6 @@ else
     unzip glove_s300.zip -d "../glove_dir"
 fi
 
-python -O execute_experiment.py --model transformer --embedding
+python -O execute_openmt.py --model transformer --embedding
 python evaluation.py --model transformer.embedding
 zip -r transformer.embedding-pred.zip ../transformer.embedding
