@@ -45,8 +45,9 @@ def main():
         list_score = list(map(list_bleu, zip(preds, refs)))
         print(len(preds), len(inputs), len(list_score))
         df = pd.DataFrame({
-            'pred_sent': preds,
+
             'src_sent': inputs,
+            'pred_sent': preds,
             'trg_sent': target,
             'bleu_score': list_score
         })
