@@ -3,7 +3,7 @@ import os
 import torch
 import wandb
 
-
+wandb.login(key="8e593ae9d0788bae2e0a84d07de0e76f5cf3dcf4")
 parser = argparse.ArgumentParser(description='Process some integers.')
 parser.add_argument('--model', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
