@@ -80,6 +80,8 @@ def create_config_file(folder_name_):
 for folder_name in os.listdir('../datasets/'):
     source = folder_name.split('-')[0]
     target = folder_name.split('-')[1]
+    if os.path.isfile(os.path.join('../datasets', folder_name)):
+        continue
     try:
         os.makedirs(os.path.join('../', ENCODER, "reports"))
     except OSError:
