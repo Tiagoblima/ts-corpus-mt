@@ -1,4 +1,6 @@
 sh config.sh
+
+ENCODER="brnn"
 cd ts-corpus-mt/ || exit
 if [ -d "../glove_dir" ]
 then
@@ -12,4 +14,5 @@ fi
 python -O execute_openmt.py --model brnn --embedding
 python evaluation.py --model brnn
 zip -r brnn.embedding-pred.zip ../brnn.embedding
+wandb sync ../$ENCODER/runs/fit
 #python execute_experiment.py --model transformer

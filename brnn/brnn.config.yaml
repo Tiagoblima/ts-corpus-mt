@@ -12,7 +12,7 @@ src_seq_length_trunc: 100 #Truncate source sequence length.
 tgt_seq_length: 100 #Maximum target sequence length to keep.
 tgt_seq_length_trunc: 100 #Truncate target sequence length.
 max_length: 100
-
+tensorboard: true
 
 
 copy_attn: true

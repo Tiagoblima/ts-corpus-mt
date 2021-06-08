@@ -1,6 +1,8 @@
 import argparse
 import os
 import torch
+import wandb
+
 
 parser = argparse.ArgumentParser(description='Process some integers.')
 parser.add_argument('--model', metavar='N', type=str,
@@ -12,12 +14,12 @@ args = parser.parse_args()
 
 
 ENCODER = args.model
-os.system('pip3 install openNMT-py')
+
 open('results.txt', 'w')
 results_file = open('results.txt', 'a')
 results_file.write('dataset,BLEU SCORE\n')
 
-training_steps = 5000
+training_steps = 10000
 
 
 def create_config_file(folder_name_):
@@ -35,6 +37,11 @@ def create_config_file(folder_name_):
     target_ = folder_name_.split('-')[1]
 
     file = open(config_file_path, 'w')
+
+    logs_path = os.path.join('../', ENCODER, 'runs/fit')
+    file.write(f"tensorboard_log_dir: {logs_path}\n")
+    wandb.tensorboard.patch(root_logdir=logs_path)
+
     path_to_save = f"save_data: ../datasets/{folder_name_}/samples\n"
     file.write(path_to_save)
     source_path = f"src_vocab: ../datasets/{folder_name_}/vocab/portuguese.vocab\n"
@@ -91,6 +98,8 @@ for folder_name in os.listdir('../datasets/'):
     config_path = create_config_file(folder_name)
 
     os.system(f'onmt_build_vocab -config {config_path} -n_sample 10000')
+
+    wandb.init(project="ts-mt")
     os.system(f'onmt_train -config {config_path}')
     test_file = f"../datasets/{folder_name}/test.{source}"
 
