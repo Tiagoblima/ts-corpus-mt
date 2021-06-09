@@ -1,7 +1,7 @@
 
 ENCODER="brnn"
 
-N_STEPS=60000
+N_STEPS=10000
 cd indigenous-mt/scripts/ || echo "scripts/ Dir not found"
 pip install -r ../requirements.txt
 pip install wandb -qqq

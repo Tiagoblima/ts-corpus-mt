@@ -18,10 +18,6 @@ parser.add_argument('--epochs', metavar='N', type=str,
 parser.add_argument('--embedding', action='store_true',
                     help='an integer for the accumulator')
 
-parser.add_argument('--src_lang', metavar='N', type=str,
-                    help='an integer for the accumulator', required=True)
-parser.add_argument('--tgt_lang', metavar='N', type=str,
-                    help='an integer for the accumulator', required=True)
 
 args = parser.parse_args()
 
