@@ -6,6 +6,11 @@ cd indigenous-mt/scripts/ || echo "scripts/ Dir not found"
 pip install -r ../requirements.txt
 pip install wandb -qqq
 
+git clone https://github.com/feralvam/easse.git
+cd easse || echo "no easse dir found"
+pip install .
+
+
 if [ -d "../datasets/" ]
 then
      echo "../datasets dir exists"

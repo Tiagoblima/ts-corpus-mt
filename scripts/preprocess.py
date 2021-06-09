@@ -43,7 +43,7 @@ report_file = open(readme_file_path, 'w')
 report_file.write('Dataset,Train, Validation, Test\n')
 report_ = f", {train_df.shape[0]},  {eval_df.shape[0]}, {test_df.shape[0]}"
 report_file.write(report_ + '\n')
-report_file.close()
+
 
 ##################################################
 
@@ -120,7 +120,7 @@ def save_val_files(df):
             target_text = df[target].apply(str.strip)
             target_path = os.path.join(corpus_path, f'tgt-val.txt')
             target_text.to_csv(target_path, header=None, index=None, sep=' ', mode='w')
-
+            report_file.write(f'\nval-version: {target}')
     data_config = "   valid:\n" \
                   f"      path_src: {source_path}\n" \
                   f"      path_tgt: {target_path}\n"
