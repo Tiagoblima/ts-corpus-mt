@@ -18,9 +18,6 @@ model_name = args.model
 DATASET_ROOT = '../datasets'
 
 
-
-
-
 def create_folders(paths=None):
     if paths is None:
         paths = []
@@ -37,7 +34,11 @@ pred_path = os.path.join('../' + ENCODER, "prediction")
 model_path = f'../{ENCODER}/run/{model_name}'
 test_file = f"{DATASET_ROOT}/test/src-test.txt"
 create_folders([pred_path])
-pred_file = os.path.join(pred_path, f"prediction.txt")
+
+if not args.embedding:
+    pred_file = os.path.join(pred_path, f"prediction.txt")
+else:
+    pred_file = os.path.join(pred_path, f"prediction.embedding.txt")
 
 translate_cmd = f'onmt_translate -model {model_path} -src {test_file} -output {pred_file} -verbose '
 if torch.cuda.is_available():

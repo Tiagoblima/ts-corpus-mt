@@ -19,18 +19,30 @@ transformers_logger.setLevel(logging.WARNING)
 encoder_type = "bert"
 
 
-def get_datasets(pair):
-    pair = 'arc-naa'
-    train_df = pd.read_csv(os.path.join(DATASET_DIR, f'{pair}/train.csv')).dropna()
-    val_df = pd.read_csv(os.path.join(DATASET_DIR, f'{pair}/val.csv')).dropna()
-    test_df = pd.read_csv(os.path.join(DATASET_DIR, f'{pair}/test.csv')).dropna()
-    return train_df, val_df, test_df
+def get_train_df():
+    train_dfs = []
+    for train_corpus in os.listdir(os.path.join(DATASET_DIR, 'train')):
+        src_train_file = os.path.join(DATASET_DIR, train_corpus, f'src-train.txt')
+        tgt_train_file = os.path.join(DATASET_DIR, train_corpus, f'tgt-train.txt')
+        src_text = open(src_train_file).readlines()
+        tgt_text = open(tgt_train_file).readlines()
+        train_dfs.append(pd.DataFrame([src_text, tgt_text], columns=['input_text', 'target_text']))
+    return pd.concat(train_dfs)
+
+
+def get_val_df():
+    src_val_file = os.path.join(DATASET_DIR, 'val', 'src-val.txt')
+    tgt_val_file = os.path.join(DATASET_DIR, 'val', 'tgt-val.txt')
+    src_text = open(src_val_file).readlines()
+    tgt_text = open(tgt_val_file).readlines()
+
+    return pd.DataFrame([src_text, tgt_text], columns=['input_text', 'target_text'])
 
 
 def save_as_file(filename, df):
     dataset = df.loc[:, ['input_text', 'target_text']].to_numpy()
     dataset = dataset.reshape(dataset.shape[0] * 2, 1).squeeze()
-    np.savetxt(os.path.join(DATASET_DIR, filename), dataset, fmt='%s', encoding='utf8')
+    np.savetxt(filename, dataset, fmt='%s', encoding='utf8')
 
 
 # model_args = {
@@ -51,19 +63,25 @@ def save_as_file(filename, df):
 #     'wandb_project': pair,
 #        "repetition_penalty": 100
 # }
-def fine_tuning(pair, model_args):
+def fine_tuning(model_args):
+
     model = LanguageModelingModel("bert", "neuralmind/bert-base-portuguese-cased", args=model_args)
-    train_df, val_df, test_df = get_datasets(pair)
-    train_file = 'train.txt'
-    eval_file = 'val.txt'
+
+    train_file = os.path.join(DATASET_DIR, 'train.txt')
+    eval_file = os.path.join(DATASET_DIR, 'val.txt')
+
+    train_df = get_train_df()
+    val_df = get_val_df()
+
     save_as_file(train_file, train_df)
-    save_as_file(eval_file, train_df)
+    save_as_file(eval_file, val_df)
+
     model.train_model(train_file)
     result = model.eval_model(eval_file)
     print("Evaluation: ", result)
 
 
-def train(pair, model_args):
+def train(model_args):
     model = Seq2SeqModel(
         "bert",
         "outputs",
@@ -71,24 +89,27 @@ def train(pair, model_args):
         args=model_args,
         use_cuda=torch.cuda.is_available(),
     )
-    train_df, val_df, test_df = get_datasets(pair)
+    train_df = get_train_df()
+    val_df = get_val_df()
     model.train_model(train_df)
     results = model.eval_model(val_df)
     print(f"Evaluation: {results}")
-    pred_spt = model.predict(test_df['input_text'].tolist())
+
+    pred_spt = model.predict(open(os.path.join(DATASET_DIR, 'test', 'src-test.txt')))
     pre_path = os.path.join(MODEL_DIR, 'prediction')
     try:
         os.makedirs(pre_path)
     except OSError:
         pass
 
-    np.savetxt(os.path.join(pre_path, f'{pair}-pred.txt'), pred_spt, fmt="%s")
+    np.savetxt(os.path.join(pre_path, f'prediction.txt'), pred_spt, fmt="%s")
 
 
 def main():
-    for folder in os.listdir(DATASET_DIR):
-        with open(os.path.join(MODEL_DIR, 'bert.config.json')) as json_file:
-            model_args = json.load(json_file)
-            model_args['wandb_project'] = folder
-        fine_tuning(folder, model_args)
-        train(folder, model_args)
+
+    with open(os.path.join(MODEL_DIR, 'bert.config.json')) as json_file:
+        model_args = json.load(json_file)
+        model_args['wandb_project'] = "ts-mt"
+
+    fine_tuning(model_args)
+    train(model_args)
