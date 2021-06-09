@@ -18,7 +18,9 @@ DATASET_ROOT = '../datasets'
 
 if not args.tgt_corpus:
     TARGET_FILES = ['naa', 'nbv', 'nvi', 'nlth']
+    weights = [6, 7, 6, 8]
 else:
+    weights = [1]
     TARGET_FILES = [args.tgt_corpus]
 
 if not args.src_corpus:
@@ -86,7 +88,8 @@ def save_train_files(df):
 
             data_config = f"   corpus_{target}:\n" \
                           f"         path_src: {source_path}\n" \
-                          f"         path_tgt: {target_path}\n"
+                          f"         path_tgt: {target_path}\n" \
+                          f"         weight: {weights[i]}\n"
 
             config_file.write(data_config)
             source_text.to_csv(source_path, header=None, index=None, sep=' ', mode='w')
