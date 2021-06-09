@@ -84,7 +84,7 @@ def save_train_files(df):
             source_path = os.path.join(corpus_path, f'src-train.txt')
             target_path = os.path.join(corpus_path, f'tgt-train.txt')
 
-            data_config = f"   corpus_{i + 1}:\n" \
+            data_config = f"   corpus_{target}:\n" \
                           f"         path_src: {source_path}\n" \
                           f"         path_tgt: {target_path}\n"
 
