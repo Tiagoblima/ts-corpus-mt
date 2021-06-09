@@ -29,7 +29,7 @@ decoder_type: transformer
 max_lenght: 50
 enc_layers: 6
 dec_layers: 6
-heads: 8
+heads: 6
 word_vec_size: 300
 rnn_size: 300
 transformer_ff: 2048
