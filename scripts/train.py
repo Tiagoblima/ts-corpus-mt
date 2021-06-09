@@ -32,27 +32,24 @@ training_steps = args.epochs
 
 DATASET_DIR = '../datasets/'
 
-TARGET_LANG = args.tgt_lang.lower()
-SOURCE_LANG = args.src_lang.lower()
 
-
-def create_config_file(folder_name_):
+def create_config_file():
     global training_steps
 
     model_config = open(f'../{ENCODER}/{ENCODER}.config.yaml').read()
-    data_config = open(os.path.join(DATASET_DIR, folder_name_, 'data.config.yaml')).read()
+    data_config = open(os.path.join(DATASET_DIR, 'data.config.yaml')).read()
     if args.embedding:
         emb_config = "both_embeddings: ../glove_dir/glove_s300.txt\nembeddings_type: \"GloVe\"\nword_vec_size: 300\n\n"
 
         model_config += emb_config
 
-    config_file_path = os.path.join('../', ENCODER, 'config_files', f'{ENCODER}.{folder_name_}.yaml')
+    config_file_path = os.path.join('../', ENCODER, 'config_files', f'{ENCODER}.yaml')
 
     file = open(config_file_path, 'w')
     logs_path = os.path.join(ROOT_DIR, 'runs/fit')
     file.write(f"tensorboard_log_dir: {logs_path}\n")
     wandb.tensorboard.patch(root_logdir=logs_path)
-    model_path = f"save_model: ../{ENCODER}/run/{folder_name_}/model\n"
+    model_path = f"save_model: ../{ENCODER}/run/model\n"
     file.write(model_path)
     file.write(data_config)
     file.write(model_config)
@@ -85,8 +82,7 @@ def main():
 
     create_folders([config_path])
 
-    folder_name = '-'.join([SOURCE_LANG, TARGET_LANG])
-    config_path = create_config_file(folder_name)
+    config_path = create_config_file()
 
     os.system(f'onmt_build_vocab -config {config_path} -n_sample 10000')
     wandb.init(project="indigenous-mt")

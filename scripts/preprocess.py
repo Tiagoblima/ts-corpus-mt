@@ -12,11 +12,6 @@ parser.add_argument('--src_corpus', metavar='N', type=str,
 parser.add_argument('--tgt_corpus', metavar='N', type=str,
                     help='an integer for the accumulator', required=False)
 
-parser.add_argument('--src_lang', metavar='N', type=str,
-                    help='an integer for the accumulator', required=True)
-parser.add_argument('--tgt_lang', metavar='N', type=str,
-                    help='an integer for the accumulator', required=True)
-
 args = parser.parse_args()
 
 DATASET_ROOT = '../datasets'
@@ -42,23 +37,18 @@ try:
 except OSError:
     pass
 
-SOURCE_LANG = args.src_lang
-TARGET_LANG = args.tgt_lang
-
 readme_file_path = os.path.join(DATASET_ROOT, 'README.txt')
-dataset_name = '-'.join([SOURCE_LANG, TARGET_LANG]).lower()
+
 report_file = open(readme_file_path, 'w')
 report_file.write('Dataset,Train, Validation, Test\n')
-report_ = f"{dataset_name}, {train_df.shape[0]},  {eval_df.shape[0]}, {test_df.shape[0]}"
+report_ = f", {train_df.shape[0]},  {eval_df.shape[0]}, {test_df.shape[0]}"
 report_file.write(report_ + '\n')
 report_file.close()
 
 ##################################################
 
 
-folder_name = '-'.join([SOURCE_LANG, TARGET_LANG]).lower()
-
-config_file_path = os.path.join(DATASET_ROOT, folder_name)
+config_file_path = DATASET_ROOT
 
 try:
     os.makedirs(config_file_path)
@@ -68,11 +58,11 @@ config_file_path = os.path.join(config_file_path, 'data.config.yaml')
 
 config_file = open(config_file_path, 'w')
 
-path_to_save = "save_data: " + os.path.join(DATASET_ROOT, f"{folder_name}/samples")
+path_to_save = "save_data: " + DATASET_ROOT
 config_file.write(path_to_save + "\n")
-source_path = "src_vocab: " + os.path.join(DATASET_ROOT, f"{folder_name}/vocab/{SOURCE_LANG}.vocab")
+source_path = "src_vocab: " + os.path.join(DATASET_ROOT, f"vocab/dataset.vocab")
 config_file.write(source_path + "\n")
-tgt_path = f"tgt_vocab: " + os.path.join(DATASET_ROOT, f"{folder_name}/vocab/{TARGET_LANG}.vocab")
+tgt_path = f"tgt_vocab: " + os.path.join(DATASET_ROOT, f"vocab/dataset.vocab")
 config_file.write(tgt_path + "\n")
 
 
@@ -85,15 +75,15 @@ def save_train_files(df):
         for i, target in enumerate(TARGET_FILES):
 
             corpus_path = os.path.join(DATASET_ROOT,
-                                       '-'.join([SOURCE_LANG, TARGET_LANG]).lower(),
+
                                        'train', f'corpus_{target}')
             try:
                 os.makedirs(corpus_path)
             except OSError:
                 pass
 
-            source_path = os.path.join(corpus_path, f'{SOURCE_LANG}.txt')
-            target_path = os.path.join(corpus_path, f'{TARGET_LANG}.txt')
+            source_path = os.path.join(corpus_path, f'src-train.txt')
+            target_path = os.path.join(corpus_path, f'tgt-train.txt')
 
             data_config = f"   corpus_{i + 1}:\n" \
                           f"         path_src: {source_path}\n" \
@@ -117,18 +107,18 @@ def save_val_files(df):
         for i, target in enumerate(TARGET_FILES):
 
             corpus_path = os.path.join(DATASET_ROOT,
-                                       '-'.join([SOURCE_LANG, TARGET_LANG]).lower(),
+
                                        'val')
             try:
                 os.makedirs(corpus_path)
             except OSError:
                 pass
 
-            source_path = os.path.join(corpus_path, f'{SOURCE_LANG}.txt')
+            source_path = os.path.join(corpus_path, f'src-val.txt')
             source_text.to_csv(source_path, header=None, index=None, sep=' ', mode='w')
 
             target_text = df[target].apply(str.strip)
-            target_path = os.path.join(corpus_path, f'{TARGET_LANG}.txt')
+            target_path = os.path.join(corpus_path, f'tgt-val.txt')
             target_text.to_csv(target_path, header=None, index=None, sep=' ', mode='w')
 
     data_config = "   valid:\n" \
@@ -147,7 +137,6 @@ def save_test_files(df):
         for i, target in enumerate(TARGET_FILES):
 
             corpus_path = os.path.join(DATASET_ROOT,
-                                       '-'.join([SOURCE_LANG, TARGET_LANG]).lower(),
                                        'test')
             reference_path = os.path.join(corpus_path, 'references')
 
@@ -156,7 +145,7 @@ def save_test_files(df):
             except OSError:
                 pass
 
-            source_path = os.path.join(corpus_path, f'{SOURCE_LANG}.txt')
+            source_path = os.path.join(corpus_path, f'src-test.txt')
             source_text.to_csv(source_path, header=None, index=None, sep=' ', mode='w')
 
             target_text = df[target].apply(str.strip)
