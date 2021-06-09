@@ -113,3 +113,5 @@ def main():
 
     fine_tuning(model_args)
     train(model_args)
+
+main()
