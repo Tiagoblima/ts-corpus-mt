@@ -32,4 +32,4 @@ label_smoothing: 0.1
 param_init: 0
 param_init_glorot: true
 normalization: "tokens"
-encoder_dropout: [0.1]
+encoder_dropout: [0.5]
