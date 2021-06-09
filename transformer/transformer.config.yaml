@@ -33,7 +33,7 @@ heads: 6
 word_vec_size: 300
 rnn_size: 300
 transformer_ff: 2048
-dropout_steps: [5]
+dropout_steps: [0]
 encoder_dropout: [0.5]
 attention_dropout: [0.5]
 share_decoder_embeddings: true
