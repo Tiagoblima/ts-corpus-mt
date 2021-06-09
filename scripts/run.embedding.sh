@@ -25,7 +25,7 @@ then
      echo "Glove dir exists"
 else
     mkdir "../glove_dir"
-    wget -O glove_s300.zip http://143.107.183.175:22980/download.php?file=embeddings/glove/glove_s300.zip
+    wget -O glove_s300.zip  https://www.dropbox.com/s/s74ovzynh5jbccz/glove_s300.zip?dl=1
     unzip glove_s300.zip -d "../glove_dir"
 fi
 
