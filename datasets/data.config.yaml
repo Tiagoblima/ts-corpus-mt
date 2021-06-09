@@ -1,0 +1,19 @@
+save_data: ../datasets
+src_vocab: ../datasets\vocab/dataset.vocab
+tgt_vocab: ../datasets\vocab/dataset.vocab
+data:
+   corpus_1:
+         path_src: ../datasets\train\corpus_naa\src-train.txt
+         path_tgt: ../datasets\train\corpus_naa\tgt-train.txt
+   corpus_2:
+         path_src: ../datasets\train\corpus_nbv\src-train.txt
+         path_tgt: ../datasets\train\corpus_nbv\tgt-train.txt
+   corpus_3:
+         path_src: ../datasets\train\corpus_nvi\src-train.txt
+         path_tgt: ../datasets\train\corpus_nvi\tgt-train.txt
+   corpus_4:
+         path_src: ../datasets\train\corpus_nlth\src-train.txt
+         path_tgt: ../datasets\train\corpus_nlth\tgt-train.txt
+   valid:
+      path_src: ../datasets\val\src-val.txt
+      path_tgt: ../datasets\val\tgt-val.txt

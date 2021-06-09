@@ -44,7 +44,6 @@ report_file.write('Dataset,Train, Validation, Test\n')
 report_ = f", {train_df.shape[0]},  {eval_df.shape[0]}, {test_df.shape[0]}"
 report_file.write(report_ + '\n')
 
-
 ##################################################
 
 
@@ -101,6 +100,7 @@ save_train_files(train_df)
 def save_val_files(df):
     source_path = ""
     target_path = ""
+    target_val = TARGET_FILES[-1]
     for source in SOURCE_FILES:
         source_text = df[source].apply(str.strip)
 
@@ -116,15 +116,16 @@ def save_val_files(df):
 
             source_path = os.path.join(corpus_path, f'src-val.txt')
             source_text.to_csv(source_path, header=None, index=None, sep=' ', mode='w')
-
+            target_val = target
             target_text = df[target].apply(str.strip)
             target_path = os.path.join(corpus_path, f'tgt-val.txt')
             target_text.to_csv(target_path, header=None, index=None, sep=' ', mode='w')
-            report_file.write(f'\nval-version: {target}')
+
     data_config = "   valid:\n" \
                   f"      path_src: {source_path}\n" \
                   f"      path_tgt: {target_path}\n"
     config_file.write(data_config)
+    report_file.write(f'\nval-target: {target_val}')
 
 
 save_val_files(eval_df)
