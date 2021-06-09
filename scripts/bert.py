@@ -26,7 +26,10 @@ def get_train_df():
         tgt_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, 'tgt-train.txt')
         src_text = open(src_train_file).readlines()
         tgt_text = open(tgt_train_file).readlines()
-        train_dfs.append(pd.DataFrame([src_text, tgt_text], columns=['input_text', 'target_text']))
+        train_dfs.append(pd.DataFrame({
+            'input_text':src_text,
+            'target_text':tgt_text
+        }))
     return pd.concat(train_dfs)
 
 
@@ -36,7 +39,10 @@ def get_val_df():
     src_text = open(src_val_file).readlines()
     tgt_text = open(tgt_val_file).readlines()
 
-    return pd.DataFrame([src_text, tgt_text], columns=['input_text', 'target_text'])
+    return pd.DataFrame({
+        'input_text':src_text,
+        'target_text':tgt_text
+    })
 
 
 def save_as_file(filename, df):
