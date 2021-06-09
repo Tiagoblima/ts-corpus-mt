@@ -22,8 +22,8 @@ encoder_type = "bert"
 def get_train_df():
     train_dfs = []
     for train_corpus in os.listdir(os.path.join(DATASET_DIR, 'train')):
-        src_train_file = os.path.join(DATASET_DIR, train_corpus, f'src-train.txt')
-        tgt_train_file = os.path.join(DATASET_DIR, train_corpus, f'tgt-train.txt')
+        src_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, 'src-train.txt')
+        tgt_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, 'tgt-train.txt')
         src_text = open(src_train_file).readlines()
         tgt_text = open(tgt_train_file).readlines()
         train_dfs.append(pd.DataFrame([src_text, tgt_text], columns=['input_text', 'target_text']))
