@@ -167,10 +167,10 @@ def evaluate(tgt_corpus):
 
     reference_names = []
     for i, ref_file in enumerate(os.listdir(os.path.join(DATASET_DIR, 'test/references'))):
-        if ref_file.split('_')[-1] == tgt_corpus:
+        if ref_file.split('_')[-1].split('.')[0] == tgt_corpus:
             target = open(os.path.join(DATASET_DIR, 'test/references', ref_file), encoding='utf8').readlines()
-            reference_names.append(ref_file.split('.')[0])
-            result_dict[ref_file.split('.')[0]] = target
+            reference_names.append(ref_file.split('.')[0].split('.')[0])
+            result_dict[ref_file.split('.')[0].split('.')[0]] = target
 
     df = pd.DataFrame(result_dict)
 
@@ -192,7 +192,7 @@ def evaluate(tgt_corpus):
     }
     df.to_csv(os.path.join(model_dir, 'reports', f'{args.src_corpus}-{args.tgt_corpus}.sent_report.csv'))
     pd.DataFrame.from_dict(result, orient='index').to_csv(
-        os.path.join(model_dir, 'reports', '{args.src_corpus}-{args.tgt_corpus}.corpus_report.csv'))
+        os.path.join(model_dir, 'reports', f'{args.src_corpus}-{args.tgt_corpus}.corpus_report.csv'))
 
 
 def main():
