@@ -15,8 +15,8 @@ parser = argparse.ArgumentParser(description='Process some integers.')
 parser.add_argument('--encoder', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
 
-# parser.add_argument('--epochs', metavar='N', type=str,
-#           help='an integer for the accumulator', required=True)
+parser.add_argument('--epochs', metavar='N', type=str,
+           help='an integer for the accumulator', required=True)
 
 parser.add_argument('--src_corpus', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
