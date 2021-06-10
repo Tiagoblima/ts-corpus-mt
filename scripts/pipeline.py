@@ -16,7 +16,7 @@ parser.add_argument('--encoder', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
 
 parser.add_argument('--epochs', metavar='N', type=str,
-           help='an integer for the accumulator', required=True)
+                    help='an integer for the accumulator', required=True)
 
 parser.add_argument('--src_corpus', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
@@ -32,7 +32,7 @@ args = parser.parse_args()
 nltk.download('punkt')
 ENCODER = args.encoder
 ROOT_DIR = f'../{ENCODER}'
-training_steps =  args.epochs
+training_steps = args.epochs
 DATASET_DIR = '../datasets/'
 
 SOURCE_FILES = args.src_corpus.split(',')
@@ -40,7 +40,6 @@ TARGET_FILES = args.tgt_corpus.split(',')
 
 
 def select_dataset(config_file):
-
     for source in SOURCE_FILES:
 
         for i, target in enumerate(TARGET_FILES):
@@ -143,51 +142,56 @@ def translate(tgt_corpus):
     translate_cmd = f'onmt_translate -model {model_path} -src {test_file} -output {pred_file} -verbose '
     if torch.cuda.is_available():
         translate_cmd += ' -gpu 0'
+    os.system(translate_cmd)
 
 
 def evaluate(tgt_corpus):
+
+    pred_path = os.path.join('../' + ENCODER, "prediction")
+    if not args.embedding:
+        pred_file = os.path.join(pred_path, f"{ENCODER}.{tgt_corpus}-pred.txt")
+    else:
+        pred_file = os.path.join(pred_path, f"{ENCODER}.{tgt_corpus}-pred.embedding.txt")
     result = {}
     model_dir = os.path.join('..', ENCODER)
-    for file in os.listdir(os.path.join(model_dir, 'prediction')):
+    preds = open(os.path.join(model_dir, 'prediction', pred_file), encoding='utf-8').readlines()
 
-        preds = open(os.path.join(model_dir, 'prediction', file), encoding='utf-8').readlines()
+    inputs = open(
+        os.path.join(DATASET_DIR, 'test', f'{args.src_corpus}-test.txt'),
+        encoding='utf-8').readlines()
 
-        inputs = open(
-            os.path.join(DATASET_DIR, 'test', f'{args.src_corpus}-test.txt'),
-            encoding='utf-8').readlines()
+    result_dict = {
+        'src_sent': inputs,
+        'pred_sent': preds,
+    }
 
-        result_dict = {
-            'src_sent': inputs,
-            'pred_sent': preds,
-        }
+    reference_names = []
+    for i, ref_file in enumerate(os.listdir(os.path.join(DATASET_DIR, 'test/references'))):
+        if ref_file.split('_')[-1] == tgt_corpus:
+            target = open(os.path.join(DATASET_DIR, 'test/references', ref_file), encoding='utf8').readlines()
+            reference_names.append(ref_file.split('.')[0])
+            result_dict[ref_file.split('.')[0]] = target
 
-        reference_names = []
-        for i, ref_file in enumerate(os.listdir(os.path.join(DATASET_DIR, 'test/references'))):
-            if ref_file.split('_')[-1] == tgt_corpus:
-                target = open(os.path.join(DATASET_DIR, 'test/references', ref_file), encoding='utf8').readlines()
-                reference_names.append(ref_file.split('.')[0])
-                result_dict[ref_file.split('.')[0]] = target
+    df = pd.DataFrame(result_dict)
 
-        df = pd.DataFrame(result_dict)
+    refs = df.loc[:, reference_names].to_numpy()
 
-        refs = df.loc[:, reference_names].to_numpy()
+    def list_bleu(tup):
+        return sentence_bleu(sys_sent=tup[0], ref_sents=tup[1])
 
-        def list_bleu(tup):
-            return sentence_bleu(sys_sent=tup[0], ref_sents=tup[1])
+    list_score = list(map(list_bleu, zip(preds, refs)))
 
-        list_score = list(map(list_bleu, zip(preds, refs)))
+    df['bleu_score'] = list_score
+    refs = df.loc[:, reference_names].T.to_numpy()
+    bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
+    sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
 
-        df['bleu_score'] = list_score
-        refs = df.loc[:, reference_names].T.to_numpy()
-        bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
-        sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
-
-        result["result"] = {
-            'BLEU': round(bleu_score, 2),
-            'SARI': round(sari_score, 2),
-        }
-        df.to_csv(os.path.join(model_dir, 'reports', f'{args.src_corpus}-{args.tgt_corpus}.report.csv'))
-        pd.DataFrame.from_dict(result, orient='index').to_csv(os.path.join(model_dir, 'reports', 'final_report.csv'))
+    result["result"] = {
+        'BLEU': round(bleu_score, 2),
+        'SARI': round(sari_score, 2),
+    }
+    df.to_csv(os.path.join(model_dir, 'reports', f'{args.src_corpus}-{args.tgt_corpus}.report.csv'))
+    pd.DataFrame.from_dict(result, orient='index').to_csv(os.path.join(model_dir, 'reports', 'final_report.csv'))
 
 
 def main():
