@@ -60,8 +60,8 @@ def select_dataset(config_file):
             data_config = f"   corpus_{source}-{target}:\n" \
                           f"           path_src: {source_path}\n" \
                           f"           path_tgt: {target_path}\n" \
-                          f"\nsrc_vocab: ../datasets/corpus_{source}-{target}/vocab/src.vocab\n" \
-                          f"tgt_vocab: ../datasets/corpus_{source}-{target}/vocab/tgt.vocab "
+                          f"\nsrc_vocab: {DATASET_DIR}/corpus_{source}-{target}/vocab/src.vocab\n" \
+                          f"tgt_vocab: {DATASET_DIR}/corpus_{source}-{target}/vocab/tgt.vocab "
             config_file.write(data_config)
 
     source_path = os.path.join(DATASET_DIR, 'val', f'{args.src_corpus}-val.txt')
