@@ -1,6 +1,4 @@
 save_data: ../datasets
-src_vocab: ../datasets/vocab/src.vocab
-tgt_vocab: ../datasets/vocab/tgt.vocab
 shared_vocab: true
 override: true
 data:
