@@ -11,3 +11,15 @@ wandb~=0.10.31
 numpy~=1.20.3
 sklearn~=0.0
 scikit-learn~=0.24.2
+
+easse~=0.2.4
+sacremoses~=0.0.45
+click~=8.0.0
+stanfordnlp~=0.2.0
+tqdm~=4.49.0
+plotly~=4.14.3
+tseval~=1.0
+yattag~=1.14.0
+simalign~=0.2
+setuptools~=52.0.0
+simpletransformers~=0.61.6

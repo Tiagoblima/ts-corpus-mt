@@ -18,6 +18,8 @@ transformers_logger = logging.getLogger("transformers")
 transformers_logger.setLevel(logging.WARNING)
 encoder_type = "bert"
 
+wandb.login(key="8e593ae9d0788bae2e0a84d07de0e76f5cf3dcf4")
+
 
 def get_train_df():
     train_dfs = []
@@ -27,8 +29,8 @@ def get_train_df():
         src_text = open(src_train_file).readlines()
         tgt_text = open(tgt_train_file).readlines()
         train_dfs.append(pd.DataFrame({
-            'input_text':src_text,
-            'target_text':tgt_text
+            'input_text': src_text,
+            'target_text': tgt_text
         }))
     return pd.concat(train_dfs)
 
@@ -40,8 +42,8 @@ def get_val_df():
     tgt_text = open(tgt_val_file).readlines()
 
     return pd.DataFrame({
-        'input_text':src_text,
-        'target_text':tgt_text
+        'input_text': src_text,
+        'target_text': tgt_text
     })
 
 
@@ -70,7 +72,6 @@ def save_as_file(filename, df):
 #        "repetition_penalty": 100
 # }
 def fine_tuning(model_args):
-
     model = LanguageModelingModel("bert", "neuralmind/bert-base-portuguese-cased", args=model_args)
 
     train_file = os.path.join(DATASET_DIR, 'train.txt')
@@ -101,7 +102,7 @@ def train(model_args):
     results = model.eval_model(val_df)
     print(f"Evaluation: {results}")
 
-    pred_spt = model.predict(open(os.path.join(DATASET_DIR, 'test', 'src-test.txt')))
+    pred_spt = model.predict(open(os.path.join(DATASET_DIR, 'test', 'src-test.txt')).readlines())
     pre_path = os.path.join(MODEL_DIR, 'prediction')
     try:
         os.makedirs(pre_path)
@@ -112,12 +113,12 @@ def train(model_args):
 
 
 def main():
-
     with open(os.path.join(MODEL_DIR, 'bert.config.json')) as json_file:
         model_args = json.load(json_file)
         model_args['wandb_project'] = "ts-mt"
 
     fine_tuning(model_args)
     train(model_args)
+
 
 main()
