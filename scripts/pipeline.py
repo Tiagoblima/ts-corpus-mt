@@ -200,7 +200,7 @@ def main():
     for corpus in os.listdir('../datasets/train/'):
         tar = corpus.split('-')[-1]
         # TARGET_FILES = [tar]
-        # train()
+        train()
         translate(tar)
         evaluate(tar)
 
