@@ -1,7 +1,7 @@
 
 ENCODER="brnn"
 TEST_DIR=../datasets/test/references
-N_STEPS=30000
+N_STEPS=10000
 cd indigenous-mt/scripts/ || echo "scripts/ Dir not found"
 pip install -r ../requirements.txt
 pip install wandb -qqq
