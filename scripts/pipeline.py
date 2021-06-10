@@ -199,7 +199,7 @@ def main():
     global TARGET_FILES
     for corpus in os.listdir('../datasets/train/'):
         tar = corpus.split('-')[-1]
-        # TARGET_FILES = [tar]
+        TARGET_FILES = [tar]
         train()
         translate(tar)
         evaluate(tar)
