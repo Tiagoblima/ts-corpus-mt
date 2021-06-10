@@ -26,8 +26,7 @@ parser.add_argument('--tgt_corpus', metavar='N', type=str,
 
 parser.add_argument('--embedding', action='store_true',
                     help='an integer for the accumulator')
-parser.add_argument('--model', metavar='N', type=str,
-       help='an integer for the accumulator', required=True)
+
 args = parser.parse_args()
 
 nltk.download('punkt')
