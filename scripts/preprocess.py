@@ -68,6 +68,7 @@ config_file.write(tgt_path + "\n")
 
 config_file.write("share_decoder_embeddings: true\nshare_embeddings: true\nshare_vocab: true")
 
+
 def save_train_files(df):
     config_file.write("data:\n")
 
@@ -96,7 +97,6 @@ save_train_files(train_df)
 
 
 def save_val_files(df):
-
     for source in SOURCE_FILES:
         source_text = df[source].apply(str.strip)
 
