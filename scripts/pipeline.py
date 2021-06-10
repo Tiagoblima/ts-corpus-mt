@@ -130,7 +130,7 @@ def train():
 def translate(tgt_corpus):
     pred_path = os.path.join('../' + ENCODER, "prediction")
 
-    model_path = f'../{ENCODER}/run/model_step_{training_steps}'
+    model_path = f'../{ENCODER}/run/model_step_{training_steps}.pt'
     test_file = f"{DATASET_DIR}/test/{args.src_corpus}-test.txt"
     create_folders([pred_path])
 
@@ -146,12 +146,12 @@ def translate(tgt_corpus):
 
 
 def evaluate(tgt_corpus):
-
     pred_path = os.path.join('../' + ENCODER, "prediction")
     if not args.embedding:
         pred_file = os.path.join(pred_path, f"{ENCODER}.{tgt_corpus}-pred.txt")
     else:
         pred_file = os.path.join(pred_path, f"{ENCODER}.{tgt_corpus}-pred.embedding.txt")
+
     result = {}
     model_dir = os.path.join('..', ENCODER)
     preds = open(os.path.join(model_dir, 'prediction', pred_file), encoding='utf-8').readlines()
@@ -191,15 +191,16 @@ def evaluate(tgt_corpus):
         'SARI': round(sari_score, 2),
     }
     df.to_csv(os.path.join(model_dir, 'reports', f'{args.src_corpus}-{args.tgt_corpus}.sent_report.csv'))
-    pd.DataFrame.from_dict(result, orient='index').to_csv(os.path.join(model_dir, 'reports', '{args.src_corpus}-{args.tgt_corpus}.corpus_report.csv'))
+    pd.DataFrame.from_dict(result, orient='index').to_csv(
+        os.path.join(model_dir, 'reports', '{args.src_corpus}-{args.tgt_corpus}.corpus_report.csv'))
 
 
 def main():
     global TARGET_FILES
     for corpus in os.listdir('../datasets/train/'):
         tar = corpus.split('-')[-1]
-        TARGET_FILES = [tar]
-        train()
+        # TARGET_FILES = [tar]
+        # train()
         translate(tar)
         evaluate(tar)
 
