@@ -190,6 +190,11 @@ def evaluate(tgt_corpus):
         'BLEU': round(bleu_score, 2),
         'SARI': round(sari_score, 2),
     }
+
+    try:
+        os.makedirs(os.path.join(model_dir, 'reports'))
+    except OSError:
+        pass
     df.to_csv(os.path.join(model_dir, 'reports', f'{args.src_corpus}-{args.tgt_corpus}.sent_report.csv'))
     pd.DataFrame.from_dict(result, orient='index').to_csv(
         os.path.join(model_dir, 'reports', f'{args.src_corpus}-{args.tgt_corpus}.corpus_report.csv'))
