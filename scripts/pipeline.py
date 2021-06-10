@@ -154,7 +154,7 @@ def evaluate(tgt_corpus):
 
     result = {}
     model_dir = os.path.join('..', ENCODER)
-    preds = open(os.path.join(model_dir, 'prediction', pred_file), encoding='utf-8').readlines()
+    preds = open(pred_file, encoding='utf-8').readlines()
 
     inputs = open(
         os.path.join(DATASET_DIR, 'test', f'{args.src_corpus}-test.txt'),
