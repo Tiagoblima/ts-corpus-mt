@@ -195,9 +195,9 @@ def evaluate(tgt_corpus):
         os.makedirs(os.path.join(model_dir, 'reports'))
     except OSError:
         pass
-    df.to_csv(os.path.join(model_dir, 'reports', f'{args.src_corpus}-{args.tgt_corpus}.sent_report.csv'))
+    df.to_csv(os.path.join(model_dir, 'reports', f'{args.src_corpus}-{tgt_corpus}.sent_report.csv'))
     pd.DataFrame.from_dict(result, orient='index').to_csv(
-        os.path.join(model_dir, 'reports', f'{args.src_corpus}-{args.tgt_corpus}.corpus_report.csv'))
+        os.path.join(model_dir, 'reports', f'{args.src_corpus}-{tgt_corpus}.corpus_report.csv'))
 
 
 def main():
