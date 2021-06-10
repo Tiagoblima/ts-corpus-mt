@@ -1,4 +1,5 @@
 save_data: ../datasets
-src_vocab: ../datasets/vocab/dataset.vocab
-tgt_vocab: ../datasets/vocab/dataset.vocab
+src_vocab: ../datasets/vocab/src.vocab
+tgt_vocab: ../datasets/vocab/src.vocab
+shared_vocab: true
 data:
