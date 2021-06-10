@@ -89,7 +89,7 @@ def create_config_file():
     select_dataset(file)
     logs_path = os.path.join(ROOT_DIR, 'runs/fit')
     file.write(f"tensorboard_log_dir: {logs_path}\n")
-    wandb.tensorboard.patch(root_logdir=logs_path)
+
     model_path = f"save_model: ../{ENCODER}/run/model\n"
     file.write(model_path)
 
