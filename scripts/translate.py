@@ -9,6 +9,8 @@ parser.add_argument('--encoder', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
 parser.add_argument('--model', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
+parser.add_argument('--src_corpus', metavar='N', type=str,
+                    help='an integer for the accumulator', required=True)
 parser.add_argument('--embedding', action='store_true',
                     help='an integer for the accumulator')
 
@@ -32,13 +34,13 @@ def create_folders(paths=None):
 pred_path = os.path.join('../' + ENCODER, "prediction")
 
 model_path = f'../{ENCODER}/run/{model_name}'
-test_file = f"{DATASET_ROOT}/test/src-test.txt"
+test_file = f"{DATASET_ROOT}/test/{args.src_corpus}-test.txt"
 create_folders([pred_path])
 
 if not args.embedding:
-    pred_file = os.path.join(pred_path, f"prediction.txt")
+    pred_file = os.path.join(pred_path, f"{args.src_corpus}-pred.txt")
 else:
-    pred_file = os.path.join(pred_path, f"prediction.embedding.txt")
+    pred_file = os.path.join(pred_path, f"{args.src_corpus}-pred.embedding.txt")
 
 translate_cmd = f'onmt_translate -model {model_path} -src {test_file} -output {pred_file} -verbose '
 if torch.cuda.is_available():
