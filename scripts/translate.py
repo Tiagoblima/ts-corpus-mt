@@ -38,9 +38,9 @@ test_file = f"{DATASET_ROOT}/test/{args.src_corpus}-test.txt"
 create_folders([pred_path])
 
 if not args.embedding:
-    pred_file = os.path.join(pred_path, f"{args.src_corpus}-pred.txt")
+    pred_file = os.path.join(pred_path, f"{args.src_corpus}.{ENCODER}-pred.txt")
 else:
-    pred_file = os.path.join(pred_path, f"{args.src_corpus}-pred.embedding.txt")
+    pred_file = os.path.join(pred_path, f"{args.src_corpus}.{ENCODER}-pred.embedding.txt")
 
 translate_cmd = f'onmt_translate -model {model_path} -src {test_file} -output {pred_file} -verbose '
 if torch.cuda.is_available():
