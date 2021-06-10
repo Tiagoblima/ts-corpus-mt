@@ -120,9 +120,9 @@ def main():
 
     config_path = create_config_file()
 
-    #os.system(f'onmt_build_vocab -config {config_path} -n_sample 10000')
-    #wandb.init(project="ts-mt")
-    #os.system(f'onmt_train -config {config_path}')
+    os.system(f'onmt_build_vocab -config {config_path} -n_sample 10000')
+    wandb.init(project="ts-mt")
+    os.system(f'onmt_train -config {config_path}')
 
 
 if __name__ == '__main__':
