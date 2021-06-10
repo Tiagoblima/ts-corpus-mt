@@ -21,8 +21,8 @@ parser.add_argument('--epochs', metavar='N', type=str,
 parser.add_argument('--src_corpus', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
 
-parser.add_argument('--tgt_corpus', metavar='N', type=str,
-                    help='an integer for the accumulator', required=True)
+# parser.add_argument('--tgt_corpus', metavar='N', type=str,
+#                  help='an integer for the accumulator', required=True)
 
 parser.add_argument('--embedding', action='store_true',
                     help='an integer for the accumulator')
@@ -36,7 +36,6 @@ training_steps = args.epochs
 DATASET_DIR = '../datasets/'
 
 SOURCE_FILES = args.src_corpus.split(',')
-TARGET_FILES = args.tgt_corpus.split(',')
 
 
 def select_dataset(config_file):

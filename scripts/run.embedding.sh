@@ -29,8 +29,6 @@ else
     unzip glove_s300.zip -d "../glove_dir"
 fi
 
-python pipeline.py --encoder $ENCODER  --epochs $N_STEPS --embedding --src_corpus arc --tgt_corpus nlth
+python pipeline.py --encoder $ENCODER  --epochs $N_STEPS --src_corpus arc
 
-python translate.py --encoder $ENCODER --model model_step_$N_STEPS.pt --embedding
-easse evaluate -t custom --orig_sents_path ../datasets/test/src-test.txt --refs_sents_paths $TEST_DIR/reference_naa.txt,$TEST_DIR/reference_nvi.txt,$TEST_DIR/reference_nlth.txt,$TEST_DIR/reference_nbv.txt -m 'bleu,sari' -q < ../$ENCODER/prediction/prediction.txt > ../$ENCODER/$ENCODER.reports.txt
 wandb sync ../$ENCODER/runs/fit

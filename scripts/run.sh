@@ -20,6 +20,6 @@ else
 fi
 
 
-python pipeline.py --encoder $ENCODER  --epochs $N_STEPS --src_corpus arc --tgt_corpus nlth
+python pipeline.py --encoder $ENCODER  --epochs $N_STEPS --src_corpus arc
 
 wandb sync ../$ENCODER/runs/fit
