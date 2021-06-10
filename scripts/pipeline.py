@@ -2,8 +2,11 @@ import argparse
 import os
 
 import nltk
+import pandas as pd
 import torch
 import wandb
+from easse.bleu import sentence_bleu, corpus_bleu
+from easse.sari import corpus_sari
 
 wandb.login(key="8e593ae9d0788bae2e0a84d07de0e76f5cf3dcf4")
 
@@ -12,8 +15,8 @@ parser = argparse.ArgumentParser(description='Process some integers.')
 parser.add_argument('--encoder', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
 
-parser.add_argument('--epochs', metavar='N', type=str,
-                    help='an integer for the accumulator', required=True)
+# parser.add_argument('--epochs', metavar='N', type=str,
+#           help='an integer for the accumulator', required=True)
 
 parser.add_argument('--src_corpus', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
@@ -23,13 +26,14 @@ parser.add_argument('--tgt_corpus', metavar='N', type=str,
 
 parser.add_argument('--embedding', action='store_true',
                     help='an integer for the accumulator')
-
+parser.add_argument('--model', metavar='N', type=str,
+       help='an integer for the accumulator', required=True)
 args = parser.parse_args()
 
 nltk.download('punkt')
 ENCODER = args.encoder
 ROOT_DIR = f'../{ENCODER}'
-training_steps = args.epochs
+training_steps =  args.epochs
 DATASET_DIR = '../datasets/'
 
 SOURCE_FILES = args.src_corpus.split(',')
@@ -113,16 +117,85 @@ def create_folders(paths=None):
             pass
 
 
-def main():
+def train():
     config_path = os.path.join('../', ENCODER, "config_files")
 
     create_folders([config_path])
 
     config_path = create_config_file()
-
-    os.system(f'onmt_build_vocab -config {config_path} -n_sample 10000')
+    os.system(f'onmt_build_vocab -config {config_path} -n_sample 50000')
     wandb.init(project="ts-mt")
     os.system(f'onmt_train -config {config_path}')
+
+
+def translate():
+    pred_path = os.path.join('../' + ENCODER, "prediction")
+
+    model_path = f'../{ENCODER}/run/model_step_{training_steps}'
+    test_file = f"{DATASET_DIR}/test/{args.src_corpus}-test.txt"
+    create_folders([pred_path])
+
+    if not args.embedding:
+        pred_file = os.path.join(pred_path, f"{ENCODER}.{args.tgt_corpus}-pred.txt")
+    else:
+        pred_file = os.path.join(pred_path, f"{ENCODER}.{args.tgt_corpus}-pred.embedding.txt")
+
+    translate_cmd = f'onmt_translate -model {model_path} -src {test_file} -output {pred_file} -verbose '
+    if torch.cuda.is_available():
+        translate_cmd += ' -gpu 0'
+
+
+def evaluate():
+    result = {}
+    model_dir = os.path.join('..', ENCODER)
+    for file in os.listdir(os.path.join(model_dir, 'prediction')):
+
+        preds = open(os.path.join(model_dir, 'prediction', file), encoding='utf-8').readlines()
+
+        inputs = open(
+            os.path.join(DATASET_DIR, 'test', f'{args.src_corpus}-test.txt'),
+            encoding='utf-8').readlines()
+
+        result_dict = {
+
+            'src_sent': inputs,
+            'pred_sent': preds,
+
+        }
+
+        reference_names = []
+        for i, ref_file in enumerate(os.listdir(os.path.join(DATASET_DIR, 'test/references'))):
+            if ref_file.split('_')[-1] in TARGET_FILES:
+                target = open(os.path.join(DATASET_DIR, 'test/references', ref_file), encoding='utf8').readlines()
+                reference_names.append(ref_file.split('.')[0])
+                result_dict[ref_file.split('.')[0]] = target
+
+        df = pd.DataFrame(result_dict)
+
+        refs = df.loc[:, reference_names].to_numpy()
+
+        def list_bleu(tup):
+            return sentence_bleu(sys_sent=tup[0], ref_sents=tup[1])
+
+        list_score = list(map(list_bleu, zip(preds, refs)))
+
+        df['bleu_score'] = list_score
+        refs = df.loc[:, reference_names].T.to_numpy()
+        bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
+        sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
+
+        result["result"] = {
+            'BLEU': round(bleu_score, 2),
+            'SARI': round(sari_score, 2),
+        }
+        df.to_csv(os.path.join(model_dir, 'reports', f'{args.src_corpus}-{args.tgt_corpus}.report.csv'))
+        pd.DataFrame.from_dict(result, orient='index').to_csv(os.path.join(model_dir, 'reports', 'final_report.csv'))
+
+
+def main():
+    train()
+    translate()
+    evaluate()
 
 
 if __name__ == '__main__':
