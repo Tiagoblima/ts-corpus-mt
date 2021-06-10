@@ -20,8 +20,6 @@ else
 fi
 
 
-python train.py --encoder $ENCODER  --epochs $N_STEPS --src_corpus arc --tgt_corpus nlth
+python pipeline.py --encoder $ENCODER  --epochs $N_STEPS --src_corpus arc --tgt_corpus nlth
 
-python translate.py --encoder $ENCODER --model model_step_$N_STEPS.pt --src_corpus arc
-easse evaluate -t custom --orig_sents_path ../datasets/test/arc-test.txt --refs_sents_paths $TEST_DIR/reference_naa.txt,$TEST_DIR/reference_nvi.txt,$TEST_DIR/reference_nlth.txt,$TEST_DIR/reference_nbv.txt -m 'bleu,sari' -q < ../$ENCODER/prediction/arc-pred.txt > ../$ENCODER/$ENCODER.reports.txt
 wandb sync ../$ENCODER/runs/fit
