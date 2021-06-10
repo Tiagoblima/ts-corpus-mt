@@ -41,6 +41,7 @@ TARGET_FILES = args.tgt_corpus.split(',')
 
 
 def select_dataset(config_file):
+
     for source in SOURCE_FILES:
 
         for i, target in enumerate(TARGET_FILES):
@@ -128,7 +129,7 @@ def train():
     os.system(f'onmt_train -config {config_path}')
 
 
-def translate():
+def translate(tgt_corpus):
     pred_path = os.path.join('../' + ENCODER, "prediction")
 
     model_path = f'../{ENCODER}/run/model_step_{training_steps}'
@@ -136,16 +137,16 @@ def translate():
     create_folders([pred_path])
 
     if not args.embedding:
-        pred_file = os.path.join(pred_path, f"{ENCODER}.{args.tgt_corpus}-pred.txt")
+        pred_file = os.path.join(pred_path, f"{ENCODER}.{tgt_corpus}-pred.txt")
     else:
-        pred_file = os.path.join(pred_path, f"{ENCODER}.{args.tgt_corpus}-pred.embedding.txt")
+        pred_file = os.path.join(pred_path, f"{ENCODER}.{tgt_corpus}-pred.embedding.txt")
 
     translate_cmd = f'onmt_translate -model {model_path} -src {test_file} -output {pred_file} -verbose '
     if torch.cuda.is_available():
         translate_cmd += ' -gpu 0'
 
 
-def evaluate():
+def evaluate(tgt_corpus):
     result = {}
     model_dir = os.path.join('..', ENCODER)
     for file in os.listdir(os.path.join(model_dir, 'prediction')):
@@ -157,15 +158,13 @@ def evaluate():
             encoding='utf-8').readlines()
 
         result_dict = {
-
             'src_sent': inputs,
             'pred_sent': preds,
-
         }
 
         reference_names = []
         for i, ref_file in enumerate(os.listdir(os.path.join(DATASET_DIR, 'test/references'))):
-            if ref_file.split('_')[-1] in TARGET_FILES:
+            if ref_file.split('_')[-1] == tgt_corpus:
                 target = open(os.path.join(DATASET_DIR, 'test/references', ref_file), encoding='utf8').readlines()
                 reference_names.append(ref_file.split('.')[0])
                 result_dict[ref_file.split('.')[0]] = target
@@ -193,9 +192,13 @@ def evaluate():
 
 
 def main():
-    train()
-    translate()
-    evaluate()
+    global TARGET_FILES
+    for corpus in os.listdir('../datasets/train/'):
+        tar = corpus.split('-')[-1]
+        TARGET_FILES = [tar]
+        train()
+        translate(tar)
+        evaluate(tar)
 
 
 if __name__ == '__main__':
