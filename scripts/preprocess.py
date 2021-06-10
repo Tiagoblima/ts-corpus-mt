@@ -66,6 +66,7 @@ config_file.write(source_path + "\n")
 tgt_path = f"tgt_vocab: " + os.path.join(DATASET_ROOT, f"vocab/dataset.vocab")
 config_file.write(tgt_path + "\n")
 
+config_file.write("share_decoder_embeddings: true\nshare_embeddings: true\nshare_vocab: true")
 
 def save_train_files(df):
     config_file.write("data:\n")
@@ -77,21 +78,15 @@ def save_train_files(df):
 
             corpus_path = os.path.join(DATASET_ROOT,
 
-                                       'train', f'corpus_{target}')
+                                       'train', f'corpus_{source}-{target}')
             try:
                 os.makedirs(corpus_path)
             except OSError:
                 pass
 
-            source_path = os.path.join(corpus_path, f'src-train.txt')
-            target_path = os.path.join(corpus_path, f'tgt-train.txt')
+            source_path = os.path.join(corpus_path, f'{source}-train.txt')
+            target_path = os.path.join(corpus_path, f'{target}-train.txt')
 
-            data_config = f"   corpus_{target}:\n" \
-                          f"         path_src: {source_path}\n" \
-                          f"         path_tgt: {target_path}\n" \
-
-
-            config_file.write(data_config)
             source_text.to_csv(source_path, header=None, index=None, sep=' ', mode='w')
             target_text = df[target].apply(str.strip)
             target_text.to_csv(target_path, header=None, index=None, sep=' ', mode='w')
@@ -101,34 +96,24 @@ save_train_files(train_df)
 
 
 def save_val_files(df):
-    source_path = ""
-    target_path = ""
-    target_val = TARGET_FILES[-1]
+
     for source in SOURCE_FILES:
         source_text = df[source].apply(str.strip)
 
         for i, target in enumerate(TARGET_FILES):
 
-            corpus_path = os.path.join(DATASET_ROOT,
-
-                                       'val')
+            corpus_path = os.path.join(DATASET_ROOT, 'val')
             try:
                 os.makedirs(corpus_path)
             except OSError:
                 pass
 
-            source_path = os.path.join(corpus_path, f'src-val.txt')
+            source_path = os.path.join(corpus_path, f'{source}-val.txt')
             source_text.to_csv(source_path, header=None, index=None, sep=' ', mode='w')
-            target_val = target
-            target_text = df[target].apply(str.strip)
-            target_path = os.path.join(corpus_path, f'tgt-val.txt')
-            target_text.to_csv(target_path, header=None, index=None, sep=' ', mode='w')
 
-    data_config = "   valid:\n" \
-                  f"      path_src: {source_path}\n" \
-                  f"      path_tgt: {target_path}\n"
-    config_file.write(data_config)
-    report_file.write(f'\nval-target: {target_val}')
+            target_text = df[target].apply(str.strip)
+            target_path = os.path.join(corpus_path, f'{target}-val.txt')
+            target_text.to_csv(target_path, header=None, index=None, sep=' ', mode='w')
 
 
 save_val_files(eval_df)
@@ -149,11 +134,11 @@ def save_test_files(df):
             except OSError:
                 pass
 
-            source_path = os.path.join(corpus_path, f'src-test.txt')
+            source_path = os.path.join(corpus_path, f'{source}-test.txt')
             source_text.to_csv(source_path, header=None, index=None, sep=' ', mode='w')
 
             target_text = df[target].apply(str.strip)
-            target_path = os.path.join(reference_path, f'reference_{i + 1}.txt')
+            target_path = os.path.join(reference_path, f'reference_{target}.txt')
             target_text.to_csv(target_path, header=None, index=None, sep=' ', mode='w')
 
 

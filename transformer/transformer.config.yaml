@@ -26,7 +26,7 @@ normalization: "tokens"
 # Model
 encoder_type: transformer
 decoder_type: transformer
-max_lenght: 50
+max_lenght: 100
 enc_layers: 6
 dec_layers: 6
 heads: 6
@@ -36,7 +36,5 @@ transformer_ff: 2048
 dropout_steps: [0]
 encoder_dropout: [0.5]
 attention_dropout: [0.5]
-share_decoder_embeddings: true
-share_embeddings: true
 position_encoding: true
-share_vocab: true
+
