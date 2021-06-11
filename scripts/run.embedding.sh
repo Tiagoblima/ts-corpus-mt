@@ -1,6 +1,6 @@
 
 ENCODER="brnn"
-TEST_DIR=../datasets/test/references
+
 N_STEPS=10000
 cd indigenous-mt/scripts/ || echo "scripts/ Dir not found"
 pip install -r ../requirements.txt
@@ -29,6 +29,6 @@ else
     unzip glove_s300.zip -d "../glove_dir"
 fi
 
-python pipeline.py --encoder $ENCODER  --epochs $N_STEPS --src_corpus arc
+python pipeline1.py --encoder $ENCODER  --epochs $N_STEPS --embedding
 
 wandb sync ../$ENCODER/runs/fit
