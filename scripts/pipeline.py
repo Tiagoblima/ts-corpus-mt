@@ -49,11 +49,6 @@ def select_dataset(config_file, tar):
             except OSError:
                 pass
 
-            try:
-                os.makedirs(corpus_path)
-            except OSError:
-                pass
-
             source_path = os.path.join(corpus_path, f'{source}-train.txt')
             target_path = os.path.join(corpus_path, f'{target}-train.txt')
 
@@ -213,7 +208,7 @@ def main():
         evaluate(tar)
 
     if not args.embedding:
-       zip_path = f"reports.{ENCODER}.zip"
+        zip_path = f"reports.{ENCODER}.zip"
     else:
         zip_path = f"reports.{ENCODER}.embedding.zip"
 

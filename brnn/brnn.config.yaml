@@ -1,7 +1,5 @@
 # Where to save the checkpoints
 encoder_type: brnn
-word_vec_size: 300
-rnn_size: 300
 hidden size: 256
 
 #Preprocess
