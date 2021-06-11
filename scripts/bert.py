@@ -20,10 +20,14 @@ encoder_type = "bert"
 
 wandb.login(key="8e593ae9d0788bae2e0a84d07de0e76f5cf3dcf4")
 
+TARGET_CORPUS = ['nvb', 'nlth', 'nvi', 'naa']
+SOURCE_CORPUS = 'arc'
 
-def get_train_df():
+
+def get_train_df(tgt_corpus):
     train_dfs = []
-    for train_corpus in os.listdir(os.path.join(DATASET_DIR, 'train')):
+    for tgt_cps in tgt_corpus:
+        train_corpus = SOURCE_CORPUS + '-' + tgt_cps
         src_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, 'src-train.txt')
         tgt_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, 'tgt-train.txt')
         src_text = open(src_train_file).readlines()
@@ -53,31 +57,13 @@ def save_as_file(filename, df):
     np.savetxt(filename, dataset, fmt='%s', encoding='utf8')
 
 
-# model_args = {
-#     "length_penalty": 0.001,
-#     "reprocess_input_data": True,
-#     "overwrite_output_dir": True,
-#     "max_seq_length": 30,
-#     "train_batch_size": 32,
-#     "num_train_epochs": 20,
-#     "save_eval_checkpoints": False,
-#     "save_model_every_epoch": False,
-#     "evaluate_generated_text": True,
-#     "evaluate_during_training_verbose": True,
-#     "use_multiprocessing": True,
-#     "max_length": 30,
-#     "manual_seed": 4,
-#     "save_steps": 58300,
-#     'wandb_project': pair,
-#        "repetition_penalty": 100
-# }
-def fine_tuning(model_args):
+def fine_tuning(model_args, tgt_cps):
     model = LanguageModelingModel("bert", "neuralmind/bert-base-portuguese-cased", args=model_args)
 
     train_file = os.path.join(DATASET_DIR, 'train.txt')
     eval_file = os.path.join(DATASET_DIR, 'val.txt')
 
-    train_df = get_train_df()
+    train_df = get_train_df(tgt_cps)
     val_df = get_val_df()
 
     save_as_file(train_file, train_df)
@@ -88,7 +74,8 @@ def fine_tuning(model_args):
     print("Evaluation: ", result)
 
 
-def train(model_args):
+def train(model_args, tgt_cps):
+
     model = Seq2SeqModel(
         "bert",
         "outputs",
@@ -96,7 +83,7 @@ def train(model_args):
         args=model_args,
         use_cuda=torch.cuda.is_available(),
     )
-    train_df = get_train_df()
+    train_df = get_train_df(tgt_cps)
     val_df = get_val_df()
     model.train_model(train_df)
     results = model.eval_model(val_df)
@@ -117,8 +104,9 @@ def main():
         model_args = json.load(json_file)
         model_args['wandb_project'] = "ts-mt"
 
-    fine_tuning(model_args)
-    train(model_args)
+    for tgt_cps in TARGET_CORPUS:
+        fine_tuning(model_args, tgt_cps)
+        train(model_args, tgt_cps)
 
 
 main()
