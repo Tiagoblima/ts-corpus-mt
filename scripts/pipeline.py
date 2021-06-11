@@ -212,7 +212,12 @@ def main():
         translate(tar)
         evaluate(tar)
 
-    zf = zipfile.ZipFile("reports.zip", "w")
+    if not args.embedding:
+       zip_path = f"reports.{ENCODER}.zip"
+    else:
+        zip_path = f"reports.{ENCODER}.embedding.zip"
+
+    zf = zipfile.ZipFile(zip_path, "w")
 
     for dirname, subdirs, files in os.walk(os.path.join(ENCODER, 'reports')):
         zf.write(dirname)
