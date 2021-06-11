@@ -38,7 +38,7 @@ DATASET_DIR = '../datasets/'
 SOURCE_FILES = args.src_corpus.split(',')
 
 
-def select_dataset(config_file):
+def select_dataset(config_file, tar):
     for source in SOURCE_FILES:
 
         for i, target in enumerate(TARGET_FILES):
@@ -64,14 +64,14 @@ def select_dataset(config_file):
             config_file.write(data_config)
 
     source_path = os.path.join(DATASET_DIR, 'val', f'{args.src_corpus}-val.txt')
-    target_path = os.path.join(DATASET_DIR, 'val', f'{args.tgt_corpus}-val.txt')
+    target_path = os.path.join(DATASET_DIR, 'val', f'{tar}-val.txt')
     data_config = "   valid:\n" \
                   f"      path_src: {source_path}\n" \
                   f"      path_tgt: {target_path}\n"
+
     config_file.write(data_config)
 
-
-def create_config_file():
+def create_config_file(tar):
     global training_steps
 
     model_config = open(f'../{ENCODER}/{ENCODER}.config.yaml').read()
@@ -86,7 +86,7 @@ def create_config_file():
     file = open(config_file_path, 'w')
 
     file.write(data_config)
-    select_dataset(file)
+    select_dataset(file, tar)
     logs_path = os.path.join(ROOT_DIR, 'runs/fit')
     file.write(f"tensorboard_log_dir: {logs_path}\n")
 
@@ -117,12 +117,12 @@ def create_folders(paths=None):
             pass
 
 
-def train():
+def train(tar):
     config_path = os.path.join('../', ENCODER, "config_files")
 
     create_folders([config_path])
 
-    config_path = create_config_file()
+    config_path = create_config_file(tar)
     os.system(f'onmt_build_vocab -config {config_path} -n_sample 50000')
     wandb.init(project="ts-mt")
     os.system(f'onmt_train -config {config_path}')
@@ -205,8 +205,8 @@ def main():
     global TARGET_FILES
     for corpus in os.listdir('../datasets/train/'):
         tar = corpus.split('-')[-1]
-        TARGET_FILES = [tar]
-        train()
+
+        train(tar)
         translate(tar)
         evaluate(tar)
 
