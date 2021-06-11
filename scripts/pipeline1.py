@@ -117,7 +117,7 @@ class Pipeline:
         self.add_embedding()
 
         logs_path = os.path.join(self.exp_path, 'runs/fit')
-        self.config_file.write(f"tensorboard_log_dir: {logs_path}\n".strip())
+        self.config_file.write(f"tensorboard_log_dir: {logs_path}\n")
         model_path = f"save_model: {self.exp_path}/run/model\n"
         self.config_file.write(model_path)
         self.config_file.write(model_config)
