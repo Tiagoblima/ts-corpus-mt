@@ -111,7 +111,7 @@ class Pipeline:
     def config_setup(self):
         model_config = open(f'../{ENCODER}/{ENCODER}.config.yaml').read()
         data_config = open(os.path.join(DATASET_DIR, 'data.config.yaml')).read()
-        self.config_file.write("\nword_vec_size: 300\nrnn_size: 300\n")
+        self.config_file.write("word_vec_size: 300\nrnn_size: 300\n")
         self.config_file.write(data_config)
         self.select_dataset()
         self.add_embedding()
