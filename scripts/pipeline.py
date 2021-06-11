@@ -67,6 +67,7 @@ def select_dataset(config_file, tar):
                   f"      path_src: {source_path}\n" \
                   f"      path_tgt: {target_path}\n"
     config_file.write(data_config)
+    config_file.write(f"save_data: {DATASET_DIR}/train/corpus_{args.src_corpus}-{tar}/")
     config_file.write(f"\nsrc_vocab: {DATASET_DIR}/train/corpus_{args.src_corpus}-{tar}/vocab/src.vocab\n")
     config_file.write(f"tgt_vocab: {DATASET_DIR}/train/corpus_{args.src_corpus}-{tar}/vocab/tgt.vocab\n")
 

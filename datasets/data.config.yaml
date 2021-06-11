@@ -1,4 +1,3 @@
-save_data: ../datasets
 shared_vocab: true
 override: true
 data:
