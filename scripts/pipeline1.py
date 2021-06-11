@@ -105,7 +105,7 @@ class Pipeline:
 
     def add_embedding(self):
         if args.embedding:
-            emb_config = "both_embeddings: ../../glove_dir/glove_s300.txt\nembeddings_type: \"GloVe\""
+            emb_config = "both_embeddings: ../glove_dir/glove_s300.txt\nembeddings_type: \"GloVe\""
             self.config_file.write(emb_config)
 
     def config_setup(self):
