@@ -41,7 +41,7 @@ SOURCE_FILES = args.src_corpus.split(',')
 def select_dataset(config_file, tar):
     for source in SOURCE_FILES:
 
-        for i, target in enumerate(TARGET_FILES):
+        for i, target in enumerate([tar]):
             corpus_path = os.path.join(DATASET_DIR, 'train', f'corpus_{source}-{target}')
             try:
                 os.makedirs(corpus_path)
@@ -70,6 +70,7 @@ def select_dataset(config_file, tar):
                   f"      path_tgt: {target_path}\n"
 
     config_file.write(data_config)
+
 
 def create_config_file(tar):
     global training_steps
