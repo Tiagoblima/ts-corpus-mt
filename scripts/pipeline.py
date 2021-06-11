@@ -1,5 +1,6 @@
 import argparse
 import os
+import zipfile
 
 import nltk
 import pandas as pd
@@ -210,6 +211,14 @@ def main():
         train(tar)
         translate(tar)
         evaluate(tar)
+
+    zf = zipfile.ZipFile("reports.zip", "w")
+
+    for dirname, subdirs, files in os.walk(os.path.join(ENCODER, 'reports')):
+        zf.write(dirname)
+        for filename in files:
+            zf.write(os.path.join(dirname, filename))
+    zf.close()
 
 
 if __name__ == '__main__':
