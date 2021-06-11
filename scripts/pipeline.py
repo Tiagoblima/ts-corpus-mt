@@ -58,9 +58,7 @@ def select_dataset(config_file, tar):
 
             data_config = f"   corpus_{source}-{target}:\n" \
                           f"           path_src: {source_path}\n" \
-                          f"           path_tgt: {target_path}\n" \
-                          f"\nsrc_vocab: {DATASET_DIR}/corpus_{source}-{target}/vocab/src.vocab\n" \
-                          f"tgt_vocab: {DATASET_DIR}/corpus_{source}-{target}/vocab/tgt.vocab "
+                          f"           path_tgt: {target_path}\n"
             config_file.write(data_config)
 
     source_path = os.path.join(DATASET_DIR, 'val', f'{args.src_corpus}-val.txt')
@@ -68,8 +66,9 @@ def select_dataset(config_file, tar):
     data_config = "   valid:\n" \
                   f"      path_src: {source_path}\n" \
                   f"      path_tgt: {target_path}\n"
-
     config_file.write(data_config)
+    config_file.write(f"\nsrc_vocab: {DATASET_DIR}/corpus_{args.src_corpus}-{tar}/vocab/src.vocab\n")
+    config_file.write(f"tgt_vocab: {DATASET_DIR}/corpus_{args.src_corpus}-{tar}/vocab/tgt.vocab\n")
 
 
 def create_config_file(tar):
