@@ -27,7 +27,7 @@ SOURCE_CORPUS = 'arc'
 def get_train_df(tgt_corpus):
     train_dfs = []
     for tgt_cps in tgt_corpus:
-        train_corpus = SOURCE_CORPUS + '-' + tgt_cps
+        train_corpus = 'corpus_'+SOURCE_CORPUS + '-' + tgt_cps
         src_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, f'{SOURCE_CORPUS}-train.txt')
         tgt_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, f'{tgt_cps}-train.txt')
         src_text = open(src_train_file).readlines()
