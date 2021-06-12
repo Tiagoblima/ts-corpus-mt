@@ -68,7 +68,7 @@ def fine_tuning(model_args, tgt_cps):
     eval_file = os.path.join(DATASET_DIR, 'val.txt')
 
     train_df = get_train_df(tgt_cps)
-    val_df = get_val_df()
+    val_df = get_val_df(tgt_cps)
 
     save_as_file(train_file, train_df)
     save_as_file(eval_file, val_df)
