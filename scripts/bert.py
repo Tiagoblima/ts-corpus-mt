@@ -20,7 +20,7 @@ encoder_type = "bert"
 
 wandb.login(key="8e593ae9d0788bae2e0a84d07de0e76f5cf3dcf4")
 
-TARGET_CORPUS = ['nvb', 'nlth', 'nvi', 'naa']
+TARGET_CORPUS = ['nbv', 'nlth', 'nvi', 'naa']
 SOURCE_CORPUS = 'arc'
 
 
