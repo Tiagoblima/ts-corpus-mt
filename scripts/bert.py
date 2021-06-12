@@ -88,7 +88,7 @@ def train(model_args, tgt_cps):
         use_cuda=torch.cuda.is_available(),
     )
     train_df = get_train_df(tgt_cps)
-    val_df = get_val_df()
+    val_df = get_val_df(tgt_cps)
     model.train_model(train_df)
     results = model.eval_model(val_df)
     print(f"Evaluation: {results}")
@@ -109,8 +109,8 @@ def main():
         model_args['wandb_project'] = "ts-mt"
 
     for tgt_cps in TARGET_CORPUS:
-        fine_tuning(model_args, tgt_cps)
-        train(model_args, tgt_cps)
+        fine_tuning(model_args, [tgt_cps])
+        train(model_args, [tgt_cps])
 
 
 main()
