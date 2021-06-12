@@ -29,6 +29,6 @@ else
     unzip glove_s300.zip -d "../glove_dir"
 fi
 
-python pipeline1.py --encoder $ENCODER  --epochs $N_STEPS --embedding
+python pipeline.py --encoder $ENCODER  --epochs $N_STEPS --embedding
 
 wandb sync ../$ENCODER/runs/fit

@@ -1,8 +1,8 @@
 import argparse
 import os
-import zipfile
+import uuid
 
-import nltk
+import numpy as np
 import pandas as pd
 import torch
 import wandb
@@ -19,9 +19,8 @@ parser.add_argument('--encoder', metavar='N', type=str,
 parser.add_argument('--epochs', metavar='N', type=str,
                     help='an integer for the accumulator', required=True)
 
-parser.add_argument('--src_corpus', metavar='N', type=str,
-                    help='an integer for the accumulator', required=True)
-
+# parser.add_argument('--src_corpus', metavar='N', type=str,
+#                  help='an integer for the accumulator', required=True)
 # parser.add_argument('--tgt_corpus', metavar='N', type=str,
 #                  help='an integer for the accumulator', required=True)
 
@@ -29,78 +28,12 @@ parser.add_argument('--embedding', action='store_true',
                     help='an integer for the accumulator')
 
 args = parser.parse_args()
+TARGET_CORPUS = ['naa', 'nbv', 'nvi', 'nlth']
 
-nltk.download('punkt')
+SOURCE_CORPUS = 'arc'
 ENCODER = args.encoder
-ROOT_DIR = f'../{ENCODER}'
-training_steps = args.epochs
 DATASET_DIR = '../datasets/'
-
-SOURCE_FILES = args.src_corpus.split(',')
-
-
-def select_dataset(config_file, tar):
-    for source in SOURCE_FILES:
-
-        for i, target in enumerate([tar]):
-            corpus_path = os.path.join(DATASET_DIR, 'train', f'corpus_{source}-{target}')
-            try:
-                os.makedirs(corpus_path)
-            except OSError:
-                pass
-
-            source_path = os.path.join(corpus_path, f'{source}-train.txt')
-            target_path = os.path.join(corpus_path, f'{target}-train.txt')
-
-            data_config = f"   corpus_{source}-{target}:\n" \
-                          f"           path_src: {source_path}\n" \
-                          f"           path_tgt: {target_path}\n"
-            config_file.write(data_config)
-
-    source_path = os.path.join(DATASET_DIR, 'val', f'{args.src_corpus}-val.txt')
-    target_path = os.path.join(DATASET_DIR, 'val', f'{tar}-val.txt')
-    data_config = "   valid:\n" \
-                  f"      path_src: {source_path}\n" \
-                  f"      path_tgt: {target_path}\n"
-    config_file.write(data_config)
-    config_file.write(f"save_data: {DATASET_DIR}/train/corpus_{args.src_corpus}-{tar}/")
-    config_file.write(f"\nsrc_vocab: {DATASET_DIR}/train/corpus_{args.src_corpus}-{tar}/vocab/src.vocab\n")
-    config_file.write(f"tgt_vocab: {DATASET_DIR}/train/corpus_{args.src_corpus}-{tar}/vocab/tgt.vocab\n")
-
-
-def create_config_file(tar):
-    global training_steps
-
-    model_config = open(f'../{ENCODER}/{ENCODER}.config.yaml').read()
-    data_config = open(os.path.join(DATASET_DIR, 'data.config.yaml')).read()
-
-    if args.embedding:
-        emb_config = "both_embeddings: ../glove_dir/glove_s300.txt\nembeddings_type: \"GloVe\"\nword_vec_size: 300\n\n"
-        model_config += emb_config
-
-    config_file_path = os.path.join('../', ENCODER, 'config_files', f'{ENCODER}.yaml')
-
-    file = open(config_file_path, 'w')
-
-    file.write(data_config)
-    select_dataset(file, tar)
-    logs_path = os.path.join(ROOT_DIR, 'runs/fit')
-    file.write(f"tensorboard_log_dir: {logs_path}\n")
-
-    model_path = f"save_model: ../{ENCODER}/run/model\n"
-    file.write(model_path)
-
-    file.write(model_config)
-
-    if torch.cuda.is_available():
-        file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
-        file.write('\ngpu_ranks: [0]\n')
-        file.write("batch_size: 32\nvalid_batch_size: 32")
-    else:
-        file.write(f"\nsave_checkpoint_steps: {training_steps}\ntrain_steps: {training_steps}")
-        file.write("\nbatch_size: 32\nvalid_batch_size: 32")
-    file.close()
-    return config_file_path
+N_STEPS = args.epochs
 
 
 def create_folders(paths=None):
@@ -114,111 +47,171 @@ def create_folders(paths=None):
             pass
 
 
-def train(tar):
-    config_path = os.path.join('../', ENCODER, "config_files")
+class Pipeline:
 
-    create_folders([config_path])
+    def __init__(self, source, targets, corpus_weights):
+        self.targets = targets
+        self.source = source
+        self.cps_weights = corpus_weights
+        self.exp_id = str(uuid.uuid4())[:4]
 
-    config_path = create_config_file(tar)
-    os.system(f'onmt_build_vocab -config {config_path} -n_sample 50000')
-    wandb.init(project="ts-mt")
-    os.system(f'onmt_train -config {config_path}')
+        self.exp_path = f'../exps/exp_{self.exp_id}'
+        self.report_path = os.path.join(self.exp_path, 'reports')
+        self.pred_path = os.path.join(self.exp_path, 'prediction')
+        create_folders([self.report_path, self.pred_path, os.path.join(self.exp_path, 'val')])
 
+        self.config_path = os.path.join(self.exp_path, f'config.yaml')
+        self.config_file = open(self.config_path, 'w')
 
-def translate(tgt_corpus):
-    pred_path = os.path.join('../' + ENCODER, "prediction")
+    def select_dataset(self):
 
-    model_path = f'../{ENCODER}/run/model_step_{training_steps}.pt'
-    test_file = f"{DATASET_DIR}/test/{args.src_corpus}-test.txt"
-    create_folders([pred_path])
+        tgt_val_texts = []
 
-    if not args.embedding:
-        pred_file = os.path.join(pred_path, f"{ENCODER}.{tgt_corpus}-pred.txt")
-    else:
-        pred_file = os.path.join(pred_path, f"{ENCODER}.{tgt_corpus}-pred.embedding.txt")
+        val_porp = [w / sum(self.cps_weights) for w in self.cps_weights]
+        src_val_path = os.path.join(DATASET_DIR, 'val', f'{self.source}-val.txt')
+        src_val_texts = open(src_val_path, encoding='utf8').readlines()
+        for i, target in enumerate(self.targets):
+            corpus_path = os.path.join(DATASET_DIR, 'train', f'corpus_{self.source}-{target}')
+            tgt_val_path = os.path.join(DATASET_DIR, 'val', f'{target}-val.txt')
+            tgt_val_text = open(tgt_val_path, encoding='utf8').readlines()
 
-    translate_cmd = f'onmt_translate -model {model_path} -src {test_file} -output {pred_file} -verbose '
-    if torch.cuda.is_available():
-        translate_cmd += ' -gpu 0'
-    os.system(translate_cmd)
+            tgt_val_texts.extend(tgt_val_text[:int(val_porp[i] * len(tgt_val_text))])
 
+            source_path = os.path.join(corpus_path, f'{self.source}-train.txt')
+            target_path = os.path.join(corpus_path, f'{target}-train.txt')
 
-def evaluate(tgt_corpus):
-    pred_path = os.path.join('../' + ENCODER, "prediction")
-    if not args.embedding:
-        pred_file = os.path.join(pred_path, f"{ENCODER}.{tgt_corpus}-pred.txt")
-    else:
-        pred_file = os.path.join(pred_path, f"{ENCODER}.{tgt_corpus}-pred.embedding.txt")
+            data_config = f"   corpus_{self.source}-{target}:\n" \
+                          f"           path_src: {source_path}\n" \
+                          f"           path_tgt: {target_path}\n" \
+                          f"           weights:  {self.cps_weights[i]}\n"
 
-    result = {}
-    model_dir = os.path.join('..', ENCODER)
-    preds = open(pred_file, encoding='utf-8').readlines()
+            self.config_file.write(data_config)
 
-    inputs = open(
-        os.path.join(DATASET_DIR, 'test', f'{args.src_corpus}-test.txt'),
-        encoding='utf-8').readlines()
+        tgt_val_path = os.path.join(self.exp_path, 'val', 'tgt-val.txt')
+        src_val_path = os.path.join(self.exp_path, 'val', 'src-val.txt')
 
-    result_dict = {
-        'src_sent': inputs,
-        'pred_sent': preds,
-    }
+        pd.DataFrame(map(str.strip, src_val_texts)).to_csv(src_val_path, header=None, index=None, sep=' ', mode='w')
+        pd.DataFrame(map(str.strip, tgt_val_texts)).to_csv(tgt_val_path, header=None, index=None, sep=' ', mode='w')
 
-    reference_names = []
-    for i, ref_file in enumerate(os.listdir(os.path.join(DATASET_DIR, 'test/references'))):
-        if ref_file.split('_')[-1].split('.')[0] == tgt_corpus:
-            target = open(os.path.join(DATASET_DIR, 'test/references', ref_file), encoding='utf8').readlines()
+        src_val_path = os.path.join(DATASET_DIR, 'val', f'{self.source}-val.txt')
+        data_config = "   valid:\n" \
+                      f"      path_src: {src_val_path}\n" \
+                      f"      path_tgt: {tgt_val_path}\n"
+        self.config_file.write(data_config)
+
+        self.config_file.write(f"save_data: {self.exp_path}\n")
+        self.config_file.write(f"src_vocab: {self.exp_path}/vocab/src.vocab\n")
+        self.config_file.write(f"tgt_vocab: {self.exp_path}/vocab/tgt.vocab\n")
+
+    def add_embedding(self):
+        if args.embedding:
+            emb_config = "both_embeddings: ../glove_dir/glove_s300.txt\nembeddings_type: \"GloVe\""
+            self.config_file.write(emb_config)
+
+    def config_setup(self):
+        model_config = open(f'../{ENCODER}/{ENCODER}.config.yaml').read()
+        data_config = open(os.path.join(DATASET_DIR, 'data.config.yaml')).read()
+        self.config_file.write("word_vec_size: 300\nrnn_size: 300\n")
+        self.config_file.write(data_config)
+        self.select_dataset()
+        self.add_embedding()
+
+        logs_path = os.path.join(self.exp_path, 'runs/fit')
+        self.config_file.write(f"\ntensorboard_log_dir: {logs_path}")
+        model_path = f"\nsave_model: {self.exp_path}/run/model\n"
+        self.config_file.write(model_path)
+        self.config_file.write(model_config)
+
+        if torch.cuda.is_available():
+            self.config_file.write(f"\nsave_checkpoint_steps: {N_STEPS}\ntrain_steps: {N_STEPS}")
+            self.config_file.write('\ngpu_ranks: [0]\n')
+            self.config_file.write("batch_size: 32\nvalid_batch_size: 32")
+        else:
+            self.config_file.write(f"\nsave_checkpoint_steps: {N_STEPS}\ntrain_steps: {N_STEPS}")
+            self.config_file.write("\nbatch_size: 32\nvalid_batch_size: 32")
+        self.config_file.close()
+
+    def train(self):
+
+        os.system(f'onmt_build_vocab -config {self.config_path} -n_sample 50000')
+        wandb.init(project="ts-mt")
+        os.system(f'onmt_train -config {self.config_path}')
+
+    def translate(self):
+
+        model_path = f'{self.exp_path}/run/model_step_{N_STEPS}.pt'
+        test_file = f"{DATASET_DIR}/test/{self.source}-test.txt"
+
+        pred_file = os.path.join(self.pred_path, f"system-pred.txt")
+
+        translate_cmd = f'onmt_translate -model {model_path} -src {test_file} -output {pred_file} -verbose '
+        if torch.cuda.is_available():
+            translate_cmd += ' -gpu 0'
+        os.system(translate_cmd)
+
+    def evaluate(self):
+
+        pred_file = os.path.join(self.pred_path, f"system-pred.txt")
+
+        result = {}
+
+        preds = open(pred_file, encoding='utf-8').readlines()
+
+        inputs = open(
+            os.path.join(DATASET_DIR, 'test', f'{self.source}-test.txt'),
+            encoding='utf-8').readlines()
+
+        result_dict = {
+            'src_sent': inputs,
+            'pred_sent': preds,
+        }
+
+        reference_names = []
+        for i, version in enumerate(self.targets):
+            ref_file = f'reference_{version}'
+            target = open(os.path.join(DATASET_DIR, f'test/references', ref_file),
+                          encoding='utf8').readlines()
             reference_names.append(ref_file.split('.')[0].split('.')[0])
-            result_dict[ref_file.split('.')[0].split('.')[0]] = target
+            result_dict[version] = target
 
-    df = pd.DataFrame(result_dict)
+        df = pd.DataFrame(result_dict)
 
-    refs = df.loc[:, reference_names].to_numpy()
+        refs = df.loc[:, reference_names].to_numpy()
 
-    def list_bleu(tup):
-        return sentence_bleu(sys_sent=tup[0], ref_sents=tup[1])
+        def list_bleu(tup):
+            return sentence_bleu(sys_sent=tup[0], ref_sents=tup[1])
 
-    list_score = list(map(list_bleu, zip(preds, refs)))
+        list_score = list(map(list_bleu, zip(preds, refs)))
 
-    df['bleu_score'] = list_score
-    refs = df.loc[:, reference_names].T.to_numpy()
-    bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
-    sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
+        df['bleu_score'] = list_score
+        refs = df.loc[:, reference_names].T.to_numpy()
+        bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
+        sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
 
-    result["result"] = {
-        'BLEU': round(bleu_score, 2),
-        'SARI': round(sari_score, 2),
-    }
+        result[SOURCE_CORPUS + '_'.join(self.targets)] = {
+            'BLEU': round(bleu_score, 2),
+            'SARI': round(sari_score, 2),
+        }
 
-    try:
-        os.makedirs(os.path.join(model_dir, 'reports'))
-    except OSError:
-        pass
-    df.to_csv(os.path.join(model_dir, 'reports', f'{args.src_corpus}-{tgt_corpus}.sent_report.csv'))
-    pd.DataFrame.from_dict(result, orient='index').to_csv(
-        os.path.join(model_dir, 'reports', f'{args.src_corpus}-{tgt_corpus}.corpus_report.csv'))
+        df.to_csv(os.path.join(self.report_path, 'sent_report.csv'))
+        pd.DataFrame.from_dict(result, orient='index').to_csv(
+            os.path.join(self.report_path, f'corpus_report.csv'))
+
+    def run_pipeline(self):
+
+        self.config_setup()
+        self.train()
+        self.translate()
+        self.evaluate()
 
 
 def main():
-    global TARGET_FILES
-    for corpus in os.listdir('../datasets/train/'):
-        tar = corpus.split('-')[-1]
+    for target in zip(TARGET_CORPUS):
+        pipe = Pipeline(SOURCE_CORPUS, target, [1])
+        pipe.run_pipeline()
 
-        train(tar)
-        translate(tar)
-        evaluate(tar)
-
-    if not args.embedding:
-        zip_path = f"reports.{ENCODER}.zip"
-    else:
-        zip_path = f"reports.{ENCODER}.embedding.zip"
-
-    zf = zipfile.ZipFile(zip_path, "w")
-
-    for dirname, subdirs, files in os.walk(os.path.join(ENCODER, 'reports')):
-        zf.write(dirname)
-        for filename in files:
-            zf.write(os.path.join(dirname, filename))
-    zf.close()
+    pipe = Pipeline(SOURCE_CORPUS, TARGET_CORPUS, [6, 7, 6, 8])
+    pipe.run_pipeline()
 
 
 if __name__ == '__main__':

@@ -28,8 +28,8 @@ def get_train_df(tgt_corpus):
     train_dfs = []
     for tgt_cps in tgt_corpus:
         train_corpus = SOURCE_CORPUS + '-' + tgt_cps
-        src_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, 'src-train.txt')
-        tgt_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, 'tgt-train.txt')
+        src_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, f'{SOURCE_CORPUS}-train.txt')
+        tgt_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, f'{tgt_cps}-train.txt')
         src_text = open(src_train_file).readlines()
         tgt_text = open(tgt_train_file).readlines()
         train_dfs.append(pd.DataFrame({
@@ -39,16 +39,20 @@ def get_train_df(tgt_corpus):
     return pd.concat(train_dfs)
 
 
-def get_val_df():
-    src_val_file = os.path.join(DATASET_DIR, 'val', 'src-val.txt')
-    tgt_val_file = os.path.join(DATASET_DIR, 'val', 'tgt-val.txt')
-    src_text = open(src_val_file).readlines()
-    tgt_text = open(tgt_val_file).readlines()
+def get_val_df(tgt_corpus):
 
-    return pd.DataFrame({
-        'input_text': src_text,
-        'target_text': tgt_text
-    })
+    val_dfs = []
+    for tgt_cps in tgt_corpus:
+
+        src_val_file = os.path.join(DATASET_DIR, 'val', f'{SOURCE_CORPUS}-val.txt')
+        tgt_val_file = os.path.join(DATASET_DIR, 'val', f'{tgt_cps}-val.txt')
+        src_text = open(src_val_file).readlines()
+        tgt_text = open(tgt_val_file).readlines()
+        val_dfs.append(pd.DataFrame({
+            'input_text': src_text,
+            'target_text': tgt_text
+        }))
+    return pd.concat(val_dfs)
 
 
 def save_as_file(filename, df):
@@ -89,7 +93,7 @@ def train(model_args, tgt_cps):
     results = model.eval_model(val_df)
     print(f"Evaluation: {results}")
 
-    pred_spt = model.predict(open(os.path.join(DATASET_DIR, 'test', 'src-test.txt')).readlines())
+    pred_spt = model.predict(open(os.path.join(DATASET_DIR, 'test', f'{SOURCE_CORPUS}-test.txt')).readlines())
     pre_path = os.path.join(MODEL_DIR, 'prediction')
     try:
         os.makedirs(pre_path)

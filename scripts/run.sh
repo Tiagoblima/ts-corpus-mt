@@ -20,6 +20,6 @@ else
 fi
 
 
-python pipeline1.py --encoder $ENCODER  --epochs $N_STEPS
+python pipeline.py --encoder $ENCODER  --epochs $N_STEPS
 
 wandb sync ../$ENCODER/runs/fit
