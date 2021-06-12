@@ -27,7 +27,7 @@ SOURCE_CORPUS = 'arc'
 def get_train_df(tgt_corpus):
     train_dfs = []
     for tgt_cps in tgt_corpus:
-        train_corpus = 'corpus_'+SOURCE_CORPUS + '-' + tgt_cps
+        train_corpus = 'corpus_' + SOURCE_CORPUS + '-' + tgt_cps
         src_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, f'{SOURCE_CORPUS}-train.txt')
         tgt_train_file = os.path.join(DATASET_DIR, 'train', train_corpus, f'{tgt_cps}-train.txt')
         src_text = open(src_train_file).readlines()
@@ -40,10 +40,8 @@ def get_train_df(tgt_corpus):
 
 
 def get_val_df(tgt_corpus):
-
     val_dfs = []
     for tgt_cps in tgt_corpus:
-
         src_val_file = os.path.join(DATASET_DIR, 'val', f'{SOURCE_CORPUS}-val.txt')
         tgt_val_file = os.path.join(DATASET_DIR, 'val', f'{tgt_cps}-val.txt')
         src_text = open(src_val_file).readlines()
@@ -79,7 +77,6 @@ def fine_tuning(model_args, tgt_cps):
 
 
 def train(model_args, tgt_cps):
-
     model = Seq2SeqModel(
         "bert",
         "outputs",
@@ -93,14 +90,53 @@ def train(model_args, tgt_cps):
     results = model.eval_model(val_df)
     print(f"Evaluation: {results}")
 
-    pred_spt = model.predict(open(os.path.join(DATASET_DIR, 'test', f'{SOURCE_CORPUS}-test.txt')).readlines())
-    pre_path = os.path.join(MODEL_DIR, 'prediction')
+    preds = model.predict(open(os.path.join(DATASET_DIR, 'test', f'{SOURCE_CORPUS}-test.txt')).readlines())
+    pre_path = os.path.join(MODEL_DIR, 'prediction', SOURCE_CORPUS + '-' + tgt_cps)
     try:
         os.makedirs(pre_path)
     except OSError:
         pass
 
-    np.savetxt(os.path.join(pre_path, f'prediction.txt'), pred_spt, fmt="%s")
+    np.savetxt(os.path.join(pre_path, f'prediction.txt'), preds, fmt="%s")
+
+    inputs = open(
+        os.path.join(DATASET_DIR, 'test', f'{tgt_cps}-test.txt'),
+        encoding='utf-8').readlines()
+
+    result_dict = {
+        'src_sent': inputs,
+        'pred_sent': preds,
+    }
+
+    reference_names = []
+    # for i, version in enumerate(targets):
+    ref_file = f'reference_{tgt_cps}'
+    target = open(os.path.join(DATASET_DIR, f'test/references', ref_file),
+                  encoding='utf8').readlines()
+    reference_names.append(ref_file.split('.')[0].split('.')[0])
+    result_dict[tgt_cps] = target
+
+    df = pd.DataFrame(result_dict)
+
+    refs = df.loc[:, reference_names].to_numpy()
+
+    def list_bleu(tup):
+        return sentence_bleu(sys_sent=tup[0], ref_sents=tup[1])
+
+    list_score = list(map(list_bleu, zip(preds, refs)))
+
+    df['bleu_score'] = list_score
+    refs = df.loc[:, reference_names].T.to_numpy()
+    bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
+    sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
+    result= {SOURCE_CORPUS + '_' + tgt_cps: {
+        'BLEU': round(bleu_score, 2),
+        'SARI': round(sari_score, 2),
+    }}
+
+    df.to_csv(os.path.join(pre_path, 'sent_report.csv'))
+    pd.DataFrame.from_dict(result, orient='index').to_csv(
+        os.path.join(pre_path, f'corpus_report.csv'))
 
 
 def main():
