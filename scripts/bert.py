@@ -98,7 +98,7 @@ def translate(model_args, tgt_cps):
     np.savetxt(os.path.join(pre_path, f'prediction.txt'), preds, fmt="%s")
 
     inputs = open(
-        os.path.join(DATASET_DIR, 'test', f'{tgt_cps[0]}-test.txt'),
+        os.path.join(DATASET_DIR, 'test', f'{SOURCE_CORPUS}-test.txt'),
         encoding='utf-8').readlines()
 
     result_dict = {
@@ -108,7 +108,7 @@ def translate(model_args, tgt_cps):
 
     reference_names = []
     # for i, version in enumerate(targets):
-    ref_file = f'reference_{tgt_cps}'
+    ref_file = f'reference_{tgt_cps[0]}'
     target = open(os.path.join(DATASET_DIR, f'test/references', ref_file),
                   encoding='utf8').readlines()
     reference_names.append(ref_file.split('.')[0].split('.')[0])
@@ -159,8 +159,8 @@ def main():
         model_args['wandb_project'] = "ts-mt"
 
     for tgt_cps in TARGET_CORPUS:
-        fine_tuning(model_args, [tgt_cps])
-        train(model_args, [tgt_cps])
+        #fine_tuning(model_args, [tgt_cps])
+        #train(model_args, [tgt_cps])
         translate(model_args, [tgt_cps])
 
 
