@@ -78,23 +78,18 @@ def fine_tuning(model_args, tgt_cps):
     result = model.eval_model(eval_file)
     print("Evaluation: ", result)
 
+def translate(model_args, tgt_cps):
 
-def train(model_args, tgt_cps):
     model = Seq2SeqModel(
         "bert",
-        "outputs",
-        "outputs",
+        "outputs/encoder",
+        "outputs/decoder",
         args=model_args,
         use_cuda=torch.cuda.is_available(),
     )
-    train_df = get_train_df(tgt_cps)
-    val_df = get_val_df(tgt_cps)
-    model.train_model(train_df)
-    results = model.eval_model(val_df)
-    print(f"Evaluation: {results}")
 
     preds = model.predict(open(os.path.join(DATASET_DIR, 'test', f'{SOURCE_CORPUS}-test.txt')).readlines())
-    pre_path = os.path.join(MODEL_DIR, 'prediction', SOURCE_CORPUS + '-' + tgt_cps)
+    pre_path = os.path.join(MODEL_DIR, 'prediction', SOURCE_CORPUS + '-' + '_'.join(tgt_cps))
     try:
         os.makedirs(pre_path)
     except OSError:
@@ -142,6 +137,23 @@ def train(model_args, tgt_cps):
         os.path.join(pre_path, f'corpus_report.csv'))
 
 
+def train(model_args, tgt_cps):
+    model = Seq2SeqModel(
+        "bert",
+        "outputs",
+        "outputs",
+        args=model_args,
+        use_cuda=torch.cuda.is_available(),
+    )
+    train_df = get_train_df(tgt_cps)
+    val_df = get_val_df(tgt_cps)
+    model.train_model(train_df)
+    results = model.eval_model(val_df)
+    print(f"Evaluation: {results}")
+
+
+
+
 def main():
     with open(os.path.join(MODEL_DIR, 'bert.config.json')) as json_file:
         model_args = json.load(json_file)
@@ -150,6 +162,6 @@ def main():
     for tgt_cps in TARGET_CORPUS:
         fine_tuning(model_args, [tgt_cps])
         train(model_args, [tgt_cps])
-
+        translate(model_args, [tgt_cps])
 
 main()
