@@ -9,6 +9,9 @@ import torch
 import pandas as pd
 import numpy as np
 import wandb
+from easse.bleu import sentence_bleu, corpus_bleu
+
+from easse.sari import corpus_sari
 
 DATASET_DIR = '../datasets'
 MODEL_DIR = '../bert'
