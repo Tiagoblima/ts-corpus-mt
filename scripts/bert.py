@@ -78,8 +78,8 @@ def fine_tuning(model_args, tgt_cps):
     result = model.eval_model(eval_file)
     print("Evaluation: ", result)
 
-def translate(model_args, tgt_cps):
 
+def translate(model_args, tgt_cps):
     model = Seq2SeqModel(
         "bert",
         "outputs/encoder",
@@ -127,7 +127,7 @@ def translate(model_args, tgt_cps):
     refs = df.loc[:, reference_names].T.to_numpy()
     bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
     sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
-    result= {SOURCE_CORPUS + '_' + tgt_cps: {
+    result = {SOURCE_CORPUS + '_' + tgt_cps: {
         'BLEU': round(bleu_score, 2),
         'SARI': round(sari_score, 2),
     }}
@@ -152,8 +152,6 @@ def train(model_args, tgt_cps):
     print(f"Evaluation: {results}")
 
 
-
-
 def main():
     with open(os.path.join(MODEL_DIR, 'bert.config.json')) as json_file:
         model_args = json.load(json_file)
@@ -163,5 +161,6 @@ def main():
         fine_tuning(model_args, [tgt_cps])
         train(model_args, [tgt_cps])
         translate(model_args, [tgt_cps])
+
 
 main()
