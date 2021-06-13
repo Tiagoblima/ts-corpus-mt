@@ -98,7 +98,7 @@ def translate(model_args, tgt_cps):
     np.savetxt(os.path.join(pre_path, f'prediction.txt'), preds, fmt="%s")
 
     inputs = open(
-        os.path.join(DATASET_DIR, 'test', f'{tgt_cps}-test.txt'),
+        os.path.join(DATASET_DIR, 'test', f'{tgt_cps[0]}-test.txt'),
         encoding='utf-8').readlines()
 
     result_dict = {
@@ -138,6 +138,7 @@ def translate(model_args, tgt_cps):
 
 
 def train(model_args, tgt_cps):
+    model_args["num_train_epochs"] = 3
     model = Seq2SeqModel(
         "bert",
         "outputs",
