@@ -166,17 +166,16 @@ class Pipeline:
             'pred_sent': preds,
         }
 
-        reference_names = []
         for i, version in enumerate(self.targets):
             ref_file = f'reference_{version}'
-            target = open(os.path.join(DATASET_DIR, f'test/references', ref_file),
+            target = open(os.path.join(DATASET_DIR, f'test/references', ref_file+'.txt'),
                           encoding='utf8').readlines()
-            reference_names.append(ref_file.split('.')[0].split('.')[0])
+
             result_dict[version] = target
 
         df = pd.DataFrame(result_dict)
 
-        refs = df.loc[:, reference_names].to_numpy()
+        refs = df.loc[:, self.targets].to_numpy()
 
         def list_bleu(tup):
             return sentence_bleu(sys_sent=tup[0], ref_sents=tup[1])
@@ -184,11 +183,11 @@ class Pipeline:
         list_score = list(map(list_bleu, zip(preds, refs)))
 
         df['bleu_score'] = list_score
-        refs = df.loc[:, reference_names].T.to_numpy()
+        refs = df.loc[:, self.targets].T.to_numpy()
         bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
         sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
 
-        result[SOURCE_CORPUS + '_'.join(self.targets)] = {
+        result[SOURCE_CORPUS + '-'+'_'.join(self.targets)] = {
             'BLEU': round(bleu_score, 2),
             'SARI': round(sari_score, 2),
         }

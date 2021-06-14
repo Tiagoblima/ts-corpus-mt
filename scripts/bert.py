@@ -109,10 +109,10 @@ def translate(model_args, tgt_cps):
     reference_names = []
     # for i, version in enumerate(targets):
     ref_file = f'reference_{tgt_cps[0]}'
-    target = open(os.path.join(DATASET_DIR, f'test/references', ref_file),
+    target = open(os.path.join(DATASET_DIR, f'test/references', ref_file+'.txt'),
                   encoding='utf8').readlines()
     reference_names.append(ref_file.split('.')[0].split('.')[0])
-    result_dict[tgt_cps] = target
+    result_dict[tgt_cps[0]] = target
 
     df = pd.DataFrame(result_dict)
 
