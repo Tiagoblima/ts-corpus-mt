@@ -4,7 +4,7 @@
   "overwrite_output_dir": 1,
   "max_seq_length": 30,
   "train_batch_size": 32,
-  "num_train_epochs": 1,
+  "num_train_epochs": 10,
   "save_eval_checkpoints": 0,
   "save_model_every_epoch": 0,
   "evaluate_generated_text": 1,
