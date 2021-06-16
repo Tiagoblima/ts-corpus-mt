@@ -1,0 +1,68 @@
+word_vec_size: 300
+rnn_size: 300
+shared_vocab: true
+override: true
+data:
+   corpus_arc-naa:
+           path_src: ../datasets/train/corpus_arc-naa/arc-train.txt
+           path_tgt: ../datasets/train/corpus_arc-naa/naa-train.txt
+           weights:  6
+   corpus_arc-nbv:
+           path_src: ../datasets/train/corpus_arc-nbv/arc-train.txt
+           path_tgt: ../datasets/train/corpus_arc-nbv/nbv-train.txt
+           weights:  7
+   corpus_arc-nvi:
+           path_src: ../datasets/train/corpus_arc-nvi/arc-train.txt
+           path_tgt: ../datasets/train/corpus_arc-nvi/nvi-train.txt
+           weights:  6
+   corpus_arc-nlth:
+           path_src: ../datasets/train/corpus_arc-nlth/arc-train.txt
+           path_tgt: ../datasets/train/corpus_arc-nlth/nlth-train.txt
+           weights:  8
+   valid:
+      path_src: ../datasets/val/arc-val.txt
+      path_tgt: ../exps/exp_fea8/val/tgt-val.txt
+save_data: ../exps/exp_fea8
+src_vocab: ../exps/exp_fea8/vocab/src.vocab
+tgt_vocab: ../exps/exp_fea8/vocab/tgt.vocab
+both_embeddings: ../glove_dir/glove_s300.txt
+embeddings_type: "GloVe"
+tensorboard_log_dir: ../exps/exp_fea8/runs/fit
+save_model: ../exps/exp_fea8/run/model
+# Where to save the checkpoints
+encoder_type: brnn
+hidden size: 256
+
+#Preprocess
+src_seq_length: 100 #Maximum source sequence length
+src_seq_length_trunc: 100 #Truncate source sequence length.
+tgt_seq_length: 100 #Maximum target sequence length to keep.
+tgt_seq_length_trunc: 100 #Truncate target sequence length.
+max_length: 100
+tensorboard: true
+
+
+copy_attn: true
+global_attention: mlp
+layers: 1
+dropout: 0.5
+
+# Optimization
+model_dtype: "fp32"
+optim: "adam"
+learning_rate: 2
+warmup_steps: 6000
+decay_method: "noam"
+adam_beta2: 0.998
+max_grad_norm: 0
+label_smoothing: 0.1
+param_init: 0
+param_init_glorot: true
+normalization: "tokens"
+encoder_dropout: [0.5]
+
+save_checkpoint_steps: 10000
+train_steps: 10000
+gpu_ranks: [0]
+batch_size: 32
+valid_batch_size: 32
