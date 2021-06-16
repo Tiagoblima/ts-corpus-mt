@@ -43,8 +43,11 @@ class Pipeline:
             model_args = json.load(json_file)
 
         model_args['wandb_project'] = "ts-mt"
-
+        seq2seq_epochs = model_args['num_train_epochs']
+        # fine_tunig epochs
+        model_args['num_train_epochs'] = int(model_args['num_train_epochs'] / 2)
         self.bert_model = LanguageModelingModel("bert", "neuralmind/bert-base-portuguese-cased", args=model_args)
+        model_args['num_train_epochs'] = seq2seq_epochs
         self.model_args = model_args
         self.train_dir = '../bert/'
         self.pre_path = os.path.join(self.train_dir, 'prediction', SOURCE_CORPUS + '-' + '_'.join(self.target_cps))
@@ -139,7 +142,6 @@ class Pipeline:
             'pred_sent': self.preds,
         }
 
-
         for i, version in enumerate(self.target_cps):
             ref_file = f'reference_{version}'
             target = open(os.path.join(DATASET_DIR, f'test/references', ref_file + '.txt'),
@@ -177,5 +179,6 @@ def main():
         pipe.train_seq2seq()
         pipe.translate()
         pipe.evaluation()
+
 
 main()
