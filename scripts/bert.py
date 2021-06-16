@@ -30,6 +30,7 @@ SOURCE_CORPUS = 'arc'
 def save_as_file(filename, df):
     dataset = df.loc[:, ['input_text', 'target_text']].to_numpy()
     dataset = dataset.reshape(dataset.shape[0] * 2, 1).squeeze()
+    dataset = list(map(str.strip, dataset))
     np.savetxt(filename, dataset, fmt='%s', encoding='utf8')
 
 
