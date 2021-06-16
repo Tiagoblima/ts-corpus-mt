@@ -46,7 +46,7 @@ class Pipeline:
         model_args['wandb_project'] = "ts-mt"
         seq2seq_epochs = model_args['num_train_epochs']
         # fine_tunig epochs
-        model_args['num_train_epochs'] = int(model_args['num_train_epochs'] / 2)
+        model_args['num_train_epochs'] = 3
         self.bert_model = LanguageModelingModel("bert", "neuralmind/bert-base-portuguese-cased", args=model_args)
         model_args['num_train_epochs'] = seq2seq_epochs
         self.model_args = model_args
