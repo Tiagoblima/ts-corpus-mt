@@ -28,7 +28,7 @@ if not args.src_corpus:
 else:
     SOURCE_FILES = [args.src_corpus]
 
-DATAFRAME_FILE = '../ARC_NAA_NBV_NLTH_NVI_aligned.csv'
+DATAFRAME_FILE = '../aligned_dataframe.csv'
 
 dataset = pd.read_csv(DATAFRAME_FILE).dropna()
 train_df, eval_test_df = train_test_split(dataset, test_size=0.40)
