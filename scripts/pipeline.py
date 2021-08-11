@@ -100,10 +100,6 @@ class Pipeline:
                       f"      path_tgt: {tgt_val_path}\n"
         self.config_file.write(data_config)
 
-        self.config_file.write(f"save_data: {self.exp_path}\n")
-        self.config_file.write(f"src_vocab: {self.exp_path}/vocab/src.vocab\n")
-        self.config_file.write(f"tgt_vocab: {self.exp_path}/vocab/tgt.vocab\n")
-
     def add_embedding(self):
         if args.embedding:
             emb_config = "both_embeddings: ../glove_dir/glove_s300.txt\nembeddings_type: \"GloVe\""
