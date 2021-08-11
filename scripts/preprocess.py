@@ -66,7 +66,7 @@ config_file.write(source_path + "\n")
 tgt_path = f"tgt_vocab: " + os.path.join(DATASET_ROOT, f"vocab/dataset.vocab")
 config_file.write(tgt_path + "\n")
 
-config_file.write("share_decoder_embeddings: true\nshare_embeddings: true\nshare_vocab: true")
+config_file.write("share_decoder_embeddings: true\nshare_embeddings: true\nshare_vocab: true\n")
 
 
 def save_train_files(df):
