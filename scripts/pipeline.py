@@ -53,7 +53,8 @@ class Pipeline:
         self.targets = targets
         self.source = source
         self.cps_weights = corpus_weights
-        self.exp_id = str(uuid.uuid4())[:4]
+        today = datetime.datetime.now()
+        self.exp_id = today.strftime("%d_%m_%Y_%H:%M:%S")
 
         self.exp_path = f'../exps/exp_{self.exp_id}'
         self.report_path = os.path.join(self.exp_path, 'reports')
