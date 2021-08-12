@@ -172,7 +172,7 @@ class Pipeline:
 
         df = pd.DataFrame(result_dict)
 
-        refs = df.loc[:, self.targets].to_numpy()
+        #refs = df.loc[:, self.targets].to_numpy()
 
         # def list_bleu(tup):
         #     return sentence_bleu(sys_sent=tup[0], ref_sents=tup[1])
@@ -180,18 +180,18 @@ class Pipeline:
         # list_score = list(map(list_bleu, zip(preds, refs)))
 
         # df['bleu_score'] = list_score
-        refs = df.loc[:, self.targets].T.to_numpy()
-        bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
-        sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
+        # refs = df.loc[:, self.targets].T.to_numpy()
+        # bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
+        # sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
 
-        result[SOURCE_CORPUS + '-' + '_'.join(self.targets)] = {
-            'BLEU': round(bleu_score, 2),
-            'SARI': round(sari_score, 2),
-        }
+        # result[SOURCE_CORPUS + '-' + '_'.join(self.targets)] = {
+        #      'BLEU': round(bleu_score, 2),
+        #     'SARI': round(sari_score, 2),
+        # }
         tgts = '_'.join(self.targets)
         df.to_csv(os.path.join(self.report_path, f'{self.source}-{tgts}_sent_report.csv'))
-        pd.DataFrame.from_dict(result, orient='index').to_csv(
-            os.path.join(self.report_path, f'corpus_report.csv'))
+        #pd.DataFrame.from_dict(result, orient='index').to_csv(
+         #   os.path.join(self.report_path, f'corpus_report.csv'))
 
     def run_pipeline(self):
 
