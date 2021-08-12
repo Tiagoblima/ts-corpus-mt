@@ -188,8 +188,8 @@ class Pipeline:
             'BLEU': round(bleu_score, 2),
             'SARI': round(sari_score, 2),
         }
-
-        df.to_csv(os.path.join(self.report_path, 'sent_report.csv'))
+        tgts = '_'.join(self.targets)
+        df.to_csv(os.path.join(self.report_path, f'{self.source}-{tgts}_sent_report.csv'))
         pd.DataFrame.from_dict(result, orient='index').to_csv(
             os.path.join(self.report_path, f'corpus_report.csv'))
 
