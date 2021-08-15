@@ -93,10 +93,10 @@ class Pipeline:
         tgt_val_path = os.path.join(self.exp_path, 'val', 'tgt-val.txt')
         src_val_path = os.path.join(self.exp_path, 'val', 'src-val.txt')
 
-        pd.DataFrame(map(str.strip, src_val_texts)).apply(
-            lambda sent: re.sub("\"\"", "", sent.strip("\"").strip("\n"))).to_csv(src_val_path, header=None, index=None, sep=' ', mode='w')
-        pd.DataFrame(map(str.strip, tgt_val_texts)).apply(
-            lambda sent: re.sub("\"\"", "", sent.strip("\"").strip("\n"))).to_csv(tgt_val_path, header=None, index=None, sep=' ', mode='w')
+        pd.DataFrame(src_val_texts).apply(
+            lambda sent: re.sub("\"\"", "", sent.strip("\"").strip().strip("\n"))).to_csv(src_val_path, header=None, index=None, sep=' ', mode='w')
+        pd.DataFrame(tgt_val_texts).apply(
+            lambda sent: re.sub("\"\"", "", sent.strip("\"").strip().strip("\n"))).to_csv(tgt_val_path, header=None, index=None, sep=' ', mode='w')
 
         src_val_path = os.path.join(DATASET_DIR, 'val', f'{self.source}-val.txt')
 
