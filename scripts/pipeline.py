@@ -71,6 +71,9 @@ class Pipeline:
         val_porp = [w / sum(self.cps_weights) for w in self.cps_weights]
         src_val_path = os.path.join(DATASET_DIR, 'val', f'{self.source}-val.txt')
         src_val_texts = open(src_val_path, encoding='utf8').readlines()
+        data_config = f"save_data: ../{self.exp_path}\n" \
+                      f"src_vocab: ../{self.exp_path}/vocab/dataset.vocab\n" \
+                      f"tgt_vocab: ../{self.exp_path}/vocab/dataset.vocab\n"
         for i, target in enumerate(self.targets):
             corpus_path = os.path.join(DATASET_DIR, 'train', f'corpus_{self.source}-{target}')
             tgt_val_path = os.path.join(DATASET_DIR, 'val', f'{target}-val.txt')
@@ -81,11 +84,11 @@ class Pipeline:
             source_path = os.path.join(corpus_path, f'{self.source}-train.txt')
             target_path = os.path.join(corpus_path, f'{target}-train.txt')
 
-            data_config = f"data:                            \n"\
-                          f"   corpus_{self.source}-{target}:\n" \
-                          f"           path_src: {source_path}\n" \
-                          f"           path_tgt: {target_path}\n" \
-                          f"           weights:  {self.cps_weights[i]}\n"
+            data_config += f"data:                            \n" \
+                           f"   corpus_{self.source}-{target}:\n" \
+                           f"           path_src: {source_path}\n" \
+                           f"           path_tgt: {target_path}\n" \
+                           f"           weights:  {self.cps_weights[i]}\n"
 
             self.config_file.write(data_config)
 
@@ -96,13 +99,10 @@ class Pipeline:
         pd.DataFrame(map(str.strip, tgt_val_texts)).to_csv(tgt_val_path, header=None, index=None, sep=' ', mode='w')
 
         src_val_path = os.path.join(DATASET_DIR, 'val', f'{self.source}-val.txt')
-        data_config = f"save_data: ../{self.exp_path}\n" \
-                       f"src_vocab: ../{self.exp_path}/vocab/dataset.vocab\n" \
-                       f"tgt_vocab: ../{self.exp_path}/vocab/dataset.vocab\n"
-        data_config += "   valid:\n" \
+
+        data_config = "   valid:\n" \
                       f"      path_src: {src_val_path}\n" \
                       f"      path_tgt: {tgt_val_path}\n"
-
 
         self.config_file.write(data_config)
 
@@ -192,7 +192,7 @@ class Pipeline:
         #      'BLEU': round(bleu_score, 2),
         #     'SARI': round(sari_score, 2),
         # }
-        if len(self.targets)==1:
+        if len(self.targets) == 1:
             tgts = '_'.join(self.targets)
         else:
             tgts = 'multicorpus'
