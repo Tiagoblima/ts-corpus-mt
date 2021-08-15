@@ -81,7 +81,8 @@ class Pipeline:
             source_path = os.path.join(corpus_path, f'{self.source}-train.txt')
             target_path = os.path.join(corpus_path, f'{target}-train.txt')
 
-            data_config = f"   corpus_{self.source}-{target}:\n" \
+            data_config = f"data:                            \n"\
+                          f"   corpus_{self.source}-{target}:\n" \
                           f"           path_src: {source_path}\n" \
                           f"           path_tgt: {target_path}\n" \
                           f"           weights:  {self.cps_weights[i]}\n"
@@ -100,8 +101,8 @@ class Pipeline:
                       f"      path_tgt: {tgt_val_path}\n"
 
         data_config += f"save_data: ../{self.exp_path}\n" \
-                       f"src_vocab: ../{self.exp_path}/vocab/dataset.vocab\n" \
-                       f"tgt_vocab: ../{self.exp_path}/datasets/vocab/dataset.vocab\n"
+                       f"src_vocab: ../{self.exp_path}/vocab/src.vocab\n" \
+                       f"tgt_vocab: ../{self.exp_path}/vocab/tgt.vocab\n"
         self.config_file.write(data_config)
 
     def add_embedding(self):
