@@ -144,7 +144,7 @@ class Pipeline:
         model_path = f'{self.exp_path}/run/model_step_{N_STEPS}.pt'
         test_file = f"{DATASET_DIR}/test/{self.source}-test.txt"
 
-        pred_file = os.path.join(self.pred_path, f"system-pred.txt")
+        pred_file = os.path.join(self.pred_path, f"{'_'.join(self.targets)}-pred.txt")
 
         translate_cmd = f'onmt_translate -model {model_path} -src {test_file} -output {pred_file} -verbose '
         if torch.cuda.is_available():
