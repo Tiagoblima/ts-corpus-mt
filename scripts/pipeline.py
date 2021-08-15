@@ -96,13 +96,14 @@ class Pipeline:
         pd.DataFrame(map(str.strip, tgt_val_texts)).to_csv(tgt_val_path, header=None, index=None, sep=' ', mode='w')
 
         src_val_path = os.path.join(DATASET_DIR, 'val', f'{self.source}-val.txt')
-        data_config = "   valid:\n" \
+        data_config = f"save_data: ../{self.exp_path}\n" \
+                       f"src_vocab: ../{self.exp_path}/vocab/dataset.vocab\n" \
+                       f"tgt_vocab: ../{self.exp_path}/vocab/dataset.vocab\n"
+        data_config += "   valid:\n" \
                       f"      path_src: {src_val_path}\n" \
                       f"      path_tgt: {tgt_val_path}\n"
 
-        data_config += f"save_data: ../{self.exp_path}\n" \
-                       f"src_vocab: ../{self.exp_path}/vocab/dataset.vocab\n" \
-                       f"tgt_vocab: ../{self.exp_path}/vocab/dataset.vocab\n"
+
         self.config_file.write(data_config)
 
     def add_embedding(self):
