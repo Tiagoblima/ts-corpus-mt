@@ -98,6 +98,10 @@ class Pipeline:
         data_config = "   valid:\n" \
                       f"      path_src: {src_val_path}\n" \
                       f"      path_tgt: {tgt_val_path}\n"
+
+        data_config += f"save_data: ../{self.exp_path}" \
+                       f"src_vocab: ../{self.exp_path}/vocab/dataset.vocab" \
+                       f"tgt_vocab: ../{self.exp_path}/datasets/vocab/dataset.vocab"
         self.config_file.write(data_config)
 
     def add_embedding(self):
@@ -150,8 +154,6 @@ class Pipeline:
 
         pred_file = os.path.join(self.pred_path, f"system-pred.txt")
 
-        result = {}
-
         preds = open(pred_file, encoding='utf-8').readlines()
 
         inputs = open(
@@ -172,7 +174,7 @@ class Pipeline:
 
         df = pd.DataFrame(result_dict)
 
-        #refs = df.loc[:, self.targets].to_numpy()
+        # refs = df.loc[:, self.targets].to_numpy()
 
         # def list_bleu(tup):
         #     return sentence_bleu(sys_sent=tup[0], ref_sents=tup[1])
@@ -190,8 +192,8 @@ class Pipeline:
         # }
         tgts = '_'.join(self.targets)
         df.to_csv(os.path.join(self.report_path, f'{self.source}-{tgts}_sent_report.csv'))
-        #pd.DataFrame.from_dict(result, orient='index').to_csv(
-         #   os.path.join(self.report_path, f'corpus_report.csv'))
+        # pd.DataFrame.from_dict(result, orient='index').to_csv(
+        #   os.path.join(self.report_path, f'corpus_report.csv'))
 
     def run_pipeline(self):
 

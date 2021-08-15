@@ -1,6 +1,3 @@
-save_data: ../datasets
-src_vocab: ../datasets\vocab/dataset.vocab
-tgt_vocab: ../datasets\vocab/dataset.vocab
 share_decoder_embeddings: true
 share_embeddings: true
 share_vocab: true
