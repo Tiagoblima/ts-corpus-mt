@@ -101,8 +101,8 @@ class Pipeline:
                       f"      path_tgt: {tgt_val_path}\n"
 
         data_config += f"save_data: ../{self.exp_path}\n" \
-                       f"src_vocab: ../{self.exp_path}/vocab/src.vocab\n" \
-                       f"tgt_vocab: ../{self.exp_path}/vocab/tgt.vocab\n"
+                       f"src_vocab: ../{self.exp_path}/vocab/dataset.vocab\n" \
+                       f"tgt_vocab: ../{self.exp_path}/vocab/dataset.vocab\n"
         self.config_file.write(data_config)
 
     def add_embedding(self):
