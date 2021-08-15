@@ -3,6 +3,7 @@ import datetime
 import os
 import re
 
+import numpy as np
 import pandas as pd
 import torch
 import wandb
@@ -93,10 +94,9 @@ class Pipeline:
         tgt_val_path = os.path.join(self.exp_path, 'val', 'tgt-val.txt')
         src_val_path = os.path.join(self.exp_path, 'val', 'src-val.txt')
 
-        pd.DataFrame(src_val_texts).apply(
-            lambda sent: re.sub("\"\"", "", sent.strip("\"").strip().strip("\n"))).to_csv(src_val_path, header=None, index=None, sep=' ', mode='w')
-        pd.DataFrame(tgt_val_texts).apply(
-            lambda sent: re.sub("\"\"", "", sent.strip("\"").strip().strip("\n"))).to_csv(tgt_val_path, header=None, index=None, sep=' ', mode='w')
+        np.savetxt(src_val_path, src_val_texts, fmt='%s', encoding='utf-8')
+
+        np.savetxt(tgt_val_path, tgt_val_texts, fmt='%s', encoding='utf-8')
 
         src_val_path = os.path.join(DATASET_DIR, 'val', f'{self.source}-val.txt')
 
