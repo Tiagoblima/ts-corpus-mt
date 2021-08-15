@@ -152,7 +152,7 @@ class Pipeline:
 
     def evaluate(self):
 
-        pred_file = os.path.join(self.pred_path, f"system-pred.txt")
+        pred_file = os.path.join(self.pred_path, f"{'_'.join(self.targets)}-pred.txt")
 
         preds = open(pred_file, encoding='utf-8').readlines()
 
@@ -190,8 +190,16 @@ class Pipeline:
         #      'BLEU': round(bleu_score, 2),
         #     'SARI': round(sari_score, 2),
         # }
-        tgts = '_'.join(self.targets)
-        df.to_csv(os.path.join(self.report_path, f'{self.source}-{tgts}_sent_report.csv'))
+        if len(self.targets)==1:
+            tgts = '_'.join(self.targets)
+        else:
+            tgts = 'multicorpus'
+
+        if args.embedding:
+            filename = f'{self.source}-{tgts}.{ENCODER}.embedding.csv'
+        else:
+            filename = f'{self.source}-{tgts}.{ENCODER}.csv'
+        df.to_csv(os.path.join(self.report_path, filename))
         # pd.DataFrame.from_dict(result, orient='index').to_csv(
         #   os.path.join(self.report_path, f'corpus_report.csv'))
 
