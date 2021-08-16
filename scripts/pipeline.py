@@ -208,9 +208,9 @@ class Pipeline:
     def run_pipeline(self):
 
         self.config_setup()
-        # self.train()
-        # self.translate()
-        # self.evaluate()
+        self.train()
+        self.translate()
+        self.evaluate()
 
 
 def main():
