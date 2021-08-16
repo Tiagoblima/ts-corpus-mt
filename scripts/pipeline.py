@@ -73,6 +73,7 @@ class Pipeline:
         data_config = f"save_data: ../{self.exp_path}\n" \
                       f"src_vocab: ../{self.exp_path}/vocab/dataset.vocab\n" \
                       f"tgt_vocab: ../{self.exp_path}/vocab/dataset.vocab\n"
+        data_config += f"data:                            \n"
         for i, target in enumerate(self.targets):
             corpus_path = os.path.join(DATASET_DIR, 'train', f'corpus_{self.source}-{target}')
             tgt_val_path = os.path.join(DATASET_DIR, 'val', f'{target}-val.txt')
@@ -83,8 +84,7 @@ class Pipeline:
             source_path = os.path.join(corpus_path, f'{self.source}-train.txt')
             target_path = os.path.join(corpus_path, f'{target}-train.txt')
 
-            data_config += f"data:                            \n" \
-                           f"   corpus_{self.source}-{target}:\n" \
+            data_config += f"   corpus_{self.source}-{target}:\n" \
                            f"           path_src: {source_path}\n" \
                            f"           path_tgt: {target_path}\n" \
                            f"           weights:  {self.cps_weights[i]}\n"
@@ -94,9 +94,9 @@ class Pipeline:
         tgt_val_path = os.path.join(self.exp_path, 'val', 'tgt-val.txt')
         src_val_path = os.path.join(self.exp_path, 'val', 'src-val.txt')
 
-        np.savetxt(src_val_path, src_val_texts, fmt='%s', encoding='utf-8')
+        np.savetxt(src_val_path, list(map(str.strip, src_val_texts)), fmt='%s', encoding='utf-8')
 
-        np.savetxt(tgt_val_path, tgt_val_texts, fmt='%s', encoding='utf-8')
+        np.savetxt(tgt_val_path, list(map(str.strip, tgt_val_texts)), fmt='%s', encoding='utf-8')
 
         src_val_path = os.path.join(DATASET_DIR, 'val', f'{self.source}-val.txt')
 
@@ -208,9 +208,9 @@ class Pipeline:
     def run_pipeline(self):
 
         self.config_setup()
-        self.train()
-        self.translate()
-        self.evaluate()
+        # self.train()
+        # self.translate()
+        # self.evaluate()
 
 
 def main():
