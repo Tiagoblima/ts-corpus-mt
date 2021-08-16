@@ -26,4 +26,4 @@ fi
 
 python pipeline.py --encoder $ENCODER  --epochs $N_STEPS
 
-wandb sync ../$ENCODER/runs/fit
+wandb sync $ENCODER/runs/fit
