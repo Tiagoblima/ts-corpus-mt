@@ -176,22 +176,6 @@ class Pipeline:
 
         df = pd.DataFrame(result_dict)
 
-        # refs = df.loc[:, self.targets].to_numpy()
-
-        # def list_bleu(tup):
-        #     return sentence_bleu(sys_sent=tup[0], ref_sents=tup[1])
-
-        # list_score = list(map(list_bleu, zip(preds, refs)))
-
-        # df['bleu_score'] = list_score
-        # refs = df.loc[:, self.targets].T.to_numpy()
-        # bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
-        # sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
-
-        # result[SOURCE_CORPUS + '-' + '_'.join(self.targets)] = {
-        #      'BLEU': round(bleu_score, 2),
-        #     'SARI': round(sari_score, 2),
-        # }
         if len(self.targets) == 1:
             tgts = '_'.join(self.targets)
         else:
