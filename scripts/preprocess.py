@@ -126,7 +126,7 @@ def save_test_files(df):
         for i, target in enumerate(TARGET_FILES):
 
             corpus_path = os.path.join(DATASET_ROOT,
-                                       'test')
+                                       'references')
             reference_path = os.path.join(corpus_path, 'references')
 
             try:
@@ -134,7 +134,7 @@ def save_test_files(df):
             except OSError:
                 pass
 
-            source_path = os.path.join(corpus_path, f'{source}-test.txt')
+            source_path = os.path.join(corpus_path, f'{source}-references.txt')
             source_text.to_csv(source_path, header=None, index=None, sep=' ', mode='w')
 
             target_text = df[target].apply(str.strip)

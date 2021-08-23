@@ -129,13 +129,13 @@ class Pipeline:
         )
 
         self.preds = self.seq2seq_model.predict(
-            open(os.path.join(DATASET_DIR, 'test', f'{SOURCE_CORPUS}-test.txt')).readlines())
+            open(os.path.join(DATASET_DIR, 'references', f'{SOURCE_CORPUS}-references.txt')).readlines())
 
         np.savetxt(os.path.join(self.pre_path, f'prediction.txt'), self.preds, fmt="%s")
 
     def evaluation(self):
         inputs = open(
-            os.path.join(DATASET_DIR, 'test', f'{SOURCE_CORPUS}-test.txt'),
+            os.path.join(DATASET_DIR, 'references', f'{SOURCE_CORPUS}-references.txt'),
             encoding='utf-8').readlines()
 
         result_dict = {
@@ -145,7 +145,7 @@ class Pipeline:
 
         for i, version in enumerate(self.target_cps):
             ref_file = f'reference_{version}'
-            target = open(os.path.join(DATASET_DIR, f'test/references', ref_file + '.txt'),
+            target = open(os.path.join(DATASET_DIR, f'references/references', ref_file + '.txt'),
                           encoding='utf8').readlines()
 
             result_dict[version] = target

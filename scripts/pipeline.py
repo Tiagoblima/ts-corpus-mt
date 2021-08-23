@@ -140,7 +140,7 @@ class Pipeline:
     def translate(self):
 
         model_path = f'{self.exp_path}/run/model_step_{N_STEPS}.pt'
-        test_file = f"{DATASET_DIR}/test/{self.source}-test.txt"
+        test_file = f"{DATASET_DIR}/references/{self.source}-references.txt"
 
         pred_file = os.path.join(self.pred_path, f"system-pred.txt")
 
@@ -158,7 +158,7 @@ class Pipeline:
         preds = open(pred_file, encoding='utf-8').readlines()
 
         inputs = open(
-            os.path.join(DATASET_DIR, 'test', f'{self.source}-test.txt'),
+            os.path.join(DATASET_DIR, 'references', f'{self.source}-references.txt'),
             encoding='utf-8').readlines()
 
         result_dict = {
@@ -168,7 +168,7 @@ class Pipeline:
 
         for i, version in enumerate(self.targets):
             ref_file = f'reference_{version}'
-            target = open(os.path.join(DATASET_DIR, f'test/references', ref_file+'.txt'),
+            target = open(os.path.join(DATASET_DIR, f'references/references', ref_file+'.txt'),
                           encoding='utf8').readlines()
 
             result_dict[version] = target
