@@ -6,6 +6,10 @@ cd indigenous-mt/scripts/ || echo "scripts/ Dir not found"
 pip install -r ../requirements.txt
 pip install wandb -qqq
 
+git clone https://github.com/OpenNMT/OpenNMT-py.git
+cd OpenNMT-py && pip install -e .
+cd ../
+
 git clone https://github.com/feralvam/easse.git
 cd easse || echo "no easse dir found"
 pip install .
@@ -22,4 +26,4 @@ fi
 
 python pipeline.py --encoder $ENCODER  --epochs $N_STEPS
 
-wandb sync ../$ENCODER/runs/fit
+wandb sync $ENCODER/runs/fit

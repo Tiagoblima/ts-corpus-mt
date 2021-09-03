@@ -1,13 +1,12 @@
 import argparse
+import datetime
 import os
-import uuid
+import re
 
 import numpy as np
 import pandas as pd
 import torch
 import wandb
-from easse.bleu import sentence_bleu, corpus_bleu
-from easse.sari import corpus_sari
 
 wandb.login(key="8e593ae9d0788bae2e0a84d07de0e76f5cf3dcf4")
 
@@ -53,7 +52,8 @@ class Pipeline:
         self.targets = targets
         self.source = source
         self.cps_weights = corpus_weights
-        self.exp_id = str(uuid.uuid4())[:4]
+        today = datetime.datetime.now()
+        self.exp_id = today.strftime("%d_%m_%Y_%H:%M:%S")
 
         self.exp_path = f'../exps/exp_{self.exp_id}'
         self.report_path = os.path.join(self.exp_path, 'reports')
@@ -70,6 +70,10 @@ class Pipeline:
         val_porp = [w / sum(self.cps_weights) for w in self.cps_weights]
         src_val_path = os.path.join(DATASET_DIR, 'val', f'{self.source}-val.txt')
         src_val_texts = open(src_val_path, encoding='utf8').readlines()
+        data_config = f"save_data: ../{self.exp_path}\n" \
+                      f"src_vocab: ../{self.exp_path}/vocab/dataset.vocab\n" \
+                      f"tgt_vocab: ../{self.exp_path}/vocab/dataset.vocab\n"
+        data_config += f"data:                            \n"
         for i, target in enumerate(self.targets):
             corpus_path = os.path.join(DATASET_DIR, 'train', f'corpus_{self.source}-{target}')
             tgt_val_path = os.path.join(DATASET_DIR, 'val', f'{target}-val.txt')
@@ -80,28 +84,27 @@ class Pipeline:
             source_path = os.path.join(corpus_path, f'{self.source}-train.txt')
             target_path = os.path.join(corpus_path, f'{target}-train.txt')
 
-            data_config = f"   corpus_{self.source}-{target}:\n" \
-                          f"           path_src: {source_path}\n" \
-                          f"           path_tgt: {target_path}\n" \
-                          f"           weights:  {self.cps_weights[i]}\n"
+            data_config += f"   corpus_{self.source}-{target}:\n" \
+                           f"           path_src: {source_path}\n" \
+                           f"           path_tgt: {target_path}\n" \
+                           f"           weights:  {self.cps_weights[i]}\n"
 
             self.config_file.write(data_config)
 
         tgt_val_path = os.path.join(self.exp_path, 'val', 'tgt-val.txt')
         src_val_path = os.path.join(self.exp_path, 'val', 'src-val.txt')
 
-        pd.DataFrame(map(str.strip, src_val_texts)).to_csv(src_val_path, header=None, index=None, sep=' ', mode='w')
-        pd.DataFrame(map(str.strip, tgt_val_texts)).to_csv(tgt_val_path, header=None, index=None, sep=' ', mode='w')
+        np.savetxt(src_val_path, list(map(str.strip, src_val_texts)), fmt='%s', encoding='utf-8')
+
+        np.savetxt(tgt_val_path, list(map(str.strip, tgt_val_texts)), fmt='%s', encoding='utf-8')
 
         src_val_path = os.path.join(DATASET_DIR, 'val', f'{self.source}-val.txt')
+
         data_config = "   valid:\n" \
                       f"      path_src: {src_val_path}\n" \
                       f"      path_tgt: {tgt_val_path}\n"
-        self.config_file.write(data_config)
 
-        self.config_file.write(f"save_data: {self.exp_path}\n")
-        self.config_file.write(f"src_vocab: {self.exp_path}/vocab/src.vocab\n")
-        self.config_file.write(f"tgt_vocab: {self.exp_path}/vocab/tgt.vocab\n")
+        self.config_file.write(data_config)
 
     def add_embedding(self):
         if args.embedding:
@@ -140,9 +143,9 @@ class Pipeline:
     def translate(self):
 
         model_path = f'{self.exp_path}/run/model_step_{N_STEPS}.pt'
-        test_file = f"{DATASET_DIR}/references/{self.source}-references.txt"
+        test_file = f"{DATASET_DIR}/test/{self.source}-test.txt"
 
-        pred_file = os.path.join(self.pred_path, f"system-pred.txt")
+        pred_file = os.path.join(self.pred_path, f"{'_'.join(self.targets)}-pred.txt")
 
         translate_cmd = f'onmt_translate -model {model_path} -src {test_file} -output {pred_file} -verbose '
         if torch.cuda.is_available():
@@ -151,14 +154,12 @@ class Pipeline:
 
     def evaluate(self):
 
-        pred_file = os.path.join(self.pred_path, f"system-pred.txt")
-
-        result = {}
+        pred_file = os.path.join(self.pred_path, f"{'_'.join(self.targets)}-pred.txt")
 
         preds = open(pred_file, encoding='utf-8').readlines()
 
         inputs = open(
-            os.path.join(DATASET_DIR, 'references', f'{self.source}-references.txt'),
+            os.path.join(DATASET_DIR, 'test', f'{self.source}-test.txt'),
             encoding='utf-8').readlines()
 
         result_dict = {
@@ -168,33 +169,25 @@ class Pipeline:
 
         for i, version in enumerate(self.targets):
             ref_file = f'reference_{version}'
-            target = open(os.path.join(DATASET_DIR, f'references/references', ref_file+'.txt'),
+            target = open(os.path.join(DATASET_DIR, f'test/references', ref_file + '.txt'),
                           encoding='utf8').readlines()
 
             result_dict[version] = target
 
         df = pd.DataFrame(result_dict)
 
-        refs = df.loc[:, self.targets].to_numpy()
+        if len(self.targets) == 1:
+            tgts = '_'.join(self.targets)
+        else:
+            tgts = 'multicorpus'
 
-        def list_bleu(tup):
-            return sentence_bleu(sys_sent=tup[0], ref_sents=tup[1])
-
-        list_score = list(map(list_bleu, zip(preds, refs)))
-
-        df['bleu_score'] = list_score
-        refs = df.loc[:, self.targets].T.to_numpy()
-        bleu_score = corpus_bleu(refs_sents=refs, sys_sents=preds)
-        sari_score = corpus_sari(orig_sents=inputs, refs_sents=refs, sys_sents=preds)
-
-        result[SOURCE_CORPUS + '-'+'_'.join(self.targets)] = {
-            'BLEU': round(bleu_score, 2),
-            'SARI': round(sari_score, 2),
-        }
-
-        df.to_csv(os.path.join(self.report_path, 'sent_report.csv'))
-        pd.DataFrame.from_dict(result, orient='index').to_csv(
-            os.path.join(self.report_path, f'corpus_report.csv'))
+        if args.embedding:
+            filename = f'{self.source}-{tgts}.{ENCODER}.embedding.csv'
+        else:
+            filename = f'{self.source}-{tgts}.{ENCODER}.csv'
+        df.to_csv(os.path.join(self.report_path, filename))
+        # pd.DataFrame.from_dict(result, orient='index').to_csv(
+        #   os.path.join(self.report_path, f'corpus_report.csv'))
 
     def run_pipeline(self):
 

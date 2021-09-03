@@ -28,7 +28,7 @@ if not args.src_corpus:
 else:
     SOURCE_FILES = [args.src_corpus]
 
-DATAFRAME_FILE = '../ARC_NAA_NBV_NLTH_NVI_aligned.csv'
+DATAFRAME_FILE = '../aligned_dataframe.csv'
 
 dataset = pd.read_csv(DATAFRAME_FILE).dropna()
 train_df, eval_test_df = train_test_split(dataset, test_size=0.40)
@@ -66,7 +66,7 @@ config_file.write(source_path + "\n")
 tgt_path = f"tgt_vocab: " + os.path.join(DATASET_ROOT, f"vocab/dataset.vocab")
 config_file.write(tgt_path + "\n")
 
-config_file.write("share_decoder_embeddings: true\nshare_embeddings: true\nshare_vocab: true")
+config_file.write("share_decoder_embeddings: true\nshare_embeddings: true\nshare_vocab: true\n")
 
 
 def save_train_files(df):

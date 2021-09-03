@@ -14,12 +14,12 @@ from easse.bleu import sentence_bleu, corpus_bleu
 from easse.sari import corpus_sari
 
 DATASET_DIR = '../datasets'
-MODEL_DIR = '../bert'
+MODEL_DIR = '../notebooks'
 
 logging.basicConfig(level=logging.INFO)
 transformers_logger = logging.getLogger("transformers")
 transformers_logger.setLevel(logging.WARNING)
-encoder_type = "bert"
+encoder_type = "notebooks"
 
 wandb.login(key="8e593ae9d0788bae2e0a84d07de0e76f5cf3dcf4")
 
@@ -40,17 +40,17 @@ class Pipeline:
         self.target_cps = tgt_corpus
         self.source_cps = source_cps
 
-        with open(os.path.join(MODEL_DIR, 'bert.config.json')) as json_file:
+        with open(os.path.join(MODEL_DIR, 'notebooks.config.json')) as json_file:
             model_args = json.load(json_file)
 
         model_args['wandb_project'] = "ts-mt"
         seq2seq_epochs = model_args['num_train_epochs']
         # fine_tunig epochs
         model_args['num_train_epochs'] = 3
-        self.bert_model = LanguageModelingModel("bert", "neuralmind/bert-base-portuguese-cased", args=model_args)
+        self.bert_model = LanguageModelingModel("notebooks", "neuralmind/notebooks-base-portuguese-cased", args=model_args)
         model_args['num_train_epochs'] = seq2seq_epochs
         self.model_args = model_args
-        self.train_dir = '../bert/'
+        self.train_dir = '../notebooks/'
         self.pre_path = os.path.join(self.train_dir, 'prediction', SOURCE_CORPUS + '-' + '_'.join(self.target_cps))
         try:
             os.makedirs(self.pre_path)
@@ -106,7 +106,7 @@ class Pipeline:
     def train_seq2seq(self):
 
         self.seq2seq_model = Seq2SeqModel(
-            "bert",
+            "notebooks",
             "outputs",
             "outputs",
             args=self.model_args,
@@ -121,7 +121,7 @@ class Pipeline:
     def translate(self):
 
         self.seq2seq_model = Seq2SeqModel(
-            "bert",
+            "notebooks",
             "outputs/encoder",
             "outputs/decoder",
             args=self.model_args,
